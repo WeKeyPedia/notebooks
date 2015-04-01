@@ -2,13 +2,15 @@
 
 Labnotes about data exploration and visualization of wikipedia pages corpora.
 
-## datasets
+## about the datasets
 
 All the initial content and the produced datasets are stored as `csv` and `gexf` are stored in the [`data`](https://github.com/WeKeyPedia/notebooks/tree/master/geometry/data) folder of each topic folders.
 
 ## list of geometry topics
 
 This analysis is about the set of pages imported from the wikipedia [List of geometry topics](http://nbviewer.ipython.org/github/WeKeyPedia/notebooks/blob/master/geometry/time%20series.ipynb) page. All the muscle for data retrieval work has been provided using the [`wekeypedia/python-toolkit/analysis-data-retrieval.py`](https://github.com/WeKeyPedia/toolkit-python/blob/master/analysis-data.py) macro.
+
+### dataset content
 
 - pages: 303
 - editors: 15857
