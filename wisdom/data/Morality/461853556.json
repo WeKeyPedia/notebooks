@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Further reading */",
+  "timestamp": "2011-11-22T00:02:17Z",
+  "revid": 461853556,
+  "anon": "",
+  "user": "174.91.200.52",
+  "parentid": 461691870,
+  "diff": {
+    "to": 461853556,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 159:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 159:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Brown, Paterson. [http://www.metalog.org/files/tpb/reply.html \"Religious Morality: a Reply to Flew and Campbell\"], ''Mind'', 1964.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Brown, Paterson. [http://www.metalog.org/files/tpb/reply.html \"Religious Morality: a Reply to Flew and Campbell\"], ''Mind'', 1964.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Brown, Paterson. [http://www.metalog.org/files/tpb/god.g.html \"God and the Good\"], ''[[Religious Studies (journal)|Religious studies]]'', 1967.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Brown, Paterson. [http://www.metalog.org/files/tpb/god.g.html \"God and the Good\"], ''[[Religious Studies (journal)|Religious studies]]'', 1967.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* Churchland. Patricia Smith. ''[http://www.themontrealreview.com/2009/What-neuroscience-tells-us-about-morality.php Braintrust: What Neuroscience Tells Us about Morality]'', Princeton University Press, 2011. ISBN 0-6911-3703-X (Reviewed in [http://www.themontrealreview.com/2009/What-neuroscience-tells-us-about-morality.php The Montreal Review])</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:461691870:newid:461853556 -->\n",
+    "from": 461691870
+  }
+}

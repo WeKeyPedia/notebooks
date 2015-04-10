@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2003-09-17T22:08:14Z",
+  "revid": 1472348,
+  "anon": "",
+  "user": "219.89.100.245",
+  "parentid": 1446022,
+  "diff": {
+    "to": 1472348,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 133:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 133:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Is ethics futile?==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Is ethics futile?==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The whole assumption of the field of ethics is that consistent description, consistent deliberation, and consistent and [[fairness|fair]] application of authority is possible.  However, the more case-based views seem to suggest that a great deal of judgement is required, and that for instance one could never train a [[robot]] to do ethics, as it requires [[empathy]] and [[wisdom]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The whole assumption of the field of ethics is that consistent description, consistent deliberation, and consistent and [[fairness|fair]] application of authority is possible.  However, the more case-based views seem to suggest that a great deal of judgement is required, and that for instance one could never train a [[robot]] to do ethics, as it requires [[empathy]] and [[wisdom]]<ins class=\"diffchange diffchange-inline\">. However, one might be able to teach an [[artificial intelligence]] with [[empathy]] and [[wisdom]] to do ethics</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Is each case unique?  Possibly.  The view that ethics is innate and tied to a personal [[moral core]] or [[aesthetics]] is harder to relate to the formal categories above other than as a meta-ethics in itself.  </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Is each case unique?  Possibly.  The view that ethics is innate and tied to a personal [[moral core]] or [[aesthetics]] is harder to relate to the formal categories above other than as a meta-ethics in itself.  </div></td>\n</tr>\n",
+    "from": 1446022
+  }
+}

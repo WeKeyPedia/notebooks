@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Modern ethics */",
+  "timestamp": "2012-01-12T17:58:14Z",
+  "revid": 471001127,
+  "anon": "",
+  "user": "199.212.252.130",
+  "parentid": 470993783,
+  "diff": {
+    "to": 471001127,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 63:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 63:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Modern ethics===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Modern ethics===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In the [[modern philosophy|modern]] era, ethical theories were generally divided between the consequentialist theories of utilitarian philosophers such as [[Jeremy Bentham]] and [[John Stuart Mill]], and [[deontological ethics]] as epitomized by the work of [[Immanuel Kant]]. This is also the era associated with the origin of [[pragmatic ethics]], especially in the work of [[John Dewey]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In the [[modern philosophy|modern]] era, ethical theories were generally divided between the consequentialist theories of utilitarian philosophers such as [[Jeremy Bentham]] and [[John Stuart Mill]]<ins class=\"diffchange diffchange-inline\"> as well as brian Orend</ins>, and [[deontological ethics]] as epitomized by the work of [[Immanuel Kant]]. This is also the era associated with the origin of [[pragmatic ethics]], especially in the work of [[John Dewey]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Modern consequentialism====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Modern consequentialism====</div></td>\n</tr>\n",
+    "from": 470993783
+  }
+}

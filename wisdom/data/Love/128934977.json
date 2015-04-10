@@ -1,0 +1,12 @@
+﻿{
+  "comment": "[[WP:UNDO|Undid]] revision 128934810 by [[Special:Contributions/Tonyrenploki|Tonyrenploki]] ([[User talk:Tonyrenploki|talk]])",
+  "timestamp": "2007-05-07T13:53:35Z",
+  "revid": 128934977,
+  "user": "ElinorD",
+  "parentid": 128934810,
+  "diff": {
+    "to": 128934977,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 89:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 89:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The [[Bhagavad Gita]], a Hindu scripture, helps devotees to see that love conquers all. It says, \"Sattva—pure, luminous, and free from sorrow—binds us to happiness and wisdom\" (Number 6). [[Sattva]], translated as purity, helps one to see that love evolves from selflessness.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The [[Bhagavad Gita]], a Hindu scripture, helps devotees to see that love conquers all. It says, \"Sattva—pure, luminous, and free from sorrow—binds us to happiness and wisdom\" (Number 6). [[Sattva]], translated as purity, helps one to see that love evolves from selflessness.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In modern society, Bellamy is desperate for a mate aka Veronica.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n</tr>\n",
+    "from": 128934810
+  }
+}

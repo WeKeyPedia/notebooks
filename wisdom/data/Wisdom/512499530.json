@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2012-09-14T21:56:25Z",
+  "revid": 512499530,
+  "user": "Sethemanuel",
+  "parentid": 512318269,
+  "diff": {
+    "to": 512499530,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 243:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 243:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ja:知恵]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ja:知恵]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Mądrość]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Mądrość]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[pt:Sabedoria]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pt:Sapiência]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pt:Sapiência]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ro:Înțelepciune]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ro:Înțelepciune]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:512318269:newid:512499530 -->\n",
+    "from": 512318269
+  }
+}

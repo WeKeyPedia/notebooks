@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2012-03-14T05:48:49Z",
+  "revid": 481803527,
+  "user": "Jarble",
+  "parentid": 481639588,
+  "diff": {
+    "to": 481803527,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major areas of study in ethics include:&lt;ref&gt;http://www.iep.utm.edu/ethics/&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major areas of study in ethics include:&lt;ref&gt;http://www.iep.utm.edu/ethics/&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Meta-ethics]], about the theoretical meaning and reference of moral propositions and how their [[truth value]]s (if any) may be determined;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Meta-ethics]], about the theoretical meaning and reference of <ins class=\"diffchange diffchange-inline\">[[</ins>moral<ins class=\"diffchange diffchange-inline\">]]</ins> propositions and how their [[truth value]]s (if any) may be determined;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Normative ethics]], about the practical means of determining a moral course of action;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Normative ethics]], about the practical means of determining a moral course of action;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Applied ethics]], about how moral outcomes can be achieved in specific situations;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Applied ethics]], about how moral outcomes can be achieved in specific situations;</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:481639588:newid:481803527 -->\n",
+    "from": 481639588
+  }
+}

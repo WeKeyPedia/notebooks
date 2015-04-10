@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-04-11T20:27:32Z",
+  "revid": 3151097,
+  "anon": "",
+  "user": "172.166.219.34",
+  "parentid": 3151029,
+  "diff": {
+    "to": 3151097,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 131:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 131:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Someone took the stereo out of my car.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Someone took the stereo out of my car.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Simpson was acquitted at his trial.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Simpson was acquitted at his trial.\"</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* \"Honesty is a virtue.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Ethics by cases==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Ethics by cases==</div></td>\n</tr>\n",
+    "from": 3151029
+  }
+}

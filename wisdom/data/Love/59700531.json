@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/Pop2009|Pop2009]] ([[User talk:Pop2009|talk]]) to last version by Sadi Carnot",
+  "timestamp": "2006-06-20T22:04:55Z",
+  "revid": 59700531,
+  "user": "PinchasC",
+  "parentid": 59699790,
+  "diff": {
+    "to": 59700531,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 109:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 109:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[http://mundaneblacksociety.blogspot.com/ Love]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:59699790:newid:59700531 -->\n",
+    "from": 59699790
+  },
+  "minor": ""
+}

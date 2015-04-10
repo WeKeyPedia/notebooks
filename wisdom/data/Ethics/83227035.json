@@ -1,0 +1,13 @@
+﻿{
+  "comment": "removal of offensive word",
+  "timestamp": "2006-10-23T16:09:07Z",
+  "revid": 83227035,
+  "anon": "",
+  "user": "195.171.157.114",
+  "parentid": 83220717,
+  "diff": {
+    "to": 83227035,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A claim of \"meta-ethics\" is that ethical positions cannot have absolutes unless there is a stated and agreed opinion about the goal of the ethical standards within the community that claims ethical absolutes.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A claim of \"meta-ethics\" is that ethical positions cannot have absolutes unless there is a stated and agreed opinion about the goal of the ethical standards within the community that claims ethical absolutes.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">PENIS!!!!!!</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religion and meta-ethics===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religion and meta-ethics===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:83220717:newid:83227035 -->\n",
+    "from": 83220717
+  }
+}

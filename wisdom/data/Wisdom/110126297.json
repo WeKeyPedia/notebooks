@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Additions To The Scientific Perspective Of Wisdom",
+  "timestamp": "2007-02-22T19:06:05Z",
+  "revid": 110126297,
+  "user": "Stevenson-Perez",
+  "parentid": 110125832,
+  "diff": {
+    "to": 110126297,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 75:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 75:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>•\t''''''‘Scientific-'''Knowledge'''’''''''.   </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>•\t''''''‘Scientific-'''Knowledge'''’''''''.   </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>At the same time, it is becoming increasingly clear, in our increasingly-interconnected science and technology-oriented planet, that '''‘Scientific-Wisdom’''' is the next logical and required step in the DIKW-based scientific learning pathway:  Moreover, ‘Scientific-Wisdom’ is becoming increasingly recognized as representing a refined level of scientific understanding.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>At the same time, it is becoming increasingly clear, in our increasingly-interconnected science and technology-oriented planet, that '''‘Scientific-Wisdom’''' is the next logical and required step in the DIKW-based scientific learning pathway:  Moreover, ‘Scientific-Wisdom’ is becoming increasingly recognized as representing a refined<ins class=\"diffchange diffchange-inline\"> and more-valuable</ins> level of scientific understanding.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 110125832
+  },
+  "minor": ""
+}

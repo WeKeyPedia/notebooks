@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Personal Code of Ethical */",
+  "timestamp": "2014-02-13T01:07:24Z",
+  "revid": 595226999,
+  "user": "Itamarkalimi",
+  "parentid": 595226858,
+  "diff": {
+    "to": 595226999,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 269:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 269:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/br&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/br&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Have [[Honesty]] and [[Integrity]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Have [[Honesty]] and [[Integrity]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>&lt;/br&gt;</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Stay behind your agreement.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/br&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/br&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Pay on time according your agreement.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Pay on time according your agreement.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:595226858:newid:595226999 -->\n",
+    "from": 595226858
+  }
+}

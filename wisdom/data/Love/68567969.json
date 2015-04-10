@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Definitional issues */",
+  "timestamp": "2006-08-09T08:02:06Z",
+  "revid": 68567969,
+  "anon": "",
+  "user": "82.206.143.59",
+  "parentid": 68552925,
+  "diff": {
+    "to": 68567969,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 57:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 57:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[family]]''' - people related via common ancestry.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[family]]''' - people related via common ancestry.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[Psychological bond|bond]]''' - the inner connection when another person is a part of your identity.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[Psychological bond|bond]]''' - the inner connection when another person is a part of your identity.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Thomas Jay Oord]] defines love as acting intentionally, in sympathetic response to others (including God), to promote overall well-being.  Oord means for his definition to be adequate for religion, philosophy, and the sciences.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n",
+    "from": 68552925
+  }
+}

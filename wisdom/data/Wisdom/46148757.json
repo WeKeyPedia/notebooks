@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* See also */",
+  "timestamp": "2006-03-30T10:32:37Z",
+  "revid": 46148757,
+  "user": "Ems2",
+  "parentid": 46148664,
+  "diff": {
+    "to": 46148757,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 29:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 29:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[<del class=\"diffchange diffchange-inline\">Perkie</del> Avot]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[<ins class=\"diffchange diffchange-inline\">Pirkei</ins> Avot]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Virtue]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Virtue]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Streetwise]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Streetwise]]</div></td>\n</tr>\n",
+    "from": 46148664
+  }
+}

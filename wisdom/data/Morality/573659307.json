@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2013-09-19T15:55:14Z",
+  "revid": 573659307,
+  "user": "Jarble",
+  "parentid": 573018530,
+  "diff": {
+    "to": 573659307,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{lead too short|date=June 2012}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{lead too short|date=June 2012}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{for|the 2009 novella by Stephen King|Morality (novella)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{for|the 2009 novella by Stephen King|Morality (novella)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{<del class=\"diffchange diffchange-inline\">redirect</del>|Appropriate|the rating of activities and media according to age groups|age-appropriate|other uses|Appropriation (disambiguation)}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{<ins class=\"diffchange diffchange-inline\">redirect2</ins>|Appropriate<ins class=\"diffchange diffchange-inline\">|inappropriate</ins>|the rating of activities and media according to age groups|age-appropriate|other uses|Appropriation (disambiguation)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect2|Immoralist|Impropriety|the novel by André Gide|The Immoralist|the improvised performance company|Impropriety (company)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect2|Immoralist|Impropriety|the novel by André Gide|The Immoralist|the improvised performance company|Impropriety (company)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Distinguish|Mortality (disambiguation){{!}}Mortality}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Distinguish|Mortality (disambiguation){{!}}Mortality}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:573018530:newid:573659307 -->\n",
+    "from": 573018530
+  }
+}

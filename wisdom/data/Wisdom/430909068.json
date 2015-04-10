@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2011-05-25T21:03:40Z",
+  "revid": 430909068,
+  "user": "Artsurfsoul",
+  "parentid": 430901696,
+  "diff": {
+    "to": 430909068,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[File:W. (wisdom).png|thumb|A <del class=\"diffchange diffchange-inline\">graphical</del> personification of Wisdom]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[File:W. (wisdom).png|thumb|<ins class=\"diffchange diffchange-inline\">2011. </ins>A <ins class=\"diffchange diffchange-inline\">graphic</ins> personification of Wisdom<ins class=\"diffchange diffchange-inline\"> </ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Efez Celsus Library 3 RB.jpg|thumb|200px|[[Personification]] of wisdom (in [[Greek language|Greek]], \"''Σοφία''\" or \"''[[Sophia (wisdom)|Sophia]]''\") at the [[Celsus Library]] in [[Ephesus]], [[Turkey]].]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Efez Celsus Library 3 RB.jpg|thumb|200px|[[Personification]] of wisdom (in [[Greek language|Greek]], \"''Σοφία''\" or \"''[[Sophia (wisdom)|Sophia]]''\") at the [[Celsus Library]] in [[Ephesus]], [[Turkey]].]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:430901696:newid:430909068 -->\n",
+    "from": 430901696
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Revert to revision 67255844 dated 2006-08-02 15:51:53 by Pifactorial using [[:en:Wikipedia:Tools/Navigation_popups|popups]]",
+  "timestamp": "2006-08-02T17:59:25Z",
+  "revid": 67276929,
+  "user": "Gogo Dodo",
+  "parentid": 67275671,
+  "diff": {
+    "to": 67276929,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 138:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 138:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">*[http://www.noblesayings.com/love1.htm, A Collection of thousands of Love Quotations]</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.how-to-kiss.us Kissing, Dating, Love and Marriage]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.how-to-kiss.us Kissing, Dating, Love and Marriage]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.true-love-relationship-advice.com/true-love.html True Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.true-love-relationship-advice.com/true-love.html True Love]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:67275671:newid:67276929 -->\n",
+    "from": 67275671
+  }
+}

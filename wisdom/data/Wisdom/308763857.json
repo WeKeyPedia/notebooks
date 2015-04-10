@@ -1,0 +1,13 @@
+﻿{
+  "comment": "[[WP:UNDO|Undid]] revision 308637278 by [[Special:Contributions/220.255.82.59|220.255.82.59]] ([[User talk:220.255.82.59|talk]])",
+  "timestamp": "2009-08-18T21:37:23Z",
+  "revid": 308763857,
+  "anon": "",
+  "user": "165.89.84.86",
+  "parentid": 308637278,
+  "diff": {
+    "to": 308763857,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 30:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 30:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Others ask wise people for advice.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Others ask wise people for advice.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* A wise person's actions are consistent with his/her ethical beliefs. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* A wise person's actions are consistent with his/her ethical beliefs. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* A wise person is Paul and not sze li</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Measurement instruments that use these criteria have acceptable to good [[internal consistency]] and low [[test-retest]] [[Reliability (statistics)|reliability]] (''[[Pearson product-moment correlation coefficient|r]]'' in the range of 0.35 to 0.67).&lt;ref name=\"CSVperspective\"&gt;{{cite book</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Measurement instruments that use these criteria have acceptable to good [[internal consistency]] and low [[test-retest]] [[Reliability (statistics)|reliability]] (''[[Pearson product-moment correlation coefficient|r]]'' in the range of 0.35 to 0.67).&lt;ref name=\"CSVperspective\"&gt;{{cite book</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | last = Harter</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | last = Harter</div></td>\n</tr>\n",
+    "from": 308637278
+  }
+}

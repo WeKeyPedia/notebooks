@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Taoism */",
+  "timestamp": "2013-04-07T00:26:21Z",
+  "revid": 549076015,
+  "user": "JointHarmony",
+  "parentid": 549074816,
+  "diff": {
+    "to": 549076015,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 111:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 111:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>::mastering yourself is true power.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>::mastering yourself is true power.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>([[Tao Te Ching]], 33, tr. S. Mitchell)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>([[Tao Te Ching]], 33, tr. S. Mitchell)</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The Chinese character for Tao is 道：</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>:辶+首=道 (dao) walking feet on bottom head on top, two lines on top of head represent yin yang the line beneath is one represent taichi below is the self (自), depicting with the arising of this comes the arising of that, 道 is in motion with your feet, right in front of your face, the practice of just being a normal human or true human in ordinary life, it means road, channel, the way.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Hinduism===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Hinduism===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:549074816:newid:549076015 -->\n",
+    "from": 549074816
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "BOT--Reverting link addition(s) by [[:en:Special:Contributions/137.222.26.131|137.222.26.131]] to revision 359516476 (http://atheistprinciples.tripod.com/discussions.htm)",
+  "timestamp": "2010-05-04T14:03:06Z",
+  "revid": 360069468,
+  "user": "XLinkBot",
+  "parentid": 360065693,
+  "diff": {
+    "to": 360069468,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 158:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 158:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.worldmoralmovement.org Wiki site for discussing and taking action on shared morals (WorldMoralMovement.org)]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.worldmoralmovement.org Wiki site for discussing and taking action on shared morals (WorldMoralMovement.org)]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html?ei=5090&amp;en=23ff00b4cd4b1e91&amp;ex=1357880400&amp;partner=rssuserland&amp;emc=rss&amp;pagewanted=print Stephen Pinker on the Psychology and Evolutionary Biology of Morality]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html?ei=5090&amp;en=23ff00b4cd4b1e91&amp;ex=1357880400&amp;partner=rssuserland&amp;emc=rss&amp;pagewanted=print Stephen Pinker on the Psychology and Evolutionary Biology of Morality]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://atheistprinciples.tripod.com/discussions.htm \"Morality as a dialectical process\" at AtheistPrinciples]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy topics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy topics}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:360065693:newid:360069468 -->\n",
+    "from": 360065693
+  }
+}

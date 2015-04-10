@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2003-09-15T05:37:12Z",
+  "revid": 1435467,
+  "anon": "",
+  "user": "68.53.155.55",
+  "parentid": 1435465,
+  "diff": {
+    "to": 1435467,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 46:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 46:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>----</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>----</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Love''' is also the name given to the score of 0 points in [[tennis]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Love''' is also the name given to the score of 0 points in [[tennis]]<ins class=\"diffchange diffchange-inline\">.  This is because the zero resembles an egg, the French word for which is &lt;i&gt;l'oeuf&lt;/i&gt;</ins>.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:1435465:newid:1435467 -->\n",
+    "from": 1435465
+  }
+}

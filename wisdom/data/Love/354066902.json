@@ -1,0 +1,13 @@
+﻿{
+  "comment": "+ be",
+  "timestamp": "2010-04-05T08:40:55Z",
+  "revid": 354066902,
+  "user": "Hard Sin",
+  "parentid": 353213157,
+  "diff": {
+    "to": 354066902,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 247:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 247:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[az:Sevgi]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[az:Sevgi]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bn:ভালোবাসা]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bn:ভালোবাসা]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[be:Каханне]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[be-x-old:Любоў]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[be-x-old:Любоў]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bo:བརྩེ་དུང་།]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bo:བརྩེ་དུང་།]]</div></td>\n</tr>\n",
+    "from": 353213157
+  },
+  "minor": ""
+}

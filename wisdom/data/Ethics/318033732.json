@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */",
+  "timestamp": "2009-10-05T12:40:26Z",
+  "revid": 318033732,
+  "anon": "",
+  "user": "92.243.160.150",
+  "parentid": 317388975,
+  "diff": {
+    "to": 318033732,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 124:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 124:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Altruism (ethics)]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Altruism (ethics)]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Bioethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Bioethics]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Buddhist_Ethics_(discipline)]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Business ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Business ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Deontological ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Deontological ethics]]</div></td>\n</tr>\n",
+    "from": 317388975
+  }
+}

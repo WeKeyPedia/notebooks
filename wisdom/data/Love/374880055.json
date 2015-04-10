@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */Date maintenance tags and general fixes: build 435:",
+  "timestamp": "2010-07-22T17:00:19Z",
+  "revid": 374880055,
+  "user": "SmackBot",
+  "parentid": 374491289,
+  "diff": {
+    "to": 374880055,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 239:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 239:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wiktionary|love}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wiktionary|love}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{<del class=\"diffchange diffchange-inline\">wikiquote</del>}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{<ins class=\"diffchange diffchange-inline\">Wikiquote</ins>}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wiktionary|I love you}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wiktionary|I love you}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://iserver.saddleback.cc.ca.us/faculty/jfritsen/articles.html The Science of Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://iserver.saddleback.cc.ca.us/faculty/jfritsen/articles.html The Science of Love]</div></td>\n</tr>\n",
+    "from": 374491289
+  },
+  "minor": ""
+}

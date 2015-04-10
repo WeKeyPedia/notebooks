@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/Iloveyou11|Iloveyou11]] ([[User talk:Iloveyou11|talk]]) to last version by Irishguy",
+  "timestamp": "2006-11-19T23:47:41Z",
+  "revid": 88901490,
+  "user": "Musical Linguist",
+  "parentid": 88900954,
+  "diff": {
+    "to": 88901490,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 135:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 135:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;references /&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;references /&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/div&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/div&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>love is amazing!&lt;!-- hahahahaha this is FUN --&gt;</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:88900954:newid:88901490 -->\n",
+    "from": 88900954
+  },
+  "minor": ""
+}

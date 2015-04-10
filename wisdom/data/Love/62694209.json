@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/66.41.146.214|66.41.146.214]] ([[User talk:66.41.146.214|talk]]) to last version by Sadi Carnot",
+  "timestamp": "2006-07-08T07:52:32Z",
+  "revid": 62694209,
+  "user": "Musical Linguist",
+  "parentid": 62694160,
+  "diff": {
+    "to": 62694209,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 49:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 49:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some people tend to view love as a simple chemical reaction.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some people tend to view love as a simple chemical reaction.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">Love is all you need.</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- This needs references or a fuller explanation --&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- This needs references or a fuller explanation --&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- See \"Biological Model of Sex\" --&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- See \"Biological Model of Sex\" --&gt;</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:62694160:newid:62694209 -->\n",
+    "from": 62694160
+  },
+  "minor": ""
+}

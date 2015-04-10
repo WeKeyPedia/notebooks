@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Love styles */",
+  "timestamp": "2005-11-28T20:07:12Z",
+  "revid": 29515058,
+  "anon": "",
+  "user": "204.194.77.3",
+  "parentid": 29409890,
+  "diff": {
+    "to": 29515058,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 89:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 89:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Hendrick and Hendrick found men tend to be more ludic and manic, whereas women tend to be storgic and pragmatic. Relationships based on similar love styles were found to last longer.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Hendrick and Hendrick found men tend to be more ludic and manic, whereas women tend to be storgic and pragmatic. Relationships based on similar love styles were found to last longer.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>A fast analysis of this section shows that the use of the triangular theory of love noted above applies well if Ludus and Mania are intimacy plus passion and passion plus commitment respectively.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Phases===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Phases===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:29409890:newid:29515058 -->\n",
+    "from": 29409890
+  }
+}

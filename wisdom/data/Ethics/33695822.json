@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-01-03T05:54:05Z",
+  "revid": 33695822,
+  "anon": "",
+  "user": "66.196.23.31",
+  "parentid": 33604340,
+  "diff": {
+    "to": 33695822,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 202:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 202:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/broad/ftet/ftet.html C. D. Broad, ''Five Types of Ethical Theory'' (New York: Harcourt, Brace and Co., 1930).]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/broad/ftet/ftet.html C. D. Broad, ''Five Types of Ethical Theory'' (New York: Harcourt, Brace and Co., 1930).]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/ross/right.html W. D. Ross, ''The Right and the Good'' (1930)]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/ross/right.html W. D. Ross, ''The Right and the Good'' (1930)]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.globalpublic.org Ethics &amp; Democracy]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.galilean-library.org/int11.html An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.galilean-library.org/int11.html An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Stanford Encyclopedia of Philosophy</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Stanford Encyclopedia of Philosophy</div></td>\n</tr>\n",
+    "from": 33604340
+  }
+}

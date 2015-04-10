@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-04-25T07:46:38Z",
+  "revid": 50052523,
+  "user": "AaronMyung",
+  "parentid": 50052482,
+  "diff": {
+    "to": 50052523,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Love is <del class=\"diffchange diffchange-inline\">poopoo.</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Love is <ins class=\"diffchange diffchange-inline\">pure bullshit</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The End.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The End.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:50052482:newid:50052523 -->\n",
+    "from": 50052482
+  }
+}

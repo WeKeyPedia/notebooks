@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Religious views */",
+  "timestamp": "2006-10-03T23:38:57Z",
+  "revid": 79352788,
+  "anon": "",
+  "user": "68.91.128.92",
+  "parentid": 79352483,
+  "diff": {
+    "to": 79352788,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 65:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 65:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Romantic love is also present in the Bible, particularly the Song of Songs (also known as Song of Solomon, Canticles.) Traditionally, this book has been interpreted allegorically as a picture of God's love for Israel and/or the Church. But taken naturally, we see a picture of ideal human marriage.  </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Romantic love is also present in the Bible, particularly the Song of Songs (also known as Song of Solomon, Canticles.) Traditionally, this book has been interpreted allegorically as a picture of God's love for Israel and/or the Church. But taken naturally, we see a picture of ideal human marriage.  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>\"Place me like a seal over your heart,</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>\"Place me like a seal over your heart,<ins class=\"diffchange diffchange-inline\"> shut up</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  like a seal on your arm;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  like a seal on your arm;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  for love is as strong as death,</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  for love is as strong as death,</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:79352483:newid:79352788 -->\n",
+    "from": 79352483
+  }
+}

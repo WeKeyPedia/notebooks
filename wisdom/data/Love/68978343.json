@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Revert to revision 68899882 dated 2006-08-10 21:55:01 by Omicronpersei8 using [[:en:Wikipedia:Tools/Navigation_popups|popups]]",
+  "timestamp": "2006-08-11T07:27:23Z",
+  "revid": 68978343,
+  "user": "KrakatoaKatie",
+  "parentid": 68978232,
+  "diff": {
+    "to": 68978343,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{<ins class=\"diffchange diffchange-inline\">{otheruses}}{{Close Relationships}}</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>setu loves kelly</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{otheruses}}{{Close Relationships}}</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{|style=\"float: right;\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{|style=\"float: right;\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|-</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|-</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:68978232:newid:68978343 -->\n",
+    "from": 68978232
+  }
+}

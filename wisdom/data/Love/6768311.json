@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/62.162.225.111|62.162.225.111]] to last version by Dannyman",
+  "timestamp": "2004-10-21T16:01:05Z",
+  "revid": 6768311,
+  "user": "Jfdwolff",
+  "parentid": 6752736,
+  "diff": {
+    "to": 6768311,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 236:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 236:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.heavenonastick.com/whatididforlove/ Life and Love Stories]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.heavenonastick.com/whatididforlove/ Life and Love Stories]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://buddhism.kalachakranet.org/immeasurables.html A Buddhist View on Love and Compassion]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://buddhism.kalachakranet.org/immeasurables.html A Buddhist View on Love and Compassion]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://samvak.tripod.com/lovepathology.html The biochemistry of love]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== References ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== References ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:6752736:newid:6768311 -->\n",
+    "from": 6752736
+  },
+  "minor": ""
+}

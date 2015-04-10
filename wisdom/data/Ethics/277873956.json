@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Stoicism */",
+  "timestamp": "2009-03-17T15:04:41Z",
+  "revid": 277873956,
+  "anon": "",
+  "user": "69.161.96.7",
+  "parentid": 277859161,
+  "diff": {
+    "to": 277873956,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 30:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 30:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- ===Confucius===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- ===Confucius===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- --&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- --&gt;</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>deez niggaz</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Normative Ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Normative Ethics==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:277859161:newid:277873956 -->\n",
+    "from": 277859161
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Undid revision 463244336 by [[Special:Contributions/76.93.239.68|76.93.239.68]] ([[User talk:76.93.239.68|talk]])",
+  "timestamp": "2011-11-30T12:06:34Z",
+  "revid": 463286254,
+  "anon": "",
+  "user": "82.169.77.199",
+  "parentid": 463244336,
+  "diff": {
+    "to": 463286254,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>==<del class=\"diffchange diffchange-inline\">FCK THE SYSTSTEM</del>==</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>==<ins class=\"diffchange diffchange-inline\">Philosophy</ins>==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:463244336:newid:463286254 -->\n",
+    "from": 463244336
+  }
+}

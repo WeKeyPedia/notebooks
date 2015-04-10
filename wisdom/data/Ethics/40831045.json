@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Correct Greek",
+  "timestamp": "2006-02-23T07:38:51Z",
+  "revid": 40831045,
+  "user": "Ig0774",
+  "parentid": 40746293,
+  "diff": {
+    "to": 40831045,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:''For the book of the same name, see [[Ethics (book)]]''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:''For the book of the same name, see [[Ethics (book)]]''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' (from Greek ''[[ethos|<del class=\"diffchange diffchange-inline\">ethikos</del>]]'') is the branch of [[axiology]] &amp;ndash; one of the four major branches of [[philosophy]], alongside [[metaphysics]],  [[epistemology]], and [[logic]] &amp;ndash; which attempts to understand the nature of [[morality]]; to define that which is [[right]] from that which is [[wrong]].  The [[Western philosophy|Western tradition]] of ethics is sometimes called '''moral philosophy'''.  </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' (from Greek ''[[ethos|<ins class=\"diffchange diffchange-inline\">ἔθος</ins>]]''<ins class=\"diffchange diffchange-inline\"> meaning \"custom\"</ins>) is the branch of [[axiology]] &amp;ndash; one of the four major branches of [[philosophy]], alongside [[metaphysics]],  [[epistemology]], and [[logic]] &amp;ndash; which attempts to understand the nature of [[morality]]; to define that which is [[right]] from that which is [[wrong]].  The [[Western philosophy|Western tradition]] of ethics is sometimes called '''moral philosophy'''.  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== The first social science ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== The first social science ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:40746293:newid:40831045 -->\n",
+    "from": 40746293
+  }
+}

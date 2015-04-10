@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* External links */  removed all 3 external links, nothing worth having here",
+  "timestamp": "2006-08-16T07:23:15Z",
+  "revid": 69969867,
+  "user": "Xyzzyplugh",
+  "parentid": 69945605,
+  "diff": {
+    "to": 69969867,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 135:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 135:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.how-to-kiss.us Kissing, Dating, Love and Marriage]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.true-love-relationship-advice.com/true-love.html True Love]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.ahintofseduction.com Love forum &amp; resource]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:69945605:newid:69969867 -->\n",
+    "from": 69945605
+  }
+}

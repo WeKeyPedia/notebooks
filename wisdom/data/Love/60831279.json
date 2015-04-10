@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-06-27T13:06:46Z",
+  "revid": 60831279,
+  "anon": "",
+  "user": "82.11.194.37",
+  "parentid": 60831153,
+  "diff": {
+    "to": 60831279,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Image:Stop hand.svg|left|30px]] Welcome to Wikipedia. We invite everyone to contribute constructively to our encyclopedia. Take a look at the [[Wikipedia:Welcome, newcomers|welcome page]] if you would like to learn more about contributing. However, unconstructive edits are considered [[Wikipedia:Vandalism|vandalism]], and if you continue in this manner you may be '''[[Wikipedia:blocking policy|blocked]] from editing without further warning'''. Please stop, and consider improving rather than damaging the hard work of others. Thank you. &lt;!-- Template:Blatantvandal (serious warning) --&gt; </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{about|emotions of attraction}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{about|emotions of attraction}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love-zh.png|215px|thumb|right|The [[Chinese character]] for love (愛) &amp;mdash;its parts indicating (top to bottom): '''''That which gives [[breath]]''''' ''(ie. \"[[spirit]]\")'' '''''to the heart, with a graceful motion.''''' &lt;br /&gt;([[Rose Quong]] - ''Chinese Characters:Their Wit and Wisdom'')]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love-zh.png|215px|thumb|right|The [[Chinese character]] for love (愛) &amp;mdash;its parts indicating (top to bottom): '''''That which gives [[breath]]''''' ''(ie. \"[[spirit]]\")'' '''''to the heart, with a graceful motion.''''' &lt;br /&gt;([[Rose Quong]] - ''Chinese Characters:Their Wit and Wisdom'')]]</div></td>\n</tr>\n",
+    "from": 60831153
+  }
+}

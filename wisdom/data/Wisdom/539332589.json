@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2013-02-21T00:45:45Z",
+  "revid": 539332589,
+  "anon": "",
+  "user": "207.161.90.186",
+  "parentid": 537364852,
+  "diff": {
+    "to": 539332589,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Other <del class=\"diffchange diffchange-inline\">uses}}</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Other </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[File:Moses San Pietro in Vincoli.jpg|thumb|Rays of light, symbolically represented as horns on the head of [[Moses (Michelangelo)]], can be a [[#Hebrew Bible|graphic symbol]] of Wisdom]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[File:Moses San Pietro in Vincoli.jpg|thumb|Rays of light, symbolically represented as horns on the head of [[Moses (Michelangelo)]], can be a [[#Hebrew Bible|graphic symbol]] of Wisdom]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:537364852:newid:539332589 -->\n",
+    "from": 537364852
+  }
+}

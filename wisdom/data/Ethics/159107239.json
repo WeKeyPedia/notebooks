@@ -1,0 +1,12 @@
+﻿{
+  "comment": "removing a link to a novel on ethics related issues- not appropriate link for this page",
+  "timestamp": "2007-09-20T04:44:58Z",
+  "revid": 159107239,
+  "user": "Anarchia",
+  "parentid": 159059442,
+  "diff": {
+    "to": 159107239,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 93:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 93:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|-valign=top</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|-valign=top</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|width=50%|</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|width=50%|</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">*''[[Pax Athenica]]''</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Empathy]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Empathy]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ethicism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ethicism]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:159059442:newid:159107239 -->\n",
+    "from": 159059442
+  }
+}

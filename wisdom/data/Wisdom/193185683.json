@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Philosophical perspectives */",
+  "timestamp": "2008-02-22T02:35:54Z",
+  "revid": 193185683,
+  "anon": "",
+  "user": "68.215.10.104",
+  "parentid": 191966878,
+  "diff": {
+    "to": 193185683,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Nicholas Maxwell]], a modern philosopher, argued that the basic aim of academic inquiry ought to be to seek and promote wisdom — wisdom being construed to be the capacity to realize what is of value in life for oneself and others, wisdom thus including knowledge and technological know-how, but much else besides.&lt;ref name = \"Maxwell\"&gt;[http://www.nick-maxwell.demon.co.uk  MAXWELL, Nicholas].&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Nicholas Maxwell]], a modern philosopher, argued that the basic aim of academic inquiry ought to be to seek and promote wisdom — wisdom being construed to be the capacity to realize what is of value in life for oneself and others, wisdom thus including knowledge and technological know-how, but much else besides.&lt;ref name = \"Maxwell\"&gt;[http://www.nick-maxwell.demon.co.uk  MAXWELL, Nicholas].&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>i love bettina :]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Psychological perspectives==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Psychological perspectives==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:191966878:newid:193185683 -->\n",
+    "from": 191966878
+  }
+}

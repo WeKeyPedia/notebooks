@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* External links */ remove linkspam",
+  "timestamp": "2006-03-06T01:43:45Z",
+  "revid": 42410506,
+  "user": "Cunado19",
+  "parentid": 42407345,
+  "diff": {
+    "to": 42410506,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 227:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 227:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.www.josephsoninstitute.org The Josephson Institute of Ethics] An organization aimed to improve the ethical quality of society by changing personal and organizational decision making and behavior.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.www.josephsoninstitute.org The Josephson Institute of Ethics] An organization aimed to improve the ethical quality of society by changing personal and organizational decision making and behavior.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.galilean-library.org/int11.html An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.galilean-library.org/int11.html An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://www.globalpublic.org Developing a Global Ethic]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Stanford Encyclopedia of Philosophy</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Stanford Encyclopedia of Philosophy</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:42407345:newid:42410506 -->\n",
+    "from": 42407345
+  }
+}

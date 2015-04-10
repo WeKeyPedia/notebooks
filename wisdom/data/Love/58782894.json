@@ -1,0 +1,13 @@
+﻿{
+  "comment": "rvv",
+  "timestamp": "2006-06-15T16:17:18Z",
+  "revid": 58782894,
+  "user": "Yanksox",
+  "parentid": 58782602,
+  "diff": {
+    "to": 58782894,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 27:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 27:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional and sexual desire. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional and sexual desire. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Anna whiteley love]] - the best love in the world</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:58782602:newid:58782894 -->\n",
+    "from": 58782602
+  },
+  "minor": ""
+}

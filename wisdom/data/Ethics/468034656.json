@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Further reading */",
+  "timestamp": "2011-12-28T05:50:16Z",
+  "revid": 468034656,
+  "anon": "",
+  "user": "203.82.80.101",
+  "parentid": 467860437,
+  "diff": {
+    "to": 468034656,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 200:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 200:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*John Paul II, Encyclical Letter [http://www.vatican.va/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor_en.html ''Veritatis Splendor''], 6-8-1993.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*John Paul II, Encyclical Letter [http://www.vatican.va/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor_en.html ''Veritatis Splendor''], 6-8-1993.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* D'Urance, Michel, ''Jalons pour une éthique rebelle'', Aléthéia, Paris, 2005.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* D'Urance, Michel, ''Jalons pour une éthique rebelle'', Aléthéia, Paris, 2005.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>macam mane nie.... pening ak wat assgment nie... aduyai./...huhuhuhuh tolong2......</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:467860437:newid:468034656 -->\n",
+    "from": 467860437
+  }
+}

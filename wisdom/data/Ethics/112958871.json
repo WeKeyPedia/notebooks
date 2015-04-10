@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* See also */",
+  "timestamp": "2007-03-06T01:43:31Z",
+  "revid": 112958871,
+  "user": "Zsalamander",
+  "parentid": 112259572,
+  "diff": {
+    "to": 112958871,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 106:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 106:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Dessek]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Dessek]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Empathy]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Empathy]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Biggie Smalls]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral absolutism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral absolutism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [[Consequentialism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [[Consequentialism]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:112259572:newid:112958871 -->\n",
+    "from": 112259572
+  }
+}

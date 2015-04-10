@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Buddhist */",
+  "timestamp": "2006-01-23T16:03:01Z",
+  "revid": 36369228,
+  "anon": "",
+  "user": "152.1.97.188",
+  "parentid": 36288458,
+  "diff": {
+    "to": 36369228,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 162:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 162:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The Bodhisattva ideal in Tibetan Buddhism involves the complete renunciation of oneself in order to take on the burden of a suffering world. The strongest motivation one has in order to take the path of the Bodhisattva is the idea of salvation within unselfish love for others.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The Bodhisattva ideal in Tibetan Buddhism involves the complete renunciation of oneself in order to take on the burden of a suffering world. The strongest motivation one has in order to take the path of the Bodhisattva is the idea of salvation within unselfish love for others.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Buddhists live in some countries.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Christian===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Christian===</div></td>\n</tr>\n",
+    "from": 36288458
+  }
+}

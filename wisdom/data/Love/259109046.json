@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Add protection template.",
+  "timestamp": "2008-12-20T05:29:15Z",
+  "revid": 259109046,
+  "user": "ProtectionTaggingBot",
+  "parentid": 258773364,
+  "diff": {
+    "to": 259109046,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{pp-semi-indef|small=yes|expiry=December 21, 2008}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses4}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses4}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Corazón.svg|thumb|The stylized [[heart (symbol)|heart symbol]] is a traditional European icon representing love.]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Corazón.svg|thumb|The stylized [[heart (symbol)|heart symbol]] is a traditional European icon representing love.]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:258773364:newid:259109046 -->\n",
+    "from": 258773364
+  }
+}

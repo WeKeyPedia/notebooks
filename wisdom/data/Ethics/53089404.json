@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Robot-assisted disambiguation: Autonomy",
+  "timestamp": "2006-05-14T02:16:58Z",
+  "revid": 53089404,
+  "user": "Bot-maru",
+  "parentid": 53064640,
+  "diff": {
+    "to": 53089404,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 78:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 78:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main articles|[[bioethics]] and [[medical ethics]]}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main articles|[[bioethics]] and [[medical ethics]]}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>One of the major areas where ethicists practice is in the field of [[health care]]. This includes [[medicine]], [[nursing ethics|nursing]], [[pharmacy]], [[genetics]], and other [[allied health professions]]. Example issues are [[euthanasia]], [[abortion]], [[medical research]], [[vaccine trials]], [[stem cell]] research, [[informed consent]], [[truth|truth telling]], [[human rights|patient rights]] and [[autonomy]], [[rationing]] of health care (such as [[triage]]).</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>One of the major areas where ethicists practice is in the field of [[health care]]. This includes [[medicine]], [[nursing ethics|nursing]], [[pharmacy]], [[genetics]], and other [[allied health professions]]. Example issues are [[euthanasia]], [[abortion]], [[medical research]], [[vaccine trials]], [[stem cell]] research, [[informed consent]], [[truth|truth telling]], [[human rights|patient rights]] and [[<ins class=\"diffchange diffchange-inline\">Wiktionary:autonomy|</ins>autonomy]], [[rationing]] of health care (such as [[triage]]).</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==== Ethics in psychology ====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==== Ethics in psychology ====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:53064640:newid:53089404 -->\n",
+    "from": 53064640
+  },
+  "minor": ""
+}

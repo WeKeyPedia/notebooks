@@ -1,0 +1,13 @@
+﻿{
+  "comment": "[[Help:Reverting|Reverted]] edits by [[Special:Contributions/198.60.165.108|198.60.165.108]] ([[User talk:198.60.165.108|talk]]) to last version by 98.207.245.160",
+  "timestamp": "2010-01-22T20:18:14Z",
+  "revid": 339405094,
+  "user": "Razimantv",
+  "parentid": 339404364,
+  "diff": {
+    "to": 339405094,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 297:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 297:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מידות]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מידות]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Dania was here</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:339404364:newid:339405094 -->\n",
+    "from": 339404364
+  },
+  "minor": ""
+}

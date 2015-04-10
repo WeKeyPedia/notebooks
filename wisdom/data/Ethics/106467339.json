@@ -1,0 +1,13 @@
+﻿{
+  "comment": "...major factos? :P",
+  "timestamp": "2007-02-08T01:48:16Z",
+  "revid": 106467339,
+  "anon": "",
+  "user": "18.208.0.113",
+  "parentid": 106387349,
+  "diff": {
+    "to": 106467339,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 93:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 93:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Choices Vs. Consequences</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Choices Vs. Consequences</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Consequences of personal choices may impact on other people and any associated reponsiblities may extend into a wider society. They are major <del class=\"diffchange diffchange-inline\">factos</del> in life, as they determine one's relationships with him/herself and with others.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Consequences of personal choices may impact on other people and any associated reponsiblities may extend into a wider society. They are major <ins class=\"diffchange diffchange-inline\">factors</ins> in life, as they determine one's relationships with him/herself and with others.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n",
+    "from": 106387349
+  }
+}

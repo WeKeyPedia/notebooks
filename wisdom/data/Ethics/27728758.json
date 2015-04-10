@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-11-08T15:28:15Z",
+  "revid": 27728758,
+  "anon": "",
+  "user": "128.235.249.80",
+  "parentid": 27718880,
+  "diff": {
+    "to": 27728758,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' is the branch of [[axiology]] &amp;ndash; one of the four major branches of [[philosophy]], alongside [[metaphysics]],  [[epistemology]], and [[logic]] &amp;ndash; which attempts to understand the nature of [[morality]]; to define that which is [[right]] from that which is [[wrong]].  The [[Western philosophy|Western tradition]] of ethics is sometimes called '''moral philosophy'''.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' is the branch of [[axiology]] &amp;ndash; one of the four major branches of [[philosophy]], alongside [[metaphysics]],  [[epistemology]], and [[logic]] &amp;ndash; which attempts to understand the nature of [[morality]]; to define that which is [[right]] from that which is [[wrong]].  The [[Western philosophy|Western tradition]] of ethics is sometimes called '''moral philosophy'''.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>== ethics is half way in between thuthix and wethix ==</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:27718880:newid:27728758 -->\n",
+    "from": 27718880
+  }
+}

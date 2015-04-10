@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Human love */",
+  "timestamp": "2006-06-07T19:10:51Z",
+  "revid": 57399502,
+  "anon": "",
+  "user": "70.142.30.155",
+  "parentid": 57353718,
+  "diff": {
+    "to": 57399502,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 84:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 84:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Courtship]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Courtship]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Triangular theory of love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Triangular theory of love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">{{col-end}}</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">* [[Sexual Contact]]</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Other types of love (philias)===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Other types of love (philias)===</div></td>\n</tr>\n",
+    "from": 57353718
+  }
+}

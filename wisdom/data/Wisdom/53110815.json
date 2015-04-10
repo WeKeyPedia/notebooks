@@ -1,0 +1,13 @@
+﻿{
+  "comment": "robot  Adding: [[he:חוכמה]]",
+  "timestamp": "2006-05-14T05:29:48Z",
+  "revid": 53110815,
+  "user": "YurikBot",
+  "parentid": 52846890,
+  "diff": {
+    "to": 53110815,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 63:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 63:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ff:Ndimaagu]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ff:Ndimaagu]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[it:Saggezza]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[it:Saggezza]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[he:חוכמה]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[la:Sapientia]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[la:Sapientia]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[nl:Wijsheid]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[nl:Wijsheid]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:52846890:newid:53110815 -->\n",
+    "from": 52846890
+  },
+  "minor": ""
+}

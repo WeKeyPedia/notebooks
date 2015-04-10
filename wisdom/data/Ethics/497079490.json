@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverting possible vandalism by [[Special:Contributions/124.43.64.12|124.43.64.12]] to version by Theconsequentialist. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1108844) (Bot)",
+  "timestamp": "2012-06-11T16:14:52Z",
+  "revid": 497079490,
+  "user": "ClueBot NG",
+  "parentid": 497079474,
+  "diff": {
+    "to": 497079490,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 48:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 48:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=====Cyrenaic hedonism=====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=====Cyrenaic hedonism=====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Founded by [[Aristippus]] of Cyrene, [[Cyrenaics]] supported immediate gratification or pleasure. \"Eat, drink and be merry, for tomorrow we die.\" Even fleeting desires should be indulged, for fear the opportunity should be forever lost. There was little to no concern with the future, the present dominating in the pursuit for immediate pleasure. Cyrenaic hedonism encouraged the pursuit of enjoyment and indulgence without hesitation, believing pleasure to be the only good.&lt;ref name = \"epsxlu\"/&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Founded by [[Aristippus]] of Cyrene, [[Cyrenaics]] supported immediate gratification or pleasure. \"Eat, drink and be merry, for tomorrow we die.\" Even fleeting desires should be indulged, for fear the opportunity should be forever lost. There was little to no concern with the future, the present dominating in the pursuit for immediate pleasure. Cyrenaic hedonism encouraged the pursuit of enjoyment and indulgence without hesitation, believing pleasure to be the only good.&lt;ref name = \"epsxlu\"/&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>duka thama malli.......ethics thama.....</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Consequentialism===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Consequentialism===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:497079474:newid:497079490 -->\n",
+    "from": 497079474
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "robot Adding: [[ms:Cinta]]",
+  "timestamp": "2009-08-21T12:40:05Z",
+  "revid": 309238679,
+  "user": "JAnDbot",
+  "parentid": 309079625,
+  "diff": {
+    "to": 309238679,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 336:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 336:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ml:സ്നേഹം]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ml:സ്നേഹം]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[mt:Imħabba]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[mt:Imħabba]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[ms:Cinta]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[cdo:Ái]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[cdo:Ái]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[my:အချစ်]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[my:အချစ်]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:309079625:newid:309238679 -->\n",
+    "from": 309079625
+  },
+  "minor": ""
+}

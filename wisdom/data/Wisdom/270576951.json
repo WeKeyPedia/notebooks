@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/195.47.250.20|195.47.250.20]] ([[User talk:195.47.250.20|talk]]) to last version by Mitsube",
+  "timestamp": "2009-02-14T01:40:39Z",
+  "revid": 270576951,
+  "user": "Will Beback",
+  "parentid": 270567050,
+  "diff": {
+    "to": 270576951,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 120:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 120:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.excaliburbooks.com Wisdom in Perspective]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.excaliburbooks.com Wisdom in Perspective]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.wisdomresearch.org Defining Wisdom: A University of Chicago sponsored project on wisdom reseach]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.wisdomresearch.org Defining Wisdom: A University of Chicago sponsored project on wisdom reseach]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.famousquotesandauthors.com/topics/wisdom_quotes.html Quotations and Sayings about Wisdom]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:270567050:newid:270576951 -->\n",
+    "from": 270567050
+  },
+  "minor": ""
+}

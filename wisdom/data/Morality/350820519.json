@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Religion as a source of moral authority */",
+  "timestamp": "2010-03-19T17:20:12Z",
+  "revid": 350820519,
+  "anon": "",
+  "user": "158.104.166.132",
+  "parentid": 350685531,
+  "diff": {
+    "to": 350820519,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 121:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 121:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{See also|Argument from inconsistent revelations|Criticism of religion}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{See also|Argument from inconsistent revelations|Criticism of religion}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Many religions provide moral guidelines for their followers. They believe that <del class=\"diffchange diffchange-inline\">God</del> has instructed them with a way to live, and that following these \"rules\" will lead to oneness with <del class=\"diffchange diffchange-inline\">God</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Many religions provide moral guidelines for their followers. They believe that <ins class=\"diffchange diffchange-inline\">the divine</ins> has instructed them with a way to live, and that following these \"rules\" will lead to oneness with <ins class=\"diffchange diffchange-inline\">the divine</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:350685531:newid:350820519 -->\n",
+    "from": 350685531
+  }
+}

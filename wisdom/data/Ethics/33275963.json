@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2005-12-30T18:25:42Z",
+  "revid": 33275963,
+  "anon": "",
+  "user": "206.54.192.247",
+  "parentid": 32558094,
+  "diff": {
+    "to": 33275963,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 201:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 201:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.acusd.edu/ Ethics Updates] mega-list of ethics resources maintained by Lawrence Hinman of the University of San Diego.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.acusd.edu/ Ethics Updates] mega-list of ethics resources maintained by Lawrence Hinman of the University of San Diego.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/broad/ftet/ftet.html C. D. Broad, ''Five Types of Ethical Theory'' (New York: Harcourt, Brace and Co., 1930).]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/broad/ftet/ftet.html C. D. Broad, ''Five Types of Ethical Theory'' (New York: Harcourt, Brace and Co., 1930).]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://all-ethics.info/Enrons_Ultimate_Victim_Ethics_Paul_Shearstone.html Enron’s Ultimate Victim: Ethics]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/ross/right.html W. D. Ross, ''The Right and the Good'' (1930)]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/ross/right.html W. D. Ross, ''The Right and the Good'' (1930)]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.galilean-library.org/int11.html An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.galilean-library.org/int11.html An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:32558094:newid:33275963 -->\n",
+    "from": 32558094
+  }
+}

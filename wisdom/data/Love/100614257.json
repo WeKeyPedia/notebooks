@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-01-14T07:07:48Z",
+  "revid": 100614257,
+  "user": "Unelite",
+  "parentid": 100595066,
+  "diff": {
+    "to": 100614257,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 80:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 80:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Robert Anson Heinlein]], one of the most prolific science fiction writers of the 20th century, defined love in his novel [[Stranger in a Strange Land]] as the point of emotional connection which leads to the happiness of another being essential to one's own well being. This definition ignores the ideas of religion and science and instead focuses on the meaning of love as it relates to the individual.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Robert Anson Heinlein]], one of the most prolific science fiction writers of the 20th century, defined love in his novel [[Stranger in a Strange Land]] as the point of emotional connection which leads to the happiness of another being essential to one's own well being. This definition ignores the ideas of religion and science and instead focuses on the meaning of love as it relates to the individual.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Stephen, Loves Bre forever and always.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n",
+    "from": 100595066
+  }
+}

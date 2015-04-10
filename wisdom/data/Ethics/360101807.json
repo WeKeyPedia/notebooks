@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2010-05-04T16:46:56Z",
+  "revid": 360101807,
+  "anon": "",
+  "user": "208.108.81.36",
+  "parentid": 359881816,
+  "diff": {
+    "to": 360101807,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' (also known as '''moral philosophy''') is a branch of [[philosophy]] that addresses questions about [[morality]]&amp;mdash;that is, concepts such as [[good]] and [[bad]], noble and ignoble, [[right]] and [[wrong]], [[justice]], and [[virtue]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' (also known as '''moral philosophy''') is a branch of [[philosophy]] that addresses questions about [[morality]]&amp;mdash;that is, concepts such as [[good]] and [[bad]], noble and ignoble, [[right]] and [[wrong]], [[justice]], and [[virtue]].<ins class=\"diffchange diffchange-inline\"> hi</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n</tr>\n",
+    "from": 359881816
+  }
+}

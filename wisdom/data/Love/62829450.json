@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Removed inappropiate \"vote\" comment duplicated in HTML.  + added more conventional note",
+  "timestamp": "2006-07-09T04:16:19Z",
+  "revid": 62829450,
+  "user": "Aaron Brenneman",
+  "parentid": 62825367,
+  "diff": {
+    "to": 62829450,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 113:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 113:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>&lt;!-- Please use the talk page to discuss links prior to adding them here --&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">:'''See:''' [http://en.wikipedia.org/wiki/Talk:Love#External_links Talk Page] to vote on which links should go here</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&lt;!--See Talk Page to vote on which links should go here--&gt;</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n</tr>\n",
+    "from": 62825367
+  }
+}

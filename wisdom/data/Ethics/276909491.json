@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2009-03-13T04:34:46Z",
+  "revid": 276909491,
+  "anon": "",
+  "user": "122.57.63.45",
+  "parentid": 276812050,
+  "diff": {
+    "to": 276909491,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">&lt;nowiki&gt;Insert non-formatted text here&lt;/nowiki&gt;</ins>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' is a word for a [[philosophy]] that encompasses proper conduct and good living. It is significantly broader than the common conception of ethics as the analyzing of right and wrong. A central aspect of ethics is \"the good life\", the life worth living or that is simply satisfying, which is held by many philosophers to be more important than [[Morality|moral]] conduct.&lt;ref&gt;Singer, P. (1993) ''Practical Ethics'', 2nd edition (p.10), Cambridge: Cambridge University Press&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' is a word for a [[philosophy]] that encompasses proper conduct and good living. It is significantly broader than the common conception of ethics as the analyzing of right and wrong. A central aspect of ethics is \"the good life\", the life worth living or that is simply satisfying, which is held by many philosophers to be more important than [[Morality|moral]] conduct.&lt;ref&gt;Singer, P. (1993) ''Practical Ethics'', 2nd edition (p.10), Cambridge: Cambridge University Press&lt;/ref&gt;</div></td>\n</tr>\n",
+    "from": 276812050
+  }
+}

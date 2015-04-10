@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-02-13T01:13:04Z",
+  "revid": 39422921,
+  "anon": "",
+  "user": "66.229.17.88",
+  "parentid": 39422914,
+  "diff": {
+    "to": 39422921,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&lt;!-- We know, it's amazing to love and be loved, but please express your love by helping Wikipedia to improve, not by telling all the world here in this article how much you love your significant other. The edit will be removed in seconds anyway. Have a happy life! --&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>&lt;!-- We know, it's amazing to love and be loved, but please express your love by helping Wikipedia to improve, not by telling all the world here in this article how much you love your significant other. The edit will be removed in seconds anyway. Have a happy life<ins class=\"diffchange diffchange-inline\">! HAVING A HAPPY LIFE IS POINT OF VIEW IT HAS NO PLACE IN A WIKIPEDIA ARTICLE!!!!!!</ins>! --&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n",
+    "from": 39422914
+  }
+}

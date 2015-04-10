@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2002-07-26T12:40:50Z",
+  "revid": 126316,
+  "anon": "",
+  "user": "206.187.63.161",
+  "parentid": 125721,
+  "diff": {
+    "to": 126316,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 9:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 9:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;b&gt;Love&lt;/b&gt; is also the name of a [[Los Angeles]]-based [[rock and roll]] band of the late [[1960s]]. See [[Love (band)]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;b&gt;Love&lt;/b&gt; is also the name of a [[Los Angeles]]-based [[rock and roll]] band of the late [[1960s]]. See [[Love (band)]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>----</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>----</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Also see [[Courtney Love]], a popstar in the band [[Hole]].<del class=\"diffchange diffchange-inline\"> </del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Also see [[Courtney Love]], a popstar in the band [[Hole]].</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Also see [[Beach Boys]], who have a member named Mike Love.</div></td>\n</tr>\n",
+    "from": 125721
+  }
+}

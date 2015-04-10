@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */",
+  "timestamp": "2006-11-26T03:33:38Z",
+  "revid": 90149958,
+  "anon": "",
+  "user": "68.200.93.27",
+  "parentid": 90104249,
+  "diff": {
+    "to": 90149958,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 130:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 130:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[True love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[True love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{col-end}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{col-end}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>COURTNEY A. LOVES ALEXANDER V.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:90104249:newid:90149958 -->\n",
+    "from": 90104249
+  }
+}

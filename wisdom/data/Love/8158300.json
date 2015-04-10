@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/84.43.5.61|84.43.5.61]] to last version by Shantavira",
+  "timestamp": "2004-12-05T10:24:09Z",
+  "revid": 8158300,
+  "user": "Jfdwolff",
+  "parentid": 8144457,
+  "diff": {
+    "to": 8158300,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 249:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 249:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Dorothy Tennov. ''Love and Limerence: the Experience of Being in Love''. New York: Stein and Day, 1979. ISBN 0812861345</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Dorothy Tennov. ''Love and Limerence: the Experience of Being in Love''. New York: Stein and Day, 1979. ISBN 0812861345</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Helen Fisher. ''Why We Love: the Nature and Chemistry of Romantic Love''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Helen Fisher. ''Why We Love: the Nature and Chemistry of Romantic Love''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* Dylan Evans. \"Emotion: The Science of Sentiment\", 2001. Oxford University Press. ISBN: 019285433X</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:love]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:8144457:newid:8158300 -->\n",
+    "from": 8144457
+  },
+  "minor": ""
+}

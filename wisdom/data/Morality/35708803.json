@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/69.163.161.92|69.163.161.92]] ([[User talk:69.163.161.92|talk]]) to last version by 83.70.66.216",
+  "timestamp": "2006-01-18T19:11:27Z",
+  "revid": 35708803,
+  "user": "Shell Kinney",
+  "parentid": 35708376,
+  "diff": {
+    "to": 35708803,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>morality is me doing your mom</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>and tellin you to FUCK OFF</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:35708376:newid:35708803 -->\n",
+    "from": 35708376
+  },
+  "minor": ""
+}

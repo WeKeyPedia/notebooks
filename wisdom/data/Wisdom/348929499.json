@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Old Testament */",
+  "timestamp": "2010-03-10T07:48:32Z",
+  "revid": 348929499,
+  "anon": "",
+  "user": "72.221.92.43",
+  "parentid": 348927097,
+  "diff": {
+    "to": 348929499,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 72:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 72:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''From Wisdom's horn/Authority is born''.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''From Wisdom's horn/Authority is born''.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>''His Wisdom shone ('''qaran''') like a horn ('''qeren''') <del class=\"diffchange diffchange-inline\">in the</del> light''.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>''His Wisdom shone ('''qaran''')<ins class=\"diffchange diffchange-inline\"> unto them</ins> like a horn ('''qeren''') <ins class=\"diffchange diffchange-inline\">of</ins> light''.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===New Testament===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===New Testament===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:348927097:newid:348929499 -->\n",
+    "from": 348927097
+  }
+}

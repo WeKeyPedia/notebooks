@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* See also */ tidy",
+  "timestamp": "2009-10-13T16:34:54Z",
+  "revid": 319646505,
+  "user": "Thumperward",
+  "parentid": 319645389,
+  "diff": {
+    "to": 319646505,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 126:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 126:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Altruism (ethics)]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Altruism (ethics)]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Bioethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Bioethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[<del class=\"diffchange diffchange-inline\">Buddhist_Ethics_</del>(discipline)]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[<ins class=\"diffchange diffchange-inline\">Buddhist Ethics </ins>(discipline)]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Business ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Business ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Deontological ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Deontological ethics]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:319645389:newid:319646505 -->\n",
+    "from": 319645389
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-03-09T22:33:51Z",
+  "revid": 113934886,
+  "user": "D. Webb",
+  "parentid": 113890297,
+  "diff": {
+    "to": 113934886,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 94:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 94:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Public morality]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Public morality]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[The ends justify the means]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[The ends justify the means]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">* [[Poop]]</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Book sources==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Book sources==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:113890297:newid:113934886 -->\n",
+    "from": 113890297
+  }
+}

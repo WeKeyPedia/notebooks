@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Human love */",
+  "timestamp": "2005-02-09T01:15:50Z",
+  "revid": 10134654,
+  "user": "Rekcedeob",
+  "parentid": 10083338,
+  "diff": {
+    "to": 10134654,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 224:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 224:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Greek words for love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Greek words for love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Limerence]]  &amp;mdash; the \"in love\" state</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Limerence]]  &amp;mdash; the \"in love\" state</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[<del class=\"diffchange diffchange-inline\">crush</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[<ins class=\"diffchange diffchange-inline\">Crush</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love-Hate relationship]]s</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love-Hate relationship]]s</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love-shyness]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love-shyness]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:10083338:newid:10134654 -->\n",
+    "from": 10083338
+  },
+  "minor": ""
+}

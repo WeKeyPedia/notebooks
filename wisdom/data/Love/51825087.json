@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/144.136.114.45|144.136.114.45]] ([[User_Talk:144.136.114.45|Talk]]) to last version by 199.234.152.211",
+  "timestamp": "2006-05-06T12:52:36Z",
+  "revid": 51825087,
+  "user": "BarkerJr",
+  "parentid": 51824913,
+  "diff": {
+    "to": 51825087,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 27:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 27:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional and sexual desire.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional and sexual desire.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[KELLY LOVE]] - a love that michael fitzgerald has for kelly</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:51824913:newid:51825087 -->\n",
+    "from": 51824913
+  }
+}

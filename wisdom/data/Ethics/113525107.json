@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Added ethics forum",
+  "timestamp": "2007-03-08T07:36:02Z",
+  "revid": 113525107,
+  "anon": "",
+  "user": "68.126.198.196",
+  "parentid": 113504753,
+  "diff": {
+    "to": 113525107,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 178:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 178:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-virtue/ Virtue Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-virtue/ Virtue Ethics]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.observacionesfilosoficas.net/etica.htm Ética y Filosofía Política | In Revista Observaciones Filosóficas | In spanish]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.observacionesfilosoficas.net/etica.htm Ética y Filosofía Política | In Revista Observaciones Filosóficas | In spanish]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://philosophy-forums.com/index.php?board=5.0 Ethics Forum]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy navigation}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy navigation}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:113504753:newid:113525107 -->\n",
+    "from": 113504753
+  }
+}

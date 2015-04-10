@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* External links */ Added external link WorldMoralMovement.org (wiki site for discussing and taking action on shared morals)",
+  "timestamp": "2006-05-24T05:43:33Z",
+  "revid": 54845430,
+  "user": "Canfield",
+  "parentid": 54602012,
+  "diff": {
+    "to": 54845430,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 96:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 96:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.chabad.org/search/keyword.asp?kid=1222 Morality and Judaism] chabad.org</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.chabad.org/search/keyword.asp?kid=1222 Morality and Judaism] chabad.org</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.geeta-kavita.com/article.asp?article=biology_morals_dharma An article that focuses on the Biological basis of morality is available at Geeta-kavita.com]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.geeta-kavita.com/article.asp?article=biology_morals_dharma An article that focuses on the Biological basis of morality is available at Geeta-kavita.com]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.worldmoralmovement.org Wiki site for discussing and taking action on shared morals (WorldMoralMovement.org)]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy (navigation)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy (navigation)}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:54602012:newid:54845430 -->\n",
+    "from": 54602012
+  }
+}

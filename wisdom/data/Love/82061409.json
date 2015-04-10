@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Types */",
+  "timestamp": "2006-10-17T20:17:01Z",
+  "revid": 82061409,
+  "anon": "",
+  "user": "68.10.135.252",
+  "parentid": 82052053,
+  "diff": {
+    "to": 82061409,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 18:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 18:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Types==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Types==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>charles T. loves sarah M.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Agape]] - the term was used by the early Christians (Greek to be specific, as the word is of Greek origin) to refer to an unconditional acceptance, favour and affinity toward a person. It is a love that is based on a decision instead of a feeling.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Agape]] - the term was used by the early Christians (Greek to be specific, as the word is of Greek origin) to refer to an unconditional acceptance, favour and affinity toward a person. It is a love that is based on a decision instead of a feeling.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Courtly love]] – a late medieval conventionalized code prescribing certain conduct and emotions for ladies and their lovers</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Courtly love]] – a late medieval conventionalized code prescribing certain conduct and emotions for ladies and their lovers</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:82052053:newid:82061409 -->\n",
+    "from": 82052053
+  }
+}

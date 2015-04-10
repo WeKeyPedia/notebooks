@@ -1,0 +1,12 @@
+﻿{
+  "comment": "sp",
+  "timestamp": "2003-09-23T22:42:22Z",
+  "revid": 1524083,
+  "user": "Wik",
+  "parentid": 1472360,
+  "diff": {
+    "to": 1524083,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 161:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 161:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Etiquette]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Etiquette]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Goodness]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Goodness]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[<del class=\"diffchange diffchange-inline\">Eorality</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[<ins class=\"diffchange diffchange-inline\">Morality</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Entology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Entology]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Trust]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Trust]]</div></td>\n</tr>\n",
+    "from": 1472360
+  }
+}

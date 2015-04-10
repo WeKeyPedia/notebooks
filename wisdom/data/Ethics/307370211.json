@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2009-08-11T14:54:13Z",
+  "revid": 307370211,
+  "anon": "",
+  "user": "130.132.143.49",
+  "parentid": 307082868,
+  "diff": {
+    "to": 307370211,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 169:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 169:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/ross/right.html 'The Right and the Good''] (1930) by [[W. D. Ross]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/ross/right.html 'The Right and the Good''] (1930) by [[W. D. Ross]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.sandiego.edu/LMH/E2/Glossary.asp [[University of San Diego]] - Ethics glossary] Useful terms in ethics discussions</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.sandiego.edu/LMH/E2/Glossary.asp [[University of San Diego]] - Ethics glossary] Useful terms in ethics discussions</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.thehastingscenter.org The Hastings Center]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://bioethics.georgetown.edu/nrc/ National Reference Center for Bioethics Literature] World's largest library for ethical issues in medicine and biomedical research</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://bioethics.georgetown.edu/nrc/ National Reference Center for Bioethics Literature] World's largest library for ethical issues in medicine and biomedical research</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ethical-democracy.org Ethics and Democracy]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ethical-democracy.org Ethics and Democracy]</div></td>\n</tr>\n",
+    "from": 307082868
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Compassionate love wiki-link/* See also */",
+  "timestamp": "2009-12-28T03:54:13Z",
+  "revid": 334449913,
+  "user": "Presearch",
+  "parentid": 330164524,
+  "diff": {
+    "to": 334449913,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 259:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 259:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[A General Theory of Love]], provides a social, historical, and biomedical framework overview of love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[A General Theory of Love]], provides a social, historical, and biomedical framework overview of love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Agapism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Agapism]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Compassionate love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Haptic medicine]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Haptic medicine]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Interpersonal attraction]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Interpersonal attraction]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:330164524:newid:334449913 -->\n",
+    "from": 330164524
+  }
+}

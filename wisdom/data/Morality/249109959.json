@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Minor Edit: LOL!! Superb addition of \"I love you!\" smack at the start of the definition. It has to go, though. Sorry, pranksters ;)",
+  "timestamp": "2008-11-02T02:00:25Z",
+  "revid": 249109959,
+  "anon": "",
+  "user": "24.226.207.106",
+  "parentid": 249108788,
+  "diff": {
+    "to": 249109959,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''' (from the [[Latin]] ''{{lang|la|moralitas}}'' \"manner, character, proper behavior\") has three principal meanings.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''' (from the [[Latin]] ''{{lang|la|moralitas}}'' \"manner, character, proper behavior\") has three principal meanings.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>I love you!</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In its first, descriptive usage, morality means a code of conduct held to be authoritative in matters of right and wrong. Morals are created by and define society, philosophy, religion, or individual conscience.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In its first, descriptive usage, morality means a code of conduct held to be authoritative in matters of right and wrong. Morals are created by and define society, philosophy, religion, or individual conscience.</div></td>\n</tr>\n",
+    "from": 249108788
+  }
+}

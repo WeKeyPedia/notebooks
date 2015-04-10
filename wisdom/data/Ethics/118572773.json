@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/68.228.111.2|68.228.111.2]] ([[User talk:68.228.111.2|talk]]) to last version by TXiKiBoT",
+  "timestamp": "2007-03-28T18:24:18Z",
+  "revid": 118572773,
+  "user": "Bhadani",
+  "parentid": 118572730,
+  "diff": {
+    "to": 118572773,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 181:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 181:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-virtue/ Virtue Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-virtue/ Virtue Ethics]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.observacionesfilosoficas.net/etica.htm Ética y Filosofía Política | In Revista Observaciones Filosóficas | In spanish]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.observacionesfilosoficas.net/etica.htm Ética y Filosofía Política | In Revista Observaciones Filosóficas | In spanish]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://www.pinkyshow.org/archives/episodes/060422/ ''Students Against Rice Eaters''] — an online video about student ethics.<del class=\"diffchange diffchange-inline\"> holton jones is realy gay</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.pinkyshow.org/archives/episodes/060422/ ''Students Against Rice Eaters''] — an online video about student ethics.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:118572730:newid:118572773 -->\n",
+    "from": 118572730
+  },
+  "minor": ""
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "rv",
+  "timestamp": "2005-01-11T00:10:45Z",
+  "revid": 9289345,
+  "user": "Fvw",
+  "parentid": 9269026,
+  "diff": {
+    "to": 9289345,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 270:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 270:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Kärlek]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Kärlek]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Rakkaus]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Rakkaus]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>NOTE: THE STRONGEST LOVE IN THE WORLD IS BETWEEN KEARA AND JOEY</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:9269026:newid:9289345 -->\n",
+    "from": 9269026
+  }
+}

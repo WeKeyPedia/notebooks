@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Definitional issues */",
+  "timestamp": "2006-11-21T03:37:43Z",
+  "revid": 89156865,
+  "anon": "",
+  "user": "70.146.160.235",
+  "parentid": 89156661,
+  "diff": {
+    "to": 89156865,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 74:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 74:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Thomas Jay Oord]] defines love as acting intentionally, in sympathetic response to others (including God), to promote overall well-being.  Oord means for his definition to be adequate for religion, philosophy, and the sciences.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Thomas Jay Oord]] defines love as acting intentionally, in sympathetic response to others (including God), to promote overall well-being.  Oord means for his definition to be adequate for religion, philosophy, and the sciences.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>ashton and drew love each otherr!!</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n",
+    "from": 89156661
+  }
+}

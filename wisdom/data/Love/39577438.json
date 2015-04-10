@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/195.194.89.6|195.194.89.6]] to last version by Sean Black",
+  "timestamp": "2006-02-14T11:48:06Z",
+  "revid": 39577438,
+  "user": "Dharmabum420",
+  "parentid": 39577417,
+  "diff": {
+    "to": 39577438,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 261:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 261:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Raphael (archangel)|Raphael]] &amp;mdash; Angel of love(agape) in Judeo-Christian theology.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Raphael (archangel)|Raphael]] &amp;mdash; Angel of love(agape) in Judeo-Christian theology.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Mihr]] &amp;mdash; angel of love in [[Persian mythology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Mihr]] &amp;mdash; angel of love in [[Persian mythology]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Beckie Shiels - I Love You,Happy Valentine's Day Baby</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:39577417:newid:39577438 -->\n",
+    "from": 39577417
+  },
+  "minor": ""
+}

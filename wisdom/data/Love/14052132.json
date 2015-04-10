@@ -1,0 +1,12 @@
+﻿{
+  "comment": "rv",
+  "timestamp": "2005-05-21T00:44:31Z",
+  "revid": 14052132,
+  "user": "Weyes",
+  "parentid": 14001013,
+  "diff": {
+    "to": 14052132,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 132:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 132:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Agape ({{polytonic|&amp;#x1f00;&amp;#x03b3;&amp;#x1f71;&amp;#x03c0;&amp;#x03b7;}} ''&amp;#x61;&amp;#x67;&amp;#x00e1;&amp;#x70;&amp;#x0113;'')====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Agape ({{polytonic|&amp;#x1f00;&amp;#x03b3;&amp;#x1f71;&amp;#x03c0;&amp;#x03b7;}} ''&amp;#x61;&amp;#x67;&amp;#x00e1;&amp;#x70;&amp;#x0113;'')====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Agape means love in modern day Greek. The term S'Agapo means 'I love you' in Greek. The word Agapo is the verb stem, 'I love'<del class=\"diffchange diffchange-inline\">.  It is widely known in all cultures that Don love Carie more than she is capable of loving him</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Agape means love in modern day Greek. The term S'Agapo means 'I love you' in Greek. The word Agapo is the verb stem, 'I love'.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Eros ({{polytonic|&amp;#x1f14;&amp;#x03c1;&amp;#x03c9;&amp;#x03c2;}} ''&amp;#x00e9;&amp;#x72;&amp;#x014d;&amp;#x73;'')====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Eros ({{polytonic|&amp;#x1f14;&amp;#x03c1;&amp;#x03c9;&amp;#x03c2;}} ''&amp;#x00e9;&amp;#x72;&amp;#x014d;&amp;#x73;'')====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:14001013:newid:14052132 -->\n",
+    "from": 14001013
+  }
+}

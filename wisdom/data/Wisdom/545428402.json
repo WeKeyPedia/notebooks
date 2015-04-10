@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Taoism */",
+  "timestamp": "2013-03-19T13:05:55Z",
+  "revid": 545428402,
+  "user": "Knowledgent",
+  "parentid": 545428366,
+  "diff": {
+    "to": 545428402,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 89:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 89:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* By quietude alone one does not become a [[Wise old man|sage]] (muni) if he is foolish and ignorant. But he who, as if holding a pair of scales, takes the good and shuns the evil, is a wise man; he is indeed a muni by that very reason. He who understands both good and evil as they really are, is called a true sage.&lt;ref&gt;''Dhammapada'' v. 268–9&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* By quietude alone one does not become a [[Wise old man|sage]] (muni) if he is foolish and ignorant. But he who, as if holding a pair of scales, takes the good and shuns the evil, is a wise man; he is indeed a muni by that very reason. He who understands both good and evil as they really are, is called a true sage.&lt;ref&gt;''Dhammapada'' v. 268–9&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>==Taoism==</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">=</ins>==Taoism<ins class=\"diffchange diffchange-inline\">=</ins>==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[Taoism]], wisdom is construed as adherence to the [[Three Treasures (Taoism)]]: charity, simplicity, and humility.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[Taoism]], wisdom is construed as adherence to the [[Three Treasures (Taoism)]]: charity, simplicity, and humility.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:Knowing others is intelligence;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:Knowing others is intelligence;</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:545428366:newid:545428402 -->\n",
+    "from": 545428366
+  }
+}

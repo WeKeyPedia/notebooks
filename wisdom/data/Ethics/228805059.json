@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* See also */ del dead link; add another",
+  "timestamp": "2008-07-30T13:22:42Z",
+  "revid": 228805059,
+  "user": "Evb-wiki",
+  "parentid": 228804063,
+  "diff": {
+    "to": 228805059,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 119:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 119:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral absolutism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral absolutism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>| width=\"200pt\" valign=\"top\" |</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>| width=\"200pt\" valign=\"top\" |</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[History of ethics]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral nihilism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral nihilism]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Moral syncretism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Normative ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Normative ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|}</div></td>\n</tr>\n",
+    "from": 228804063
+  }
+}

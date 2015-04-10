@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Psychological perspectives */",
+  "timestamp": "2009-01-07T10:14:38Z",
+  "revid": 262499059,
+  "anon": "",
+  "user": "60.54.202.110",
+  "parentid": 261908100,
+  "diff": {
+    "to": 262499059,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Psychologists have gathered data on commonly held beliefs or folk theories about wisdom.&lt;ref&gt;Sternberg, R. J. (1985). Implicit theories of intelligence, creativity, and wisdom. Journal of Personality and Social Psychology, 49, 607–62.&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Psychologists have gathered data on commonly held beliefs or folk theories about wisdom.&lt;ref&gt;Sternberg, R. J. (1985). Implicit theories of intelligence, creativity, and wisdom. Journal of Personality and Social Psychology, 49, 607–62.&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>These analyses indicate that although \"there is an overlap of the implicit theory of wisdom with intelligence, perceptiveness, spirituality and shrewdness, it is evident that wisdom is a distinct term and not a composite of other terms.\"&lt;ref&gt;Brown, S. C., &amp; Greene, J. A. (2006). The Wisdom Development Scale: Translating the conceptual to the concrete.  Journal of College Student Development, 47, 1–19.&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>These analyses indicate that although \"there is an overlap of the implicit theory of wisdom with intelligence, perceptiveness, spirituality and shrewdness, it is evident that wisdom is a distinct term and not a composite of other terms.\"&lt;ref&gt;Brown, S. C., &amp; Greene, J. A. (2006). The Wisdom Development Scale: Translating the conceptual to the concrete.  Journal of College Student Development, 47, 1–19.&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:261908100:newid:262499059 -->\n",
+    "from": 261908100
+  }
+}

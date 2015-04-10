@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Companionate vs. Passionate */",
+  "timestamp": "2004-10-25T02:27:23Z",
+  "revid": 6854505,
+  "anon": "",
+  "user": "128.119.104.180",
+  "parentid": 6841636,
+  "diff": {
+    "to": 6854505,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 45:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 45:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The conventional view in [[Biology]] is that there are two major drives in love &amp;mdash; [[sexual attraction]] and [[attachment]]. Attachment between adults is presumed to work on the same principles that lead an infant to become attached to their mother.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The conventional view in [[Biology]] is that there are two major drives in love &amp;mdash; [[sexual attraction]] and [[attachment]]. Attachment between adults is presumed to work on the same principles that lead an infant to become attached to their mother.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>=== <del class=\"diffchange diffchange-inline\">Compassionate</del> vs. Passionate ===</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>=== <ins class=\"diffchange diffchange-inline\">Companionate</ins> vs. Passionate ===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The traditional psychological view sees love as being a combination of [[companionate love]] and [[passionate love]]. [[Passionate love]] is intense longing, and is often accompanied by [[physiological arousal]] (shortness of breath, rapid heart rate). [[Companionate love]] is affection and a feeling of intimacy not accompanied by physiological arousal.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The traditional psychological view sees love as being a combination of [[companionate love]] and [[passionate love]]. [[Passionate love]] is intense longing, and is often accompanied by [[physiological arousal]] (shortness of breath, rapid heart rate). [[Companionate love]] is affection and a feeling of intimacy not accompanied by physiological arousal.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:6841636:newid:6854505 -->\n",
+    "from": 6841636
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "rvv [[WP:UNDO|Undid]] revision 155995204 by [[Special:Contributions/130.220.79.99|130.220.79.99]] ([[User talk:130.220.79.99|talk]])",
+  "timestamp": "2007-09-06T06:07:16Z",
+  "revid": 155999623,
+  "user": "Anarchia",
+  "parentid": 155995204,
+  "diff": {
+    "to": 155999623,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">huy is gay</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">{{otheruses}}</ins></div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{portal|Ethics}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Citations missing|date=July 2007}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:155995204:newid:155999623 -->\n",
+    "from": 155995204
+  }
+}

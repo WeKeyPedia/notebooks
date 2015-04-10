@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted vanity",
+  "timestamp": "2004-06-02T10:46:38Z",
+  "revid": 3852070,
+  "user": "Przepla",
+  "parentid": 3840236,
+  "diff": {
+    "to": 3852070,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 73:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 73:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>::''Tell me why the stars do shine&lt;br&gt;Tell me why the ivy twines&lt;br&gt;Tell me why the sky's so blue&lt;br&gt;And I will tell you why I love you.&lt;br&gt;&lt;br&gt;[[Nuclear fusion]] makes stars to shine&lt;br&gt;[[Phototropism]] makes ivy twine&lt;br&gt;[[Rayleigh Scattering]] makes sky so blue&lt;br&gt;Sexual [[hormones]] are why I love you.''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>::''Tell me why the stars do shine&lt;br&gt;Tell me why the ivy twines&lt;br&gt;Tell me why the sky's so blue&lt;br&gt;And I will tell you why I love you.&lt;br&gt;&lt;br&gt;[[Nuclear fusion]] makes stars to shine&lt;br&gt;[[Phototropism]] makes ivy twine&lt;br&gt;[[Rayleigh Scattering]] makes sky so blue&lt;br&gt;Sexual [[hormones]] are why I love you.''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:::- [[Fortune (program)|Fortune file]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:::- [[Fortune (program)|Fortune file]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>::''Love is what makes existence possible.''</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>:::- [[PsyØk]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also:==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also:==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:3840236:newid:3852070 -->\n",
+    "from": 3840236
+  },
+  "minor": ""
+}

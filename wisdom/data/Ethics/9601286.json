@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/203.94.90.241|203.94.90.241]] to last version by 203.79.118.9",
+  "timestamp": "2005-01-22T17:10:20Z",
+  "revid": 9601286,
+  "user": "Jni",
+  "parentid": 9561201,
+  "diff": {
+    "to": 9601286,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 39:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 39:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Non-philosophers may wish to review the article ''[[simple view of ethics and morals]]'', which deals with ethics in much simpler language. That article focuses on how people who ''make''  decisions see things, while this one focuses on how people who ''study''  decisions see things. The two are typically not the same, as much more [[doubt]] and deliberation is involved in coming to agreement about principles that are to apply for a long time, for a whole [[society]] or for mankind, and those who make decisions see things more simply.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Non-philosophers may wish to review the article ''[[simple view of ethics and morals]]'', which deals with ethics in much simpler language. That article focuses on how people who ''make''  decisions see things, while this one focuses on how people who ''study''  decisions see things. The two are typically not the same, as much more [[doubt]] and deliberation is involved in coming to agreement about principles that are to apply for a long time, for a whole [[society]] or for mankind, and those who make decisions see things more simply.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Can I really do this.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Divisions of ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Divisions of ethics==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:9561201:newid:9601286 -->\n",
+    "from": 9561201
+  },
+  "minor": ""
+}

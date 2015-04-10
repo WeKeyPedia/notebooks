@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/130.132.143.49|130.132.143.49]] ([[User talk:130.132.143.49|talk]]) to last version by Jfdwolff",
+  "timestamp": "2005-12-06T05:29:50Z",
+  "revid": 30311142,
+  "user": "Derek Ross",
+  "parentid": 30310887,
+  "diff": {
+    "to": 30311142,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 244:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 244:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love sickness]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love sickness]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Platonic love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Platonic love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Rick loves January]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Other types of love (philias)===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Other types of love (philias)===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:30310887:newid:30311142 -->\n",
+    "from": 30310887
+  },
+  "minor": ""
+}

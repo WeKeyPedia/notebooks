@@ -1,0 +1,12 @@
+﻿{
+  "comment": "rv: to version by Nirvana2013",
+  "timestamp": "2005-07-25T20:06:33Z",
+  "revid": 19594666,
+  "user": "Vincej",
+  "parentid": 19590996,
+  "diff": {
+    "to": 19594666,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 234:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 234:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/broad/ftet/ftet.html C. D. Broad, ''Five Types of Ethical Theory'' (New York: Harcourt, Brace and Co., 1930).] </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/broad/ftet/ftet.html C. D. Broad, ''Five Types of Ethical Theory'' (New York: Harcourt, Brace and Co., 1930).] </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://www.ditext.com/ross/right.html W. D. Ross, ''The Right and the Good'' (1930)]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.ditext.com/ross/right.html W. D. Ross, ''The Right and the Good'' (1930)]<ins class=\"diffchange diffchange-inline\"> </ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://farrightwing.blogspot.com/ Far Right Wing, the blog] - A political blog site with a Far Right Wing perspective. </div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.galilean-library.org/int11.html An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.galilean-library.org/int11.html An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Stanford Encyclopedia of Philosophy</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Stanford Encyclopedia of Philosophy</div></td>\n</tr>\n",
+    "from": 19590996
+  }
+}

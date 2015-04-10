@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/Ender.krum|Ender.krum]] ([[User_talk:Ender.krum|talk]]) to last version by Kc9cqj using [[User:AmiDaniel/VandalProof|VandalProof]]",
+  "timestamp": "2006-05-20T13:59:07Z",
+  "revid": 54190351,
+  "user": "Yanksox",
+  "parentid": 54190006,
+  "diff": {
+    "to": 54190351,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 111:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 111:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.capezone.com/love.html Definition of Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.capezone.com/love.html Definition of Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.true-love-relationship-advice.com/true-love.html Foundation of True Love] </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.true-love-relationship-advice.com/true-love.html Foundation of True Love] </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://farsideofcomplexity.blogspot.com/2006/05/love-defined.html How to Love Someone]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:54190006:newid:54190351 -->\n",
+    "from": 54190006
+  }
+}

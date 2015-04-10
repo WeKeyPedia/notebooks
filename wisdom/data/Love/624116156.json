@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Bahá’í Faith */",
+  "timestamp": "2014-09-04T05:39:24Z",
+  "revid": 624116156,
+  "user": "Nusaybah",
+  "parentid": 624116123,
+  "diff": {
+    "to": 624116156,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 203:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 203:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Bahá’í Faith====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Bahá’í Faith====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In his Paris Talks, [[`Abdu'l-Bahá]] described four types of love:[http://reference.bahai.org/en/t/ab/PT/pt-59.html]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In his <ins class=\"diffchange diffchange-inline\">[[</ins>Paris Talks<ins class=\"diffchange diffchange-inline\">]]</ins>, [[`Abdu'l-Bahá]] described four types of love:[http://reference.bahai.org/en/t/ab/PT/pt-59.html]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># The love that flows from God to human beings</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># The love that flows from God to human beings</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:624116123:newid:624116156 -->\n",
+    "from": 624116123
+  }
+}

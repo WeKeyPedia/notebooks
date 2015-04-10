@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Related topics */ added Kohlberg",
+  "timestamp": "2005-07-17T17:22:05Z",
+  "revid": 19025724,
+  "user": "JoeSmack",
+  "parentid": 19015436,
+  "diff": {
+    "to": 19025724,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 48:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 48:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Related topics ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Related topics ==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Kohlberg's stages of moral development]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Nonhuman animals ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Nonhuman animals ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 19015436
+  }
+}

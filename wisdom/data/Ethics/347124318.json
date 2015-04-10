@@ -1,0 +1,13 @@
+﻿{
+  "comment": "[[Help:Reverting|Reverted]] edits by [[Special:Contributions/64.59.203.130|64.59.203.130]] ([[User talk:64.59.203.130|talk]]) to last version by Gleaman",
+  "timestamp": "2010-03-01T17:32:43Z",
+  "revid": 347124318,
+  "user": "Elkman",
+  "parentid": 347123651,
+  "diff": {
+    "to": 347124318,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' (also known as '''moral philosophy''') is a<del class=\"diffchange diffchange-inline\"> whats up</del> branch of [[philosophy]] which seeks to address questions about [[morality]]; that is, about concepts such as [[good]] and [[bad]], [[right]] and [[wrong]], [[justice]], and [[virtue]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' (also known as '''moral philosophy''') is a branch of [[philosophy]] which seeks to address questions about [[morality]]; that is, about concepts such as [[good]] and [[bad]], [[right]] and [[wrong]], [[justice]], and [[virtue]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:347123651:newid:347124318 -->\n",
+    "from": 347123651
+  },
+  "minor": ""
+}

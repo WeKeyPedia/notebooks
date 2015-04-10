@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* What is Love really about? */",
+  "timestamp": "2005-11-24T20:13:39Z",
+  "revid": 29156664,
+  "user": "Kendaniel",
+  "parentid": 29156371,
+  "diff": {
+    "to": 29156664,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 209:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 209:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>==What is Love really about?==</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is about acceptance and that is all.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is about acceptance and that is all.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:29156371:newid:29156664 -->\n",
+    "from": 29156371
+  }
+}

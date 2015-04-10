@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-07-15T04:14:55Z",
+  "revid": 18865077,
+  "anon": "",
+  "user": "66.8.167.253",
+  "parentid": 18820155,
+  "diff": {
+    "to": 18865077,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 39:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 39:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Morality is not [[law]], even if law reflects or intends to reflect morality.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Morality is not [[law]], even if law reflects or intends to reflect morality.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In some <del class=\"diffchange diffchange-inline\">juridical</del> systems, the word '''morality''' concretely means a requirement for the access to certain charges or careers, or for the obtaining of certain licenses or concessions, and generally consists of the absence of previous records on (e.g.) crimes, [[bankruptcy]], political or commercial irregularities.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In some <ins class=\"diffchange diffchange-inline\">judicial</ins> systems, the word '''morality''' concretely means a requirement for the access to certain charges or careers, or for the obtaining of certain licenses or concessions, and generally consists of the absence of previous records on (e.g.) crimes, [[bankruptcy]], political or commercial irregularities.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In some systems, the lack of morality of the individual can also be a sufficient cause for punishment, or can be an element for the grading of the punishment.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In some systems, the lack of morality of the individual can also be a sufficient cause for punishment, or can be an element for the grading of the punishment.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:18820155:newid:18865077 -->\n",
+    "from": 18820155
+  }
+}

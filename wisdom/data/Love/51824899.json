@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-05-06T12:50:02Z",
+  "revid": 51824899,
+  "anon": "",
+  "user": "144.136.114.45",
+  "parentid": 51824734,
+  "diff": {
+    "to": 51824899,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 27:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 27:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional and sexual desire.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional and sexual desire.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[<del class=\"diffchange diffchange-inline\">KELLY</del> LOVE]] - a love that <del class=\"diffchange diffchange-inline\">michael</del> <del class=\"diffchange diffchange-inline\">fitzgerald</del> <del class=\"diffchange diffchange-inline\">has</del> for <del class=\"diffchange diffchange-inline\">kelly</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[<ins class=\"diffchange diffchange-inline\">GAY</ins> LOVE]] - a love that <ins class=\"diffchange diffchange-inline\">jonathan</ins> <ins class=\"diffchange diffchange-inline\">terry</ins> <ins class=\"diffchange diffchange-inline\">and madison waller have</ins> for <ins class=\"diffchange diffchange-inline\">cocks</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:51824734:newid:51824899 -->\n",
+    "from": 51824734
+  }
+}

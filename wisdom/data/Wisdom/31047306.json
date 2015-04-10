@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2005-12-12T13:47:44Z",
+  "revid": 31047306,
+  "user": "Nirvana2013",
+  "parentid": 28132944,
+  "diff": {
+    "to": 31047306,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 39:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 39:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Philosophical terminology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Philosophical terminology]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Category:Spirituality]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[cs:Moudrost]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[cs:Moudrost]]</div></td>\n</tr>\n",
+    "from": 28132944
+  }
+}

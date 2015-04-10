@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/116.212.202.98|116.212.202.98]] ([[User talk:116.212.202.98|talk]]) to last revision by Edward321 ([[WP:HG|HG]])",
+  "timestamp": "2010-07-27T04:49:56Z",
+  "revid": 375677037,
+  "user": "L Kensington",
+  "parentid": 375676984,
+  "diff": {
+    "to": 375677037,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' (also known as '''moral philosophy''') is a <del class=\"diffchange diffchange-inline\">rubish</del> <del class=\"diffchange diffchange-inline\">stuff!!</del> <del class=\"diffchange diffchange-inline\">:)</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' (also known as '''moral philosophy''') is a <ins class=\"diffchange diffchange-inline\">branch</ins> <ins class=\"diffchange diffchange-inline\">of</ins> <ins class=\"diffchange diffchange-inline\">[[philosophy]] that addresses questions about [[morality]]—that is, concepts such as good vs. bad, noble vs. ignoble, right vs. wrong, and matters of [[justice]], [[love]], [[peace]], and [[virtue]].</ins></div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[meta-ethics]], about the theoretical meaning and reference of moral propositions and how their [[truth-value]]s (if any) may be determined;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[meta-ethics]], about the theoretical meaning and reference of moral propositions and how their [[truth-value]]s (if any) may be determined;</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:375676984:newid:375677037 -->\n",
+    "from": 375676984
+  },
+  "minor": ""
+}

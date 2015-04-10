@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Types */ Greek words for love link",
+  "timestamp": "2006-06-28T09:54:29Z",
+  "revid": 60991815,
+  "user": "Lumos3",
+  "parentid": 60991644,
+  "diff": {
+    "to": 60991815,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 17:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 17:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>There are also 6 greek terms for differing types of love.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>There are also <ins class=\"diffchange diffchange-inline\">[[Greek words for love|</ins>6 greek terms<ins class=\"diffchange diffchange-inline\">]]</ins> for differing types of love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Eros (love)|Eros]]-- erotic love; sometimes portrayed as romantic love.  More characterized by passion to a singular person and sexual desire.&lt;br&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Eros (love)|Eros]]-- erotic love; sometimes portrayed as romantic love.  More characterized by passion to a singular person and sexual desire.&lt;br&gt;</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:60991644:newid:60991815 -->\n",
+    "from": 60991644
+  }
+}

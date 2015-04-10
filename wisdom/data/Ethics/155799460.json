@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2007-09-05T08:25:36Z",
+  "revid": 155799460,
+  "anon": "",
+  "user": "70.187.181.207",
+  "parentid": 155744826,
+  "diff": {
+    "to": 155799460,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 131:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 131:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-environmental/ Environmental Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-environmental/ Environmental Ethics]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/feminism-ethics/ Feminist Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/feminism-ethics/ Feminist Ethics]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>** [http://www.intelligenceispower.com/ Modern Moral Philosophy and Current Social Issues]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/natural-law-ethics/ Natural Law Tradition in Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/natural-law-ethics/ Natural Law Tradition in Ethics]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-virtue/ Virtue Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-virtue/ Virtue Ethics]</div></td>\n</tr>\n",
+    "from": 155744826
+  }
+}

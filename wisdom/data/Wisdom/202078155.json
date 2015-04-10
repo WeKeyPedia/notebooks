@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2008-03-30T16:31:28Z",
+  "revid": 202078155,
+  "anon": "",
+  "user": "82.35.24.105",
+  "parentid": 201030309,
+  "diff": {
+    "to": 202078155,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 137:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 137:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[de:Weisheit]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[de:Weisheit]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[eo:Saĝo]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[eo:Saĝo]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[el:Σοφία]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[es:Sabiduría (filosofía)]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[es:Sabiduría (filosofía)]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ff:Ndimaagu]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ff:Ndimaagu]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:201030309:newid:202078155 -->\n",
+    "from": 201030309
+  }
+}

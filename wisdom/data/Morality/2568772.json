@@ -1,0 +1,13 @@
+﻿{
+  "comment": "+zh:",
+  "timestamp": "2004-02-14T04:44:29Z",
+  "revid": 2568772,
+  "user": "Tomchiukc",
+  "parentid": 2386975,
+  "diff": {
+    "to": 2568772,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 42:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 42:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fr:morale]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fr:morale]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Moralno&amp;#347;&amp;#263;]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Moralno&amp;#347;&amp;#263;]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[zh:&amp;#36947;&amp;#24503;]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:2386975:newid:2568772 -->\n",
+    "from": 2386975
+  },
+  "minor": ""
+}

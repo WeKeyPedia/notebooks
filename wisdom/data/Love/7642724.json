@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-11-19T10:52:57Z",
+  "revid": 7642724,
+  "anon": "",
+  "user": "212.219.144.250",
+  "parentid": 7642666,
+  "diff": {
+    "to": 7642724,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">shawn</del> <del class=\"diffchange diffchange-inline\">o'brien</del> <del class=\"diffchange diffchange-inline\">loves</del> <del class=\"diffchange diffchange-inline\">cock</del> <del class=\"diffchange diffchange-inline\">and</del> <del class=\"diffchange diffchange-inline\">so</del> <del class=\"diffchange diffchange-inline\">does scott ingles</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">Sarah</ins> <ins class=\"diffchange diffchange-inline\">johns</ins> <ins class=\"diffchange diffchange-inline\">likes</ins> <ins class=\"diffchange diffchange-inline\">it</ins> <ins class=\"diffchange diffchange-inline\">up</ins> <ins class=\"diffchange diffchange-inline\">the</ins> <ins class=\"diffchange diffchange-inline\">ass</ins></div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:7642666:newid:7642724 -->\n",
+    "from": 7642666
+  }
+}

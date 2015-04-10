@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-03-07T01:54:07Z",
+  "revid": 42575688,
+  "anon": "",
+  "user": "68.187.230.89",
+  "parentid": 42572006,
+  "diff": {
+    "to": 42575688,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 234:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 234:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/natural-law-ethics/ Natural Law Tradition in Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/natural-law-ethics/ Natural Law Tradition in Ethics]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-virtue/ Virtue Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-virtue/ Virtue Ethics]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>** [http://www.virtualdissent.com Modern Ethics]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy navigation}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy navigation}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:42572006:newid:42575688 -->\n",
+    "from": 42572006
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "[[Help:Reverting|Reverted]] edits by [[Special:Contributions/111.125.81.226|111.125.81.226]] ([[User talk:111.125.81.226|talk]]) to last version by Pfhorrest",
+  "timestamp": "2010-11-22T15:07:36Z",
+  "revid": 398255800,
+  "user": "Ohnoitsjamie",
+  "parentid": 398235850,
+  "diff": {
+    "to": 398255800,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 29:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 29:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Theories which claim that morality is derived from reasoning about implied imperatives ([[universal prescriptivism]]), the edicts of a god ([[divine command theory]]), or the hypothetical decrees of a perfectly rational being ([[ideal observer theory]]), are considered anti-realist the robust sense used here, but are considered realist in the sense synonymous with [[moral universalism]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Theories which claim that morality is derived from reasoning about implied imperatives ([[universal prescriptivism]]), the edicts of a god ([[divine command theory]]), or the hypothetical decrees of a perfectly rational being ([[ideal observer theory]]), are considered anti-realist the robust sense used here, but are considered realist in the sense synonymous with [[moral universalism]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The moral universalism is a martys mabahong kili kili ni john candy sicat sikat na sikat ang baho ng kili kili nya daig pa ang hanging habagat. this proves the theory of kilikili ni candy theory</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Anthropological perspectives==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Anthropological perspectives==</div></td>\n</tr>\n",
+    "from": 398235850
+  },
+  "minor": ""
+}

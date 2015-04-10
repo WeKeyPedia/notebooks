@@ -1,0 +1,12 @@
+﻿{
+  "comment": "[[WP:UNDO|Undid]] revision 296772401 by [[Special:Contributions/24.73.213.106|24.73.213.106]] ([[User talk:24.73.213.106|talk]])",
+  "timestamp": "2009-06-16T18:18:05Z",
+  "revid": 296800455,
+  "user": "Dr.enh",
+  "parentid": 296772401,
+  "diff": {
+    "to": 296800455,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 250:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 250:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מידות]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מידות]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>KISS MY ASS!!!</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:296772401:newid:296800455 -->\n",
+    "from": 296772401
+  }
+}

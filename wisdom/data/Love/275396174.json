@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2009-03-06T14:24:04Z",
+  "revid": 275396174,
+  "user": "SoulRiser",
+  "parentid": 272252261,
+  "diff": {
+    "to": 275396174,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 208:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 208:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wiktionarypar|I love you}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wiktionarypar|I love you}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://iserver.saddleback.cc.ca.us/faculty/jfritsen/articles.html The Science of Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://iserver.saddleback.cc.ca.us/faculty/jfritsen/articles.html The Science of Love]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.themeaningoflove.net/ Exploring the meaning of unconditional love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.in-mind.org/issue-6/the-anatomy-of-love.html A whimsical overview of scientific research on love, with references]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.in-mind.org/issue-6/the-anatomy-of-love.html A whimsical overview of scientific research on love, with references]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:272252261:newid:275396174 -->\n",
+    "from": 272252261
+  }
+}

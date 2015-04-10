@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Human love */ rm [[Chaitanya's love for all mankind]], nonsense",
+  "timestamp": "2006-02-02T18:37:22Z",
+  "revid": 37875333,
+  "user": "Bobet",
+  "parentid": 37808297,
+  "diff": {
+    "to": 37875333,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 268:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 268:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Platonic love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Platonic love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Puppy love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Puppy love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Chaitanya's love for all mankind]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{col-end}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{col-end}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:37808297:newid:37875333 -->\n",
+    "from": 37808297
+  }
+}

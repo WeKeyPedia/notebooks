@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edit of [[User:148.241.76.23|148.241.76.23]] ([[User_talk:148.241.76.23|talk]]), changed back to last version by [[User:70.108.253.23|70.108.253.23]]",
+  "timestamp": "2006-04-24T19:14:29Z",
+  "revid": 49960637,
+  "user": "Buchanan-Hermit",
+  "parentid": 49953810,
+  "diff": {
+    "to": 49960637,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 25:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 25:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Religious love]] – devotion to one’s deity or theology.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Religious love]] – devotion to one’s deity or theology.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional and sexual desire.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional and sexual desire.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned.<del class=\"diffchange diffchange-inline\"> Example:Ivan</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:49953810:newid:49960637 -->\n",
+    "from": 49953810
+  },
+  "minor": ""
+}

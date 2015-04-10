@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External Links */",
+  "timestamp": "2004-12-25T08:46:58Z",
+  "revid": 9330679,
+  "anon": "",
+  "user": "172.189.78.140",
+  "parentid": 8803954,
+  "diff": {
+    "to": 9330679,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 217:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 217:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External Links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External Links==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://www.<del class=\"diffchange diffchange-inline\">eblaforum</del>.org/<del class=\"diffchange diffchange-inline\">library/philosophy/intphi11</del>.html An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.<ins class=\"diffchange diffchange-inline\">galilean-library</ins>.org/<ins class=\"diffchange diffchange-inline\">int11</ins>.html An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 8803954
+  }
+}

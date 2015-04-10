@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2005-07-09T16:20:58Z",
+  "revid": 18471488,
+  "anon": "",
+  "user": "69.220.112.219",
+  "parentid": 18466510,
+  "diff": {
+    "to": 18471488,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 231:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 231:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://www.ditext.com/broad/ftet/ftet.html Five Types of Ethical Theory (New York: Harcourt, Brace and Co., 1930).] </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.ditext.com/broad/ftet/ftet.html <ins class=\"diffchange diffchange-inline\">C. D. Broad, ''</ins>Five Types of Ethical Theory<ins class=\"diffchange diffchange-inline\">''</ins> (New York: Harcourt, Brace and Co., 1930).] </div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.ditext.com/ross/right.html W. D. Ross, ''The Right and the Good'' (1930)] </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.galilean-library.org/int11.html An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.galilean-library.org/int11.html An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Stanford Encyclopedia of Philosophy</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Stanford Encyclopedia of Philosophy</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:18466510:newid:18471488 -->\n",
+    "from": 18466510
+  }
+}

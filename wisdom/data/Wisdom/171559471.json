@@ -1,0 +1,13 @@
+﻿{
+  "comment": "[[WP:UNDO|Undid]] revision 171454976 by [[Special:Contributions/165.139.66.8|165.139.66.8]] ([[User talk:165.139.66.8|talk]])",
+  "timestamp": "2007-11-15T00:42:21Z",
+  "revid": 171559471,
+  "user": "Squids and Chips",
+  "parentid": 171454976,
+  "diff": {
+    "to": 171559471,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&lt;HTML&gt;</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&lt;HEAD&gt;</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&lt;TITLE&gt;Amos Homer&lt;/TITLE&gt;&lt;/HEAD&gt;</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{three other uses||the apocryphal book of the Bible|Book of Wisdom|the 1986 American crime film|Wisdom (film)|people named Wisdom|Wisdom (surname)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{three other uses||the apocryphal book of the Bible|Book of Wisdom|the 1986 American crime film|Wisdom (film)|people named Wisdom|Wisdom (surname)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 160:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 157:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:קלוגשאפט]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:קלוגשאפט]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:智慧]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:智慧]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&lt;HTML&gt;</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:171454976:newid:171559471 -->\n",
+    "from": 171454976
+  },
+  "minor": ""
+}

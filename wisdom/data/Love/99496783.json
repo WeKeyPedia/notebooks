@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Definitional issues */",
+  "timestamp": "2007-01-09T05:04:36Z",
+  "revid": 99496783,
+  "user": "Ayesee",
+  "parentid": 99473056,
+  "diff": {
+    "to": 99496783,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 78:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 78:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Mary Baker Eddy]] the discoverer of [[Christian Science]] defines Love as one of 7 synonyms for God. This indicates that Diety is more than a being that has benevolent concerns for mankind, but rather that God is Love itself.   Love is also synonymous with Principle, Mind, Soul, Spirit, Life, and Truth and indicate the depth and wholeness of Love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Mary Baker Eddy]] the discoverer of [[Christian Science]] defines Love as one of 7 synonyms for God. This indicates that Diety is more than a being that has benevolent concerns for mankind, but rather that God is Love itself.   Love is also synonymous with Principle, Mind, Soul, Spirit, Life, and Truth and indicate the depth and wholeness of Love.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Robert Anson Heinlein]], one of the most prolific science fiction writers of the 20th century, defined love in his novel [[Stranger in a Strange Land]] as the point of emotional connection which leads to the happiness of another being essential to one's own well being. This definition ignores the ideas of religion and science and instead focuses on the meaning of love as it relates to the individual.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n",
+    "from": 99473056
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Revert to revision 88191792 dated 2006-11-16 12:22:16 by AntiVandalBot using [[:en:Wikipedia:Tools/Navigation_popups|popups]]",
+  "timestamp": "2006-11-18T23:39:51Z",
+  "revid": 88704890,
+  "user": "UberScienceNerd",
+  "parentid": 88704789,
+  "diff": {
+    "to": 88704890,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 258:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 258:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[uk:Етика]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[uk:Етика]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>yakup was here 19/11/06</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:88704789:newid:88704890 -->\n",
+    "from": 88704789
+  }
+}

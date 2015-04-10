@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Religious views */",
+  "timestamp": "2006-10-19T14:37:19Z",
+  "revid": 82427209,
+  "anon": "",
+  "user": "169.207.56.145",
+  "parentid": 82427185,
+  "diff": {
+    "to": 82427209,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 80:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 80:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The passage dodi li v'ani lo (my beloved is mine and i am his [Song of Songs 2:16]) is often engraved on wedding bands</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The passage dodi li v'ani lo (my beloved is mine and i am his [Song of Songs 2:16]) is often engraved on wedding bands</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>I wanna get married someday. I'll be waiting for you Wikipedia...</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Definitional issues ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Definitional issues ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:82427185:newid:82427209 -->\n",
+    "from": 82427185
+  }
+}

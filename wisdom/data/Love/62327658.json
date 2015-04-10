@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Revert to revision 62316109 dated 2006-07-06 05:04:06 by Aaron Brenneman using [[:en:Wikipedia:Tools/Navigation_popups|popups]]",
+  "timestamp": "2006-07-06T06:55:25Z",
+  "revid": 62327658,
+  "user": "Chris is me",
+  "parentid": 62327640,
+  "diff": {
+    "to": 62327658,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 114:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 114:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.love-wiki.com Love Wiki, A growing Wiki based entirely on love.]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.love-wiki.com Love Wiki, A growing Wiki based entirely on love.]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.yarzheit.com/heavensregister/lifeoflove.htm] Explanation of True Love, living a \"Life of Love\" from Sefer Shinuyim - The Ancient Jewish Book of Changes,  from SeferShinuyim.com</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:'''See:''' [http://en.wikipedia.org/wiki/Talk:Love#External_links Talk Page] to vote on which links should go here</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:'''See:''' [http://en.wikipedia.org/wiki/Talk:Love#External_links Talk Page] to vote on which links should go here</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:62327640:newid:62327658 -->\n",
+    "from": 62327640
+  }
+}

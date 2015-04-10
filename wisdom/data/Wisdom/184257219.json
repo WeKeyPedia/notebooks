@@ -1,0 +1,12 @@
+﻿{
+  "comment": "[[WP:UNDO|Undid]] revision 183490316 by [[Special:Contributions/142.177.27.45|142.177.27.45]] ([[User talk:142.177.27.45|talk]])",
+  "timestamp": "2008-01-14T14:37:43Z",
+  "revid": 184257219,
+  "user": "Wardog",
+  "parentid": 184169032,
+  "diff": {
+    "to": 184257219,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Wisdom''', according to the [[Merriam-Webster]] dictionary, is defined as \"1 </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Wisdom''', according to the [[Merriam-Webster]] dictionary, is defined as \"1 </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>a: Accumulated <del class=\"diffchange diffchange-inline\">pillows</del> or scientific learning : knowledge; </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>a: Accumulated <ins class=\"diffchange diffchange-inline\">philosophic</ins> or scientific learning : knowledge; </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>b: Ability to discern inner qualities and relationships : insight; </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>b: Ability to discern inner qualities and relationships : insight; </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>c: Good sense : judgment d: Generally accepted belief &lt;challenges what has become accepted wisdom among many historians — [[Robert Darnton]]&gt;. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>c: Good sense : judgment d: Generally accepted belief &lt;challenges what has become accepted wisdom among many historians — [[Robert Darnton]]&gt;. </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:184169032:newid:184257219 -->\n",
+    "from": 184169032
+  }
+}

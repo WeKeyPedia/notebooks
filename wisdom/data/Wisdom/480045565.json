@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */",
+  "timestamp": "2012-03-03T22:03:08Z",
+  "revid": 480045565,
+  "user": "Cybercobra",
+  "parentid": 480034218,
+  "diff": {
+    "to": 480045565,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 129:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 129:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Sapiens (disambiguation)]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Sapiens (disambiguation)]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[School of Hard Knocks]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[School of Hard Knocks]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Ecological wisdom]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">*</ins>[[Ecological wisdom]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Self-awareness]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Self-awareness]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Sentience]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Sentience]]</div></td>\n</tr>\n",
+    "from": 480034218
+  },
+  "minor": ""
+}

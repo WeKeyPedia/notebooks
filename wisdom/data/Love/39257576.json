@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/81.97.118.52|81.97.118.52]] ([[User talk:81.97.118.52|talk]]) to last version by 80.229.43.40",
+  "timestamp": "2006-02-11T22:31:29Z",
+  "revid": 39257576,
+  "user": "Sceptre",
+  "parentid": 39257549,
+  "diff": {
+    "to": 39257576,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 343:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 343:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tl:Pag-ibig]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tl:Pag-ibig]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Tom Loves Kaela. So very much. Forever.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:39257549:newid:39257576 -->\n",
+    "from": 39257549
+  },
+  "minor": ""
+}

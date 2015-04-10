@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/172.141.244.121|172.141.244.121]] ([[User talk:172.141.244.121|talk]]) to last version by DVD R W",
+  "timestamp": "2006-08-20T21:41:49Z",
+  "revid": 70837599,
+  "user": "DVD R W",
+  "parentid": 70837307,
+  "diff": {
+    "to": 70837599,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Lust|Lust-love]] - affection characterized by lust, caring about the desired one for a short amount of time, in other words, semi-true love</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Lust|Lust-love]] - affection characterized by lust, caring about the desired one for a short amount of time, in other words, semi-true love</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Kris|Kris + Alana]] - Love At Its Foremost, Remember The Good Times?</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n</tr>\n",
+    "from": 70837307
+  },
+  "minor": ""
+}

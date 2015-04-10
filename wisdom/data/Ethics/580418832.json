@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */",
+  "timestamp": "2013-11-06T07:18:52Z",
+  "revid": 580418832,
+  "anon": "",
+  "user": "141.244.79.80",
+  "parentid": 580101369,
+  "diff": {
+    "to": 580418832,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 228:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 228:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral psychology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral psychology]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Outline of ethics]] ''(list of ethics-related articles, arranged by sub-topic)''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Outline of ethics]] ''(list of ethics-related articles, arranged by sub-topic)''</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Theory of justification]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:580101369:newid:580418832 -->\n",
+    "from": 580101369
+  }
+}

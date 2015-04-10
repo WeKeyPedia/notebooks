@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* References */",
+  "timestamp": "2012-08-12T19:36:03Z",
+  "revid": 507085853,
+  "user": "Dohaschmoha",
+  "parentid": 507085163,
+  "diff": {
+    "to": 507085853,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 194:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 194:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Lyon, D.  (1999),  Postmodernity, 2nd ed, [[Open University Press]], Buckingham.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Lyon, D.  (1999),  Postmodernity, 2nd ed, [[Open University Press]], Buckingham.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Singer, P.  (2000), Writings on an ethical life, [[Harper Collins Publishers]], London.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Singer, P.  (2000), Writings on an ethical life, [[Harper Collins Publishers]], London.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* Triplett, J. M. (2011).  On ethics, diversity, and conflict:  The graduate years and beyond, Vol. I.  Raleigh, NC:  Lulu.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Further reading==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Further reading==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:507085163:newid:507085853 -->\n",
+    "from": 507085163
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/86.151.94.48|86.151.94.48]] ([[User talk:86.151.94.48|talk]]) to last revision by Akashner ([[WP:HG|HG]])",
+  "timestamp": "2010-08-04T13:04:47Z",
+  "revid": 377112727,
+  "user": "Iridescent",
+  "parentid": 377112410,
+  "diff": {
+    "to": 377112727,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">[[Image:Different degrees of pubic hair coverage.JPG|400px]]</del>{{Redirect|Appropriate||Appropriation (disambiguation)}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Redirect|Appropriate||Appropriation (disambiguation)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Cleanup|date=March 2010}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Cleanup|date=March 2010}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 377112410
+  },
+  "minor": ""
+}

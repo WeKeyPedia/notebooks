@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-11-13T17:31:34Z",
+  "revid": 28221688,
+  "anon": "",
+  "user": "212.32.123.161",
+  "parentid": 28178788,
+  "diff": {
+    "to": 28221688,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 9:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 9:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Of course, in any society there is a divergence between the notion of how we ought to behave and the reality of how we behave; so there is a difference between hypothetical [[pundit (politics)|pundit]]ry and real morality. He whom we call \"moral\" is moral only after he behaves in accordance with either (if we take the pluralist stance) our perception of \"morality\", or (if we accept its existence) in accordance with self-interest.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Of course, in any society there is a divergence between the notion of how we ought to behave and the reality of how we behave; so there is a difference between hypothetical [[pundit (politics)|pundit]]ry and real morality. He whom we call \"moral\" is moral only after he behaves in accordance with either (if we take the pluralist stance) our perception of \"morality\", or (if we accept its existence) in accordance with self-interest.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>==An overview of morality==</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Rational Morality==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Rational Morality==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:28178788:newid:28221688 -->\n",
+    "from": 28178788
+  }
+}

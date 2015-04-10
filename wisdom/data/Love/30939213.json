@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/220.255.57.34|220.255.57.34]] ([[User talk:220.255.57.34|talk]]) to last version by JoanneB",
+  "timestamp": "2005-12-11T16:46:48Z",
+  "revid": 30939213,
+  "user": "Johnleemk",
+  "parentid": 30939199,
+  "diff": {
+    "to": 30939213,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 94:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 94:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:baglione.jpg|right|thumb|200px|'Sacred Love versus Profane Love' by Giovanni Baglione]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:baglione.jpg|right|thumb|200px|'Sacred Love versus Profane Love' by Giovanni Baglione]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>I LOVE IAN KOH CHANG YANG!!!</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:30939199:newid:30939213 -->\n",
+    "from": 30939199
+  },
+  "minor": ""
+}

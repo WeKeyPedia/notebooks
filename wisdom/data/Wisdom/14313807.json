@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-05-13T04:52:50Z",
+  "revid": 14313807,
+  "anon": "",
+  "user": "148.85.205.214",
+  "parentid": 13643247,
+  "diff": {
+    "to": 14313807,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some people say that the most universally and usefully-wise sages sense, work with and align themselves and others to [[life]].  In this view, sages help people appreciate the intrinsic [[wholeness]] and [[interconnectedness]] of life.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some people say that the most universally and usefully-wise sages sense, work with and align themselves and others to [[life]].  In this view, sages help people appreciate the intrinsic [[wholeness]] and [[interconnectedness]] of life.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Classically, wisdom is considered to come with [[age]]. Some [[religion]]s consider wisdom a gift granted by [[God]]. The [[Jew]]ish book of [[Proverbs]] in the [[Old Testament]] states `Fear of God is the beginning of Wisdom`. However, the Christian Bible as a whole recognises that wisdom can come both as a gift of God and through man's efforts ([<del class=\"diffchange diffchange-inline\">http://</del>http://www.knightnet.org.uk/christian/wisdom.htm study reference]).</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Classically, wisdom is considered to come with [[age]]. Some [[religion]]s consider wisdom a gift granted by [[God]]. The [[Jew]]ish book of [[Proverbs]] in the [[Old Testament]] states `Fear of God is the beginning of Wisdom`. However, the Christian Bible as a whole recognises that wisdom can come both as a gift of God and through man's efforts ([http://www.knightnet.org.uk/christian/wisdom.htm study reference]).</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n",
+    "from": 13643247
+  }
+}

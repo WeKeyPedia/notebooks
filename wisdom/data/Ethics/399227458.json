@@ -1,0 +1,13 @@
+﻿{
+  "comment": "robot Removing: [[km:ក្រមសីលធ៌ម]]",
+  "timestamp": "2010-11-27T23:40:40Z",
+  "revid": 399227458,
+  "user": "DixonDBot",
+  "parentid": 399205748,
+  "diff": {
+    "to": 399227458,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 238:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 238:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[be:Этыка]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[be:Этыка]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[be-x-old:Этыка]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[be-x-old:Этыка]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[km:ក្រមសីលធ៌ម]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bar:Ethik]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bar:Ethik]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bs:Etika]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bs:Etika]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:399205748:newid:399227458 -->\n",
+    "from": 399205748
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/65.93.205.49|65.93.205.49]] to last version by 62.162.216.249",
+  "timestamp": "2005-05-31T03:11:23Z",
+  "revid": 14472227,
+  "user": "Hadal",
+  "parentid": 14472095,
+  "diff": {
+    "to": 14472227,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Love''' has many meanings in [[English language|English]].<del class=\"diffchange diffchange-inline\">(like me )</del> It can mean an intense feeling of [[affection]], an [[emotion]] or emotional state. In ordinary use, it usually refers to interpersonal love. Probably due to its large psychological relevance, love is one of the most common themes in art. The majority of modern [[movies]] have a love story and most [[pop music]] is about love.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Love''' has many meanings in [[English language|English]]. It can mean an intense feeling of [[affection]], an [[emotion]] or emotional state. In ordinary use, it usually refers to interpersonal love. Probably due to its large psychological relevance, love is one of the most common themes in art. The majority of modern [[movies]] have a love story and most [[pop music]] is about love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining love==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining love==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:14472095:newid:14472227 -->\n",
+    "from": 14472095
+  },
+  "minor": ""
+}

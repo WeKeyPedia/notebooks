@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Positive psychology */ self-knowledge",
+  "timestamp": "2008-04-12T20:33:10Z",
+  "revid": 205189379,
+  "user": "Dr.enh",
+  "parentid": 205136994,
+  "diff": {
+    "to": 205189379,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 37:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 37:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | isbn = 0-19-516701-5}}&lt;/ref&gt; With this definition, wisdom can be measured using the following criteria.&lt;ref name=\"CSVperspective\" /&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | isbn = 0-19-516701-5}}&lt;/ref&gt; With this definition, wisdom can be measured using the following criteria.&lt;ref name=\"CSVperspective\" /&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* A wise person can discern the core of important problems.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* A wise person can discern the core of important problems.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* A wise person <del class=\"diffchange diffchange-inline\">is</del> [[<del class=\"diffchange diffchange-inline\">Introspection|introspective</del>]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* A wise person <ins class=\"diffchange diffchange-inline\">has</ins> [[<ins class=\"diffchange diffchange-inline\">self-knowledge</ins>]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* A wise person seems [[Sincerity|sincere]] and direct with others.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* A wise person seems [[Sincerity|sincere]] and direct with others.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Others ask wise people for advice.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Others ask wise people for advice.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:205136994:newid:205189379 -->\n",
+    "from": 205136994
+  }
+}

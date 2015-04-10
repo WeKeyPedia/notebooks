@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* See also */ fix link",
+  "timestamp": "2009-01-13T04:18:45Z",
+  "revid": 263741302,
+  "user": "American Eagle",
+  "parentid": 262882423,
+  "diff": {
+    "to": 263741302,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 93:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 93:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Book of Wisdom]] (A [[Jewish]] book, part of some [[Christian]] Bibles)</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Book of Wisdom]] (A [[<ins class=\"diffchange diffchange-inline\">Judaism|</ins>Jewish]] book, part of some [[<ins class=\"diffchange diffchange-inline\">Christianity|</ins>Christian]] Bibles)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ecological wisdom]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ecological wisdom]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Intelligence]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Intelligence]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:262882423:newid:263741302 -->\n",
+    "from": 262882423
+  }
+}

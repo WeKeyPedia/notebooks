@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-04-25T19:36:26Z",
+  "revid": 12816049,
+  "anon": "",
+  "user": "68.51.51.240",
+  "parentid": 12804581,
+  "diff": {
+    "to": 12816049,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 48:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 48:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Ethics]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>==External Links==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.thewarningsigns.blogspot.com  End School Violence]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:12804581:newid:12816049 -->\n",
+    "from": 12804581
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "fixing a circular link",
+  "timestamp": "2015-03-15T22:41:56Z",
+  "revid": 651550660,
+  "user": "Jarble",
+  "parentid": 648581164,
+  "diff": {
+    "to": 651550660,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Applied ethics]] draws upon ethical theory in order to ask what a person is obligated to do in some very specific situation, or within some particular domain of action (such as business)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Applied ethics]] draws upon ethical theory in order to ask what a person is obligated to do in some very specific situation, or within some particular domain of action (such as business)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Related fields are [[moral psychology]], [[descriptive ethics]], and [[value theory]]. Ethics seeks to resolve questions dealing with human morality—concepts such as [[good and evil]], <del class=\"diffchange diffchange-inline\">[[</del>right and wrong]], [[virtue]] and [[vice]], [[justice]] and [[crime]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Related fields are [[moral psychology]], [[descriptive ethics]], and [[value theory]]. Ethics seeks to resolve questions dealing with human morality—concepts such as [[good and evil]], right and <ins class=\"diffchange diffchange-inline\">[[</ins>wrong]], [[virtue]] and [[vice]], [[justice]] and [[crime]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining ethics==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:648581164:newid:651550660 -->\n",
+    "from": 648581164
+  }
+}

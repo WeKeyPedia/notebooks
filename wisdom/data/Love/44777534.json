@@ -1,0 +1,13 @@
+﻿{
+  "comment": "rv - check line 1",
+  "timestamp": "2006-03-21T06:13:22Z",
+  "revid": 44777534,
+  "user": "DragonWR12LB",
+  "parentid": 44744089,
+  "diff": {
+    "to": 44777534,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 17:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 17:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Cultural differences make any universal definition of love difficult to establish. See the [[Sapir-Whorf hypothesis]]. Expressions of love may include the love for a [[soul]] or mind, the love of laws and organizations, love for a body, love for nature, love of food, love of money, love for learning, love of power, love of fame, love for the respect of others, et cetera.  Different people place varying degrees of importance on the kinds of love they receive. Love is essentially an abstract concept, easier to experience than to explain.  Many believe that \"''Love conquers all''\".</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Cultural differences make any universal definition of love difficult to establish. See the [[Sapir-Whorf hypothesis]]. Expressions of love may include the love for a [[soul]] or mind, the love of laws and organizations, love for a body, love for nature, love of food, love of money, love for learning, love of power, love of fame, love for the respect of others, et cetera.  Different people place varying degrees of importance on the kinds of love they receive. Love is essentially an abstract concept, easier to experience than to explain.  Many believe that \"''Love conquers all''\".</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>This is the feeling that Angel Alejandro Vital feels towards Martha Marie Romero.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Types ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Types ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:44744089:newid:44777534 -->\n",
+    "from": 44744089
+  },
+  "minor": ""
+}

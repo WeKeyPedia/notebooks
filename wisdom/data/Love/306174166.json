@@ -1,0 +1,13 @@
+﻿{
+  "comment": "image size increase",
+  "timestamp": "2009-08-05T08:49:28Z",
+  "revid": 306174166,
+  "user": "Paine Ellsworth",
+  "parentid": 306173413,
+  "diff": {
+    "to": 306174166,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{pp-semi-indef|small=yes|expiry=December 21, 2008}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{pp-semi-indef|small=yes|expiry=December 21, 2008}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses4}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses4}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[File:DickseeRomeoandJuliet.jpg|thumb|<del class=\"diffchange diffchange-inline\">170px</del>|&lt;small&gt;Archetypal lovers [[Romeo and Juliet]] portrayed by Frank Dicksee, 1884&lt;/small&gt;]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[File:DickseeRomeoandJuliet.jpg|thumb|<ins class=\"diffchange diffchange-inline\">200px</ins>|&lt;small&gt;Archetypal lovers [[Romeo and Juliet]] portrayed by Frank Dicksee, 1884&lt;/small&gt;]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Love table}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Love table}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Close Relationships}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Close Relationships}}</div></td>\n</tr>\n",
+    "from": 306173413
+  },
+  "minor": ""
+}

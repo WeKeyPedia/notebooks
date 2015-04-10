@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-07-07T21:41:09Z",
+  "revid": 143169009,
+  "user": "Oyvindor",
+  "parentid": 142924613,
+  "diff": {
+    "to": 143169009,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 262:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 262:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Navaho - Ayor anosh'ni</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Navaho - Ayor anosh'ni</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Norwegian - Jeg <del class=\"diffchange diffchange-inline\">Elsker</del> <del class=\"diffchange diffchange-inline\">Deg</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Norwegian - Jeg <ins class=\"diffchange diffchange-inline\">elsker</ins> <ins class=\"diffchange diffchange-inline\">deg</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Pandacan - Syota na kita<del class=\"diffchange diffchange-inline\">!!</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Pandacan - Syota na kita</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Pangasinan - Inaru Taka</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Pangasinan - Inaru Taka</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:142924613:newid:143169009 -->\n",
+    "from": 142924613
+  }
+}

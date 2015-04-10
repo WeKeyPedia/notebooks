@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2002-09-20T14:57:18Z",
+  "revid": 231969,
+  "anon": "",
+  "user": "198.77.207.228",
+  "parentid": 231968,
+  "diff": {
+    "to": 231969,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>For example: \"Sally is a good person\"; \"it is wrong to steal\"; \"it is totally evil to do what they are contemplating\"; \"the senator’s actions were thoroughly unethical.\"  And correspondingly a &lt;i&gt;non&lt;/i&gt;-ethical sentence would be a sentence that does &lt;i&gt;not&lt;/i&gt; contain one of these terms of moral evaluation.  Examples would include: \"That flower is red\"; \"Norman is six foot three\"; \"Juneau is the capital of Alaska\"; and so forth.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>For example: \"Sally is a good person\"; \"it is wrong to steal\"; \"it is totally evil to do what they are contemplating\"; \"the senator’s actions were thoroughly unethical.\"  And correspondingly a &lt;i&gt;non&lt;/i&gt;-ethical sentence would be a sentence that does &lt;i&gt;not&lt;/i&gt; contain one of these terms of moral evaluation.  Examples would include: \"That flower is red\"; \"Norman is six foot three\"; \"Juneau is the capital of Alaska\"; and so forth.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>&lt;h1&gt;kiss my tuches&lt;/h1&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>So now let’s look at those different areas of ethics mentioned above.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>So now let’s look at those different areas of ethics mentioned above.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:231968:newid:231969 -->\n",
+    "from": 231968
+  }
+}

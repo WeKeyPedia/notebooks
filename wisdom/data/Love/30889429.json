@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Human love */",
+  "timestamp": "2005-12-11T03:07:58Z",
+  "revid": 30889429,
+  "user": "Mr. Billion",
+  "parentid": 30871337,
+  "diff": {
+    "to": 30889429,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 236:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 236:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Crush]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Crush]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Puppy love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Puppy love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Love-<del class=\"diffchange diffchange-inline\">Hate</del> relationship]]s</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Love-<ins class=\"diffchange diffchange-inline\">hate</ins> relationship]]s</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love-shyness]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love-shyness]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Personal relationship]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Personal relationship]]</div></td>\n</tr>\n",
+    "from": 30871337
+  },
+  "minor": ""
+}

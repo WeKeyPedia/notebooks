@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2014-09-09T23:57:28Z",
+  "revid": 624873995,
+  "anon": "",
+  "user": "24.167.61.58",
+  "parentid": 624698952,
+  "diff": {
+    "to": 624873995,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{for|the 2009 novella by Stephen King|Morality (novella)}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{for|the 2009 novella by Stephen King|Morality (novella)}}<ins class=\"diffchange diffchange-inline\"> fjijfmv</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect2|Acceptable|unacceptable|the concept in psychology|Acceptance}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect2|Acceptable|unacceptable|the concept in psychology|Acceptance}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect|Inappropriate|content that has been deemed inappropriate for Wikipedia|WP:INAPPROPRIATE|the rating of activities and media according to age groups|age-appropriate|other uses|Appropriation (disambiguation)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect|Inappropriate|content that has been deemed inappropriate for Wikipedia|WP:INAPPROPRIATE|the rating of activities and media according to age groups|age-appropriate|other uses|Appropriation (disambiguation)}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:624698952:newid:624873995 -->\n",
+    "from": 624698952
+  }
+}

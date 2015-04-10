@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Overview */",
+  "timestamp": "2006-06-14T17:32:09Z",
+  "revid": 58610099,
+  "anon": "",
+  "user": "82.27.175.230",
+  "parentid": 58601544,
+  "diff": {
+    "to": 58610099,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Overview==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Overview==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>\"Paul luvz Craig 4lyf\"</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|100px|thumb|right|A [[cartoonish]] version of the [[Heart (symbol)|heart]], a frequent modern symbol of love.]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|100px|thumb|right|A [[cartoonish]] version of the [[Heart (symbol)|heart]], a frequent modern symbol of love.]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 58601544
+  }
+}

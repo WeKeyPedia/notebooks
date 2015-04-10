@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-06-05T15:10:49Z",
+  "revid": 14743457,
+  "anon": "",
+  "user": "131.111.8.96",
+  "parentid": 14743393,
+  "diff": {
+    "to": 14743457,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{nonsense}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''' is a system of principles and judgments based on [[cultural]], [[religious]], and [[philosophical]] concepts and beliefs, by which humans determine whether given actions are [[good|right]] or [[evil|wrong]].  </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''' is a system of principles and judgments based on [[cultural]], [[religious]], and [[philosophical]] concepts and beliefs, by which humans determine whether given actions are [[good|right]] or [[evil|wrong]].  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>These concepts and beliefs are often generalized and codified by a culture or group, and thus serve to regulate the behaviour of its members.  </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>These concepts and beliefs are often generalized and codified by a culture or group, and thus serve to regulate the behaviour of its members.  </div></td>\n</tr>\n",
+    "from": 14743393
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-04-26T00:06:49Z",
+  "revid": 50173162,
+  "anon": "",
+  "user": "203.101.49.195",
+  "parentid": 50052802,
+  "diff": {
+    "to": 50173162,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 92:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 92:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Wiktionary:I love you|\"I love you\" in various languages]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Wiktionary:I love you|\"I love you\" in various languages]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://spiritize.blogspot.com/2006/01/healthy-love.html Maturity and Healthy Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://iserver.saddleback.cc.ca.us/faculty/jfritsen/articles.html The Science of Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://iserver.saddleback.cc.ca.us/faculty/jfritsen/articles.html The Science of Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.humanthermodynamics.com/RP2-Love.html Top 150 Definitions of Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.humanthermodynamics.com/RP2-Love.html Top 150 Definitions of Love]</div></td>\n</tr>\n",
+    "from": 50052802
+  }
+}

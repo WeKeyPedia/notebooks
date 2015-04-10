@@ -1,0 +1,13 @@
+﻿{
+  "comment": "adding merge tag",
+  "timestamp": "2005-10-31T22:53:50Z",
+  "revid": 27014987,
+  "user": "Miketwo",
+  "parentid": 27014200,
+  "diff": {
+    "to": 27014987,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 48:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 48:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The government of [[South Africa]] is attempting to create a Moral Regeneration movement. Part of this is a proposed [[Bill of Morals]], which will bring a biblical-based \"moral code\" into the realm of law. This move by a nominally secular democracy has attracted relatively little criticism.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The government of [[South Africa]] is attempting to create a Moral Regeneration movement. Part of this is a proposed [[Bill of Morals]], which will bring a biblical-based \"moral code\" into the realm of law. This move by a nominally secular democracy has attracted relatively little criticism.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>== Moral Codes ==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{mergefrom|Moral_code}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== See also ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== See also ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:27014200:newid:27014987 -->\n",
+    "from": 27014200
+  },
+  "minor": ""
+}

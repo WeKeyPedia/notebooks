@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Updated ..part deux",
+  "timestamp": "2003-10-28T23:50:10Z",
+  "revid": 1643156,
+  "user": "TonyClarke",
+  "parentid": 1640583,
+  "diff": {
+    "to": 1643156,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Etyka]][[simple:Ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Etyka]][[simple:Ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' is the general term for attempts to state or determine what is [[<del class=\"diffchange diffchange-inline\">good|</del>Goodness and value theory]], both for the individual and for the society as a whole. It is often termed the [[science]] of [[morality]]. </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' is the general term for attempts to state or determine what is [[Goodness and value theory<ins class=\"diffchange diffchange-inline\">|good</ins>]], both for the individual and for the society as a whole. It is often termed the [[science]] of [[morality]]. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[philosophy]], '''ethics''' is one of the three major traditional areas of investigation, alongside [[metaphysics]] and [[logic]]. See particularly [[meta-ethics]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[philosophy]], '''ethics''' is one of the three major traditional areas of investigation, alongside [[metaphysics]] and [[logic]]. See particularly [[meta-ethics]].</div></td>\n</tr>\n",
+    "from": 1640583
+  }
+}

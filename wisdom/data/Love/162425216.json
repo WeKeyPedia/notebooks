@@ -1,0 +1,12 @@
+﻿{
+  "comment": "add",
+  "timestamp": "2007-10-05T09:24:43Z",
+  "revid": 162425216,
+  "user": "Anonymous Dissident",
+  "parentid": 162425181,
+  "diff": {
+    "to": 162425216,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{semiprotected|small=yes}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{|class=\"Infobox\" align=\"right\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{|class=\"Infobox\" align=\"right\"</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:162425181:newid:162425216 -->\n",
+    "from": 162425181
+  }
+}

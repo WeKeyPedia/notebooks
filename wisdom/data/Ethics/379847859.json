@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Further reading */",
+  "timestamp": "2010-08-19T21:03:03Z",
+  "revid": 379847859,
+  "anon": "",
+  "user": "78.248.60.47",
+  "parentid": 379645574,
+  "diff": {
+    "to": 379847859,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 200:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 200:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Vendemiati, Aldo, ''In the First Person, An Outline of General Ethics'', Rome, Urbaniana University Press, 2004.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Vendemiati, Aldo, ''In the First Person, An Outline of General Ethics'', Rome, Urbaniana University Press, 2004.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*John Paul II, Encyclical Letter [http://www.vatican.va/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor_en.html ''Veritatis Splendor''], 6-8-1993.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*John Paul II, Encyclical Letter [http://www.vatican.va/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor_en.html ''Veritatis Splendor''], 6-8-1993.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* D'Urance, Michel, ''Jalons pour une éthique rebelle'', Aléthéia, Paris, 2005.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:379645574:newid:379847859 -->\n",
+    "from": 379645574
+  }
+}

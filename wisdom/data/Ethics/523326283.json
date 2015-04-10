@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Further reading */",
+  "timestamp": "2012-11-16T13:58:32Z",
+  "revid": 523326283,
+  "user": "Iapgeoethics",
+  "parentid": 523324319,
+  "diff": {
+    "to": 523326283,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 224:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 224:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* D'Urance, Michel, ''Jalons pour une éthique rebelle'', Aléthéia, Paris, 2005.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* D'Urance, Michel, ''Jalons pour une éthique rebelle'', Aléthéia, Paris, 2005.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* John Newton, Ph.D. ''Complete Conduct Principles for the 21st Century'', 2000. ISBN 0967370574.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* John Newton, Ph.D. ''Complete Conduct Principles for the 21st Century'', 2000. ISBN 0967370574.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* Silvia Peppoloni and Giuseppe Di Capua (Eds), ''Geoethics and geological culture. Reflections from the Geoitalia Conference 2011'', 2012. Annals of Geophysics, Vol. 55, No 3 (Special Issue), ISSN 2037-416X: http://www.annalsofgeophysics.eu/index.php/annals/issue/view/482.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:523324319:newid:523326283 -->\n",
+    "from": 523324319
+  }
+}

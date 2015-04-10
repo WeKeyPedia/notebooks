@@ -1,0 +1,13 @@
+﻿{
+  "comment": "zh:",
+  "timestamp": "2004-02-12T12:36:19Z",
+  "revid": 2374090,
+  "user": "Shizhao",
+  "parentid": 2369568,
+  "diff": {
+    "to": 2374090,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Etyka]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Etyka]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[simple:Ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[simple:Ethics]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[zh:&amp;#20262;&amp;#29702;&amp;#23398;]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' is the general term for attempts to state or determine what is [[Goodness and value theory|good]], both for the individual and for the society as a whole. It is often termed the [[science]] of [[morality]]. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' is the general term for attempts to state or determine what is [[Goodness and value theory|good]], both for the individual and for the society as a whole. It is often termed the [[science]] of [[morality]]. </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:2369568:newid:2374090 -->\n",
+    "from": 2369568
+  },
+  "minor": ""
+}

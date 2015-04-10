@@ -1,0 +1,13 @@
+﻿{
+  "comment": "grammar",
+  "timestamp": "2004-09-27T21:01:53Z",
+  "revid": 6198066,
+  "anon": "",
+  "user": "206.55.130.94",
+  "parentid": 6196251,
+  "diff": {
+    "to": 6198066,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 29:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 29:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>However, hard science needs ethics too. It is also important in [[biology]] (as [[bioethics]]) and [[ecology]] (as [[environmental ethics]]).  </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>However, hard science needs ethics too. It is also important in [[biology]] (as [[bioethics]]) and [[ecology]] (as [[environmental ethics]]).  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>As these fields become more complex, and deal with more situations, ethics<del class=\"diffchange diffchange-inline\"> too</del> tends to become complex.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>As these fields become more complex, and deal with more situations, ethics tends to become<ins class=\"diffchange diffchange-inline\"> too</ins> complex.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>But Schopenhauer stated that the first ethical principle was extremely simple and convincing: \"Neminem laede; imo omnes, quantum potes, juva.\" (Do no harm to anyone, but give a helping hand to as many people as you can.)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>But Schopenhauer stated that the first ethical principle was extremely simple and convincing: \"Neminem laede; imo omnes, quantum potes, juva.\" (Do no harm to anyone, but give a helping hand to as many people as you can.)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:6196251:newid:6198066 -->\n",
+    "from": 6196251
+  }
+}

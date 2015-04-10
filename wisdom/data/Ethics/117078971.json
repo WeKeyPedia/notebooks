@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2007-03-22T17:53:36Z",
+  "revid": 117078971,
+  "user": "Ljay2two",
+  "parentid": 117061108,
+  "diff": {
+    "to": 117078971,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 152:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 152:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://rcuwtv-dev-01.ast.cac.washington.edu:20000/prog/displayevent.aspx?rID=3294&amp;fID=345 Robert Heinemann outlines conduct, business decisions and transactions based on a foundation of leadership and ethics] on Research Channel</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.achsnatl.org/ethics/bio_ethics_model.pdf Association of College Honor Societies (ACHS) resource] on bioethical model developed by Omar Ha-Redeye that proposes relationship between different ethical perspectives</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.achsnatl.org/ethics/bio_ethics_model.pdf Association of College Honor Societies (ACHS) resource] on bioethical model developed by Omar Ha-Redeye that proposes relationship between different ethical perspectives</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://intertheory.org/kritikos Kritikos: journal of postmodern cultural sound, text and image]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://intertheory.org/kritikos Kritikos: journal of postmodern cultural sound, text and image]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:117061108:newid:117078971 -->\n",
+    "from": 117061108
+  }
+}

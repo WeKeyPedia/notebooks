@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-04-17T08:13:24Z",
+  "revid": 48816926,
+  "user": "Jim Wilkinson",
+  "parentid": 48610439,
+  "diff": {
+    "to": 48816926,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 148:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 148:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Empathy]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral absolutism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral absolutism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [[Consequentialism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [[Consequentialism]]</div></td>\n</tr>\n",
+    "from": 48610439
+  }
+}

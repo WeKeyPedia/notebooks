@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/64.179.132.122|64.179.132.122]] ([[User talk:64.179.132.122|talk]]) to last version by Jfdwolff",
+  "timestamp": "2005-12-02T06:46:20Z",
+  "revid": 29888357,
+  "user": "Antandrus",
+  "parentid": 29888243,
+  "diff": {
+    "to": 29888357,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Companionate vs. passionate ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Companionate vs. passionate ===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The traditional psychological view sees love as being a combination of [[companionate love]] and [[passionate love]]. [[Passionate love]] is intense longing, and is often accompanied by [[physiological arousal]] (shortness of breath, rapid heart rate). [[Companionate love]] is affection a</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The traditional psychological view sees love as being a combination of [[companionate love]] and [[passionate love]]. [[Passionate love]] is intense longing, and is often accompanied by [[physiological arousal]] (shortness of breath, rapid heart rate). [[Companionate love]] is affection<ins class=\"diffchange diffchange-inline\"> and</ins> a<ins class=\"diffchange diffchange-inline\"> feeling of intimacy not accompanied by physiological arousal.</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>== Headline text ==[[Image:Example.jpg]]&lt;nowiki&gt;Insert non-formatted text here&lt;/nowiki&gt;</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>nd a feeling of intimacy not accompanied by physiological arousal.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Sternberg's Triangular Theory of Love ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Sternberg's Triangular Theory of Love ===</div></td>\n</tr>\n",
+    "from": 29888243
+  },
+  "minor": ""
+}

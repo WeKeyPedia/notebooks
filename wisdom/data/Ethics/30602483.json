@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-12-08T16:15:24Z",
+  "revid": 30602483,
+  "user": "Dbachmann",
+  "parentid": 30385941,
+  "diff": {
+    "to": 30602483,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:''For the book of the same name, see [[Ethics (book)]]''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:''For the book of the same name, see [[Ethics (book)]]''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' is the branch of [[axiology]] &amp;ndash; one of the four major branches of [[philosophy]], alongside [[metaphysics]],  [[epistemology]], and [[logic]] &amp;ndash; which attempts to understand the nature of [[morality]]; to define that which is [[right]] from that which is [[wrong]].  The [[Western philosophy|Western tradition]] of ethics is sometimes called '''moral philosophy'''.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics'''<ins class=\"diffchange diffchange-inline\"> (from Greek ''[[ethos|ethikos]]'')</ins> is the branch of [[axiology]] &amp;ndash; one of the four major branches of [[philosophy]], alongside [[metaphysics]],  [[epistemology]], and [[logic]] &amp;ndash; which attempts to understand the nature of [[morality]]; to define that which is [[right]] from that which is [[wrong]].  The [[Western philosophy|Western tradition]] of ethics is sometimes called '''moral philosophy'''.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 30385941
+  }
+}

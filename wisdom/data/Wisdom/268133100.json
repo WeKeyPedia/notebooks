@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2009-02-02T23:08:43Z",
+  "revid": 268133100,
+  "anon": "",
+  "user": "99.145.171.53",
+  "parentid": 268132770,
+  "diff": {
+    "to": 268133100,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 119:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 119:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://library.mpib-berlin.mpg.de/ft/pb/PB_Wisdom_2004.pdf Book on Wisdom from psychologist Paul Baltes]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://library.mpib-berlin.mpg.de/ft/pb/PB_Wisdom_2004.pdf Book on Wisdom from psychologist Paul Baltes]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.excaliburbooks.com Wisdom in Perspective]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.excaliburbooks.com Wisdom in Perspective]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.<del class=\"diffchange diffchange-inline\">definingwisdom</del>.org Defining Wisdom]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.<ins class=\"diffchange diffchange-inline\">wisdomresearch</ins>.org Defining Wisdom<ins class=\"diffchange diffchange-inline\">: A University of Chicago sponsored project on wisdom reseach</ins>]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:268132770:newid:268133100 -->\n",
+    "from": 268132770
+  }
+}

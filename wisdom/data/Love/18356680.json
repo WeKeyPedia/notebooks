@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-07-07T22:02:32Z",
+  "revid": 18356680,
+  "user": "Goblin Prince",
+  "parentid": 18299278,
+  "diff": {
+    "to": 18356680,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 236:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 236:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://buddhism.kalachakranet.org/immeasurables.html A Buddhist View on Love and Compassion]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://buddhism.kalachakranet.org/immeasurables.html A Buddhist View on Love and Compassion]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://plato.stanford.edu/entries/love/ Stanford Encyclopedia of Philosophy entry]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://plato.stanford.edu/entries/love/ Stanford Encyclopedia of Philosophy entry]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.crazyhoroscopes.com/love-letter-generator.php Crazy Horsoscopes - Silly Love Letter Generator] For those people who are too lazy to write their own love letters. Just click the mouse to select the relevant details and this page will generate a hilarious love letter for you.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love]]</div></td>\n</tr>\n",
+    "from": 18299278
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Morality as maladaptive and universal */",
+  "timestamp": "2007-08-30T14:33:29Z",
+  "revid": 154602646,
+  "user": "Richard holt",
+  "parentid": 154602405,
+  "diff": {
+    "to": 154602646,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 56:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 56:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Morality as maladaptive and universal ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Morality as maladaptive and universal ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">On the other side of the evolutionary fence, </del>Phil Roberts, Jr. has offered a perspective in which morality, and specifically the capacity for guilt, is viewed as a maladaptive byproduct of the evolution of rationality:</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Phil Roberts, Jr. has offered a perspective in which morality, and specifically the capacity for guilt, is viewed as a maladaptive byproduct of the evolution of rationality:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;blockquote&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;blockquote&gt;</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:154602405:newid:154602646 -->\n",
+    "from": 154602405
+  },
+  "minor": ""
+}

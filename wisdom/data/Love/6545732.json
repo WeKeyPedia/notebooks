@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Chinese */",
+  "timestamp": "2004-10-13T10:46:18Z",
+  "revid": 6545732,
+  "user": "Johnkarp",
+  "parentid": 6545713,
+  "diff": {
+    "to": 6545732,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 116:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 116:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====G&amp;#259;nqíng====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====G&amp;#259;nqíng====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[G&amp;#259;nqíng]] (&amp;#24863;&amp;#24773;), the feeling of a relationship. A person will express love by building good g&amp;#259;nqíng, accomplished through helping or working for another.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[G&amp;#259;nqíng]] (&amp;#24863;&amp;#24773;), the feeling of a relationship. A person will express love by building good g&amp;#259;nqíng, accomplished through helping or working for another.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Jen====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Jen====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:6545713:newid:6545732 -->\n",
+    "from": 6545713
+  },
+  "minor": ""
+}

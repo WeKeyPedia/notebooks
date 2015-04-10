@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2011-10-10T19:24:32Z",
+  "revid": 454918259,
+  "anon": "",
+  "user": "86.27.143.162",
+  "parentid": 454917747,
+  "diff": {
+    "to": 454918259,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 121:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 121:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Graded absolutism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Graded absolutism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral development]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral development]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>==References==</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Reflist|2}}</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Further reading==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Further reading==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:454917747:newid:454918259 -->\n",
+    "from": 454917747
+  }
+}

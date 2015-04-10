@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Types */",
+  "timestamp": "2006-06-08T01:02:49Z",
+  "revid": 57454211,
+  "anon": "",
+  "user": "71.109.99.101",
+  "parentid": 57444592,
+  "diff": {
+    "to": 57454211,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Covenant love]] - an unconditional decision of the will to place the needs and benefits of another person before oneself.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Covenant love]] - an unconditional decision of the will to place the needs and benefits of another person before oneself.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*Active Love - A voluntary practice of \"knowing what someone truly is and caring for that to the exclusion of all else\". Linked in some respects to philosophy of [[Non-Duality]] and certain types of [[magic]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n</tr>\n",
+    "from": 57444592
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Jewish */",
+  "timestamp": "2005-12-05T02:15:46Z",
+  "revid": 30177386,
+  "user": "Neutrality",
+  "parentid": 30177246,
+  "diff": {
+    "to": 30177386,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 196:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 196:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|align=right</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|align=right</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|quote=\"And you shall love the &lt;small&gt;LORD&lt;/small&gt; your God with all your heart, and with all your soul, and with all your might.\" </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|quote=\"And you shall love the &lt;small&gt;LORD&lt;/small&gt; your God with all your heart, and with all your soul, and with all your might.\" </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>|source=[[Deuteronomy<del class=\"diffchange diffchange-inline\">|Deuteronomy</del> 6:5<del class=\"diffchange diffchange-inline\">]]</del>|}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>|source=[[Deuteronomy<ins class=\"diffchange diffchange-inline\">]]</ins> 6:5|}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[Hebrew language|Hebrew]] ''[[Ahava]]'' is the most commonly-used term for both interpersonal love and love of God. Other related but dissimilar terms are ''[[Chen]]'' (grace) and ''[[Hesed]]'', which basically combines the meaning of \"affection\" and \"compassion\" and is sometimes rendered in English as \"loving-kindness\".</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[Hebrew language|Hebrew]] ''[[Ahava]]'' is the most commonly-used term for both interpersonal love and love of God. Other related but dissimilar terms are ''[[Chen]]'' (grace) and ''[[Hesed]]'', which basically combines the meaning of \"affection\" and \"compassion\" and is sometimes rendered in English as \"loving-kindness\".</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:30177246:newid:30177386 -->\n",
+    "from": 30177246
+  },
+  "minor": ""
+}

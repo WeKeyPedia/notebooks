@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Acient Egyptian */",
+  "timestamp": "2010-01-14T22:54:30Z",
+  "revid": 337888541,
+  "user": "EarthForPeace",
+  "parentid": 337888247,
+  "diff": {
+    "to": 337888541,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 147:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 147:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>===<del class=\"diffchange diffchange-inline\">Acient</del> Egyptian===</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>===<ins class=\"diffchange diffchange-inline\">=Ancient</ins> Egyptian<ins class=\"diffchange diffchange-inline\">=</ins>===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">[[AhmedVolks]] </del>The acient Egpytian consider the love as the secret of live ,the love there gods and gods incite them to love others and love egypt and love their Pharos and love their work...etc live to love &amp; be loved ...!</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The acient Egpytian consider the love as the secret of live ,the love there gods and gods incite them to love others and love egypt and love their Pharos and love their work...etc live to love &amp; be loved ...!</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Persian===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Persian===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 337888247
+  }
+}

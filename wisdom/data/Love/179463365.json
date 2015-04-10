@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2007-12-21T21:29:46Z",
+  "revid": 179463365,
+  "user": "Saisatha",
+  "parentid": 179451967,
+  "diff": {
+    "to": 179463365,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 364:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 364:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.gratitudebook.com How To Get More Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.gratitudebook.com How To Get More Love]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.fantacyandlove.com Fantacy and Love]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:179451967:newid:179463365 -->\n",
+    "from": 179451967
+  }
+}

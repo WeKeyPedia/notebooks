@@ -1,0 +1,12 @@
+﻿{
+  "comment": "[[WP:DPL|You can help.]] Repaired link to the disambiguation page, [[Mortality]].",
+  "timestamp": "2013-06-13T23:33:42Z",
+  "revid": 559795720,
+  "user": "SchreiberBike",
+  "parentid": 559000906,
+  "diff": {
+    "to": 559795720,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 3:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 3:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect2|Immoralist|Impropriety|the novel by André Gide|The Immoralist|the improvised performance company|Impropriety (company)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect2|Immoralist|Impropriety|the novel by André Gide|The Immoralist|the improvised performance company|Impropriety (company)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{POV|date=May 2013}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{POV|date=May 2013}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Distinguish|Mortality}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Distinguish|<ins class=\"diffchange diffchange-inline\">Mortality (disambiguation){{!}}</ins>Mortality}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{mergefrom|Decency|discuss=Talk:Morality#Proposed merger|date=November 2012}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{mergefrom|Decency|discuss=Talk:Morality#Proposed merger|date=November 2012}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{lead too short|date=June 2012}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{lead too short|date=June 2012}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:559000906:newid:559795720 -->\n",
+    "from": 559000906
+  }
+}

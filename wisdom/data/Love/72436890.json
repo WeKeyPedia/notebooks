@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-08-28T18:37:20Z",
+  "revid": 72436890,
+  "anon": "",
+  "user": "216.93.53.114",
+  "parentid": 72436667,
+  "diff": {
+    "to": 72436890,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 141:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 141:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- Please use the talk page to discuss links prior to adding them here --&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- Please use the talk page to discuss links prior to adding them here --&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://www.onlinecalculators.info/ <del class=\"diffchange diffchange-inline\">Online</del> Calculator]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.onlinecalculators.info/<ins class=\"diffchange diffchange-inline\">Love-Calculator.php</ins> <ins class=\"diffchange diffchange-inline\">Love</ins> Calculator]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:72436667:newid:72436890 -->\n",
+    "from": 72436667
+  }
+}

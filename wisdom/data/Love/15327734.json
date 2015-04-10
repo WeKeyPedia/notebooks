@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Love vs. Insanity? */",
+  "timestamp": "2005-06-17T04:08:38Z",
+  "revid": 15327734,
+  "user": "Azn king28",
+  "parentid": 15325306,
+  "diff": {
+    "to": 15327734,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 107:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 107:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Love vs. Insanity?===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Love vs. Insanity?===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Studies have shown that mental scans of those in love show a striking resemblance to those with a mental illness. Love creates activity in the same area <del class=\"diffchange diffchange-inline\">in</del> the brain <del class=\"diffchange diffchange-inline\">as created by</del> hunger, thirst, and drug cravings. New love, therefore, could more possibly be physical than emotional. </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Studies have shown that mental scans of those in love show a striking resemblance to those with a mental illness. Love creates activity in the same area <ins class=\"diffchange diffchange-inline\">of</ins> the brain <ins class=\"diffchange diffchange-inline\">that</ins> hunger, thirst, and drug cravings<ins class=\"diffchange diffchange-inline\"> create activity in</ins>.<ins class=\"diffchange diffchange-inline\"> </ins> New love, therefore, could more possibly be physical than emotional. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Over time, this reaction to love mellows, and different areas of the brain are activated, primarily ones involving long-term commitments.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Over time, this reaction to love mellows, and different areas of the brain are activated, primarily ones involving long-term commitments.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:15325306:newid:15327734 -->\n",
+    "from": 15325306
+  },
+  "minor": ""
+}

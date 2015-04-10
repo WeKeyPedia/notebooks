@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-05-20T13:55:54Z",
+  "revid": 54190006,
+  "user": "Ender.krum",
+  "parentid": 54148324,
+  "diff": {
+    "to": 54190006,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 111:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 111:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.capezone.com/love.html Definition of Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.capezone.com/love.html Definition of Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.true-love-relationship-advice.com/true-love.html Foundation of True Love] </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.true-love-relationship-advice.com/true-love.html Foundation of True Love] </div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://farsideofcomplexity.blogspot.com/2006/05/love-defined.html How to Love Someone]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:54148324:newid:54190006 -->\n",
+    "from": 54148324
+  }
+}

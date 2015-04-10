@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* The first social science */",
+  "timestamp": "2006-01-16T23:19:53Z",
+  "revid": 35464530,
+  "anon": "",
+  "user": "24.15.64.213",
+  "parentid": 34642099,
+  "diff": {
+    "to": 35464530,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[analytic philosophy]], ethics is traditionally divided into three fields: [[Meta-ethics]], [[Normative ethics]] (including [[value theory]] and the [[theory of conduct]]) and [[applied ethics]] &amp;ndash; which is seen to be derived, top-down, from normative and thus meta-ethics.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[analytic philosophy]], ethics is traditionally divided into three fields: [[Meta-ethics]], [[Normative ethics]] (including [[value theory]] and the [[theory of conduct]]) and [[applied ethics]] &amp;ndash; which is seen to be derived, top-down, from normative and thus meta-ethics.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''WHITE SOX SUCK.'''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Meta-ethics ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Meta-ethics ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:34642099:newid:35464530 -->\n",
+    "from": 34642099
+  }
+}

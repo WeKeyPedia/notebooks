@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2010-09-23T19:12:02Z",
+  "revid": 386596122,
+  "anon": "",
+  "user": "71.13.66.147",
+  "parentid": 385808024,
+  "diff": {
+    "to": 386596122,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' (also known as '''moral philosophy''') is a branch of [[philosophy]] that addresses questions about [[morality]] — that is, concepts such as [[good and <del class=\"diffchange diffchange-inline\">evil</del>]], right and wrong, [[justice]], [[virtue]], etc.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' (also known as '''moral philosophy''') is a branch of [[philosophy]] that addresses questions about [[morality]] — that is, concepts such as [[good and <ins class=\"diffchange diffchange-inline\">bad</ins>]], right and wrong, [[justice]], [[virtue]], etc.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:385808024:newid:386596122 -->\n",
+    "from": 385808024
+  }
+}

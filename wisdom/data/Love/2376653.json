@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-02-12T15:15:42Z",
+  "revid": 2376653,
+  "user": "PROFESSOR",
+  "parentid": 2370366,
+  "diff": {
+    "to": 2376653,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 59:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 59:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also:==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also:==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Human love===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Human love===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Affectional orientation]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Affectional orientation]].</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:2370366:newid:2376653 -->\n",
+    "from": 2370366
+  }
+}

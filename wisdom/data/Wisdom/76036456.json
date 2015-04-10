@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-09-16T11:58:49Z",
+  "revid": 76036456,
+  "anon": "",
+  "user": "84.64.14.251",
+  "parentid": 75822033,
+  "diff": {
+    "to": 76036456,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 56:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 56:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.wow4u.com Words of Wisdom 4 U]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.wow4u.com Words of Wisdom 4 U]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.thesearchforwisdom.com The Wisdom Project]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.thesearchforwisdom.com The Wisdom Project]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.in-love-with-wisdom.com A Search for Wisdom]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Philosophical terminology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Philosophical terminology]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:75822033:newid:76036456 -->\n",
+    "from": 75822033
+  }
+}

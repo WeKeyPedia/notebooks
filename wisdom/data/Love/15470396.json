@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Attraction and attachment */",
+  "timestamp": "2005-06-20T00:58:35Z",
+  "revid": 15470396,
+  "anon": "",
+  "user": "210.56.17.44",
+  "parentid": 15470384,
+  "diff": {
+    "to": 15470396,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 36:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 36:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Attraction and attachment===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Attraction and attachment===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The conventional view in [[biology]] is that there are two major drives in love &amp;mdash; [[sexual attraction]] and [[attachment theory|attachment]]. Attachment between adults is presumed to work on the same principles that lead an infant to become attached to their mother.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The conventional view in [[biology]] is that there are two major drives in love &amp;mdash; [[sexual attraction]] and [[attachment theory|attachment]]. Attachment between adults is presumed to work on the same principles that lead an infant to become attached to their mother.<ins class=\"diffchange diffchange-inline\">ikjljklkjljkljkljklj</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Companionate vs. passionate ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Companionate vs. passionate ===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:15470384:newid:15470396 -->\n",
+    "from": 15470384
+  }
+}

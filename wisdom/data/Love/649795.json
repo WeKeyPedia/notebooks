@@ -1,0 +1,12 @@
+﻿{
+  "comment": "added Bierce's definition.",
+  "timestamp": "2003-02-07T21:56:35Z",
+  "revid": 649795,
+  "user": "Atorpen",
+  "parentid": 649781,
+  "diff": {
+    "to": 649795,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 23:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 23:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>::'''Love''': A term that has no meaning if defined.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>::'''Love''': A term that has no meaning if defined.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:::- [[John Ralston Saul]], ''The Doubter's Companion''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:::- [[John Ralston Saul]], ''The Doubter's Companion''</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>::'''Love''': A temporary insanity curable by marriage or by the removal of the patient from the influences under which he incurred the disorder. This disease, like ''caries'' and many other ailments, is prevalent only among civilzed races living under artificial conditions; barbarous nations breathing pure air and eating simple food enjoy immunity from its ravages. It is sometimes fatal, but more frequently to the physician than to the patient.''</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>:::- ''The Devil's Dictionary'', [[Ambrose Bierce]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:649781:newid:649795 -->\n",
+    "from": 649781
+  }
+}

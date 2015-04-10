@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Legal ethics */",
+  "timestamp": "2006-12-06T23:02:44Z",
+  "revid": 92565527,
+  "anon": "",
+  "user": "141.151.32.254",
+  "parentid": 92562665,
+  "diff": {
+    "to": 92565527,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 101:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 101:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Legal ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Legal ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Ethics has been applied to [[criminology]] leading to the field of [[criminal justice]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Ethics has been applied to [[criminology]] leading to the field of [[criminal justice]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>i love katie o'neill. she is my favorite person in the whole wide world.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Choices Vs. Consequences</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Choices Vs. Consequences</div></td>\n</tr>\n",
+    "from": 92562665
+  }
+}

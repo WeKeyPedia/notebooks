@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* External links */ added library resources box",
+  "timestamp": "2013-03-14T16:24:59Z",
+  "revid": 544130808,
+  "user": "Lawsonstu",
+  "parentid": 543437853,
+  "diff": {
+    "to": 544130808,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 251:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 251:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wikiversity}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wikiversity}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wikisource portal}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wikisource portal}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Library resources box}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* {{PhilPapers|category|meta-ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* {{PhilPapers|category|meta-ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* {{PhilPapers|category|normative-ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* {{PhilPapers|category|normative-ethics}}</div></td>\n</tr>\n",
+    "from": 543437853
+  }
+}

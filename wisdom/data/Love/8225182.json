@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Ishq */",
+  "timestamp": "2004-12-06T09:25:40Z",
+  "revid": 8225182,
+  "anon": "",
+  "user": "195.202.75.61",
+  "parentid": 8177079,
+  "diff": {
+    "to": 8225182,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 193:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 193:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Ishq====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Ishq====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Ishq]], or divine love, is the emphasis of [[Sufism]],<del class=\"diffchange diffchange-inline\"> an [[Islamic]] movement.</del> Sufis believe that love is a projection of the essence of God to the universe. God desires to recognize beauty, and as if one looks at a mirror to see oneself, God \"looks\" at itself within the dynamics of nature. Since everything is a reflection of God, the school of Sufism practices to see the beauty inside the apparently ugly<del class=\"diffchange diffchange-inline\">, and to open arms even to the most evil</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Ishq]], or divine love, is the emphasis of [[Sufism]], Sufis believe that love is a projection of the essence of God to the universe. God desires to recognize beauty, and as if one looks at a mirror to see oneself, God \"looks\" at itself within the dynamics of nature. Since everything is a reflection of God, the school of Sufism practices to see the beauty inside the apparently ugly.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Jewish===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Jewish===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:8177079:newid:8225182 -->\n",
+    "from": 8177079
+  }
+}

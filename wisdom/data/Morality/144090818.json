@@ -1,0 +1,13 @@
+﻿{
+  "comment": "I changed the tag from \"unreferenced\" to \"refimprove\", but left the original date of \"March 2007\" unaltered",
+  "timestamp": "2007-07-12T01:32:42Z",
+  "revid": 144090818,
+  "user": "Leinad-Z",
+  "parentid": 144089945,
+  "diff": {
+    "to": 144090818,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{<del class=\"diffchange diffchange-inline\">Unreferenced</del>|date=March 2007}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{<ins class=\"diffchange diffchange-inline\">refimprove</ins>|date=March 2007}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''' (from Latin ''{{lang|la|moralitas}}'' \"manner, character, proper behaviour\") refers to the concept of human action which pertains to matters of right and wrong—also referred to as \"[[good and evil]]\"—used within three contexts: individual [[distinction]]; systems of valued [[principle]]s—sometimes called [[Code of conduct|conduct morality]]—shared within a [[cultural]], [[religion|religious]], [[secular]] or [[philosophical]] community.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''' (from Latin ''{{lang|la|moralitas}}'' \"manner, character, proper behaviour\") refers to the concept of human action which pertains to matters of right and wrong—also referred to as \"[[good and evil]]\"—used within three contexts: individual [[distinction]]; systems of valued [[principle]]s—sometimes called [[Code of conduct|conduct morality]]—shared within a [[cultural]], [[religion|religious]], [[secular]] or [[philosophical]] community.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:144089945:newid:144090818 -->\n",
+    "from": 144089945
+  },
+  "minor": ""
+}

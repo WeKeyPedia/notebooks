@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* See also */ [[Brotherly love (biblical)]]",
+  "timestamp": "2011-08-18T23:16:23Z",
+  "revid": 445581200,
+  "user": "Telpardec",
+  "parentid": 445236633,
+  "diff": {
+    "to": 445581200,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 214:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 214:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[A General Theory of Love]], provides a social, historical, and biomedical framework overview of love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[A General Theory of Love]], provides a social, historical, and biomedical framework overview of love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Agapism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Agapism]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Brotherly love (biblical)]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Compassionate love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Compassionate love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Haptic medicine]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Haptic medicine]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:445236633:newid:445581200 -->\n",
+    "from": 445236633
+  }
+}

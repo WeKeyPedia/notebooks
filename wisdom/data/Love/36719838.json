@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */  typo",
+  "timestamp": "2006-01-26T00:28:49Z",
+  "revid": 36719838,
+  "user": "Sadi Carnot",
+  "parentid": 36719693,
+  "diff": {
+    "to": 36719838,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 244:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 244:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Greek words for love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Greek words for love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Historical pederastic couples]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Historical pederastic couples]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[<del class=\"diffchange diffchange-inline\">human</del> bonding]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[<ins class=\"diffchange diffchange-inline\">Human</ins> bonding]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{col-break}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{col-break}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Limerence]]  &amp;mdash; the \"in love\" state</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Limerence]]  &amp;mdash; the \"in love\" state</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:36719693:newid:36719838 -->\n",
+    "from": 36719693
+  },
+  "minor": ""
+}

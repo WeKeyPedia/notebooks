@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-04-14T17:38:41Z",
+  "revid": 12306349,
+  "anon": "",
+  "user": "204.245.62.113",
+  "parentid": 12306253,
+  "diff": {
+    "to": 12306349,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 76:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 76:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Utilitarian ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Utilitarian ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Utilitarian Bioethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Utilitarian Bioethics]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The end~</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Ethics has been applied to [[economics]], [[politics]] and [[political science]], leading to several distinct and unrelated fields of applied ethics, including [[Business ethics]] and [[Marxism]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Ethics has been applied to [[economics]], [[politics]] and [[political science]], leading to several distinct and unrelated fields of applied ethics, including [[Business ethics]] and [[Marxism]].</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:12306253:newid:12306349 -->\n",
+    "from": 12306253
+  }
+}

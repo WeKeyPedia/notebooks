@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2010-02-11T03:37:49Z",
+  "revid": 343283663,
+  "anon": "",
+  "user": "76.197.13.173",
+  "parentid": 343189109,
+  "diff": {
+    "to": 343283663,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' (also known <del class=\"diffchange diffchange-inline\">as</del> '''<del class=\"diffchange diffchange-inline\">moral</del> philosophy''') is a branch of [[philosophy]] which seeks to address questions about [[morality]]; that is, about concepts such as [[good]] and [[bad]], [[right]] and [[wrong]], [[justice]], and [[virtue]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' (also known <ins class=\"diffchange diffchange-inline\">ass</ins> '''<ins class=\"diffchange diffchange-inline\">oral</ins> philosophy''') is a branch of [[philosophy]] which seeks to address questions about [[morality]]; that is, about concepts such as [[good]] and [[bad]], [[right]] and [[wrong]], [[justice]], and [[virtue]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:343189109:newid:343283663 -->\n",
+    "from": 343189109
+  }
+}

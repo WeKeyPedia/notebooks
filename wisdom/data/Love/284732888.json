@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */ copyedit",
+  "timestamp": "2009-04-19T02:28:39Z",
+  "revid": 284732888,
+  "user": "RichardF",
+  "parentid": 284722240,
+  "diff": {
+    "to": 284732888,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 203:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 203:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Wikipedia-Books<del class=\"diffchange diffchange-inline\">|Love</del>}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Wikipedia-Books}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Love letter]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Love letter]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Monogamy]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Monogamy]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:284722240:newid:284732888 -->\n",
+    "from": 284722240
+  },
+  "minor": ""
+}

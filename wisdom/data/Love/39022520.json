@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Indonesian and Malaysian */",
+  "timestamp": "2006-02-10T04:29:43Z",
+  "revid": 39022520,
+  "anon": "",
+  "user": "68.224.229.102",
+  "parentid": 39015704,
+  "diff": {
+    "to": 39022520,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 166:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 166:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''Sayang'' is a word to express unconditional love, but also to express deep regret in losing something.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''Sayang'' is a word to express unconditional love, but also to express deep regret in losing something.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>nicarelli &lt;3's frankavalli</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious views==</div></td>\n</tr>\n",
+    "from": 39015704
+  }
+}

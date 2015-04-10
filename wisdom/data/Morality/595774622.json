@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Human moral code according to the Monotheistic religions */",
+  "timestamp": "2014-02-16T20:29:53Z",
+  "revid": 595774622,
+  "user": "Itamarkalimi",
+  "parentid": 595774532,
+  "diff": {
+    "to": 595774622,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 145:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 145:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Human moral code according to the Monotheistic religions  ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Human moral code according to the Monotheistic religions  ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>According to all Monotheistic [[religions]] [[god]] is only one that decided to [[human]] moral code of [[right]] or [[wrong]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>According to all Monotheistic [[religions]] [[god]] is<ins class=\"diffchange diffchange-inline\"> the</ins> only one that decided to [[human]] moral code of [[right]] or [[wrong]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>All Monotheistic [[religions]] agreed that the torah is [[god]] word given to the jews to make the humanity moral and good.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>All Monotheistic [[religions]] agreed that the torah is [[god]] word given to the jews to make the humanity moral and good.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:595774532:newid:595774622 -->\n",
+    "from": 595774532
+  }
+}

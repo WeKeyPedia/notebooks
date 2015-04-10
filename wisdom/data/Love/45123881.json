@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-03-23T16:46:10Z",
+  "revid": 45123881,
+  "anon": "",
+  "user": "196.25.161.238",
+  "parentid": 45123609,
+  "diff": {
+    "to": 45123881,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 98:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 98:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.zaadz.com/quotes/topics/love Quotes about Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.zaadz.com/quotes/topics/love Quotes about Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.mysterymethod.com/ Mystery Method]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.mysterymethod.com/ Mystery Method]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The Holy Bible- God</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love| ]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love| ]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:45123609:newid:45123881 -->\n",
+    "from": 45123609
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "[[WP:UNDO|Undid]] revision 212424536 by [[Special:Contributions/Summer3434|Summer3434]] ([[User talk:Summer3434|talk]])",
+  "timestamp": "2008-05-14T19:49:50Z",
+  "revid": 212425284,
+  "user": "B7T",
+  "parentid": 212424536,
+  "diff": {
+    "to": 212425284,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{pp-semi-vandalism|small=yes}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{pp-semi-vandalism|small=yes}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>love is shit. it is never worth it. you will get crushed. the only thing love is good for is sex ;p</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Love table}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Love table}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:212424536:newid:212425284 -->\n",
+    "from": 212424536
+  }
+}

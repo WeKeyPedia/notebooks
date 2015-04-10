@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Perspectives from psychology and social psychology */",
+  "timestamp": "2007-08-30T14:32:07Z",
+  "revid": 154602405,
+  "user": "Richard holt",
+  "parentid": 154602265,
+  "diff": {
+    "to": 154602405,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 50:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 50:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{section-stub}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{section-stub}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>==<del class=\"diffchange diffchange-inline\">Perspectives</del> <del class=\"diffchange diffchange-inline\">from psychology and social psychology</del>==</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>==<ins class=\"diffchange diffchange-inline\">Psychological</ins> <ins class=\"diffchange diffchange-inline\">perspectives</ins>==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{<del class=\"diffchange diffchange-inline\">see|Good and evil#Origin of the concept</del>}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{<ins class=\"diffchange diffchange-inline\">section-stub</ins>}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Morality as maladaptive and universal ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Morality as maladaptive and universal ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:154602265:newid:154602405 -->\n",
+    "from": 154602265
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2005-11-06T14:49:19Z",
+  "revid": 27535220,
+  "anon": "",
+  "user": "82.80.69.146",
+  "parentid": 27529014,
+  "diff": {
+    "to": 27535220,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 244:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 244:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.humanthermodynamics.com/RP2-Love.html Top 150 Definitions of Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.humanthermodynamics.com/RP2-Love.html Top 150 Definitions of Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[:zh:早恋|''Zaolian'' (早恋) on Chinese Wikipedia]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[:zh:早恋|''Zaolian'' (早恋) on Chinese Wikipedia]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">*[http://www.kabbalah.info/engkab/translated_lessons_(texts)/lectures_at_the_educational_center_nekuda_shebalev/12232004_unconditional_love.htm Unconditional Love] —a lecture given by Rav Michael Laitman</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love]]</div></td>\n</tr>\n",
+    "from": 27529014
+  }
+}

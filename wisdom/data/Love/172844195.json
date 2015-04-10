@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Human love */ Adding [[love triangle]].",
+  "timestamp": "2007-11-21T03:48:17Z",
+  "revid": 172844195,
+  "user": "Triplicity",
+  "parentid": 172402627,
+  "diff": {
+    "to": 172844195,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 258:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 258:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love letter]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love letter]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love sickness]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love sickness]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Love triangle]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Platonic love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Platonic love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:172402627:newid:172844195 -->\n",
+    "from": 172402627
+  }
+}

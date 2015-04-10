@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Removing {{Pp-pc1}}.  Page is not protected. ([[:en:WP:PEACHY|Peachy 2.0 (alpha 5)]])",
+  "timestamp": "2013-10-02T20:30:36Z",
+  "revid": 575488310,
+  "user": "Cyberbot II",
+  "parentid": 575488269,
+  "diff": {
+    "to": 575488310,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{pp-pc1|small=yes}}</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy sidebar}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:575488269:newid:575488310 -->\n",
+    "from": 575488269
+  },
+  "minor": ""
+}

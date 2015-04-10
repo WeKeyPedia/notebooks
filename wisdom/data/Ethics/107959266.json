@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Specific questions */",
+  "timestamp": "2007-02-14T00:47:46Z",
+  "revid": 107959266,
+  "user": "Rubbaducky42",
+  "parentid": 107956554,
+  "diff": {
+    "to": 107959266,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 52:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 52:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>But not all questions studied in applied ethics concern public policy.  For example, making ethical judgments regarding questions such as, \"Is [[lying]] always wrong?\" and, \"If not, when is it permissible?\" is prior to any etiquette.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>But not all questions studied in applied ethics concern public policy.  For example, making ethical judgments regarding questions such as, \"Is [[lying]] always wrong?\" and, \"If not, when is it permissible?\" is prior to any etiquette.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Carlos Andreas Renix is a pimp</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">[[</ins>Carlos Andreas Renix<ins class=\"diffchange diffchange-inline\">]]</ins> is a pimp</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ethics in politics and economics===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ethics in politics and economics===</div></td>\n</tr>\n",
+    "from": 107956554
+  }
+}

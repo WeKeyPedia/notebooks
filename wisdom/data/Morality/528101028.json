@@ -1,0 +1,12 @@
+﻿{
+  "comment": "fix hat",
+  "timestamp": "2012-12-15T02:29:05Z",
+  "revid": 528101028,
+  "user": "Delldot",
+  "parentid": 527609045,
+  "diff": {
+    "to": 528101028,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Redirect2|Immoralist|Appropriate|the novel by André Gide|The Immoralist|other uses|Appropriation (disambiguation)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Redirect2|Immoralist|Appropriate|the novel by André Gide|The Immoralist|other uses|Appropriation (disambiguation)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Distinguish|Mortality<del class=\"diffchange diffchange-inline\"> (disambiguation)</del>}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Distinguish|Mortality}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{mergefrom|Decency|date=November 2012}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{mergefrom|Decency|date=November 2012}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{lead too short|date=June 2012}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{lead too short|date=June 2012}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:527609045:newid:528101028 -->\n",
+    "from": 527609045
+  }
+}

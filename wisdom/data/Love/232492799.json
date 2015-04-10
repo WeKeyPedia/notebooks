@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2008-08-17T13:52:27Z",
+  "revid": 232492799,
+  "user": "The monkeyhate",
+  "parentid": 232492769,
+  "diff": {
+    "to": 232492799,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>:''For other uses, see [[Love (disambiguation)]]''</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>:''For other uses, see [[Love (disambiguation)]]<ins class=\"diffchange diffchange-inline\">.</ins>''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' represents a range of [[emotion]]s and experiences related to the senses of [[affection]] and [[sexual attraction]].&lt;ref name=\"oxford\"&gt;''Oxford Illustrated American Dictionary'' (1998) + ''Merriam-Webster Collegiate Dictionary'' (2000).&lt;/ref&gt; The word love can refer to a variety of different feelings, states, and attitudes, ranging from generic [[pleasure]] to intense [[interpersonal attraction]]. This diversity of meanings, combined with the complexity of the feelings involved, makes love unusually difficult to consistently define, even compared to other emotional states.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' represents a range of [[emotion]]s and experiences related to the senses of [[affection]] and [[sexual attraction]].&lt;ref name=\"oxford\"&gt;''Oxford Illustrated American Dictionary'' (1998) + ''Merriam-Webster Collegiate Dictionary'' (2000).&lt;/ref&gt; The word love can refer to a variety of different feelings, states, and attitudes, ranging from generic [[pleasure]] to intense [[interpersonal attraction]]. This diversity of meanings, combined with the complexity of the feelings involved, makes love unusually difficult to consistently define, even compared to other emotional states.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:232492769:newid:232492799 -->\n",
+    "from": 232492769
+  },
+  "minor": ""
+}

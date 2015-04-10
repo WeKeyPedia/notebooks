@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2009-11-18T10:25:26Z",
+  "revid": 326511881,
+  "anon": "",
+  "user": "98.215.117.89",
+  "parentid": 326511064,
+  "diff": {
+    "to": 326511881,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' (also known as '''moral philosophy''') is a branch of [[philosophy]] which seeks to address questions about [[morality]], such as what the fundamental [[semantic]], [[ontological]], and [[epistemic]] nature of ethics or morality is ([[meta-ethics]]), how moral values should be determined ([[normative ethics]]), how a moral outcome can be achieved in specific situations ([[applied ethics]]), how moral capacity or moral agency develops and what its nature is ([[moral psychology]]), and what moral values people actually abide by ([[descriptive ethics]])<del class=\"diffchange diffchange-inline\">. Ethics is gay</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' (also known as '''moral philosophy''') is a branch of [[philosophy]] which seeks to address questions about [[morality]], such as what the fundamental [[semantic]], [[ontological]], and [[epistemic]] nature of ethics or morality is ([[meta-ethics]]), how moral values should be determined ([[normative ethics]]), how a moral outcome can be achieved in specific situations ([[applied ethics]]), how moral capacity or moral agency develops and what its nature is ([[moral psychology]]), and what moral values people actually abide by ([[descriptive ethics]]).</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:326511064:newid:326511881 -->\n",
+    "from": 326511064
+  }
+}

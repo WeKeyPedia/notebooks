@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-02-09T05:51:13Z",
+  "revid": 106777392,
+  "user": "Yahel Guhan",
+  "parentid": 106156235,
+  "diff": {
+    "to": 106777392,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{unreferenced}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{For|the 1986 American crime film|Wisdom (film)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{For|the 1986 American crime film|Wisdom (film)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{For|people named Wisdom|Wisdom (surname)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{For|people named Wisdom|Wisdom (surname)}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:106156235:newid:106777392 -->\n",
+    "from": 106156235
+  }
+}

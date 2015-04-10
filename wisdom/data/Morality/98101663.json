@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-01-03T04:13:55Z",
+  "revid": 98101663,
+  "anon": "",
+  "user": "69.182.152.159",
+  "parentid": 97977894,
+  "diff": {
+    "to": 98101663,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Personal morality defines and distinguishes among right and wrong [[intention]]s, [[motivation]]s or [[Action (philosophy)|action]]s, as these have been learned, engendered, or otherwise developed within each individual.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Personal morality defines and distinguishes among right and wrong [[intention]]s, [[motivation]]s or [[Action (philosophy)|action]]s, as these have been learned, engendered, or otherwise developed within each individual.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Chris Saroka seemingly has corrupted everyone who knows him and therefore cannot finish his english project in which his crappy partners left him hanging on. I really hope he reads this and gets pissed off just because it will give me a good laugh. He's going to hurt me tomorrow for doing this but oh well.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Conscience, belief, and code ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Conscience, belief, and code ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:97977894:newid:98101663 -->\n",
+    "from": 97977894
+  }
+}

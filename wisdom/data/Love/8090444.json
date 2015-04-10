@@ -1,0 +1,13 @@
+﻿{
+  "comment": "rv graffitti",
+  "timestamp": "2004-12-01T21:58:04Z",
+  "revid": 8090444,
+  "user": "Derek Ross",
+  "parentid": 8030162,
+  "diff": {
+    "to": 8090444,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is one of the most common themes in art. The majority of modern movies have a love story and most pop music is about love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is one of the most common themes in art. The majority of modern movies have a love story and most pop music is about love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>==<del class=\"diffchange diffchange-inline\">Nadine Gilburt Loves Thomas young for ever</del> ==</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>==<ins class=\"diffchange diffchange-inline\">Defining</ins> <ins class=\"diffchange diffchange-inline\">love</ins>==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>There are as many forms of love as there are lovers. However, all forms of love have some common factors and issues.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>There are as many forms of love as there are lovers. However, all forms of love have some common factors and issues.</div></td>\n</tr>\n",
+    "from": 8030162
+  },
+  "minor": ""
+}

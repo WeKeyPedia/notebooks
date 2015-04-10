@@ -1,0 +1,13 @@
+﻿{
+  "comment": "[[Help:Reverting|Reverted]] edits by [[Special:Contributions/198.133.178.17|198.133.178.17]] ([[User talk:198.133.178.17|talk]]) to last version by 122.181.13.30",
+  "timestamp": "2010-04-06T17:36:46Z",
+  "revid": 354357191,
+  "user": "Ja 62",
+  "parentid": 354357121,
+  "diff": {
+    "to": 354357191,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' (also known as '''moral philosophy''') <del class=\"diffchange diffchange-inline\">isabout</del> [[morality]]; that is, about concepts such as [[good]] and [[bad]], the noble and the ignoble,  [[right]] and [[wrong]], [[justice]], and [[virtue]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' (also known as '''moral philosophy''') <ins class=\"diffchange diffchange-inline\">is a branch of [[philosophy]] which seeks to address questions about</ins> [[morality]]; that is, about concepts such as [[good]] and [[bad]], the noble and the ignoble,  [[right]] and [[wrong]], [[justice]], and [[virtue]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:354357121:newid:354357191 -->\n",
+    "from": 354357121
+  },
+  "minor": ""
+}

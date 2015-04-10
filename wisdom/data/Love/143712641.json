@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* See also */ [[Seduction community]] is not that notable",
+  "timestamp": "2007-07-10T12:21:00Z",
+  "revid": 143712641,
+  "user": "Apoc2400",
+  "parentid": 143311428,
+  "diff": {
+    "to": 143712641,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 143:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 143:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Romantic love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Romantic love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Seduction]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Seduction]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Seduction community]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Sex]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Sex]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Triangular theory of love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Triangular theory of love]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:143311428:newid:143712641 -->\n",
+    "from": 143311428
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Postmodern ethics */",
+  "timestamp": "2009-07-18T06:47:51Z",
+  "revid": 302732767,
+  "user": "David Delony",
+  "parentid": 302565393,
+  "diff": {
+    "to": 302732767,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 54:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 54:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Postmodern ethics===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Postmodern ethics===</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{synthesis}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Postmodern ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Postmodern ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The 20th century saw a remarkable expansion of critical theory and its evolution. The earlier [[Marxism|Marxist Theory]] created a paradigm for understanding the individual, society and their interaction. The [[Polymath|Renaissance Enlightened Man]] had persisted up until the [[Industrial Revolution]] when the romantic vision of noble action began to fade. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The 20th century saw a remarkable expansion of critical theory and its evolution. The earlier [[Marxism|Marxist Theory]] created a paradigm for understanding the individual, society and their interaction. The [[Polymath|Renaissance Enlightened Man]] had persisted up until the [[Industrial Revolution]] when the romantic vision of noble action began to fade. </div></td>\n</tr>\n",
+    "from": 302565393
+  }
+}

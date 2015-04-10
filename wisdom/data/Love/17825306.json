@@ -1,0 +1,12 @@
+﻿{
+  "comment": "rm link-spam",
+  "timestamp": "2005-06-29T12:24:24Z",
+  "revid": 17825306,
+  "user": "Mel Etitis",
+  "parentid": 15914772,
+  "diff": {
+    "to": 17825306,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 229:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 229:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://buddhism.kalachakranet.org/immeasurables.html A Buddhist View on Love and Compassion]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://buddhism.kalachakranet.org/immeasurables.html A Buddhist View on Love and Compassion]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://www.religiousbook.net/Books/Online_books/Ec/Ecology_9.html What is Love] religious view</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://plato.stanford.edu/entries/love/ Stanford Encyclopedia of Philosophy entry]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://plato.stanford.edu/entries/love/ Stanford Encyclopedia of Philosophy entry]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:15914772:newid:17825306 -->\n",
+    "from": 15914772
+  }
+}

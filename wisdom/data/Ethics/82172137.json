@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-10-18T08:37:57Z",
+  "revid": 82172137,
+  "anon": "",
+  "user": "82.198.250.72",
+  "parentid": 81756700,
+  "diff": {
+    "to": 82172137,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In contrast, a non-ethical proposition does ''not'' serve to morally evaluate something. Examples would (ostensibly) include:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In contrast, a non-ethical proposition does ''not'' serve to morally evaluate something. Examples would (ostensibly) include:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* <del class=\"diffchange diffchange-inline\">\"Sally is my friend.\"</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* </div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>== Headline text ==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>sarah</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div> is my friend.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Someone took the stereo out of my car.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Someone took the stereo out of my car.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"O.J. Simpson was acquitted at his trial.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"O.J. Simpson was acquitted at his trial.\"</div></td>\n</tr>\n",
+    "from": 81756700
+  }
+}

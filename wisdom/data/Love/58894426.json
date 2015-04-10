@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Correcting spelling: charaterized->characterized",
+  "timestamp": "2006-06-16T05:05:20Z",
+  "revid": 58894426,
+  "user": "Jklin",
+  "parentid": 58893469,
+  "diff": {
+    "to": 58894426,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 30:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 30:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>There are also 4 greek terms for differing types of love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>There are also 4 greek terms for differing types of love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Eros-- erotic love; sometimes portrayed as romantic love.  More <del class=\"diffchange diffchange-inline\">charaterized</del> by passion to a singular person and sexual desire.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Eros-- erotic love; sometimes portrayed as romantic love.  More <ins class=\"diffchange diffchange-inline\">characterized</ins> by passion to a singular person and sexual desire.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Platonic-- love between friends, or love where sexual desires are not present. (sometimes is referred to under philos instead)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Platonic-- love between friends, or love where sexual desires are not present. (sometimes is referred to under philos instead)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Storge-- a friendly, affectionate type of love. Sometimes has been portrayed as parental or familial love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Storge-- a friendly, affectionate type of love. Sometimes has been portrayed as parental or familial love.</div></td>\n</tr>\n",
+    "from": 58893469
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "r2.6.4) (Robot: Adding [[tt:Әхлак]]",
+  "timestamp": "2011-12-01T17:46:49Z",
+  "revid": 463528698,
+  "user": "EmausBot",
+  "parentid": 463524311,
+  "diff": {
+    "to": 463528698,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 231:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 231:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tl:Moralidad]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tl:Moralidad]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ta:ஒழுக்கநெறி]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ta:ஒழுக்கநெறி]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[tt:Әхлак]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[te:నీతి]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[te:నీతి]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[th:จรรยาธรรม]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[th:จรรยาธรรม]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:463524311:newid:463528698 -->\n",
+    "from": 463524311
+  },
+  "minor": ""
+}

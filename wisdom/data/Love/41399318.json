@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-02-27T01:52:17Z",
+  "revid": 41399318,
+  "anon": "",
+  "user": "198.60.208.219",
+  "parentid": 41350679,
+  "diff": {
+    "to": 41399318,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Love might best be defined as acting intentionally, in sympathetic response to others (including God), to promote overall well-being.  Or to put simply, \"love responds intentionally to promote well-being\"<del class=\"diffchange diffchange-inline\">. </del>([[Thomas Jay Oord]]).</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Love might best be defined as acting intentionally, in sympathetic response to others (including God), to promote overall well-being.  Or to put simply, \"love responds intentionally to promote well-being\"([[Thomas Jay Oord]])<ins class=\"diffchange diffchange-inline\">.  Love promotes overall flourishing, but often focuses on those close at hand</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is inherent in all human cultures and thus may be seen as a defining trait of humanity, that is, love is a quality that makes one human. It is precisely these cultural differences that make any universal definition of love difficult, but not impossible, to establish. See the [[Sapir-Whorf hypothesis]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is inherent in all human cultures and thus may be seen as a defining trait of humanity, that is, love is a quality that makes one human. It is precisely these cultural differences that make any universal definition of love difficult, but not impossible, to establish. See the [[Sapir-Whorf hypothesis]].</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:41350679:newid:41399318 -->\n",
+    "from": 41350679
+  }
+}

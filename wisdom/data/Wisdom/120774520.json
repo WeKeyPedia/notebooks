@@ -1,0 +1,13 @@
+﻿{
+  "comment": "robot  Adding: [[ur:حکمت (دماغ)]]",
+  "timestamp": "2007-04-06T17:21:48Z",
+  "revid": 120774520,
+  "user": "SieBot",
+  "parentid": 120512377,
+  "diff": {
+    "to": 120774520,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 166:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 166:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Viisaus]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Viisaus]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Visdom]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Visdom]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[ur:حکمت (دماغ)]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:קלוגשאפט]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:קלוגשאפט]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:智慧]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:智慧]]</div></td>\n</tr>\n",
+    "from": 120512377
+  },
+  "minor": ""
+}

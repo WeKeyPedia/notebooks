@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* References */",
+  "timestamp": "2006-08-19T05:34:47Z",
+  "revid": 70541595,
+  "anon": "",
+  "user": "74.225.43.65",
+  "parentid": 70540025,
+  "diff": {
+    "to": 70541595,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 179:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 179:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> | id = ISBN 0192831348</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> | id = ISBN 0192831348</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> }}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> }}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* Butchvarov, Panayot Skepticism in Ethics. Bloomington and Indianapolis, Indiana </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* Butchvarov, Panayot<ins class=\"diffchange diffchange-inline\"> (1989)</ins> Skepticism in Ethics. Bloomington and Indianapolis, Indiana </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>University Press<del class=\"diffchange diffchange-inline\">, 1989</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>University Press<ins class=\"diffchange diffchange-inline\">.</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* {{cite book</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* {{cite book</div></td>\n</tr>\n",
+    "from": 70540025
+  }
+}

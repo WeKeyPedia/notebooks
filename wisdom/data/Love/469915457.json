@@ -1,0 +1,13 @@
+﻿{
+  "comment": "[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Negima54321|Negima54321]] ([[User talk:Negima54321|talk]]) to last version by Bdiscoe",
+  "timestamp": "2012-01-06T15:39:28Z",
+  "revid": 469915457,
+  "user": "Ohnoitsjamie",
+  "parentid": 469836115,
+  "diff": {
+    "to": 469915457,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 352:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 352:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bat-smg:Meilė]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bat-smg:Meilė]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>I [THIS PAGE] you, Lisa.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n",
+    "from": 469836115
+  },
+  "minor": ""
+}

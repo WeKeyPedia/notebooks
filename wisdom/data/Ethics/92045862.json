@@ -1,0 +1,13 @@
+﻿{
+  "comment": "BOT - rv [[Special:Contributions/65.254.6.162|65.254.6.162]] ([[User talk:65.254.6.162|talk]]) to last version by Hagerman",
+  "timestamp": "2006-12-04T19:01:11Z",
+  "revid": 92045862,
+  "user": "AntiVandalBot",
+  "parentid": 92045835,
+  "diff": {
+    "to": 92045862,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 190:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 190:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> | id = ISBN 0-631-18785-5</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> | id = ISBN 0-631-18785-5</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> }}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> }}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>NICK KATONIA IS NOT COOL WITH OUT HIS FRO =)</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:92045835:newid:92045862 -->\n",
+    "from": 92045835
+  },
+  "minor": ""
+}

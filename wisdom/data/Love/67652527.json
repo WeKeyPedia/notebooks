@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-08-04T15:44:26Z",
+  "revid": 67652527,
+  "anon": "",
+  "user": "129.49.250.12",
+  "parentid": 67652024,
+  "diff": {
+    "to": 67652527,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is one of the most common themes in art and often times is an excuse for \" bad art\".</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is one of the most common themes in art and often times is an excuse for \" bad art\".</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>True love can be seen in Akil and Tattvamasi Parikh, the modern day Romeo and Juliet</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Overview==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Overview==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:67652024:newid:67652527 -->\n",
+    "from": 67652024
+  }
+}

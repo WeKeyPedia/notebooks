@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* References */",
+  "timestamp": "2005-12-31T06:59:51Z",
+  "revid": 33352756,
+  "anon": "",
+  "user": "24.125.130.186",
+  "parentid": 33346376,
+  "diff": {
+    "to": 33352756,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 258:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 258:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Helen Fisher. ''Why We Love: the Nature and Chemistry of Romantic Love''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Helen Fisher. ''Why We Love: the Nature and Chemistry of Romantic Love''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Wood, Wood and Boyd. ''The World of Psychology''. 5th edition. 2005. Pearson Education, 402&amp;ndash;403</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Wood, Wood and Boyd. ''The World of Psychology''. 5th edition. 2005. Pearson Education, 402&amp;ndash;403</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>love thyself</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:33346376:newid:33352756 -->\n",
+    "from": 33346376
+  }
+}

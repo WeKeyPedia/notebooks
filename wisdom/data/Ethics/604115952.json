@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Dating maintenance tags: {{Cn}}",
+  "timestamp": "2014-04-14T05:55:43Z",
+  "revid": 604115952,
+  "user": "AnomieBOT",
+  "parentid": 604114420,
+  "diff": {
+    "to": 604115952,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 125:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 125:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Simplification of ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Simplification of ethics==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Some philosophers argue that ethics should be broken down into just 2 branches: meta-ethics and applied ethics.{{cn}}  This simplified hierarchy (seen below) covers the major views in meta-ethics:</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Some philosophers argue that ethics should be broken down into just 2 branches: meta-ethics and applied ethics.{{cn<ins class=\"diffchange diffchange-inline\">|date=April 2014</ins>}}  This simplified hierarchy (seen below) covers the major views in meta-ethics:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Cognitivism (ethics)|Cognitivism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Cognitivism (ethics)|Cognitivism]]</div></td>\n</tr>\n",
+    "from": 604114420
+  },
+  "minor": ""
+}

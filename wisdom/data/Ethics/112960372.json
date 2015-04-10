@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/Zsalamander|Zsalamander]] ([[User talk:Zsalamander|talk]]) to last version by 70.146.26.159",
+  "timestamp": "2007-03-06T01:51:21Z",
+  "revid": 112960372,
+  "user": "Cool Hand Luke",
+  "parentid": 112958871,
+  "diff": {
+    "to": 112960372,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 106:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 106:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Dessek]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Dessek]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Empathy]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Empathy]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Biggie Smalls]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral absolutism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral absolutism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [[Consequentialism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [[Consequentialism]]</div></td>\n</tr>\n",
+    "from": 112958871
+  },
+  "minor": ""
+}

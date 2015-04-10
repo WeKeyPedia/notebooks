@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Morality is not a science!",
+  "timestamp": "2002-03-07T10:02:00Z",
+  "revid": 47344,
+  "user": "Danny",
+  "parentid": 24973,
+  "diff": {
+    "to": 47344,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Morality''' is <del class=\"diffchange diffchange-inline\">the</del> <del class=\"diffchange diffchange-inline\">science or study</del> of <del class=\"diffchange diffchange-inline\">what is</del> <del class=\"diffchange diffchange-inline\">right</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Morality''' is <ins class=\"diffchange diffchange-inline\">a</ins> <ins class=\"diffchange diffchange-inline\">system</ins> of <ins class=\"diffchange diffchange-inline\">ethical</ins> <ins class=\"diffchange diffchange-inline\">conduct</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>See: [[sexual morality]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>See: [[sexual morality]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:24973:newid:47344 -->\n",
+    "from": 24973
+  }
+}

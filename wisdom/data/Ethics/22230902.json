@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* References */ ISBN",
+  "timestamp": "2005-08-31T06:01:06Z",
+  "revid": 22230902,
+  "user": "Josh Parris",
+  "parentid": 22206613,
+  "diff": {
+    "to": 22230902,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 237:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 237:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Cornman, James, et al. 1992 ''Philosophical Problems and Arguments - An Introduction'', 4th edition Indianapolis: Hackett.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Cornman, James, et al. 1992 ''Philosophical Problems and Arguments - An Introduction'', 4th edition Indianapolis: Hackett.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*Singer, P., Ed. (2001). A Companion To Ethics. Blackwell Companions to Philosophy. Malden, Massachusetts, Blackwell Publishers.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*Singer, P., Ed. (2001). A Companion To Ethics. Blackwell Companions to Philosophy. Malden, Massachusetts, Blackwell Publishers.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[category:ISBN needed]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:22206613:newid:22230902 -->\n",
+    "from": 22206613
+  },
+  "minor": ""
+}

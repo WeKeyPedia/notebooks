@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Xenia */",
+  "timestamp": "2004-12-12T07:01:33Z",
+  "revid": 8365994,
+  "anon": "",
+  "user": "66.138.123.101",
+  "parentid": 8357756,
+  "diff": {
+    "to": 8365994,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 150:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 150:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Xenia====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Xenia====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In ancient Greece, the concept of [[xenia]] was extremely important. It was an almost ritualized friendship formed between a host and their guest, who could previously be strangers. The host fed and provided quarters for the guest, who was only expected to repay with gratitude. The importance of this can be seen throughout <del class=\"diffchange diffchange-inline\">myth</del>, in particular Homer's [[Odyssey]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In ancient Greece, the concept of [[xenia]] was extremely important. It was an almost ritualized friendship formed between a host and their guest, who could previously be strangers. The host fed and provided quarters for the guest, who was only expected to repay with gratitude. The importance of this can be seen throughout <ins class=\"diffchange diffchange-inline\">Greek mythology</ins>, in particular Homer's [[Odyssey]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious Views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious Views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:8357756:newid:8365994 -->\n",
+    "from": 8357756
+  }
+}

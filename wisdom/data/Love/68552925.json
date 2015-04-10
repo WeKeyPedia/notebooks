@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-08-09T05:35:43Z",
+  "revid": 68552925,
+  "anon": "",
+  "user": "74.12.96.72",
+  "parentid": 68550983,
+  "diff": {
+    "to": 68552925,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 16:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 16:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A description of love is found in the Bible in 1 Corinthians 13:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A description of love is found in the Bible in 1 Corinthians 13:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>\"Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It is not rude, it is not self - seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>\"Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It is not rude, it is not self - seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres.<ins class=\"diffchange diffchange-inline\">\"</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Types==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Types==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:68550983:newid:68552925 -->\n",
+    "from": 68550983
+  }
+}

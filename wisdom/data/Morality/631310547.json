@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Bot: Migrating interwiki links, now provided by [[d:|Wikidata]] on [[d:q48324]]",
+  "timestamp": "2014-10-27T11:42:20Z",
+  "revid": 631310547,
+  "user": "YiFeiBot",
+  "parentid": 627836558,
+  "diff": {
+    "to": 631310547,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 167:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 167:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Reflist|30em}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Reflist|30em}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[bn:নৈতিকতা]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Further reading==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Further reading==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:627836558:newid:631310547 -->\n",
+    "from": 627836558
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */ Wikilink",
+  "timestamp": "2009-10-15T17:59:56Z",
+  "revid": 320054100,
+  "user": "Verbum Veritas",
+  "parentid": 319838638,
+  "diff": {
+    "to": 320054100,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 127:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 127:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Buddhist morality]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* ''The Concept of Morals'' (book)&lt;ref name=\"Stace\"&gt;{{cite book</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* ''The Concept of Morals'' (book)&lt;ref name=\"Stace\"&gt;{{cite book</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | last = Stace </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | last = Stace </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:319838638:newid:320054100 -->\n",
+    "from": 319838638
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* References */",
+  "timestamp": "2007-05-23T10:25:38Z",
+  "revid": 132900341,
+  "user": "GnuDoyng",
+  "parentid": 132141905,
+  "diff": {
+    "to": 132900341,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 178:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 178:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bg:Любов]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bg:Любов]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ca:Amor]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ca:Amor]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[cdo:Ái]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[cs:Láska]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[cs:Láska]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[da:Kærlighed]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[da:Kærlighed]]</div></td>\n</tr>\n",
+    "from": 132141905
+  },
+  "minor": ""
+}

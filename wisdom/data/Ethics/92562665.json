@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Applied ethics */",
+  "timestamp": "2006-12-06T22:49:37Z",
+  "revid": 92562665,
+  "anon": "",
+  "user": "192.231.231.235",
+  "parentid": 92528232,
+  "diff": {
+    "to": 92562665,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 102:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 102:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Ethics has been applied to [[criminology]] leading to the field of [[criminal justice]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Ethics has been applied to [[criminology]] leading to the field of [[criminal justice]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>i love katie o'neill. she is my favorite person in the whole wide world.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Choices Vs. Consequences</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Choices Vs. Consequences</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:92528232:newid:92562665 -->\n",
+    "from": 92528232
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Date/fix maintenance tags",
+  "timestamp": "2007-02-10T10:22:29Z",
+  "revid": 107053499,
+  "user": "SmackBot",
+  "parentid": 107029604,
+  "diff": {
+    "to": 107053499,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{<del class=\"diffchange diffchange-inline\">unreferenced</del>}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{<ins class=\"diffchange diffchange-inline\">Unreferenced|date=February 2007</ins>}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{For|the 1986 American crime film|Wisdom (film)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{For|the 1986 American crime film|Wisdom (film)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{For|people named Wisdom|Wisdom (surname)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{For|people named Wisdom|Wisdom (surname)}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 83:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 83:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.in-love-with-wisdom.com In Love with Wisdom]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.in-love-with-wisdom.com In Love with Wisdom]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://impartedwisdom.blogspot.com Imparted Wisdom]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://impartedwisdom.blogspot.com Imparted Wisdom]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Philosophical terminology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Philosophical terminology]]</div></td>\n</tr>\n",
+    "from": 107029604
+  },
+  "minor": ""
+}

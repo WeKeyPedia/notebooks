@@ -1,0 +1,12 @@
+﻿{
+  "comment": "iw",
+  "timestamp": "2007-04-29T23:33:38Z",
+  "revid": 126978763,
+  "user": "FinnWiki",
+  "parentid": 125762625,
+  "diff": {
+    "to": 126978763,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 138:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 138:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[mk:морал]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[mk:морал]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[nl:Moraal]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[nl:Moraal]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[no:Moral]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ja:道徳]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ja:道徳]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Moralność]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Moralność]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:125762625:newid:126978763 -->\n",
+    "from": 125762625
+  }
+}

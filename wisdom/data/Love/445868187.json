@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Chinese and other Sinic cultures */ rm",
+  "timestamp": "2011-08-20T19:28:13Z",
+  "revid": 445868187,
+  "user": "Ceoil",
+  "parentid": 445868094,
+  "diff": {
+    "to": 445868187,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 119:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 119:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Chinese and other Sinic cultures===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Chinese and other Sinic cultures===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{ChineseText}}</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love zh.svg|thumb|upright|\"Ai,\" the traditional [[Chinese character]] for love (愛) consists of a [[heart]] (middle) inside of \"accept,\" \"feel,\" or \"perceive,\" which shows a graceful emotion. It can also be interpreted as a hand offering ones heart to another hand.]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love zh.svg|thumb|upright|\"Ai,\" the traditional [[Chinese character]] for love (愛) consists of a [[heart]] (middle) inside of \"accept,\" \"feel,\" or \"perceive,\" which shows a graceful emotion. It can also be interpreted as a hand offering ones heart to another hand.]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:445868094:newid:445868187 -->\n",
+    "from": 445868094
+  }
+}

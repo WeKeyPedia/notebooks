@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-02-25T05:18:27Z",
+  "revid": 41125637,
+  "anon": "",
+  "user": "66.196.23.31",
+  "parentid": 41125602,
+  "diff": {
+    "to": 41125637,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 225:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 225:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/ross/right.html W. D. Ross, ''The Right and the Good'' (1930)]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/ross/right.html W. D. Ross, ''The Right and the Good'' (1930)]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.www.josephsoninstitute.org The Josephson Institute of Ethics] An organization aimed to improve the ethical quality of society by changing personal and organizational decision making and behavior.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.www.josephsoninstitute.org The Josephson Institute of Ethics] An organization aimed to improve the ethical quality of society by changing personal and organizational decision making and behavior.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http:www.globalpublic.org Advancing Ethics and Democracy] Developing a Global Ethic</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http:<ins class=\"diffchange diffchange-inline\">//</ins>www.globalpublic.org Advancing Ethics and Democracy] Developing a Global Ethic</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.galilean-library.org/int11.html An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.galilean-library.org/int11.html An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Stanford Encyclopedia of Philosophy</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Stanford Encyclopedia of Philosophy</div></td>\n</tr>\n",
+    "from": 41125602
+  }
+}

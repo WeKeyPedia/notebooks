@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Scientific perspectives */",
+  "timestamp": "2007-03-08T15:28:27Z",
+  "revid": 113586982,
+  "user": "Stevenson-Perez",
+  "parentid": 113586666,
+  "diff": {
+    "to": 113586982,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 48:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 48:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>‘'''W'''isdom’, from a scientific perspective, could be viewed simply as ‘knowledge in context’.    Yet functionally, ‘'''W'''isdom’ is far more textured and multidimensional.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>‘'''W'''isdom’, from a scientific perspective, could be viewed simply as ‘knowledge in context’.    Yet functionally, ‘'''W'''isdom’ is far more textured and multidimensional.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The modern western scientist who has conducted the most visible and thoughtful research on this topic is [[Jonas Salk]], in his companion reports “[[Survival Of The Wisest]]” and “[Anatomy Of Reality]”.                 In his research, Salk operationally defines the scientific experience of ‘'''W'''isdom’ in this way (paraphrased): </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The modern western scientist who has conducted the most visible and thoughtful research on this topic is [[Jonas Salk]], in his companion reports “[[Survival Of The Wisest]]” and “<ins class=\"diffchange diffchange-inline\">[</ins>[Anatomy Of Reality<ins class=\"diffchange diffchange-inline\">]</ins>]”.                 In his research, Salk operationally defines the scientific experience of ‘'''W'''isdom’ in this way (paraphrased): </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>   </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>   </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>1. The acquisition of scientific mastery &amp; competency, based upon an authentic appreciation of the field; </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>1. The acquisition of scientific mastery &amp; competency, based upon an authentic appreciation of the field; </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:113586666:newid:113586982 -->\n",
+    "from": 113586666
+  },
+  "minor": ""
+}

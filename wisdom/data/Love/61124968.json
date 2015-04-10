@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Other viewpoints */",
+  "timestamp": "2006-06-29T02:12:44Z",
+  "revid": 61124968,
+  "anon": "",
+  "user": "69.195.19.185",
+  "parentid": 61121760,
+  "diff": {
+    "to": 61124968,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 48:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 48:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Other viewpoints==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Other viewpoints==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">Often, some</del> people tend to view love as<del class=\"diffchange diffchange-inline\"> a nonexisistant feeling or</del> a simple chemical reaction<del class=\"diffchange diffchange-inline\"> gone wrong</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">Some</ins> people tend to view love as a simple chemical reaction.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;&lt;&lt; This needs references or a fuller explanation &gt;&gt;&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;&lt;&lt; This needs references or a fuller explanation &gt;&gt;&gt;</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:61121760:newid:61124968 -->\n",
+    "from": 61121760
+  }
+}

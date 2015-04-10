@@ -1,0 +1,13 @@
+﻿{
+  "comment": "[[Help:Reverting|Reverted]] edits by [[Special:Contributions/91.105.102.70|91.105.102.70]] ([[User talk:91.105.102.70|talk]]) to last version by Michael Hardy",
+  "timestamp": "2011-01-04T17:43:18Z",
+  "revid": 405922301,
+  "user": "HalfShadow",
+  "parentid": 405922180,
+  "diff": {
+    "to": 405922301,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 163:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 163:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Foucault–Habermas debate]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Foucault–Habermas debate]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Index of ethics articles]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Index of ethics articles]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Interpretive <del class=\"diffchange diffchange-inline\">dance</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Interpretive <ins class=\"diffchange diffchange-inline\">science</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Journalism ethics and standards]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Journalism ethics and standards]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Legal ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Legal ethics]]</div></td>\n</tr>\n",
+    "from": 405922180
+  },
+  "minor": ""
+}

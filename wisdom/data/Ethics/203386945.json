@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */",
+  "timestamp": "2008-04-04T21:57:29Z",
+  "revid": 203386945,
+  "user": "Poli08",
+  "parentid": 202695815,
+  "diff": {
+    "to": 203386945,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 100:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 100:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethical subjectivism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethical subjectivism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethics in religion]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethics in religion]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Foucault/Habermas debate]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Journalism ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Journalism ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:202695815:newid:203386945 -->\n",
+    "from": 202695815
+  },
+  "minor": ""
+}

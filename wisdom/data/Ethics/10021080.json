@@ -1,0 +1,13 @@
+﻿{
+  "comment": "rv repeated vandalism by [[User:142.151.177.134]]",
+  "timestamp": "2005-02-02T02:01:26Z",
+  "revid": 10021080,
+  "user": "Paraphelion",
+  "parentid": 9875832,
+  "diff": {
+    "to": 10021080,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 131:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 131:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"The [[O. J. Simpson|Simpson]] verdict was unjust.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"The [[O. J. Simpson|Simpson]] verdict was unjust.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Honesty is a virtue.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Honesty is a virtue.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* \"One ought to break the law.\"</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* \"One ought<ins class=\"diffchange diffchange-inline\"> not</ins> to break the law.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In contrast, a ''non''-ethical sentence would be a sentence that does ''not'' serve to (morally) evaluate something. Examples would include:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In contrast, a ''non''-ethical sentence would be a sentence that does ''not'' serve to (morally) evaluate something. Examples would include:</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:9875832:newid:10021080 -->\n",
+    "from": 9875832
+  },
+  "minor": ""
+}

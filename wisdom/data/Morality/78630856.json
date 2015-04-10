@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-09-30T03:56:46Z",
+  "revid": 78630856,
+  "anon": "",
+  "user": "142.103.92.191",
+  "parentid": 78368268,
+  "diff": {
+    "to": 78630856,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 89:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 89:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://lifeskills.endlex.com/article/morals_in_society.html Morals and Conscience in Society]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://plato.stanford.edu/entries/morality-definition/ The Stanford Encyclopedia of Philosophy on the Definition of Morality]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://plato.stanford.edu/entries/morality-definition/ The Stanford Encyclopedia of Philosophy on the Definition of Morality]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.examinethetruth.com/page_morale_01.htm Christian and Muslim debates on Morality]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.examinethetruth.com/page_morale_01.htm Christian and Muslim debates on Morality]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:78368268:newid:78630856 -->\n",
+    "from": 78368268
+  }
+}

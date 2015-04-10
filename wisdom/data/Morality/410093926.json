@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Bibliography */ Obscure reference. Web link broken.",
+  "timestamp": "2011-01-26T02:38:56Z",
+  "revid": 410093926,
+  "anon": "",
+  "user": "193.104.113.31",
+  "parentid": 410087543,
+  "diff": {
+    "to": 410093926,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 134:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 134:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Bibliography==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Bibliography==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* Walker, Martin G. ''LIFE! Why We Exist...And What We Must Do to Survive'' ([[LIFE Why We Exist...]] Wiki Book Page) ([http://www.meaninginmylife.com] Web Site), Dog Ear Publishing, 2006, ISBN 1-59858-243-7</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Trompenaars, Fons. ''Did the Pedestrian Die?'' ISBN 1-84112-436-2</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Trompenaars, Fons. ''Did the Pedestrian Die?'' ISBN 1-84112-436-2</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* {{Cite book</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* {{Cite book</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:410087543:newid:410093926 -->\n",
+    "from": 410087543
+  }
+}

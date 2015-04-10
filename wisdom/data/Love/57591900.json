@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Overview */",
+  "timestamp": "2006-06-08T21:12:04Z",
+  "revid": 57591900,
+  "anon": "",
+  "user": "196.202.5.215",
+  "parentid": 57570803,
+  "diff": {
+    "to": 57591900,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 9:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 9:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Overview ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Overview ==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>== [['''MERHAN LOVES OMAR 7AYAWAN''']] ==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|100px|thumb|right|A [[cartoonish]] version of the [[Heart (symbol)|heart]], a frequent modern symbol of love.]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|100px|thumb|right|A [[cartoonish]] version of the [[Heart (symbol)|heart]], a frequent modern symbol of love.]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 57570803
+  }
+}

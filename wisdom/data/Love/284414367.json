@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* See also */ + book",
+  "timestamp": "2009-04-17T13:38:09Z",
+  "revid": 284414367,
+  "user": "RichardF",
+  "parentid": 284204221,
+  "diff": {
+    "to": 284414367,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 206:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 206:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Monogamy]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Monogamy]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Haptic medicine]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Haptic medicine]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Wikipedia:Books|Wikipedia Books]]: [[Wikipedia:Books/Love|Love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:284204221:newid:284414367 -->\n",
+    "from": 284204221
+  }
+}

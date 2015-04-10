@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Mythological */ - added Cupid",
+  "timestamp": "2005-07-23T13:39:50Z",
+  "revid": 19440693,
+  "user": "Doctie",
+  "parentid": 19415352,
+  "diff": {
+    "to": 19440693,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 195:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 195:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Aonghus]] or ''Aengus''; god of beauty, youth, and sensual love in [[Irish mythology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Aonghus]] or ''Aengus''; god of beauty, youth, and sensual love in [[Irish mythology]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Aphrodite]] &amp;mdash; goddess of beauty and passionate love in [[Greek mythology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Aphrodite]] &amp;mdash; goddess of beauty and passionate love in [[Greek mythology]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Cupid]] &amp;mdash; god of passionate love in [[Roman mythology]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Eros (god)|Eros]] &amp;mdash; god of passionate love in [[Greek mythology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Eros (god)|Eros]] &amp;mdash; god of passionate love in [[Greek mythology]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Freya]] &amp;mdash; goddess in [[Norse mythology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Freya]] &amp;mdash; goddess in [[Norse mythology]]</div></td>\n</tr>\n",
+    "from": 19415352
+  },
+  "minor": ""
+}

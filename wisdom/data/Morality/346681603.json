@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Bot: links syntax",
+  "timestamp": "2010-02-27T13:53:35Z",
+  "revid": 346681603,
+  "user": "FrescoBot",
+  "parentid": 346136981,
+  "diff": {
+    "to": 346681603,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 150:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 150:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Bibliography ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Bibliography ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* Walker, Martin G. ''LIFE! Why We Exist...And What We Must Do to Survive'' ([<del class=\"diffchange diffchange-inline\">http://en.wikipedia.org/wiki/LIFE_Why_We_Exist</del>...] Wiki Book Page) ([http://www.meaninginmylife.com] Web Site), Dog Ear Publishing, 2006, ISBN 1-59858-243-7</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* Walker, Martin G. ''LIFE! Why We Exist...And What We Must Do to Survive'' ([<ins class=\"diffchange diffchange-inline\">[LIFE Why We Exist</ins>...<ins class=\"diffchange diffchange-inline\">]</ins>] Wiki Book Page) ([http://www.meaninginmylife.com] Web Site), Dog Ear Publishing, 2006, ISBN 1-59858-243-7</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Trompenaars, Fons. ''Did the Pedestrian Die?'' ISBN 1-84112-436-2</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Trompenaars, Fons. ''Did the Pedestrian Die?'' ISBN 1-84112-436-2</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:346136981:newid:346681603 -->\n",
+    "from": 346136981
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/24.136.40.188|24.136.40.188]] ([[User talk:24.136.40.188|talk]]) to last version by SJP",
+  "timestamp": "2007-10-03T22:23:53Z",
+  "revid": 162113992,
+  "user": "Ohnoitsjamie",
+  "parentid": 162113830,
+  "diff": {
+    "to": 162113992,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 56:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 56:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Also, an ancient proverb states that love is a high form of tolerance. This view is one that many philosophers and scholars have researched, and is widely accepted.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Also, an ancient proverb states that love is a high form of tolerance. This view is one that many philosophers and scholars have researched, and is widely accepted.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>== Vishal Loves Chinar ==</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:162113830:newid:162113992 -->\n",
+    "from": 162113830
+  },
+  "minor": ""
+}

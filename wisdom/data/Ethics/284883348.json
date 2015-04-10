@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */ unnecessary",
+  "timestamp": "2009-04-19T21:37:23Z",
+  "revid": 284883348,
+  "user": "OlEnglish",
+  "parentid": 283916984,
+  "diff": {
+    "to": 284883348,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 130:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 130:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethical subjectivism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethical subjectivism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethics in religion]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethics in religion]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Fallibilism<del class=\"diffchange diffchange-inline\">|moral fallibilism</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Fallibilism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Foucault/Habermas debate]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Foucault/Habermas debate]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Journalism ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Journalism ethics]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:283916984:newid:284883348 -->\n",
+    "from": 283916984
+  },
+  "minor": ""
+}

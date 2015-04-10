@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Philosophical perspectives */",
+  "timestamp": "2009-09-21T16:03:38Z",
+  "revid": 315314773,
+  "user": "HarryAlffa",
+  "parentid": 314933277,
+  "diff": {
+    "to": 315314773,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 77:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 77:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Philosophical perspectives==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Philosophical perspectives==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{<del class=\"diffchange diffchange-inline\">Citations missing</del>|date=September 2007}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{<ins class=\"diffchange diffchange-inline\">Refimprove</ins>|date=September 2007}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Wisdom-Reid-Highsmith.jpeg|thumb|left|[[Robert Reid (painter)|Robert Reid]], ''Wisdom'' (1896). [[Thomas Jefferson Building]], Washington, D.C.]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Wisdom-Reid-Highsmith.jpeg|thumb|left|[[Robert Reid (painter)|Robert Reid]], ''Wisdom'' (1896). [[Thomas Jefferson Building]], Washington, D.C.]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A standard [[philosophy|philosophical]] definition says that wisdom consists of making the best use of available [[propositional knowledge|knowledge]]. As with any decision, a wise decision may be made with incomplete [[information]]{{Citation needed|date=March 2007}}. The technical philosophical term for the opposite of wisdom is ''folly''.{{Citation needed|date=March 2007}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A standard [[philosophy|philosophical]] definition says that wisdom consists of making the best use of available [[propositional knowledge|knowledge]]. As with any decision, a wise decision may be made with incomplete [[information]]{{Citation needed|date=March 2007}}. The technical philosophical term for the opposite of wisdom is ''folly''.{{Citation needed|date=March 2007}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:314933277:newid:315314773 -->\n",
+    "from": 314933277
+  },
+  "minor": ""
+}

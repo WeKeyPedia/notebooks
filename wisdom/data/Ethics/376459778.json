@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Military ethics */ Removed reference suggesting that authority be rightfully based on \"accomplishment or productivity\"",
+  "timestamp": "2010-07-31T18:25:25Z",
+  "revid": 376459778,
+  "user": "Jeroboambramblejam",
+  "parentid": 376406709,
+  "diff": {
+    "to": 376459778,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 131:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 131:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># race (loss of capability due to race bias or abuse)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># race (loss of capability due to race bias or abuse)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># gender equality (loss of capability due to gender bias or abuse)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># gender equality (loss of capability due to gender bias or abuse)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div># age discrimination (authority based upon age<del class=\"diffchange diffchange-inline\"> instead of accomplishment or productivity</del>)</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div># age discrimination (authority based upon age)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># nepotism (unfair control by family members; also known as \"empire building\")</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># nepotism (unfair control by family members; also known as \"empire building\")</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># political influence (military members having a political position or political influence)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># political influence (military members having a political position or political influence)</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:376406709:newid:376459778 -->\n",
+    "from": 376406709
+  },
+  "minor": ""
+}

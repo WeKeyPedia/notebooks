@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2011-01-01T21:11:56Z",
+  "revid": 405378643,
+  "user": "Michael Hardy",
+  "parentid": 404450117,
+  "diff": {
+    "to": 405378643,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 161:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 161:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethics in religion]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethics in religion]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Fallibilism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Fallibilism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[<del class=\"diffchange diffchange-inline\">Foucault-Habermas</del> debate]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[<ins class=\"diffchange diffchange-inline\">Foucault–Habermas</ins> debate]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Index of ethics articles]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Index of ethics articles]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Interpretive science]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Interpretive science]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:404450117:newid:405378643 -->\n",
+    "from": 404450117
+  },
+  "minor": ""
+}

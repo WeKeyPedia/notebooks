@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Revert to revision 395482199 dated 2010-11-08 03:53:14 by Ninly using [[:en:Wikipedia:Tools/Navigation_popups|popups]]",
+  "timestamp": "2010-11-09T17:15:30Z",
+  "revid": 395773277,
+  "user": "Pfhorrest",
+  "parentid": 395772209,
+  "diff": {
+    "to": 395773277,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' (also known as '''moral philosophy''') is a branch of [[philosophy]] that addresses questions about<del class=\"diffchange diffchange-inline\"> pudding</del> [[morality]]—that is, concepts such as [[good and evil]], right and wrong,  [[virtue]] and [[vice]], [[justice]], etc.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' (also known as '''moral philosophy''') is a branch of [[philosophy]] that addresses questions about [[morality]]—that is, concepts such as [[good and evil]], right and wrong,  [[virtue]] and [[vice]], [[justice]], etc.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n</tr>\n",
+    "from": 395772209
+  }
+}

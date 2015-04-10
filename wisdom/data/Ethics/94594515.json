@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Ethics in health care */ added links",
+  "timestamp": "2006-12-15T22:37:17Z",
+  "revid": 94594515,
+  "user": "Vincej",
+  "parentid": 94330921,
+  "diff": {
+    "to": 94594515,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 85:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 85:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Bioethics|Medical ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Bioethics|Medical ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>One of the major areas where ethicists practice is in the field of [[health care]]. This includes [[medicine]], [[nursing ethics|nursing]], [[pharmacy]], [[genetics]], and other [[allied health professions]]. Example issues are [[euthanasia]], animal testing, [[abortion]], [[medical research]], [[vaccine trials]], [[stem cell<del class=\"diffchange diffchange-inline\">]]</del> research, [[informed consent]], [[truth|truth telling]], [[human rights|patient rights]] and [[Wiktionary:autonomy|autonomy]], [[rationing]] of health care (such as [[triage]]).</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>One of the major areas where ethicists practice is in the field of [[health care]]. This includes [[medicine]], [[nursing ethics|nursing]], [[pharmacy]], [[genetics]], and other [[allied health professions]]. Example issues are [[euthanasia]], <ins class=\"diffchange diffchange-inline\">[[</ins>animal testing<ins class=\"diffchange diffchange-inline\">]]</ins>, [[abortion]], [[medical research]], [[vaccine trials]], [[stem cell research<ins class=\"diffchange diffchange-inline\">]]</ins>, [[informed consent]], [[truth|truth telling]], [[human rights|patient rights]] and [[Wiktionary:autonomy|autonomy]], [[rationing]] of health care (such as [[triage]]).</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Ethics in psychology====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Ethics in psychology====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:94330921:newid:94594515 -->\n",
+    "from": 94330921
+  },
+  "minor": ""
+}

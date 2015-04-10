@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-03-27T23:19:32Z",
+  "revid": 45772352,
+  "user": "Arlogan0",
+  "parentid": 45723044,
+  "diff": {
+    "to": 45772352,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[life]]''' - someone or something for which you would give your life.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[life]]''' - someone or something for which you would give your life.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>#'''<del class=\"diffchange diffchange-inline\">[[</del>care<del class=\"diffchange diffchange-inline\">]]</del>''' - someone or something about which you care more than yourself.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>#'''care''' - someone or something about which you care more than yourself.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[friendship]]''' - favored interpersonal associations or relationships.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[friendship]]''' - favored interpersonal associations or relationships.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[human bonding|union]]''' - a synergistic connection, as in the perfect union of two souls.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[human bonding|union]]''' - a synergistic connection, as in the perfect union of two souls.</div></td>\n</tr>\n",
+    "from": 45723044
+  }
+}

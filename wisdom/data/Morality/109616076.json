@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Humanism is a specific ideology in a list of more general groups",
+  "timestamp": "2007-02-20T19:01:13Z",
+  "revid": 109616076,
+  "user": "AbstractClass",
+  "parentid": 109284446,
+  "diff": {
+    "to": 109616076,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Morality''' refers to the concept of human [[ethics]] which pertains to matters of [[good and evil]] &amp;mdash; also referred to as \"right or wrong\" &amp;mdash; used within three contexts: individual [[conscience]]; systems of [[principle]]s and [[judgment]]s &amp;mdash; sometimes called [[moral value]]s &amp;mdash;shared within a [[cultural]], [[religion|religious]], [[secular]]<del class=\"diffchange diffchange-inline\">, [[secular humanism|Humanist]],</del> or [[philosophical]] community; and codes of behavior or [[Code of conduct|conduct morality]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Morality''' refers to the concept of human [[ethics]] which pertains to matters of [[good and evil]] &amp;mdash; also referred to as \"right or wrong\" &amp;mdash; used within three contexts: individual [[conscience]]; systems of [[principle]]s and [[judgment]]s &amp;mdash; sometimes called [[moral value]]s &amp;mdash;shared within a [[cultural]], [[religion|religious]], [[secular]] or [[philosophical]] community; and codes of behavior or [[Code of conduct|conduct morality]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Personal morality defines and distinguishes among right and wrong [[intention]]s, [[motivation]]s or [[Action (philosophy)|action]]s, as these have been learned, engendered, or otherwise developed within each individual.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Personal morality defines and distinguishes among right and wrong [[intention]]s, [[motivation]]s or [[Action (philosophy)|action]]s, as these have been learned, engendered, or otherwise developed within each individual.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:109284446:newid:109616076 -->\n",
+    "from": 109284446
+  }
+}

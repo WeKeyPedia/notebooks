@@ -1,0 +1,13 @@
+﻿{
+  "comment": "robot  Removing: [[ta:காதல்]]",
+  "timestamp": "2007-01-20T16:10:07Z",
+  "revid": 102016607,
+  "user": "A4bot",
+  "parentid": 101876692,
+  "diff": {
+    "to": 102016607,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 211:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 211:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Kärlek]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Kärlek]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tl:Pag-ibig]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tl:Pag-ibig]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[ta:காதல்]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[th:รัก]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[th:รัก]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:101876692:newid:102016607 -->\n",
+    "from": 101876692
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Attraction and Attachment */ clean up",
+  "timestamp": "2004-10-12T12:26:21Z",
+  "revid": 6541628,
+  "user": "Johnkarp",
+  "parentid": 6519085,
+  "diff": {
+    "to": 6541628,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 42:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 42:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Attraction and Attachment===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Attraction and Attachment===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The conventional view in [[Biology]] is that there are two major drives in love &amp;mdash; attraction and [[attachment]]. Attachment between adults is presumed to work on the same principles that lead an infant to become attached to their mother<del class=\"diffchange diffchange-inline\">. Attraction is [[sexual attraction]]</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The conventional view in [[Biology]] is that there are two major drives in love &amp;mdash;<ins class=\"diffchange diffchange-inline\"> [[sexual</ins> attraction<ins class=\"diffchange diffchange-inline\">]]</ins> and [[attachment]]. Attachment between adults is presumed to work on the same principles that lead an infant to become attached to their mother.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Compassionate vs. Passionate ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Compassionate vs. Passionate ===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:6519085:newid:6541628 -->\n",
+    "from": 6519085
+  },
+  "minor": ""
+}

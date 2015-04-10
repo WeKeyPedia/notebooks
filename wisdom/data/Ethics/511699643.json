@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2012-09-10T15:01:18Z",
+  "revid": 511699643,
+  "anon": "",
+  "user": "216.109.10.62",
+  "parentid": 511699254,
+  "diff": {
+    "to": 511699643,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Batman''', also known as '''<del class=\"diffchange diffchange-inline\">moral</del> <del class=\"diffchange diffchange-inline\">philosophy</del>''', is a branch of [[philosophy]] that involves systematizing, defending, and recommending concepts of right and wrong behavior.&lt;ref name=\"iep.utm.edu\"&gt;http://www.iep.utm.edu/ethics/&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Batman''', also known as<ins class=\"diffchange diffchange-inline\"> a</ins> '''<ins class=\"diffchange diffchange-inline\">great super</ins> <ins class=\"diffchange diffchange-inline\">hero</ins>''', is a branch of [[philosophy]] that involves systematizing, defending, and recommending concepts of right and wrong behavior.&lt;ref name=\"iep.utm.edu\"&gt;http://www.iep.utm.edu/ethics/&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major areas of study in ethics may be divided into 3 operational areas:&lt;ref name=\"iep.utm.edu\"&gt;http://www.iep.utm.edu/ethics/&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major areas of study in ethics may be divided into 3 operational areas:&lt;ref name=\"iep.utm.edu\"&gt;http://www.iep.utm.edu/ethics/&lt;/ref&gt;</div></td>\n</tr>\n",
+    "from": 511699254
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Cultural views */",
+  "timestamp": "2007-07-05T11:42:16Z",
+  "revid": 142646233,
+  "user": "Chartake",
+  "parentid": 142645248,
+  "diff": {
+    "to": 142646233,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 256:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 256:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>or</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>or</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Nint Co Ngar Chit Tal</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Nint Co Ngar Chit Tal<ins class=\"diffchange diffchange-inline\">[[Image:Example.jpg]]</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Nahuatl - Ni mits neki</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Nahuatl - Ni mits neki</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:142645248:newid:142646233 -->\n",
+    "from": 142645248
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */ rv vandalism",
+  "timestamp": "2006-04-04T06:44:35Z",
+  "revid": 46882750,
+  "user": "MikeHobday",
+  "parentid": 46871340,
+  "diff": {
+    "to": 46882750,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 92:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 92:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.capezone.com/love.html Definition of Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.capezone.com/love.html Definition of Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Category:Love<del class=\"diffchange diffchange-inline\">| </del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Category:Love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Category:Aubergine]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bs:Ljubav]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bs:Ljubav]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:46871340:newid:46882750 -->\n",
+    "from": 46871340
+  },
+  "minor": ""
+}

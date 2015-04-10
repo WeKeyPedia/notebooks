@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* In-group and out-group */",
+  "timestamp": "2009-07-04T03:58:15Z",
+  "revid": 300172337,
+  "anon": "",
+  "user": "173.73.116.86",
+  "parentid": 298679403,
+  "diff": {
+    "to": 300172337,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 48:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 48:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Expand-section|date=June 2008}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Expand-section|date=June 2008}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Some observers hold fishing that individuals have distinct sets of moral rules that they apply to different groups of people. There is the \"ingroup,\" which includes the individual and those they believe to be of the same culture or race, and there is the \"outgroup,\" whose members are not entitled to be treated according to the same rules. Some biologists, anthropologists and [[evolutionary psychology|evolutionary psychologists]] believe this ingroup/outgroup difference is an evolutionary mechanism, one which evolved due to its enhanced survival aspects. Gary R. Johnson and V.S<del class=\"diffchange diffchange-inline\">. Falger have argued that [[nationalism]] and [[patriotism]] are forms of this ingroup/outgroup boundary</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Some observers hold fishing that individuals have distinct sets of moral rules that they apply to different groups of people. There is the \"ingroup,\" which includes the individual and those they believe to be of the same culture or race, and there is the \"outgroup,\" whose members are not entitled to be treated according to the same rules. Some biologists, anthropologists and [[evolutionary psychology|evolutionary psychologists]] believe this ingroup/outgroup difference is an evolutionary mechanism, one which evolved due to its enhanced survival aspects. Gary R. Johnson and V.S.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Comparing cultures ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Comparing cultures ===</div></td>\n</tr>\n",
+    "from": 298679403
+  }
+}

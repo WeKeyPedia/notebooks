@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Types */",
+  "timestamp": "2006-04-26T18:15:59Z",
+  "revid": 50290786,
+  "anon": "",
+  "user": "134.53.166.124",
+  "parentid": 50267231,
+  "diff": {
+    "to": 50290786,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 24:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 24:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Types ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Types ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Courtly love]] – a late medieval conventionalized code prescribing certain conduct and emotions for ladies and their lovers.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Courtly love]] – a late medieval conventionalized code prescribing certain conduct and emotions for ladies and their lovers.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Erotic love]] – an aesthetic focused on sexual <del class=\"diffchange diffchange-inline\">desire</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Erotic love]] – an aesthetic focused on sexual <ins class=\"diffchange diffchange-inline\">desires</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Familial love]] – affection brokered through kinship connections, intertwined with concepts of attachment and bonding.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Familial love]] – affection brokered through kinship connections, intertwined with concepts of attachment and bonding.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Free love]] – sexual relations according to choice and unrestricted by marriage.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Free love]] – sexual relations according to choice and unrestricted by marriage.</div></td>\n</tr>\n",
+    "from": 50267231
+  }
+}

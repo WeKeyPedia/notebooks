@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Religious views */ Add detail on Christian views.",
+  "timestamp": "2004-06-26T07:42:31Z",
+  "revid": 4292378,
+  "user": "MrJones",
+  "parentid": 4289885,
+  "diff": {
+    "to": 4292378,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 34:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 34:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Religious views ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Religious views ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Christianity|Christians]] believe that love to God and to other people (God's creation, as they see it) are the two most important things in life (the greatest commandment of God, according to [[Jesus Christ]]. See <del class=\"diffchange diffchange-inline\">[[</del>The Gospel of Mark]] chaper 12, verses 28-34 in the [[Bible]]). [[Saint Augustine]] summarised this when he wrote \"Love God, and do as thou wilt\".</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Christianity|Christians]] believe that love to God and to other people (God's creation, as they see it) are the two most important things in life (the greatest commandment of God, according to [[Jesus Christ]]. See The <ins class=\"diffchange diffchange-inline\">[[</ins>Gospel of Mark]] chaper 12, verses 28-34 in the [[Bible]]). [[Saint Augustine]] summarised this when he wrote \"Love God, and do as thou wilt\".</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Many Christian [[Theology|theologists]] see God as the source of love which is mirrored in humans and their relationships. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Many Christian [[Theology|theologists]] see God as the source of love which is mirrored in humans and their relationships. </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:4289885:newid:4292378 -->\n",
+    "from": 4289885
+  }
+}

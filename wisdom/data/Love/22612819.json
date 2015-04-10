@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2005-09-05T10:29:52Z",
+  "revid": 22612819,
+  "anon": "",
+  "user": "65.7.82.245",
+  "parentid": 22384277,
+  "diff": {
+    "to": 22612819,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 248:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 248:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://buddhism.kalachakranet.org/immeasurables.html A Buddhist View on Love and Compassion]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://buddhism.kalachakranet.org/immeasurables.html A Buddhist View on Love and Compassion]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://plato.stanford.edu/entries/love/ Stanford Encyclopedia of Philosophy entry]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://plato.stanford.edu/entries/love/ Stanford Encyclopedia of Philosophy entry]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.johnlovesraquel.com John Loves Raquel] - One man's quest to find his missing fiancee.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love]]</div></td>\n</tr>\n",
+    "from": 22384277
+  }
+}

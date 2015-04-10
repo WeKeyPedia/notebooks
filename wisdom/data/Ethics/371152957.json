@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2010-07-01T05:53:17Z",
+  "revid": 371152957,
+  "anon": "",
+  "user": "124.104.66.178",
+  "parentid": 370800594,
+  "diff": {
+    "to": 371152957,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[descriptive ethics]], about what moral values people actually abide by.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[descriptive ethics]], about what moral values people actually abide by.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Within each of these branches are many different schools of thought and still further sub-fields of study.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Within each of these branches are many different schools of thought and still further sub-fields of study.<ins class=\"diffchange diffchange-inline\">by the school</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:370800594:newid:371152957 -->\n",
+    "from": 370800594
+  }
+}

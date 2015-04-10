@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/68.187.230.89|68.187.230.89]] ([[User talk:68.187.230.89|talk]]) to last version by Tawker",
+  "timestamp": "2006-03-07T01:57:12Z",
+  "revid": 42576132,
+  "user": "El C",
+  "parentid": 42575688,
+  "diff": {
+    "to": 42576132,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 234:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 234:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/natural-law-ethics/ Natural Law Tradition in Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/natural-law-ethics/ Natural Law Tradition in Ethics]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-virtue/ Virtue Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-virtue/ Virtue Ethics]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>** [http://www.virtualdissent.com Modern Ethics]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy navigation}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy navigation}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:42575688:newid:42576132 -->\n",
+    "from": 42575688
+  },
+  "minor": ""
+}

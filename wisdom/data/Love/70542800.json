@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/64.12.116.136|64.12.116.136]] ([[User talk:64.12.116.136|talk]]) to version 70542029 by Omicronpersei8 using [[WP:SNIPE|VS]]",
+  "timestamp": "2006-08-19T05:45:46Z",
+  "revid": 70542800,
+  "user": "Omicronpersei8",
+  "parentid": 70542753,
+  "diff": {
+    "to": 70542800,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Lust-love]] - affection characterized by lust, caring about the desired one for a short amount of time, in other words, semi-true love</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Lust-love]] - affection characterized by lust, caring about the desired one for a short amount of time, in other words, semi-true love</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>True Love- Joel Adams. haha. It's the secret. Just kidding.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:70542753:newid:70542800 -->\n",
+    "from": 70542753
+  },
+  "minor": ""
+}

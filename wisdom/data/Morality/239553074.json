@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2008-09-19T13:06:11Z",
+  "revid": 239553074,
+  "anon": "",
+  "user": "97.118.65.95",
+  "parentid": 239021841,
+  "diff": {
+    "to": 239553074,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 140:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 140:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://www.in-mind.org/artikelen/fairness-judgments-genuine-morality-or-disguised-egocentrism.html Fairness Judgments: Genuine Morality or Disguised Egoism?] Psychological Article on Fairness (registration required)</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://plato.stanford.edu/entries/morality-definition/ The Stanford Encyclopedia of Philosophy on the Definition of Morality]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://plato.stanford.edu/entries/morality-definition/ The Stanford Encyclopedia of Philosophy on the Definition of Morality]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.percepp.com/morality.htm Objective Morality An evolutionary approach]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.percepp.com/morality.htm Objective Morality An evolutionary approach]</div></td>\n</tr>\n",
+    "from": 239021841
+  }
+}

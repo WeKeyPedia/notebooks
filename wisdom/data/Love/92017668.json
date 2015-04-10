@@ -1,0 +1,13 @@
+﻿{
+  "comment": "+zh-yue interwiki link",
+  "timestamp": "2006-12-04T16:24:39Z",
+  "revid": 92017668,
+  "user": "HenryLi",
+  "parentid": 91887683,
+  "diff": {
+    "to": 92017668,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 199:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 199:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:ליבע/ליבע]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:ליבע/ליבע]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[zh-yue:愛]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:91887683:newid:92017668 -->\n",
+    "from": 91887683
+  },
+  "minor": ""
+}

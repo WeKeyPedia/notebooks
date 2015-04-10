@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Companionate vs. passionate */",
+  "timestamp": "2006-02-03T18:51:08Z",
+  "revid": 38031197,
+  "anon": "",
+  "user": "62.167.80.221",
+  "parentid": 38003473,
+  "diff": {
+    "to": 38031197,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 24:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 24:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Companionate vs. passionate ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Companionate vs. passionate ===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">Conlin</del> <del class=\"diffchange diffchange-inline\">Monaco</del> <del class=\"diffchange diffchange-inline\">likes</del> <del class=\"diffchange diffchange-inline\">little</del> <del class=\"diffchange diffchange-inline\">boys</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">The</ins> <ins class=\"diffchange diffchange-inline\">traditional</ins> <ins class=\"diffchange diffchange-inline\">psychological</ins> <ins class=\"diffchange diffchange-inline\">view</ins> <ins class=\"diffchange diffchange-inline\">sees love as being a combination of [[companionate love]] and [[passionate love]]. [[Passionate love]] is intense longing, and is often accompanied by [[physiological arousal]] (shortness of breath, rapid heart rate). [[Companionate love]] is affection and a feeling of intimacy not accompanied by physiological arousal.</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Sternberg's Triangular Theory of Love ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Sternberg's Triangular Theory of Love ===</div></td>\n</tr>\n",
+    "from": 38003473
+  }
+}

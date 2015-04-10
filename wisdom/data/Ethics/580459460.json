@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Bioethics */",
+  "timestamp": "2013-11-06T15:04:13Z",
+  "revid": 580459460,
+  "anon": "",
+  "user": "49.145.250.0",
+  "parentid": 580418945,
+  "diff": {
+    "to": 580459460,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 146:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 146:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Bioethics====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Bioethics====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Main|Bioethics}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Main|Bioethics}}<ins class=\"diffchange diffchange-inline\">a</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Bioethics is the study of controversial ethics brought about by advances in [[biology]] and [[medicine]].  Bioethicists are concerned with the ethical questions that arise in the relationships among [[life sciences]], [[biotechnology]], [[medicine]], [[politics]], [[law]], and [[philosophy]]. It also includes the study of the more commonplace questions of values ([[primary care ethics|\"the ethics of the ordinary\"]]) that arise in primary care and other branches of medicine.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Bioethics is the study of controversial ethics brought about by advances in [[biology]] and [[medicine]].  Bioethicists are concerned with the ethical questions that arise in the relationships among [[life sciences]], [[biotechnology]], [[medicine]], [[politics]], [[law]], and [[philosophy]]. It also includes the study of the more commonplace questions of values ([[primary care ethics|\"the ethics of the ordinary\"]]) that arise in primary care and other branches of medicine.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:580418945:newid:580459460 -->\n",
+    "from": 580418945
+  }
+}

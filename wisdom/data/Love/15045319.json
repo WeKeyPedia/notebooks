@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Mythological */",
+  "timestamp": "2005-06-12T00:31:31Z",
+  "revid": 15045319,
+  "anon": "",
+  "user": "65.49.218.116",
+  "parentid": 15044505,
+  "diff": {
+    "to": 15045319,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 195:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 195:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Venus (mythology)|Venus]] &amp;mdash; goddess of passionate love in [[Roman mythology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Venus (mythology)|Venus]] &amp;mdash; goddess of passionate love in [[Roman mythology]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Xochipilli]] &amp;mdash; god in [[Aztec mythology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Xochipilli]] &amp;mdash; god in [[Aztec mythology]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>love is a natural believes</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:15044505:newid:15045319 -->\n",
+    "from": 15044505
+  }
+}

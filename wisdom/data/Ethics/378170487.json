@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2010-08-10T12:38:57Z",
+  "revid": 378170487,
+  "user": "Loot23",
+  "parentid": 377916660,
+  "diff": {
+    "to": 378170487,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 158:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 158:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Buddhist ethics (discipline)]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Buddhist ethics (discipline)]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Christian ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Emotivism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Emotivism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- * [[Engineering ethics]] --&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- * [[Engineering ethics]] --&gt;</div></td>\n</tr>\n",
+    "from": 377916660
+  },
+  "minor": ""
+}

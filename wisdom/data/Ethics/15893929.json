@@ -1,0 +1,13 @@
+﻿{
+  "comment": "dab wolves",
+  "timestamp": "2005-06-23T06:29:20Z",
+  "revid": 15893929,
+  "user": "CanisRufus",
+  "parentid": 15672717,
+  "diff": {
+    "to": 15893929,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 170:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 170:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Dolphins]] support sick or injured animals, swimming under them for hours at a time and pushing them to the surface so they can breathe,</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Dolphins]] support sick or injured animals, swimming under them for hours at a time and pushing them to the surface so they can breathe,</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Wolves]] and [[wild dogs]] bring meat back to members of the pack not present at the kill,</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[<ins class=\"diffchange diffchange-inline\">Wolf|</ins>Wolves]] and [[wild dogs]] bring meat back to members of the pack not present at the kill,</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*Male [[baboons]] threaten predators and cover the rear as the troop retreats,</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*Male [[baboons]] threaten predators and cover the rear as the troop retreats,</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:15672717:newid:15893929 -->\n",
+    "from": 15672717
+  },
+  "minor": ""
+}

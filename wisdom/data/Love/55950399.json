@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Religious views */",
+  "timestamp": "2006-05-30T16:11:52Z",
+  "revid": 55950399,
+  "anon": "",
+  "user": "81.104.89.34",
+  "parentid": 55950363,
+  "diff": {
+    "to": 55950399,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 41:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 41:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>GAY</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>GAY</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">==Religious views==</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">GAY</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{main|Love (religious views)}}</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Whether '''religious love''' can be expressed in similar terms to ''interpersonal love'' is a matter for philosophical debate. Religious 'love' might be considered a euphemistic term, more closely describing feelings of deference or [[acquiescence]]. Most religions use the term love to express the [[devotion]] the follower has to their deity, who may be a living [[guru]] or religious teacher, as in the [[Bhakti]] traditions of Asia. This love can be expressed by [[prayer]], service, good deeds, and personal [[sacrifice]]. Reciprocally, the followers may believe that the deity loves the followers and all of creation. Some traditions encourage the development of passionate love in the believer for the deity. </div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:55950363:newid:55950399 -->\n",
+    "from": 55950363
+  }
+}

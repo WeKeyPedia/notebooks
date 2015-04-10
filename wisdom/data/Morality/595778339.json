@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* The moral code in the individual decision making */",
+  "timestamp": "2014-02-16T20:57:38Z",
+  "revid": 595778339,
+  "user": "Itamarkalimi",
+  "parentid": 595778275,
+  "diff": {
+    "to": 595778339,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 158:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 158:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== The moral code in the individual decision making ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== The moral code in the individual decision making ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The Morality purpose is to help the individual in making <del class=\"diffchange diffchange-inline\">[[</del>right<del class=\"diffchange diffchange-inline\">|https://en.wikipedia.org/wiki/Rights]]</del> choose and do good and not bad.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The Morality purpose is to help the individual in making right choose and do good and not bad.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The individual human life involved making decisions.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The individual human life involved making decisions.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:595778275:newid:595778339 -->\n",
+    "from": 595778275
+  }
+}

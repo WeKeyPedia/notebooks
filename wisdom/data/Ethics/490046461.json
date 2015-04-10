@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2012-05-01T00:56:52Z",
+  "revid": 490046461,
+  "anon": "",
+  "user": "203.184.40.239",
+  "parentid": 489641698,
+  "diff": {
+    "to": 490046461,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''', also known as '<del class=\"diffchange diffchange-inline\">''moral</del> <del class=\"diffchange diffchange-inline\">philosophy'''</del>, is a branch of [[philosophy]] that involves systematizing, defending, and recommending concepts of right and wrong behavior.&lt;ref name=\"iep.utm.edu\"&gt;http://www.iep.utm.edu/ethics/&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''', also known as <ins class=\"diffchange diffchange-inline\">\"Yo mamma</ins>'<ins class=\"diffchange diffchange-inline\">s</ins> <ins class=\"diffchange diffchange-inline\">house\"</ins>, is a branch of [[philosophy]] that involves systematizing, defending, and recommending concepts of right and wrong behavior.&lt;ref name=\"iep.utm.edu\"&gt;http://www.iep.utm.edu/ethics/&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major areas of study in ethics include:&lt;ref name=\"iep.utm.edu\"/&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major areas of study in ethics include:&lt;ref name=\"iep.utm.edu\"/&gt;</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:489641698:newid:490046461 -->\n",
+    "from": 489641698
+  }
+}

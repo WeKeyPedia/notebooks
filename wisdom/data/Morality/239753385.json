@@ -1,0 +1,12 @@
+﻿{
+  "comment": "[[WP:UNDO|Undid]] revision 239553074 by [[Special:Contributions/97.118.65.95|97.118.65.95]] ([[User talk:97.118.65.95|talk]])link did not warrant removal",
+  "timestamp": "2008-09-20T08:43:25Z",
+  "revid": 239753385,
+  "user": "Tealwisp",
+  "parentid": 239553074,
+  "diff": {
+    "to": 239753385,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 140:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 140:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.in-mind.org/artikelen/fairness-judgments-genuine-morality-or-disguised-egocentrism.html Fairness Judgments: Genuine Morality or Disguised Egoism?] Psychological Article on Fairness (registration required)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://plato.stanford.edu/entries/morality-definition/ The Stanford Encyclopedia of Philosophy on the Definition of Morality]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://plato.stanford.edu/entries/morality-definition/ The Stanford Encyclopedia of Philosophy on the Definition of Morality]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.percepp.com/morality.htm Objective Morality An evolutionary approach]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.percepp.com/morality.htm Objective Morality An evolutionary approach]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:239553074:newid:239753385 -->\n",
+    "from": 239553074
+  }
+}

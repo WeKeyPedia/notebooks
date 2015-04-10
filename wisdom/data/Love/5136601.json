@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by 81.77.219.252 to last version by 81.86.83.141",
+  "timestamp": "2004-08-06T19:36:29Z",
+  "revid": 5136601,
+  "user": "Hemanshu",
+  "parentid": 5042498,
+  "diff": {
+    "to": 5136601,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' has many meanings in [[English language|English]]. It can mean an intense feeling of [[affection]], an [[emotion]] or emotional state. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' has many meanings in [[English language|English]]. It can mean an intense feeling of [[affection]], an [[emotion]] or emotional state. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>I LOVE HSNNU DJRTTU (name encoded)</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meanings==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meanings==</div></td>\n</tr>\n",
+    "from": 5042498
+  },
+  "minor": ""
+}

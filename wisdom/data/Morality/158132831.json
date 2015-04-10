@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Religion as a source of moral authority */",
+  "timestamp": "2007-09-15T21:44:30Z",
+  "revid": 158132831,
+  "user": "Richard holt",
+  "parentid": 158132020,
+  "diff": {
+    "to": 158132831,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{section-stub}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{section-stub}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Main|<del class=\"diffchange diffchange-inline\">[</del>[Divine Command Theory<del class=\"diffchange diffchange-inline\">]</del>]}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Main|[Divine Command Theory]}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Religious belief systems usually include the idea of divine will and divine [[Last Judgment|judgment]] and usually correspond to a moral code of conduct.<del class=\"diffchange diffchange-inline\">  </del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Religious belief systems usually include the idea of divine will and divine [[Last Judgment|judgment]] and usually correspond to a moral code of conduct.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Relativism and absolutism ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Relativism and absolutism ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:158132020:newid:158132831 -->\n",
+    "from": 158132020
+  },
+  "minor": ""
+}

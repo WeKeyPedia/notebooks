@@ -1,0 +1,13 @@
+﻿{
+  "comment": "r2.6.2) (robot Adding: [[hif:Morality]]",
+  "timestamp": "2011-08-31T19:12:50Z",
+  "revid": 447706343,
+  "user": "Movses-bot",
+  "parentid": 446970017,
+  "diff": {
+    "to": 447706343,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 187:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 187:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[eu:Moral]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[eu:Moral]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fa:اخلاق]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fa:اخلاق]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[hif:Morality]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fr:Morale]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fr:Morale]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[gl:Moral]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[gl:Moral]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:446970017:newid:447706343 -->\n",
+    "from": 446970017
+  },
+  "minor": ""
+}

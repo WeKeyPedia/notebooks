@@ -1,0 +1,13 @@
+﻿{
+  "comment": "[[WP:UNDO|Undid]] revision 142974630 by [[Special:Contributions/74.123.178.61|74.123.178.61]] ([[User talk:74.123.178.61|talk]])",
+  "timestamp": "2007-07-06T22:15:31Z",
+  "revid": 142985783,
+  "anon": "",
+  "user": "131.107.0.73",
+  "parentid": 142974630,
+  "diff": {
+    "to": 142985783,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 84:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 84:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Moral core ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Moral core ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Cleanup|date=January 2006}}<del class=\"diffchange diffchange-inline\">(also known assssssssss who cares abt this shytt</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Cleanup|date=January 2006}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The moral core of an individual is the extent to which that person will apply his notions of morality. It is centered on the individual and can be extended to include other people or groups. The individual sees these others within the moral core as deserving to be treated in the same way the individual personally wants to be treated.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The moral core of an individual is the extent to which that person will apply his notions of morality. It is centered on the individual and can be extended to include other people or groups. The individual sees these others within the moral core as deserving to be treated in the same way the individual personally wants to be treated.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:142974630:newid:142985783 -->\n",
+    "from": 142974630
+  }
+}

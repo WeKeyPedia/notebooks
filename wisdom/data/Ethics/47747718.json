@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-04-10T03:31:26Z",
+  "revid": 47747718,
+  "user": "Logologist",
+  "parentid": 47380654,
+  "diff": {
+    "to": 47747718,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 184:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 184:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Morality]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Morality]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Naturalistic fallacy]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Naturalistic fallacy]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Perfection]] (Moral perfection)</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Perfection]] (<ins class=\"diffchange diffchange-inline\">\"</ins>Moral perfection<ins class=\"diffchange diffchange-inline\">\"</ins>)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethic of reciprocity|The Golden Rule]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethic of reciprocity|The Golden Rule]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Virtue ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Virtue ethics]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:47380654:newid:47747718 -->\n",
+    "from": 47380654
+  },
+  "minor": ""
+}

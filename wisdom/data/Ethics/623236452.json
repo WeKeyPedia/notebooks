@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverting possible vandalism by [[Special:Contributions/71.235.146.143|71.235.146.143]] to version by 87.64.164.200. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1934241) (Bot)",
+  "timestamp": "2014-08-28T22:44:18Z",
+  "revid": 623236452,
+  "user": "ClueBot NG",
+  "parentid": 623236441,
+  "diff": {
+    "to": 623236452,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 222:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 222:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*Lyon, D.  (1999),  Postmodernity, 2nd ed, [[Open University Press]], Buckingham.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*Lyon, D.  (1999),  Postmodernity, 2nd ed, [[Open University Press]], Buckingham.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*Singer, P.  (2000), Writings on an ethical life, [[Harper Collins Publishers]], London.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*Singer, P.  (2000), Writings on an ethical life, [[Harper Collins Publishers]], London.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Hi, hows life? Im doing pretty good.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Further reading==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Further reading==</div></td>\n</tr>\n",
+    "from": 623236441
+  },
+  "minor": ""
+}

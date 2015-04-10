@@ -1,0 +1,12 @@
+﻿{
+  "comment": "removed spam",
+  "timestamp": "2006-10-05T14:20:36Z",
+  "revid": 79652631,
+  "user": "Xyzzyplugh",
+  "parentid": 79627318,
+  "diff": {
+    "to": 79652631,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 234:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 234:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/natural-law-ethics/ Natural Law Tradition in Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/natural-law-ethics/ Natural Law Tradition in Ethics]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-virtue/ Virtue Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-virtue/ Virtue Ethics]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*  [http://erg4146.casaccia.enea.it/axiology.htm Computational Ethics and Axiology]: </div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://erg4146.casaccia.enea.it/Ethic-Agents.html Intelligence and Ethics - Definition Updating : Socio-Cognitive Perspective (Adam Maria Gadomski)]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.observacionesfilosoficas.net/etica.htm Ética y Filosofía Política | In Revista Observaciones Filosóficas | In spanish]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.observacionesfilosoficas.net/etica.htm Ética y Filosofía Política | In Revista Observaciones Filosóficas | In spanish]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy navigation}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy navigation}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:79627318:newid:79652631 -->\n",
+    "from": 79627318
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2010-08-16T02:19:36Z",
+  "revid": 379147894,
+  "anon": "",
+  "user": "110.5.117.179",
+  "parentid": 378413090,
+  "diff": {
+    "to": 379147894,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 212:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 212:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מוסר]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מוסר]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:道德]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:道德]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''&lt;3'''</div></td>\n</tr>\n",
+    "from": 378413090
+  }
+}

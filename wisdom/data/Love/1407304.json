@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2003-09-07T22:50:44Z",
+  "revid": 1407304,
+  "anon": "",
+  "user": "4.42.62.52",
+  "parentid": 1407298,
+  "diff": {
+    "to": 1407304,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 9:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 9:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving something abstract or inanimate</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving something abstract or inanimate</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving one's nation or [[homeland]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving one's nation or [[homeland]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div># butt love is when gay guys do it in the rump</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>What is common to all the types of love, is a conscious or subconscious desire towards someone or something or realisation of their goals.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>What is common to all the types of love, is a conscious or subconscious desire towards someone or something or realisation of their goals.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:1407298:newid:1407304 -->\n",
+    "from": 1407298
+  }
+}

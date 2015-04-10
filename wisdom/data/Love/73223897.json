@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-09-01T13:56:15Z",
+  "revid": 73223897,
+  "anon": "",
+  "user": "59.95.29.110",
+  "parentid": 73223784,
+  "diff": {
+    "to": 73223897,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 144:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 144:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.lovecalculator.com The Love Calculator ]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.lovecalculator.com The Love Calculator ]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.bottlemeamessage.com Express Your Love ]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.bottlemeamessage.com Express Your Love ]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http:/www.lovetest.com The Love Test ]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http:<ins class=\"diffchange diffchange-inline\">/</ins>/www.lovetest.com The Love Test ]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:73223784:newid:73223897 -->\n",
+    "from": 73223784
+  }
+}

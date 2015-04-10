@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-01-03T03:41:27Z",
+  "revid": 33683055,
+  "anon": "",
+  "user": "71.249.4.110",
+  "parentid": 33682639,
+  "diff": {
+    "to": 33683055,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 9:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 9:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Expressions of love may include the love for a [[soul]] or mind, the love of laws and organizations, love for a body, love for nature, love of food, love of money, love for learning, love of power, love of fame, love for the respect of others, et cetera.  Different people place varying degrees of importance on the kinds of love they receive. Love is essentially an abstract concept, easier to experience than to explain.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Expressions of love may include the love for a [[soul]] or mind, the love of laws and organizations, love for a body, love for nature, love of food, love of money, love for learning, love of power, love of fame, love for the respect of others, et cetera.  Different people place varying degrees of importance on the kinds of love they receive. Love is essentially an abstract concept, easier to experience than to explain.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>It can be best described by Mick's feeling have toward Stacy. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{emotion}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{emotion}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Impersonal love==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Impersonal love==</div></td>\n</tr>\n",
+    "from": 33682639
+  }
+}

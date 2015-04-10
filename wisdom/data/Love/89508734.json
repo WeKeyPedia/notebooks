@@ -1,0 +1,13 @@
+﻿{
+  "comment": "BOT - rv [[Special:Contributions/71.10.255.66|71.10.255.66]] ([[User talk:71.10.255.66|talk]]) to last version by Buchanan-Hermit",
+  "timestamp": "2006-11-22T19:59:49Z",
+  "revid": 89508734,
+  "user": "AntiVandalBot",
+  "parentid": 89508702,
+  "diff": {
+    "to": 89508734,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 73:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 73:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[Human bonding|bond]]''' - the inner connection when another person is a part of your identity.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[Human bonding|bond]]''' - the inner connection when another person is a part of your identity.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Thomas Jay Oord]] defines love as acting intentionally, in sympathetic response to others (including God), to promote overall well-being.  Oord means for his definition to be adequate for religion, philosophy, and the sciences.<del class=\"diffchange diffchange-inline\"> see you know when u luv someone when you can feel there hand on your face,,you show affection like muahhh!!!</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Thomas Jay Oord]] defines love as acting intentionally, in sympathetic response to others (including God), to promote overall well-being.  Oord means for his definition to be adequate for religion, philosophy, and the sciences.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:89508702:newid:89508734 -->\n",
+    "from": 89508702
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "grammatical correction",
+  "timestamp": "2006-05-04T20:45:30Z",
+  "revid": 51576073,
+  "anon": "",
+  "user": "65.54.98.162",
+  "parentid": 51575952,
+  "diff": {
+    "to": 51576073,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A standard [[philosophy|philosophical]] definition says that wisdom consists of making the best use of available [[propositional knowledge|knowledge]]. As with all decisions, a wise decision may be made with incomplete [[information]]. The technical philosophical term for the opposite of wisdom is [[folly]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A standard [[philosophy|philosophical]] definition says that wisdom consists of making the best use of available [[propositional knowledge|knowledge]]. As with all decisions, a wise decision may be made with incomplete [[information]]. The technical philosophical term for the opposite of wisdom is [[folly]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In his ''[[Metaphysics]]'', [[Aristotle]] defines wisdom as knowledge of causes: ''why'' things <del class=\"diffchange diffchange-inline\">are</del> a <del class=\"diffchange diffchange-inline\">certain</del> <del class=\"diffchange diffchange-inline\">way</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In his ''[[Metaphysics]]'', [[Aristotle]] defines wisdom as knowledge of causes: ''why'' things <ins class=\"diffchange diffchange-inline\">exist in</ins> a <ins class=\"diffchange diffchange-inline\">particular</ins> <ins class=\"diffchange diffchange-inline\">fashion</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Sources of wisdom==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Sources of wisdom==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:51575952:newid:51576073 -->\n",
+    "from": 51575952
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Impersonal love */",
+  "timestamp": "2005-03-28T19:59:57Z",
+  "revid": 11618890,
+  "user": "Evonne",
+  "parentid": 11618485,
+  "diff": {
+    "to": 11618890,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 35:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 35:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Impersonal love===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Impersonal love===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>A person can be said to love a country, principle, or goal if they value it greatly and are deeply committed to it. People can also 'love' material objects, animals, or activities if they <del class=\"diffchange diffchange-inline\">like</del> <del class=\"diffchange diffchange-inline\">them</del> <del class=\"diffchange diffchange-inline\">a</del> <del class=\"diffchange diffchange-inline\">great</del> <del class=\"diffchange diffchange-inline\">deal</del>. In these cases, if sexual passion is actually felt, it is typically considered abnormal or unhealthy, and called [[paraphilia]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>A person can be said to love a country, principle, or goal if they value it greatly and are deeply committed to it. People can also 'love' material objects, animals, or activities if they <ins class=\"diffchange diffchange-inline\">invest</ins> <ins class=\"diffchange diffchange-inline\">themselves</ins> <ins class=\"diffchange diffchange-inline\">in</ins> <ins class=\"diffchange diffchange-inline\">bonding</ins> <ins class=\"diffchange diffchange-inline\">their identity with that item</ins>. In these cases, if sexual passion is actually felt, it is typically considered abnormal or unhealthy, and called [[paraphilia]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religious love===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religious love===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:11618485:newid:11618890 -->\n",
+    "from": 11618485
+  },
+  "minor": ""
+}

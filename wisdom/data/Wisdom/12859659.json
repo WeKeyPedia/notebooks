@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-04-26T22:18:30Z",
+  "revid": 12859659,
+  "anon": "",
+  "user": "68.220.124.87",
+  "parentid": 12855797,
+  "diff": {
+    "to": 12859659,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 30:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 30:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Wisdom literature]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Wisdom literature]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Book of Wisdom]]  (Biblical book, also called ''Wisdom of Solomon'')</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Book of Wisdom]]  (Biblical book, also called ''Wisdom of Solomon'')</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[WHIZ NETWORKS]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:12855797:newid:12859659 -->\n",
+    "from": 12855797
+  }
+}

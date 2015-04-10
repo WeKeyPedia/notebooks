@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-05-05T17:54:02Z",
+  "revid": 51710514,
+  "anon": "",
+  "user": "192.55.87.163",
+  "parentid": 51509701,
+  "diff": {
+    "to": 51710514,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 214:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 214:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://ethics.<del class=\"diffchange diffchange-inline\">acusd</del>.edu/ Ethics Updates] mega-list of ethics resources maintained by Lawrence Hinman of the University of San Diego.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://ethics.<ins class=\"diffchange diffchange-inline\">sandiego</ins>.edu/ Ethics Updates] mega-list of ethics resources maintained by Lawrence Hinman of the University of San Diego.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.rsrevision.com rsrevision.com] UK website with summaries and criticisms on:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.rsrevision.com rsrevision.com] UK website with summaries and criticisms on:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://www.rsrevision.com/Alevel/ethics/kant/ Kant]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://www.rsrevision.com/Alevel/ethics/kant/ Kant]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:51509701:newid:51710514 -->\n",
+    "from": 51509701
+  }
+}

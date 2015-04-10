@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-02-02T04:00:57Z",
+  "revid": 9878798,
+  "anon": "",
+  "user": "24.233.68.177",
+  "parentid": 9878726,
+  "diff": {
+    "to": 9878798,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Image: Arbor_Kiss_Crop.jpg|200px|thumb|True Love]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' has many meanings in [[English language|English]]. It can mean an intense feeling of [[affection]], an [[emotion]] or emotional state. In ordinary use, it usually refers to interpersonal love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' has many meanings in [[English language|English]]. It can mean an intense feeling of [[affection]], an [[emotion]] or emotional state. In ordinary use, it usually refers to interpersonal love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:9878726:newid:9878798 -->\n",
+    "from": 9878726
+  }
+}

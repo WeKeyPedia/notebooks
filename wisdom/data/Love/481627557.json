@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2012-03-13T04:02:05Z",
+  "revid": 481627557,
+  "user": "Vanished user g454XxNpUVWvxzlr",
+  "parentid": 481344212,
+  "diff": {
+    "to": 481627557,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 113:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 113:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>===Indian===</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>‍‍{{Expand section|date=January 2012}}</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Persian===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Persian===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>‍‍{{Refimprove|date=January 2012}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>‍‍{{Refimprove|date=January 2012}}</div></td>\n</tr>\n",
+    "from": 481344212
+  },
+  "minor": ""
+}

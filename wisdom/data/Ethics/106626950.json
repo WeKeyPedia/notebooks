@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2007-02-08T18:14:16Z",
+  "revid": 106626950,
+  "anon": "",
+  "user": "142.59.133.152",
+  "parentid": 106617235,
+  "diff": {
+    "to": 106626950,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 163:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 163:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/feminism-ethics/ Feminist Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/feminism-ethics/ Feminist Ethics]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/natural-law-ethics/ Natural Law Tradition in Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/natural-law-ethics/ Natural Law Tradition in Ethics]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>** [http://en.wikipedia.org/wiki/Confidentiality#External_links] Confidentiality</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>** [http://www.asadonbrown.com/confidentiality.htm] Confidentiality and Ethics</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>** [http://www.wapsych.org/displayconvpresenterbio.cfm?showpresenter=566833] Asa Don Brown is a former Bylaws and Ethics Chair for Washington Couseling Association</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-virtue/ Virtue Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-virtue/ Virtue Ethics]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.observacionesfilosoficas.net/etica.htm Ética y Filosofía Política | In Revista Observaciones Filosóficas | In spanish]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.observacionesfilosoficas.net/etica.htm Ética y Filosofía Política | In Revista Observaciones Filosóficas | In spanish]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:106617235:newid:106626950 -->\n",
+    "from": 106617235
+  }
+}

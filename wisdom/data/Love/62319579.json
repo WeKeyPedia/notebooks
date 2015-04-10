@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-07-06T05:35:51Z",
+  "revid": 62319579,
+  "anon": "",
+  "user": "86.143.0.24",
+  "parentid": 62316109,
+  "diff": {
+    "to": 62319579,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 114:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 114:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.love-wiki.com Love Wiki, A growing Wiki based entirely on love.]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.love-wiki.com Love Wiki, A growing Wiki based entirely on love.]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.yarzheit.com/heavensregister/lifeoflove.htm] Explanation of True Love, living a \"Life of Love\" from Sefer Shinuyim - The Ancient Jewish Book of Changes,  from SeferShinuyim.com</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:'''See:''' [http://en.wikipedia.org/wiki/Talk:Love#External_links Talk Page] to vote on which links should go here</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:'''See:''' [http://en.wikipedia.org/wiki/Talk:Love#External_links Talk Page] to vote on which links should go here</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:62316109:newid:62319579 -->\n",
+    "from": 62316109
+  }
+}

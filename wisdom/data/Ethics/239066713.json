@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */  update link page pointer",
+  "timestamp": "2008-09-17T17:39:13Z",
+  "revid": 239066713,
+  "user": "LouI",
+  "parentid": 238772931,
+  "diff": {
+    "to": 239066713,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 154:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 154:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.open2.net/ethicsbites/index.html Ethics Bites] Open University podcast series podcast exploring ethical dilemmas in everyday life.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.open2.net/ethicsbites/index.html Ethics Bites] Open University podcast series podcast exploring ethical dilemmas in everyday life.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/ross/right.html 'The Right and the Good''] (1930) by [[W. D. Ross]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/ross/right.html 'The Right and the Good''] (1930) by [[W. D. Ross]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://ethics.sandiego.edu/Glossary.<del class=\"diffchange diffchange-inline\">html</del> University of San Diego - Ethics glossary] Useful terms in ethics discussions</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://ethics.sandiego.edu<ins class=\"diffchange diffchange-inline\">/LMH/E2</ins>/Glossary.<ins class=\"diffchange diffchange-inline\">asp</ins> University of San Diego - Ethics glossary] Useful terms in ethics discussions</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy topics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy topics}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:238772931:newid:239066713 -->\n",
+    "from": 238772931
+  },
+  "minor": ""
+}

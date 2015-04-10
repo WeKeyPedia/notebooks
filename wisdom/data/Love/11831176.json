@@ -1,0 +1,13 @@
+﻿{
+  "comment": "corrected link",
+  "timestamp": "2005-03-29T17:40:32Z",
+  "revid": 11831176,
+  "user": "Mel Etitis",
+  "parentid": 11655082,
+  "diff": {
+    "to": 11831176,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 229:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 229:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Limerence]]  &amp;mdash; the \"in love\" state</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Limerence]]  &amp;mdash; the \"in love\" state</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Crush]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Crush]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Puppy <del class=\"diffchange diffchange-inline\">Love</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Puppy <ins class=\"diffchange diffchange-inline\">love</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love-Hate relationship]]s</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love-Hate relationship]]s</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love-shyness]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love-shyness]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:11655082:newid:11831176 -->\n",
+    "from": 11655082
+  },
+  "minor": ""
+}

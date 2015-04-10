@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Eastern religions and philosophy */ Added quote from Chpt. 33 of Tao Te Ching",
+  "timestamp": "2011-06-20T17:26:38Z",
+  "revid": 435305552,
+  "user": "Musides",
+  "parentid": 435304571,
+  "diff": {
+    "to": 435305552,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 93:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 93:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[Taoism]], wisdom is construed as adherence to the [[Three Treasures (Taoism)]], comprised of charity, simplicity, and humility.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[Taoism]], wisdom is construed as adherence to the [[Three Treasures (Taoism)]], comprised of charity, simplicity, and humility.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>:Knowing others is intelligence;</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>::knowing yourself is true wisdom.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>:Mastering others is strength;</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>::mastering yourself is true power.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>([[Tao Te Ching]], 33, tr. S. Mitchell)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Other religions ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Other religions ===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:435304571:newid:435305552 -->\n",
+    "from": 435304571
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "replace top image:use a symbol of wisdom:  horns on Moses' head",
+  "timestamp": "2011-06-01T12:59:32Z",
+  "revid": 431993768,
+  "user": "Ancheta Wis",
+  "parentid": 431787204,
+  "diff": {
+    "to": 431993768,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[File:<del class=\"diffchange diffchange-inline\">W.</del> <del class=\"diffchange diffchange-inline\">(wisdom)</del>.<del class=\"diffchange diffchange-inline\">png</del>|thumb|<del class=\"diffchange diffchange-inline\">2011.</del> <del class=\"diffchange diffchange-inline\">A</del> graphic personification of Wisdom]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[File:<ins class=\"diffchange diffchange-inline\">Moses</ins> <ins class=\"diffchange diffchange-inline\">San Pietro in Vincoli</ins>.<ins class=\"diffchange diffchange-inline\">jpg</ins>|thumb|<ins class=\"diffchange diffchange-inline\">Horns on the head of [[Moses (Michelangelo)]] are</ins> <ins class=\"diffchange diffchange-inline\">a</ins> graphic personification of Wisdom]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Efez Celsus Library 3 RB.jpg|thumb|200px|[[Personification]] of wisdom (in [[Greek language|Greek]], \"''Σοφία''\" or \"''[[Sophia (wisdom)|Sophia]]''\") at the [[Celsus Library]] in [[Ephesus]], [[Turkey]].]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Efez Celsus Library 3 RB.jpg|thumb|200px|[[Personification]] of wisdom (in [[Greek language|Greek]], \"''Σοφία''\" or \"''[[Sophia (wisdom)|Sophia]]''\") at the [[Celsus Library]] in [[Ephesus]], [[Turkey]].]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:431787204:newid:431993768 -->\n",
+    "from": 431787204
+  }
+}

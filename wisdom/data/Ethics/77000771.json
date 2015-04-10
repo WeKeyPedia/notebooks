@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* External links */ rm link to site with unclear relation to subject of ethics",
+  "timestamp": "2006-09-21T15:58:51Z",
+  "revid": 77000771,
+  "user": "FreplySpang",
+  "parentid": 77000440,
+  "diff": {
+    "to": 77000771,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 213:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 213:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://intertheory.org/kritikos Kritikos: journal of postmodern cultural sound, text and image]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.normativeethics.com Normative Ethics: 5 Questions] interviews with some of the most influential scholars in ethics.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.normativeethics.com Normative Ethics: 5 Questions] interviews with some of the most influential scholars in ethics.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.sandiego.edu/ Ethics Updates] mega-list of ethics resources maintained by Lawrence Hinman of the University of San Diego.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.sandiego.edu/ Ethics Updates] mega-list of ethics resources maintained by Lawrence Hinman of the University of San Diego.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:77000440:newid:77000771 -->\n",
+    "from": 77000440
+  }
+}

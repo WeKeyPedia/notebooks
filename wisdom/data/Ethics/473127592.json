@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* State consequentialism */",
+  "timestamp": "2012-01-25T08:59:29Z",
+  "revid": 473127592,
+  "anon": "",
+  "user": "124.83.48.125",
+  "parentid": 473026239,
+  "diff": {
+    "to": 473127592,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 51:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 51:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Chinese philosophy===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Chinese philosophy===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>====State <del class=\"diffchange diffchange-inline\">consequentialism</del>====</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>====State <ins class=\"diffchange diffchange-inline\">Fucking</ins>====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Mohist consequentialism}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Mohist consequentialism}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 473026239
+  }
+}

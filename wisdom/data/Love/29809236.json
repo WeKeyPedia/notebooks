@@ -1,0 +1,13 @@
+﻿{
+  "comment": "rv linkspam",
+  "timestamp": "2005-12-01T15:17:52Z",
+  "revid": 29809236,
+  "user": "Demiurge",
+  "parentid": 29808479,
+  "diff": {
+    "to": 29809236,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 250:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 250:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://iserver.saddleback.cc.ca.us/faculty/jfritsen/articles.html The Science of Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://iserver.saddleback.cc.ca.us/faculty/jfritsen/articles.html The Science of Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.humanthermodynamics.com/RP2-Love.html Top 150 Definitions of Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.humanthermodynamics.com/RP2-Love.html Top 150 Definitions of Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.letsdateni.co.uk/ Northern Ireland Dating]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[:zh:早恋|''Zaolian'' (早恋) on Chinese Wikipedia]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[:zh:早恋|''Zaolian'' (早恋) on Chinese Wikipedia]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 29808479
+  },
+  "minor": ""
+}

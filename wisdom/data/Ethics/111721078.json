@@ -1,0 +1,13 @@
+﻿{
+  "comment": "robot  Modifying: [[es:Desarrollo de habilidades]]",
+  "timestamp": "2007-03-01T01:23:04Z",
+  "revid": 111721078,
+  "user": "TXiKiBoT",
+  "parentid": 111172700,
+  "diff": {
+    "to": 111721078,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 193:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 193:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[et:Eetika]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[et:Eetika]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[el:Ηθική]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[el:Ηθική]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[es:<del class=\"diffchange diffchange-inline\">Ética</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[es:<ins class=\"diffchange diffchange-inline\">Desarrollo de habilidades</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[eo:Etiko]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[eo:Etiko]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[eu:Etika]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[eu:Etika]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:111172700:newid:111721078 -->\n",
+    "from": 111172700
+  },
+  "minor": ""
+}

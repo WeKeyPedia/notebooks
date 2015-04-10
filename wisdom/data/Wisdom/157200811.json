@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted 1 edit by [[Special:Contributions/82.13.99.221|82.13.99.221]]. using [[WP:TW|TW]]",
+  "timestamp": "2007-09-11T18:22:46Z",
+  "revid": 157200811,
+  "user": "Squids and Chips",
+  "parentid": 157193225,
+  "diff": {
+    "to": 157200811,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 90:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 90:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.\" ― [[Walter Lippmann]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.\" ― [[Walter Lippmann]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">“Anyone can cultivate their wisdom but none can practice their luck.” _Michael Levy</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">==Notes==</ins></div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>&lt;references/&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Further reading ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Further reading ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:157193225:newid:157200811 -->\n",
+    "from": 157193225
+  },
+  "minor": ""
+}

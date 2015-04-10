@@ -1,0 +1,12 @@
+﻿{
+  "comment": "gave citation where needed for definition of ethics.",
+  "timestamp": "2012-01-07T22:44:40Z",
+  "revid": 470161105,
+  "user": "TonyClarke",
+  "parentid": 470159888,
+  "diff": {
+    "to": 470161105,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''', also known as '''moral philosophy''', is a branch of [[philosophy]] that addresses questions about [[morality]]—that is, concepts such as [[good and evil]], right and wrong, [[virtue]] and [[vice]], [[justice]] and [[crime]], etc.<del class=\"diffchange diffchange-inline\">{{citation needed|date=January 2012}}</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''', also known as '''moral philosophy''', is a branch of [[philosophy]] that addresses questions about [[morality]]—that is, concepts such as [[good and evil]], right and wrong<ins class=\"diffchange diffchange-inline\"> behaviour</ins>, [[virtue]] and [[vice]], [[justice]] and [[crime]], etc.<ins class=\"diffchange diffchange-inline\">&lt;ref&gt;http://www.iep.utm.edu/ethics/&lt;/ref&gt;</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n</tr>\n",
+    "from": 470159888
+  }
+}

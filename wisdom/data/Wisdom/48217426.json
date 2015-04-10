@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */ Wisdom isn't a Christian book per se",
+  "timestamp": "2006-04-13T02:57:14Z",
+  "revid": 48217426,
+  "user": "Lawrence King",
+  "parentid": 47860886,
+  "diff": {
+    "to": 48217426,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 33:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 33:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Streetwise]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Streetwise]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Wisdom literature]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Wisdom literature]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Book of Wisdom]] (A [[<del class=\"diffchange diffchange-inline\">Christian</del>]] book)</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Book of Wisdom]] (A [[<ins class=\"diffchange diffchange-inline\">Jewish</ins>]] book<ins class=\"diffchange diffchange-inline\">, part of some [[Christian]] Bibles</ins>)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[School of Hard Knocks]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[School of Hard Knocks]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Regret]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Regret]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:47860886:newid:48217426 -->\n",
+    "from": 47860886
+  },
+  "minor": ""
+}

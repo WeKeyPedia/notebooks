@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2008-08-30T14:35:50Z",
+  "revid": 235188374,
+  "anon": "",
+  "user": "68.238.113.195",
+  "parentid": 234728595,
+  "diff": {
+    "to": 235188374,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 178:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 178:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:קלוגשאפט]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:קלוגשאפט]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:智慧]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:智慧]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>WISDOM IS BEING MEAN</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:234728595:newid:235188374 -->\n",
+    "from": 234728595
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/69.161.96.7|69.161.96.7]] ([[User talk:69.161.96.7|talk]]) to last revision by Editor2020 ([[WP:HG|HG]])",
+  "timestamp": "2011-03-22T18:56:57Z",
+  "revid": 420189805,
+  "user": "JDCMAN",
+  "parentid": 420189550,
+  "diff": {
+    "to": 420189805,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics,''' also known as '''<del class=\"diffchange diffchange-inline\">Gucci</del> philosophy''', is a branch of [[philosophy]] that addresses questions about [[morality]]—that is, concepts such as [[good and evil]], right and wrong,  [[virtue]] and [[vice]], [[justice]], etc.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics,''' also known as '''<ins class=\"diffchange diffchange-inline\">moral</ins> philosophy''', is a branch of [[philosophy]] that addresses questions about [[morality]]—that is, concepts such as [[good and evil]], right and wrong,  [[virtue]] and [[vice]], [[justice]], etc.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:420189550:newid:420189805 -->\n",
+    "from": 420189550
+  },
+  "minor": ""
+}

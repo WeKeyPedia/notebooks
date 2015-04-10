@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-11-19T10:50:40Z",
+  "revid": 7642643,
+  "anon": "",
+  "user": "212.219.144.250",
+  "parentid": 7642616,
+  "diff": {
+    "to": 7642643,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Sarah Johns Loves eggs</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Sarah Johns Loves eggs<ins class=\"diffchange diffchange-inline\"> and cock</ins></div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:7642616:newid:7642643 -->\n",
+    "from": 7642616
+  }
+}

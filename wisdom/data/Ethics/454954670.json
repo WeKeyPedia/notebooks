@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Modern consequentialism */",
+  "timestamp": "2011-10-10T23:39:17Z",
+  "revid": 454954670,
+  "user": "Theconsequentialist",
+  "parentid": 454954190,
+  "diff": {
+    "to": 454954670,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 68:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 68:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Modern consequentialism====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Modern consequentialism====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Main|<del class=\"diffchange diffchange-inline\">Consequentialism</del>}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Main|<ins class=\"diffchange diffchange-inline\">Utilitarianism|Ethical egoism</ins>}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{See also|Consequentialism}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Consequentialism refers to moral theories that hold that the consequences of a particular action form the basis for any valid moral judgment about that action (or create a structure for judgment, see [[#Rule consequentialism|rule consequentialism]]). Thus, from a consequentialist standpoint, a morally right action is one that produces a good outcome, or consequence. This view is often expressed as the [[aphorism]] ''\"The ends justify the means\"''.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Consequentialism refers to moral theories that hold that the consequences of a particular action form the basis for any valid moral judgment about that action (or create a structure for judgment, see [[#Rule consequentialism|rule consequentialism]]). Thus, from a consequentialist standpoint, a morally right action is one that produces a good outcome, or consequence. This view is often expressed as the [[aphorism]] ''\"The ends justify the means\"''.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:454954190:newid:454954670 -->\n",
+    "from": 454954190
+  },
+  "minor": ""
+}

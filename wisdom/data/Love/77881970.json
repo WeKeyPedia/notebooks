@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Let's not link to every slang term here",
+  "timestamp": "2006-09-26T10:38:27Z",
+  "revid": 77881970,
+  "user": "Gwernol",
+  "parentid": 77881822,
+  "diff": {
+    "to": 77881970,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 92:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 92:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Limerence|Crush]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Limerence|Crush]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Dating]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Dating]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Dogging_(sexual_slang)]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Emotion]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Emotion]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{col-break}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{col-break}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:77881822:newid:77881970 -->\n",
+    "from": 77881822
+  }
+}

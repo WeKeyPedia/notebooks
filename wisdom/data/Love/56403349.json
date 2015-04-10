@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-06-01T23:03:58Z",
+  "revid": 56403349,
+  "anon": "",
+  "user": "200.153.193.179",
+  "parentid": 56401720,
+  "diff": {
+    "to": 56403349,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 104:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 104:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.capezone.com/love.html Definition of Love]   </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.capezone.com/love.html Definition of Love]   </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://farsideofcomplexity.blogspot.com/2006/05/love-defined.html Definition of Practiced Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://farsideofcomplexity.blogspot.com/2006/05/love-defined.html Definition of Practiced Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.true-love-relationship-advice.com/true-love.html Foundation of True Love]<del class=\"diffchange diffchange-inline\">  </del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.true-love-relationship-advice.com/true-love.html Foundation of True Love]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.brazilpostcard.com.br Daphnis and Chloe - An ancient Greek love story] Vintage Postcards</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div> </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:56401720:newid:56403349 -->\n",
+    "from": 56401720
+  }
+}

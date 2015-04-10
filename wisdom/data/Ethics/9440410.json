@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Ethics by cases */",
+  "timestamp": "2005-01-17T21:41:56Z",
+  "revid": 9440410,
+  "anon": "",
+  "user": "208.54.15.129",
+  "parentid": 9440393,
+  "diff": {
+    "to": 9440410,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 100:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 100:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ethics by cases===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ethics by cases===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>By far the most common way to approach applied ethics is by resolving individual cases.  This is, not coincidentally, also the way [[business]] and [[law]] tend to be taught.  ''[[Casuistry]]'' is one such application of [[case-based reasoning]] to applied ethics.  Almost all American states have tried to discourage dishonest practices by their public employees and elected officials by establishing an Ethics Commission for their state.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>By far the most common way to approach applied ethics is by resolving individual cases.  This is, not coincidentally, also the way [[business]] and [[law]] tend to be taught.  ''[[Casuistry]]'' is one such application of [[case-based reasoning]] to applied ethics.  Almost all American states have tried to discourage dishonest practices by their public employees and elected officials by establishing <ins class=\"diffchange diffchange-inline\">&lt;b&gt;HI!&lt;/b&gt;</ins>an Ethics Commission for their state.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:9440393:newid:9440410 -->\n",
+    "from": 9440393
+  }
+}

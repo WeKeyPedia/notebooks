@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-02-06T20:47:37Z",
+  "revid": 10008976,
+  "anon": "",
+  "user": "152.163.100.66",
+  "parentid": 10008875,
+  "diff": {
+    "to": 10008976,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is one of the most common themes in art. The majority of modern movies have a love story and most pop music is about love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is one of the most common themes in art. The majority of modern movies have a love story and most pop music is about love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>\"Love is the feelings i feel for you jeff. i just wish you would feel the same way. one day youll wake up and find im not here for you to toy with anymore. and it will be your loss, youll miss me.\"(amanda)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining love==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining love==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:10008875:newid:10008976 -->\n",
+    "from": 10008875
+  }
+}

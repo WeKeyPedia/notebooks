@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* References */",
+  "timestamp": "2012-04-22T15:18:50Z",
+  "revid": 488660683,
+  "user": "Rcavallari",
+  "parentid": 488660620,
+  "diff": {
+    "to": 488660683,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 150:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 150:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{reflist}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{reflist}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">Kleinman</del>, A. (2011). A search for wisdom, Lancet. Retrieved from http://thelancet.com/journals/lancet/article/PIIS0140-6736(11)61688-7/fulltext</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">24.   →Kleinman</ins>, A. (2011). A search for wisdom, Lancet. Retrieved from http://thelancet.com/journals/lancet/article/PIIS0140-6736(11)61688-7/fulltext</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Further reading ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Further reading ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:488660620:newid:488660683 -->\n",
+    "from": 488660620
+  }
+}

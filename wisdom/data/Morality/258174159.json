@@ -1,0 +1,12 @@
+﻿{
+  "comment": "[[WP:UNDO|Undid]] revision 257893879 by [[Special:Contributions/79.78.22.184|79.78.22.184]] ([[User talk:79.78.22.184|talk]])",
+  "timestamp": "2008-12-15T19:07:04Z",
+  "revid": 258174159,
+  "user": "Phirazo",
+  "parentid": 258054534,
+  "diff": {
+    "to": 258174159,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Morality''' (from the [[Latin]] ''{{<del class=\"diffchange diffchange-inline\">morality</del>}}'' \"manner, character, proper behavior\") has three principal meanings.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Morality''' (from the [[Latin]] ''{{<ins class=\"diffchange diffchange-inline\">lang|la|moralitas</ins>}}'' \"manner, character, proper behavior\") has three principal meanings.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In its first, descriptive usage, morality means a code of conduct held to be authoritative in matters of right and wrong. Morals are created by and define society, philosophy, religion, or individual conscience.  An example of the descriptive usage could be \"common conceptions of morality have changed significantly over time.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In its first, descriptive usage, morality means a code of conduct held to be authoritative in matters of right and wrong. Morals are created by and define society, philosophy, religion, or individual conscience.  An example of the descriptive usage could be \"common conceptions of morality have changed significantly over time.\"</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:258054534:newid:258174159 -->\n",
+    "from": 258054534
+  }
+}

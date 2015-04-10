@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* The first social science */  This section's text does not clearly support the assertion in this section's title.  Removed the paragraph that was the worst offender.",
+  "timestamp": "2005-06-16T20:34:31Z",
+  "revid": 15385835,
+  "user": "JonathanFreed",
+  "parentid": 15307191,
+  "diff": {
+    "to": 15385835,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Ethics has also been extended to the hard sciences, such as [[biology]] (as [[bioethics]]) and [[ecology]] (as [[environmental ethics]]).  As these fields become more complex and deal with more situations, the application of ethics in those fields can also become more complex.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Ethics has also been extended to the hard sciences, such as [[biology]] (as [[bioethics]]) and [[ecology]] (as [[environmental ethics]]).  As these fields become more complex and deal with more situations, the application of ethics in those fields can also become more complex.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Still, many systems of ethics in different fields and from different philosophers have relatively concise ideas at their center, such as [[Immanuel Kant|Immanuel Kant's]] [[Categorical Imperative]], or Schopenhauer's first ethical principle (\"Neminem laede; imo omnes, quantum potes, juva.\"  Do no harm to anyone, but give a helping hand to as many people as you can.)</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Divisions of ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Divisions of ethics==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:15307191:newid:15385835 -->\n",
+    "from": 15307191
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Revert to revision 101423679 dated 2007-01-17 22:06:27 by Veinor using [[:en:Wikipedia:Tools/Navigation_popups|popups]]",
+  "timestamp": "2007-01-19T12:11:54Z",
+  "revid": 101771735,
+  "user": "Creol",
+  "parentid": 101771490,
+  "diff": {
+    "to": 101771735,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 76:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 76:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>One of the major areas where ethicists practice is in the field of [[health care]]. This includes [[medicine]], [[nursing ethics|nursing]], [[pharmacy]], [[genetics]], and other [[allied health professions]]. Example issues are [[euthanasia]], [[animal testing]], [[abortion]], [[medical research]], [[vaccine trials]], [[stem cell research]], [[informed consent]], [[truth|truth telling]], [[human rights|patient rights]] and [[Wiktionary:autonomy|autonomy]], [[rationing]] of health care (such as [[triage]]).</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>One of the major areas where ethicists practice is in the field of [[health care]]. This includes [[medicine]], [[nursing ethics|nursing]], [[pharmacy]], [[genetics]], and other [[allied health professions]]. Example issues are [[euthanasia]], [[animal testing]], [[abortion]], [[medical research]], [[vaccine trials]], [[stem cell research]], [[informed consent]], [[truth|truth telling]], [[human rights|patient rights]] and [[Wiktionary:autonomy|autonomy]], [[rationing]] of health care (such as [[triage]]).</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>asjrhwlhtohsdgtosnglnsldgnlsdnglsdnlsndflsdnflnknlhlojodjfotjsdfjgskdgjsdprichel</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Ethics in psychology====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Ethics in psychology====</div></td>\n</tr>\n",
+    "from": 101771490
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2005-12-31T07:00:16Z",
+  "revid": 33352780,
+  "anon": "",
+  "user": "24.125.130.186",
+  "parentid": 33352756,
+  "diff": {
+    "to": 33352780,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 304:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 304:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Kärlek]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Kärlek]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tl:Pag-ibig]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tl:Pag-ibig]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>           love thyself</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:33352756:newid:33352780 -->\n",
+    "from": 33352756
+  }
+}

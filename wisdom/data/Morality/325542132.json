@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Removed category [[:Category:Ethics|Ethics]]; Quick-adding category [[:Category:Concepts in ethics|Concepts in ethics]] (using [[WP:HOTCAT|HotCat]])",
+  "timestamp": "2009-11-13T01:04:01Z",
+  "revid": 325542132,
+  "user": "Gregbard",
+  "parentid": 324829562,
+  "diff": {
+    "to": 325542132,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 164:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 164:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Morality]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Morality]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Category:<del class=\"diffchange diffchange-inline\">Ethics</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Category:<ins class=\"diffchange diffchange-inline\">Concepts in ethics</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ar:أخلاق]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ar:أخلاق]]</div></td>\n</tr>\n",
+    "from": 324829562
+  },
+  "minor": ""
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-02-26T14:03:26Z",
+  "revid": 41313705,
+  "user": "Itsmine",
+  "parentid": 41298179,
+  "diff": {
+    "to": 41313705,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 339:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 339:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tl:Pag-ibig]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tl:Pag-ibig]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[zh:愛]]</div></td>\n</tr>\n",
+    "from": 41298179
+  }
+}

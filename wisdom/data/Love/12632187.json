@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2005-04-21T12:47:41Z",
+  "revid": 12632187,
+  "anon": "",
+  "user": "213.130.8.162",
+  "parentid": 12610850,
+  "diff": {
+    "to": 12632187,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 275:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 275:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://buddhism.kalachakranet.org/immeasurables.html A Buddhist View on Love and Compassion]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://buddhism.kalachakranet.org/immeasurables.html A Buddhist View on Love and Compassion]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.bestlovepoems.net/ Love Poems]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.bestlovepoems.net/ Love Poems]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.religiousbook.net/Books/Online_books/Ec/Ecology_9.html What is Love] religious view</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love]]</div></td>\n</tr>\n",
+    "from": 12610850
+  }
+}

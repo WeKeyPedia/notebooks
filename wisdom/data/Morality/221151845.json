@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted 1 edit by [[Special:Contributions/79.69.25.43|79.69.25.43]]; In deed. ([[WP:TW|TW]])",
+  "timestamp": "2008-06-23T07:29:20Z",
+  "revid": 221151845,
+  "user": "Gabriel Kielland",
+  "parentid": 221019786,
+  "diff": {
+    "to": 221151845,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 214:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 214:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מוסר]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מוסר]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:道德]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:道德]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>good and bad</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:221019786:newid:221151845 -->\n",
+    "from": 221019786
+  },
+  "minor": ""
+}

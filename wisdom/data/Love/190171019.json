@@ -1,0 +1,12 @@
+﻿{
+  "comment": "correct dablink",
+  "timestamp": "2008-02-09T13:19:38Z",
+  "revid": 190171019,
+  "user": "DH85868993",
+  "parentid": 189040219,
+  "diff": {
+    "to": 190171019,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{pp-semi-vandalism|small=yes}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{pp-semi-vandalism|small=yes}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{<del class=\"diffchange diffchange-inline\">redirect|Love|all other uses|Love (disambiguation)</del>}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{<ins class=\"diffchange diffchange-inline\">otheruses</ins>}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Gustav Klimt 016.jpg|thumb|300px|''[[The Kiss (Klimt painting)|The Kiss]]'' by [[Gustav Klimt]]]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Gustav Klimt 016.jpg|thumb|300px|''[[The Kiss (Klimt painting)|The Kiss]]'' by [[Gustav Klimt]]]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:189040219:newid:190171019 -->\n",
+    "from": 189040219
+  }
+}

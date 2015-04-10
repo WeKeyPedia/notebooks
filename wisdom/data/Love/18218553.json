@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/66.123.201.49|66.123.201.49]] to last version by Gdrbot",
+  "timestamp": "2005-07-05T22:02:23Z",
+  "revid": 18218553,
+  "user": "Jfdwolff",
+  "parentid": 18211907,
+  "diff": {
+    "to": 18218553,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 192:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 192:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Áine]]; goddess of fertility and passionate love in [[Irish mythology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Áine]]; goddess of fertility and passionate love in [[Irish mythology]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Amor]] or [[Cupid]] &amp;mdash; god of passionate love in [[Roman mythology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Amor]] or [[Cupid]] &amp;mdash; god of passionate love in [[Roman mythology]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Aonghus]] or <del class=\"diffchange diffchange-inline\">'''</del>Aengus<del class=\"diffchange diffchange-inline\">'''</del>; god of beauty, youth, and sensual love in [[Irish mythology]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Aonghus]] or <ins class=\"diffchange diffchange-inline\">[[</ins>Aengus<ins class=\"diffchange diffchange-inline\">]]</ins>; god of beauty, youth, and sensual love in [[Irish mythology]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Aphrodite]] &amp;mdash; goddess of passionate love in [[Greek mythology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Aphrodite]] &amp;mdash; goddess of passionate love in [[Greek mythology]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Eros (god)|Eros]] &amp;mdash; god of passionate love in [[Greek mythology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Eros (god)|Eros]] &amp;mdash; god of passionate love in [[Greek mythology]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:18211907:newid:18218553 -->\n",
+    "from": 18211907
+  },
+  "minor": ""
+}

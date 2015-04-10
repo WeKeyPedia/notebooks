@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Bot automatically removing what appears to be test text - [[User:AmeliorationBot|more info...]]  [[User:AmeliorationBot#z|mistake?]]",
+  "timestamp": "2008-08-18T13:08:58Z",
+  "revid": 232679953,
+  "user": "AmeliorationBot",
+  "parentid": 232492799,
+  "diff": {
+    "to": 232679953,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 264:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 264:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bat-smg:Meilė]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bat-smg:Meilė]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Bold text'''</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:232492799:newid:232679953 -->\n",
+    "from": 232492799
+  },
+  "minor": ""
+}

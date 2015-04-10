@@ -1,0 +1,12 @@
+﻿{
+  "comment": "I did a search, the term didn't pop up. Also, that is more or less the label of a crush, not love.",
+  "timestamp": "2006-04-21T03:28:25Z",
+  "revid": 49390743,
+  "user": "Yanksox",
+  "parentid": 49384721,
+  "diff": {
+    "to": 49390743,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 30:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 30:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional and sexual desire.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional and sexual desire.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Secret love]]- affection in which you don't want to tell that person or other people. you may play arounnd with these people or even bully them but this could still be love.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:49384721:newid:49390743 -->\n",
+    "from": 49384721
+  }
+}

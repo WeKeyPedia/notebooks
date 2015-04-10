@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Morals */",
+  "timestamp": "2008-05-27T00:18:15Z",
+  "revid": 215165623,
+  "anon": "",
+  "user": "76.10.168.234",
+  "parentid": 214980965,
+  "diff": {
+    "to": 215165623,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">==Morals==</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{see also|Morality}}</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Morals are  a practice of different sorts of ethics (or ''[[Weltanschauung]]'').&lt;ref&gt;Sahakian, William S. &amp; Sahakian, Mabel Lewis. ''Ideas of the Great Philosophers''. pp 31-32. Barnes and Noble Books (1993). ISBN 9781566192712.&lt;/ref&gt;</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Greek philosophy==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Greek philosophy==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:214980965:newid:215165623 -->\n",
+    "from": 214980965
+  }
+}

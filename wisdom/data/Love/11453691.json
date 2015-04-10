@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2005-03-24T01:10:10Z",
+  "revid": 11453691,
+  "anon": "",
+  "user": "4.60.122.218",
+  "parentid": 11451880,
+  "diff": {
+    "to": 11453691,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 247:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 247:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.onlylovequotes.com Love Quotes]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.onlylovequotes.com Love Quotes]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.<del class=\"diffchange diffchange-inline\">heavenonastick</del>.com/whatididforlove/ Life and Love Stories]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.<ins class=\"diffchange diffchange-inline\">kevinkwak</ins>.com/whatididforlove/ Life and Love Stories]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://buddhism.kalachakranet.org/immeasurables.html A Buddhist View on Love and Compassion]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://buddhism.kalachakranet.org/immeasurables.html A Buddhist View on Love and Compassion]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.bestlovepoems.net/ Love Poems]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.bestlovepoems.net/ Love Poems]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:11451880:newid:11453691 -->\n",
+    "from": 11451880
+  }
+}

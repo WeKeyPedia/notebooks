@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Christian */",
+  "timestamp": "2006-02-18T03:13:04Z",
+  "revid": 40099814,
+  "user": "JNeal",
+  "parentid": 40099784,
+  "diff": {
+    "to": 40099814,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 187:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 187:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|align=right</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|align=right</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|quote=\"Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up, Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil; Rejoiceth not in iniquity, but rejoiceth in the truth; Beareth all things, believeth all things, hopeth all things, endureth all things.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|quote=\"Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up, Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil; Rejoiceth not in iniquity, but rejoiceth in the truth; Beareth all things, believeth all things, hopeth all things, endureth all things.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>|source=[[1 Corinthians]] 13:4-7|}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>|source=[[1 Corinthians]] 13:4-7<ins class=\"diffchange diffchange-inline\"> (King James Version)</ins>|}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>There are several Greek words for Love that are regularly referred to in Christian circles.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>There are several Greek words for Love that are regularly referred to in Christian circles.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:40099784:newid:40099814 -->\n",
+    "from": 40099784
+  }
+}

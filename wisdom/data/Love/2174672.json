@@ -1,0 +1,13 @@
+﻿{
+  "comment": "I'm sure you love her but wp isn't a valentine card, sorry. rv to edit by Rrjanbiah",
+  "timestamp": "2004-01-16T03:27:13Z",
+  "revid": 2174672,
+  "user": "MikeCapone",
+  "parentid": 2163677,
+  "diff": {
+    "to": 2174672,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 6:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 6:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love between [[family]] members: parent's love of children, etc.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love between [[family]] members: parent's love of children, etc.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love of [[friend]]s</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love of [[friend]]s</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div># [[romantic love]]<del class=\"diffchange diffchange-inline\"> (example: I \"love\" my girlfriend Melissa Rodrigue so much)</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div># [[romantic love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># [[human sexual behavior|sexual]] love</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># [[human sexual behavior|sexual]] love</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving one another in general</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving one another in general</div></td>\n</tr>\n",
+    "from": 2163677
+  },
+  "minor": ""
+}

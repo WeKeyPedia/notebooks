@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Robot-assisted fixing links to disambiguation page ([[WP:DPL|you can help!]]) Bond",
+  "timestamp": "2006-06-05T22:14:54Z",
+  "revid": 57072029,
+  "user": "RussBot",
+  "parentid": 57067973,
+  "diff": {
+    "to": 57072029,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 55:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 55:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''union'''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''union'''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[family]]''' - people related via common ancestry.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[family]]''' - people related via common ancestry.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>#'''[[bond]]'''.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>#'''[[<ins class=\"diffchange diffchange-inline\">Psychological bond|</ins>bond]]'''.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:57067973:newid:57072029 -->\n",
+    "from": 57067973
+  },
+  "minor": ""
+}

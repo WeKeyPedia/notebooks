@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Love vs. Insanity? */ On second thought...",
+  "timestamp": "2008-01-18T01:42:16Z",
+  "revid": 185116624,
+  "user": "DannyDaWriter",
+  "parentid": 185115490,
+  "diff": {
+    "to": 185116624,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 97:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 97:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Love vs. Insanity?===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Love vs. Insanity?===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{NPOV-section}}</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{unreferencedsection}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{unreferencedsection}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Studies have shown that mental scans of those in love show a striking resemblance to those with a mental illness. Love creates activity in the same area of the brain that hunger, thirst, and drug cravings create activity in.  New love, therefore, could possibly be more physical than emotional (though drawing a clear line between ''physical'' and ''emotional'' is difficult when discussing the brain).</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Studies have shown that mental scans of those in love show a striking resemblance to those with a mental illness. Love creates activity in the same area of the brain that hunger, thirst, and drug cravings create activity in.  New love, therefore, could possibly be more physical than emotional (though drawing a clear line between ''physical'' and ''emotional'' is difficult when discussing the brain).</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:185115490:newid:185116624 -->\n",
+    "from": 185115490
+  }
+}

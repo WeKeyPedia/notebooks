@@ -1,0 +1,13 @@
+﻿{
+  "comment": "id:",
+  "timestamp": "2004-05-04T09:44:37Z",
+  "revid": 3445492,
+  "user": "Meursault2004",
+  "parentid": 3443158,
+  "diff": {
+    "to": 3445492,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[da:Kærlighed]] [[de:Liebe]] [[es:Amor]] [[fr:Amour]] [[gl:Amor]] [[ja:&amp;#24859;]] [[nl:Liefde]] [[pl:Mi%C5%82o%C5%9B%C4%87]] [[he:&amp;#1488;&amp;#1492;&amp;#1489;&amp;#1492;]] [[sv:Kärlek]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[da:Kærlighed]] [[de:Liebe]] [[es:Amor]] [[fr:Amour]] [[gl:Amor<ins class=\"diffchange diffchange-inline\">]] [[id:Cinta</ins>]] [[ja:&amp;#24859;]] [[nl:Liefde]] [[pl:Mi%C5%82o%C5%9B%C4%87]] [[he:&amp;#1488;&amp;#1492;&amp;#1489;&amp;#1492;]] [[sv:Kärlek]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>: ''For the 1960s band, see [[Love (band)]]. The term is also used in [[Tennis#History of tennis|tennis]].''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>: ''For the 1960s band, see [[Love (band)]]. The term is also used in [[Tennis#History of tennis|tennis]].''</div></td>\n</tr>\n",
+    "from": 3443158
+  },
+  "minor": ""
+}

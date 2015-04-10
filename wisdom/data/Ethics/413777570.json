@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2011-02-13T23:23:49Z",
+  "revid": 413777570,
+  "anon": "",
+  "user": "124.13.94.215",
+  "parentid": 413351416,
+  "diff": {
+    "to": 413777570,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Normative ethics]], about the practical means of determining a moral course of action;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Normative ethics]], about the practical means of determining a moral course of action;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Applied ethics]], about how moral outcomes can be achieved in specific situations;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Applied ethics]], about how moral outcomes can be achieved in specific situations;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Moral psychology]], about how moral capacity or moral agency develops and what its nature is; <del class=\"diffchange diffchange-inline\">and</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Moral psychology]], about how moral capacity or moral agency develops and what its nature is; </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Descriptive ethics]], about what moral values people actually abide by.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Descriptive ethics]], about what moral values people actually abide by.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:413351416:newid:413777570 -->\n",
+    "from": 413351416
+  }
+}

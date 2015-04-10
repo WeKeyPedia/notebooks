@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Scientific models */",
+  "timestamp": "2005-11-02T14:02:22Z",
+  "revid": 27163184,
+  "user": "Euqinimod",
+  "parentid": 27092431,
+  "diff": {
+    "to": 27163184,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 34:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 34:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Scientific models ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Scientific models ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Image:SwansHeart.jpg|<del class=\"diffchange diffchange-inline\">Thumb</del>|300px|right]]Biological models of love tend to see it as a mammalian drive, just like [[hunger]] or [[thirst]]. Psychology sees love as more of a social and cultural phenomenon. There are probably elements of truth in both views &amp;mdash; certainly love is influenced by [[hormone]]s (such as [[oxytocin]]) and [[pheromone]]s, and how people think and behave in love is influenced by their conceptions of love.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Image:SwansHeart.jpg|<ins class=\"diffchange diffchange-inline\">thumb</ins>|300px|right<ins class=\"diffchange diffchange-inline\">|Swans forming a heart shape, signifying love.</ins>]]Biological models of love tend to see it as a mammalian drive, just like [[hunger]] or [[thirst]]. Psychology sees love as more of a social and cultural phenomenon. There are probably elements of truth in both views &amp;mdash; certainly love is influenced by [[hormone]]s (such as [[oxytocin]]) and [[pheromone]]s, and how people think and behave in love is influenced by their conceptions of love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Attraction and attachment===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Attraction and attachment===</div></td>\n</tr>\n",
+    "from": 27092431
+  }
+}

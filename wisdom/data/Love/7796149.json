@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/81.155.111.32|81.155.111.32]] to last version by Jfdwolff",
+  "timestamp": "2004-11-23T23:13:18Z",
+  "revid": 7796149,
+  "user": "Infrogmation",
+  "parentid": 7795092,
+  "diff": {
+    "to": 7796149,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 3:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 3:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:She loves me... she loves me not....jpg|200px|thumb|She loves me... she loves me not...]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:She loves me... she loves me not....jpg|200px|thumb|She loves me... she loves me not...]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Love''' has many meanings in [[English language|English]]. It can mean an intense feeling of [[affection]], an [[emotion]] or emotional state. In ordinary use, it usually refers to interpersonal love.<del class=\"diffchange diffchange-inline\"> LOVE IS MIZZIE AND QAZ3D FOREVER AND EVER NO LOVE IS MORE AMAZING THAN OUR LOVE</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Love''' has many meanings in [[English language|English]]. It can mean an intense feeling of [[affection]], an [[emotion]] or emotional state. In ordinary use, it usually refers to interpersonal love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is one of the most common themes in art. The majority of modern movies have a love story and most pop music is about love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is one of the most common themes in art. The majority of modern movies have a love story and most pop music is about love.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:7795092:newid:7796149 -->\n",
+    "from": 7795092
+  },
+  "minor": ""
+}

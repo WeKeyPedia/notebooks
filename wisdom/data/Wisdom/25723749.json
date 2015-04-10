@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-10-17T08:32:36Z",
+  "revid": 25723749,
+  "anon": "",
+  "user": "193.112.229.150",
+  "parentid": 25500025,
+  "diff": {
+    "to": 25723749,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>wisdom is the amout of knowledge one person can hold. FACT!</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Wisdom''' is the ability to make correct judgments and decisions. It is an intangible quality gained through [[experience]]. Whether or not something is '''wise''' is determined in a pragmatic sense by its popularity, how long it has been around, and its ability to predict against future events. Wisdom is also accepted from [[cultural]], [[philosophical]] and [[religious]] sources.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Wisdom''' is the ability to make correct judgments and decisions. It is an intangible quality gained through [[experience]]. Whether or not something is '''wise''' is determined in a pragmatic sense by its popularity, how long it has been around, and its ability to predict against future events. Wisdom is also accepted from [[cultural]], [[philosophical]] and [[religious]] sources.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 25500025
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2011-09-11T11:55:22Z",
+  "revid": 449811631,
+  "user": "Anaselshamy",
+  "parentid": 449141519,
+  "diff": {
+    "to": 449811631,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 165:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 165:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.worldmoralmovement.org Wiki site for discussing and taking action on shared morals (WorldMoralMovement.org)]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.worldmoralmovement.org Wiki site for discussing and taking action on shared morals (WorldMoralMovement.org)]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html?pagewanted=print Stephen Pinker on the Psychology and Evolutionary Biology of Morality]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html?pagewanted=print Stephen Pinker on the Psychology and Evolutionary Biology of Morality]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.onislam.net/english/reading-islam/living-islam/growing-in-faith/453820-islam-a-life-of-ethics-a-morality-.html Morality and Ethics in Islam] ''OnIslam.net</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;br&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;br&gt;</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:449141519:newid:449811631 -->\n",
+    "from": 449141519
+  }
+}

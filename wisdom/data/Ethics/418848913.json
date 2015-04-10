@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Undid revision 418122438 by [[Special:Contributions/95.132.41.41|95.132.41.41]] ([[User talk:95.132.41.41|talk]]) rv sub rather than cat",
+  "timestamp": "2011-03-14T21:47:14Z",
+  "revid": 418848913,
+  "user": "Jeandré du Toit",
+  "parentid": 418122438,
+  "diff": {
+    "to": 418848913,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 226:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 226:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Axiology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Axiology]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Philosophy of life]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Philosophy of life]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">[[Category:War]]</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Link GA|de}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Link GA|de}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:418122438:newid:418848913 -->\n",
+    "from": 418122438
+  },
+  "minor": ""
+}

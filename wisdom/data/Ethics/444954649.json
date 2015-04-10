@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Further reading */",
+  "timestamp": "2011-08-15T11:00:54Z",
+  "revid": 444954649,
+  "user": "Nflaxington",
+  "parentid": 443115312,
+  "diff": {
+    "to": 444954649,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 174:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 174:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Further reading==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Further reading==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* New app Introducing Ethics [[http://www.introducingbooks.com/page/apps]] provides a thorough overview of both the history and future of ethics, from Plato and Machiavelli to modern-day concerns of political warfare, gender, animal rights and the environment. </div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Aristotle]], ''[[Nicomachean Ethics]]''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Aristotle]], ''[[Nicomachean Ethics]]''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* The [http://www.ucl.ac.uk/philosophy/LPSG/ London Philosophy Study Guide] offers many suggestions on what to read, depending on the student's familiarity with the subject:  [http://www.ucl.ac.uk/philosophy/LPSG/Ethics.htm Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* The [http://www.ucl.ac.uk/philosophy/LPSG/ London Philosophy Study Guide] offers many suggestions on what to read, depending on the student's familiarity with the subject:  [http://www.ucl.ac.uk/philosophy/LPSG/Ethics.htm Ethics]</div></td>\n</tr>\n",
+    "from": 443115312
+  }
+}

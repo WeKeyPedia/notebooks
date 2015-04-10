@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-11-29T12:47:18Z",
+  "revid": 174584769,
+  "anon": "",
+  "user": "62.1.165.213",
+  "parentid": 171616511,
+  "diff": {
+    "to": 174584769,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Citations missing|date=September 2007}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Citations missing|date=September 2007}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Image:Efez Celsus Library 3 RB.jpg|thumb|200px|[[Personification]] of wisdom (in [[Greek Language|Greek]], \"''<del class=\"diffchange diffchange-inline\">Σοφια</del>''\" or \"''Sophia''\") at the [[Celsus Library]] in [[Ephesos]], [[Turkey]].]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Image:Efez Celsus Library 3 RB.jpg|thumb|200px|[[Personification]] of wisdom (in [[Greek Language|Greek]], \"''<ins class=\"diffchange diffchange-inline\">Σοφία</ins>''\" or \"''Sophia''\") at the [[Celsus Library]] in [[Ephesos]], [[Turkey]].]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Wisdom''', according to the [[Merriam-Webster]] dictionary, is defined as the \"1 </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Wisdom''', according to the [[Merriam-Webster]] dictionary, is defined as the \"1 </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:171616511:newid:174584769 -->\n",
+    "from": 171616511
+  }
+}

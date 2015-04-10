@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* See also */ added secular ethics to see also list ~~~~Richard Holt",
+  "timestamp": "2007-09-16T11:58:28Z",
+  "revid": 158260403,
+  "user": "Richard holt",
+  "parentid": 158132974,
+  "diff": {
+    "to": 158260403,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 137:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 137:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== See also ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== See also ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethics]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Secular ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Mores]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Mores]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethos]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethos]]</div></td>\n</tr>\n",
+    "from": 158132974
+  }
+}

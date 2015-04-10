@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2012-10-17T00:34:17Z",
+  "revid": 518227579,
+  "user": "Eredner",
+  "parentid": 517956243,
+  "diff": {
+    "to": 518227579,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 168:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 168:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># standards for handling military prisoners</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># standards for handling military prisoners</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># methods of dealing with violations of the laws of war</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># methods of dealing with violations of the laws of war</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>====[[http://en.wikipedia.org/wiki/Political_ethics|Political ethics]]====</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[http://en.wikipedia.org/wiki/Political_ethics|Political ethics]] (also known as political morality or public ethics) is the practice of making moral judgements about political action and political agents.[1]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Public service ethics====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Public service ethics====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:517956243:newid:518227579 -->\n",
+    "from": 517956243
+  }
+}

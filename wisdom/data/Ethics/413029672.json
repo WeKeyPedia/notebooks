@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2011-02-10T02:05:57Z",
+  "revid": 413029672,
+  "anon": "",
+  "user": "70.135.170.29",
+  "parentid": 413029517,
+  "diff": {
+    "to": 413029672,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Other uses}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Other uses}}<ins class=\"diffchange diffchange-inline\"> bitch</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics,''' also known as '''moral philosophy''' is a branch of [[philosophy]] that addresses questions about [[morality]]—that is, concepts such as [[good and evil]], right and wrong,  [[virtue]] and [[vice]], [[justice]], etc.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics,''' also known as '''moral philosophy''' is a branch of [[philosophy]] that addresses questions about [[morality]]—that is, concepts such as [[good and evil]], right and wrong,  [[virtue]] and [[vice]], [[justice]], etc.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:413029517:newid:413029672 -->\n",
+    "from": 413029517
+  }
+}

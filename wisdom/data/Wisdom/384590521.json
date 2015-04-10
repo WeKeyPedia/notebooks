@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Psychological perspectives */",
+  "timestamp": "2010-09-13T14:43:58Z",
+  "revid": 384590521,
+  "anon": "",
+  "user": "125.60.240.199",
+  "parentid": 384202339,
+  "diff": {
+    "to": 384590521,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 36:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 36:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | last = Peterson</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | last = Peterson</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | first = Christopher</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | first = Christopher</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>  | coauthors = [[<del class=\"diffchange diffchange-inline\">Martin</del> <del class=\"diffchange diffchange-inline\">Seligman</del>|Seligman, Martin E. P.]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>  | coauthors = [[<ins class=\"diffchange diffchange-inline\">Roderico</ins> <ins class=\"diffchange diffchange-inline\">Ilusorio</ins>|Seligman, Martin E. P.]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | title = [[Character Strengths and Virtues (book)|Character strengths and virtues: A handbook and classification]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | title = [[Character Strengths and Virtues (book)|Character strengths and virtues: A handbook and classification]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | publisher = [[Oxford University Press]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | publisher = [[Oxford University Press]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:384202339:newid:384590521 -->\n",
+    "from": 384202339
+  }
+}

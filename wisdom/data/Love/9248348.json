@@ -1,0 +1,13 @@
+﻿{
+  "comment": "removal of self-promotion link inserted by [[Special:Contributions/202.83.33.45|202.83.33.45]]",
+  "timestamp": "2004-12-29T14:13:29Z",
+  "revid": 9248348,
+  "user": "Ground",
+  "parentid": 8921394,
+  "diff": {
+    "to": 9248348,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 241:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 241:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.technotip.com/index.php?id=42 The Economics of True Love] - In the real world, can there be romance without finance?</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.onlylovequotes.com Love Quotes]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.onlylovequotes.com Love Quotes]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.heavenonastick.com/whatididforlove/ Life and Love Stories]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.heavenonastick.com/whatididforlove/ Life and Love Stories]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:8921394:newid:9248348 -->\n",
+    "from": 8921394
+  },
+  "minor": ""
+}

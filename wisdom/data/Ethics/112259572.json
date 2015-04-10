@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* References */",
+  "timestamp": "2007-03-03T05:24:04Z",
+  "revid": 112259572,
+  "anon": "",
+  "user": "70.146.26.159",
+  "parentid": 112058360,
+  "diff": {
+    "to": 112259572,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 146:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 146:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* {{cite web| authorlink = Stephen Perle | last = Perle| first = Stephen| url = http://www.chiroweb.com/archives/22/06/16.html | title = Morality and Ethics: An Introduction | date = [[March 11]] [[2004]] | accessdate = 2007-02-13}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* {{cite web| authorlink = Stephen Perle | last = Perle| first = Stephen| url = http://www.chiroweb.com/archives/22/06/16.html | title = Morality and Ethics: An Introduction | date = [[March 11]] [[2004]] | accessdate = 2007-02-13}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Butchvarov, Panayot. Skepticism in Ethics (1989).</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:112058360:newid:112259572 -->\n",
+    "from": 112058360
+  }
+}

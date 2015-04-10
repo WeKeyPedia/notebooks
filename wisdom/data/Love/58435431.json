@@ -1,0 +1,13 @@
+﻿{
+  "comment": "rv",
+  "timestamp": "2006-06-13T18:49:44Z",
+  "revid": 58435431,
+  "user": "Yanksox",
+  "parentid": 58435123,
+  "diff": {
+    "to": 58435431,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 156:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 156:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tr:Aşk]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tr:Aşk]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>serch hate</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:58435123:newid:58435431 -->\n",
+    "from": 58435123
+  },
+  "minor": ""
+}

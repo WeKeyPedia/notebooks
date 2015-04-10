@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-05-21T18:26:35Z",
+  "revid": 54386621,
+  "anon": "",
+  "user": "69.135.184.135",
+  "parentid": 54386045,
+  "diff": {
+    "to": 54386621,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Love]]<del class=\"diffchange diffchange-inline\"> Michael Perkins and Brittany Hackett.</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|200px|thumb|right|A [[cartoonish]] version of the [[Heart (symbol)|heart]], a frequent modern symbol of love.]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|200px|thumb|right|A [[cartoonish]] version of the [[Heart (symbol)|heart]], a frequent modern symbol of love.]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:54386045:newid:54386621 -->\n",
+    "from": 54386045
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-02-14T00:20:24Z",
+  "revid": 39509965,
+  "anon": "",
+  "user": "68.219.160.231",
+  "parentid": 39443162,
+  "diff": {
+    "to": 39509965,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Love is an amzing feeling, kind of like the feeling Tony Grisby has for Kayla Swain, she is so amazing and is a kind and beautiful person, Love is when to people meet and begin to like each other, slowly they gain grow with each other and experience deep feelings for one another, thanks to kayla swain, tony griby knows what love is, HAPPY VALENTINES DAY!</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- We know, it's amazing to love and be loved, but please express your love by helping Wikipedia to improve, not by telling all the world here in this article how much you love your significant other or others. The edit will be removed in seconds anyway. Have a happy life! --&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- We know, it's amazing to love and be loved, but please express your love by helping Wikipedia to improve, not by telling all the world here in this article how much you love your significant other or others. The edit will be removed in seconds anyway. Have a happy life! --&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 39443162
+  }
+}

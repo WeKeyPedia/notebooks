@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Removing advertisement link [[WP:UNDO|Undid]] revision 163539160 by [[Special:Contributions/Benedictadolson|Benedictadolson]] ([[User talk:Benedictadolson|talk]])",
+  "timestamp": "2007-10-10T22:47:07Z",
+  "revid": 163675374,
+  "user": "Anarchia",
+  "parentid": 163539160,
+  "diff": {
+    "to": 163675374,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 130:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 130:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://www.ethicalleadershipgroup.com Business Ethics Consulting &amp; Compliance Management Firm]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.galilean-library.org/int11.html An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.galilean-library.org/int11.html An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Stanford Encyclopedia of Philosophy]]:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Stanford Encyclopedia of Philosophy]]:</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:163539160:newid:163675374 -->\n",
+    "from": 163539160
+  }
+}

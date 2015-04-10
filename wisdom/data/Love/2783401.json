@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-03-15T23:40:06Z",
+  "revid": 2783401,
+  "anon": "",
+  "user": "206.72.49.80",
+  "parentid": 2783371,
+  "diff": {
+    "to": 2783401,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 3:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 3:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>: ''For the 1960s band, see [[Love (band)]]. The term is also used in [[Tennis#History of tennis|tennis]].''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>: ''For the 1960s band, see [[Love (band)]]. The term is also used in [[Tennis#History of tennis|tennis]].''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Love''' is a special [[affection]] for someone or something, a [[feeling]] or [[emotion]]. Various different types of love  exist, which are more or less related:</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Love'''<ins class=\"diffchange diffchange-inline\"> like Nick's for Michaela</ins> is a special [[affection]] for someone or something, a [[feeling]] or [[emotion]]. Various different types of love  exist, which are more or less related:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love between [[family]] members: parent's love of children, etc.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love between [[family]] members: parent's love of children, etc.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love of [[friend]]s</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love of [[friend]]s</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:2783371:newid:2783401 -->\n",
+    "from": 2783371
+  }
+}

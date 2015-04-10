@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/24.231.155.231|24.231.155.231]] ([[User talk:24.231.155.231|talk]]) to last version by Dreftymac",
+  "timestamp": "2007-01-10T13:17:31Z",
+  "revid": 99755080,
+  "user": "PinchasC",
+  "parentid": 99731153,
+  "diff": {
+    "to": 99755080,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 146:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 146:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Roger Allen, Hillar Kilpatrick, and Ed de Moor, eds. ''Love and Sexuality in Modern Arabic Literature''. London: Saqi Books, 1995.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Roger Allen, Hillar Kilpatrick, and Ed de Moor, eds. ''Love and Sexuality in Modern Arabic Literature''. London: Saqi Books, 1995.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*I love Erin, eds. \"Really\"</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Shadi Bartsch and Thomas Bartscherer, eds. ''Erotikon: Essays on Eros, Ancient and Modern''. Chicago: University of Chicago Press, 2005.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Shadi Bartsch and Thomas Bartscherer, eds. ''Erotikon: Essays on Eros, Ancient and Modern''. Chicago: University of Chicago Press, 2005.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Helen Fisher. ''Why We Love: the Nature and Chemistry of Romantic Love''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Helen Fisher. ''Why We Love: the Nature and Chemistry of Romantic Love''</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:99731153:newid:99755080 -->\n",
+    "from": 99731153
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2005-04-27T05:52:41Z",
+  "revid": 12873970,
+  "anon": "",
+  "user": "212.138.47.15",
+  "parentid": 12872668,
+  "diff": {
+    "to": 12873970,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 246:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 246:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.onlylovequotes.com Love Quotes]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.onlylovequotes.com Love Quotes]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.words4ever.net/subjects/90/love-and-romance-quotations-sayings.htm Love Quotations] Love &amp; Romance Quotations sorted by Authors with Quotations Screensavers and wallpapers</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.kevinkwak.com/whatididforlove/ Life and Love Stories]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.kevinkwak.com/whatididforlove/ Life and Love Stories]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://buddhism.kalachakranet.org/immeasurables.html A Buddhist View on Love and Compassion]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://buddhism.kalachakranet.org/immeasurables.html A Buddhist View on Love and Compassion]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:12872668:newid:12873970 -->\n",
+    "from": 12872668
+  }
+}

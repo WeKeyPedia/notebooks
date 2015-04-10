@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Added knowledge link",
+  "timestamp": "2002-08-09T20:39:26Z",
+  "revid": 147796,
+  "user": "Yaginuma",
+  "parentid": 147766,
+  "diff": {
+    "to": 147796,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The ability and inclination to make choices that stand</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The ability and inclination to make choices that stand</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>the test of time.  To say that a choice was wise implies that the action or inaction was strategically correct when judged by some set of values.  Another formulation is \"Making the best use of available knowledge.\"</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>the test of time.  To say that a choice was wise implies that the action or inaction was strategically correct when judged by some set of values.  Another formulation is \"Making the best use of available <ins class=\"diffchange diffchange-inline\">[[</ins>knowledge<ins class=\"diffchange diffchange-inline\">]]</ins>.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>It is crucial to realize that a wise decision must often be made from incomplete information.  This requires the chooser to know the way that situations (of any sort) usually turn out.  Thus a wise decision must be corrent and justified, but the justification need not be based on a true belief.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>It is crucial to realize that a wise decision must often be made from incomplete information.  This requires the chooser to know the way that situations (of any sort) usually turn out.  Thus a wise decision must be corrent and justified, but the justification need not be based on a true belief.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:147766:newid:147796 -->\n",
+    "from": 147766
+  },
+  "minor": ""
+}

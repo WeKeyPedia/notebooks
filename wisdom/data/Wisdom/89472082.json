@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* [[Buddhism]] */",
+  "timestamp": "2006-11-22T16:47:10Z",
+  "revid": 89472082,
+  "anon": "",
+  "user": "201.51.221.66",
+  "parentid": 89471917,
+  "diff": {
+    "to": 89472082,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 58:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 58:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* One is not wise merely because he talks much. But he who is calm, free from hatred and fear, is verily called a wise man.&lt;ref&gt;''Dhammapada'' v.258&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* One is not wise merely because he talks much. But he who is calm, free from hatred and fear, is verily called a wise man.&lt;ref&gt;''Dhammapada'' v.258&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* By quietude alone one does not become a <del class=\"diffchange diffchange-inline\">sage (</del>[[<del class=\"diffchange diffchange-inline\">muni</del>]]) if he is foolish and ignorant. But he who, as if holding a pair of scales, takes the good and shuns the evil, is a wise man; he is indeed a muni by that very reason. He who understands both good and evil as they really are, is called a true sage.&lt;ref&gt;''Dhammapada'' v.268-9&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* By quietude alone one does not become a [[<ins class=\"diffchange diffchange-inline\">Wise old man|sage</ins>]]<ins class=\"diffchange diffchange-inline\"> (muni</ins>) if he is foolish and ignorant. But he who, as if holding a pair of scales, takes the good and shuns the evil, is a wise man; he is indeed a muni by that very reason. He who understands both good and evil as they really are, is called a true sage.&lt;ref&gt;''Dhammapada'' v.268-9&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== [[Taoism]] ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== [[Taoism]] ===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:89471917:newid:89472082 -->\n",
+    "from": 89471917
+  }
+}

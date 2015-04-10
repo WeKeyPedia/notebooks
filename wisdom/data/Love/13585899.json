@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/212.138.47.15|212.138.47.15]] to last version by 69.169.34.116",
+  "timestamp": "2005-05-11T20:14:20Z",
+  "revid": 13585899,
+  "user": "Jfdwolff",
+  "parentid": 13573607,
+  "diff": {
+    "to": 13585899,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 250:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 250:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.bestlovepoems.net/ Love Poems]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.bestlovepoems.net/ Love Poems]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.religiousbook.net/Books/Online_books/Ec/Ecology_9.html What is Love] religious view</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.religiousbook.net/Books/Online_books/Ec/Ecology_9.html What is Love] religious view</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://www.words4ever.net/subjects/90/love-and-romance-quotations-sayings.htm Love and Romance Quotations]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:13573607:newid:13585899 -->\n",
+    "from": 13573607
+  },
+  "minor": ""
+}

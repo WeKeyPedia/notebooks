@@ -1,0 +1,13 @@
+﻿{
+  "comment": "rm cutesy vandalism",
+  "timestamp": "2007-01-10T03:01:45Z",
+  "revid": 99686883,
+  "user": "Dreftymac",
+  "parentid": 99645019,
+  "diff": {
+    "to": 99686883,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 3:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 3:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Please respect the contents of this encyclopedia article.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Please respect the contents of this encyclopedia article.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*********************************************************</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*********************************************************</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">We know, it's amazing to</del> love <del class=\"diffchange diffchange-inline\">and be loved</del>, <del class=\"diffchange diffchange-inline\">but</del> <del class=\"diffchange diffchange-inline\">please</del> <del class=\"diffchange diffchange-inline\">express your love by helping Wikipedia to improve, not by telling all the world here in this article how much you love your significant other. The edit will be removed in seconds anyway. Have a happy</del> <del class=\"diffchange diffchange-inline\">life!</del> </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">Personal</ins> love <ins class=\"diffchange diffchange-inline\">notes</ins>, <ins class=\"diffchange diffchange-inline\">cutesy</ins> <ins class=\"diffchange diffchange-inline\">comments</ins> <ins class=\"diffchange diffchange-inline\">and</ins> <ins class=\"diffchange diffchange-inline\">offensive</ins> <ins class=\"diffchange diffchange-inline\">statements</ins></div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>are considered vandalism and will be removed. Thanks!</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>--&gt;{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>--&gt;{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Love table}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Love table}}</div></td>\n</tr>\n",
+    "from": 99645019
+  },
+  "minor": ""
+}

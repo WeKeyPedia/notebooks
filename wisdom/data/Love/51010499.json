@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edit of 62.3.32.55, changed back to last version by 207.71.215.187",
+  "timestamp": "2006-05-01T06:42:28Z",
+  "revid": 51010499,
+  "user": "Feezo",
+  "parentid": 51010443,
+  "diff": {
+    "to": 51010499,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 98:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 98:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Wiktionary:I love you|\"I love you\" in various languages]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Wiktionary:I love you|\"I love you\" in various languages]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.love-calculator.info Love Calculator]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://iserver.saddleback.cc.ca.us/faculty/jfritsen/articles.html The Science of Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://iserver.saddleback.cc.ca.us/faculty/jfritsen/articles.html The Science of Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.humanthermodynamics.com/RP2-Love.html Top 150 Definitions of Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.humanthermodynamics.com/RP2-Love.html Top 150 Definitions of Love]</div></td>\n</tr>\n",
+    "from": 51010443
+  },
+  "minor": ""
+}

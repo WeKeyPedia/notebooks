@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/195.33.116.97|195.33.116.97]] per policy concerns. Please read up on [[WP:POL#Key_policies|policies and guidelines]]. Thanks!",
+  "timestamp": "2006-11-08T14:04:05Z",
+  "revid": 86490335,
+  "user": "Chrislk02",
+  "parentid": 86490283,
+  "diff": {
+    "to": 86490335,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"He did things that were disapproved of.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"He did things that were disapproved of.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>(It is important to note that non-cognitivists may disagree with the categorization of the last two propositions as non-ethical, as one non-cognitivist position is that ethical propositions are nothing more than coded expressions of approval or disapproval.)<del class=\"diffchange diffchange-inline\">l</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>(It is important to note that non-cognitivists may disagree with the categorization of the last two propositions as non-ethical, as one non-cognitivist position is that ethical propositions are nothing more than coded expressions of approval or disapproval.)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religion and meta-ethics===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religion and meta-ethics===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:86490283:newid:86490335 -->\n",
+    "from": 86490283
+  },
+  "minor": ""
+}

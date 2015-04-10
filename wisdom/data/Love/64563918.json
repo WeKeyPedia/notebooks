@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */",
+  "timestamp": "2006-07-18T23:49:08Z",
+  "revid": 64563918,
+  "anon": "",
+  "user": "80.176.250.209",
+  "parentid": 64462361,
+  "diff": {
+    "to": 64563918,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 67:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 67:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Aspects of love</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Aspects of love</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [[wikt:Admiration|Admiration]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [[wikt:Admiration|Admiration]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>**[[wikt:Broken Heart]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [[wikt:Care|Care]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [[wikt:Care|Care]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** Desire to [[Sexual reproduction|procreate]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** Desire to [[Sexual reproduction|procreate]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:64462361:newid:64563918 -->\n",
+    "from": 64462361
+  }
+}

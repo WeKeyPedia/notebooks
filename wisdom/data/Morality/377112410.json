@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2010-08-04T13:02:03Z",
+  "revid": 377112410,
+  "anon": "",
+  "user": "86.151.94.48",
+  "parentid": 376614031,
+  "diff": {
+    "to": 377112410,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Redirect|Appropriate||Appropriation (disambiguation)}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">[[Image:Different degrees of pubic hair coverage.JPG|400px]]</ins>{{Redirect|Appropriate||Appropriation (disambiguation)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Cleanup|date=March 2010}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Cleanup|date=March 2010}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:376614031:newid:377112410 -->\n",
+    "from": 376614031
+  }
+}

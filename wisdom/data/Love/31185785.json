@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/68.92.120.218|68.92.120.218]] ([[User talk:68.92.120.218|talk]]) to last version by Antandrus",
+  "timestamp": "2005-12-13T13:18:34Z",
+  "revid": 31185785,
+  "user": "Jfdwolff",
+  "parentid": 31185436,
+  "diff": {
+    "to": 31185785,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 243:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 243:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love sickness]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love sickness]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Platonic love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Platonic love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>I'M HEAD OVER HEELS IN LOVE WITH MICHAEL McCOY!!!</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Other types of love (philias)===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Other types of love (philias)===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:31185436:newid:31185785 -->\n",
+    "from": 31185436
+  },
+  "minor": ""
+}

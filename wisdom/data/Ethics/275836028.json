@@ -1,0 +1,13 @@
+﻿{
+  "comment": "robot  Adding: [[sah:Этика]]",
+  "timestamp": "2009-03-08T17:00:48Z",
+  "revid": 275836028,
+  "user": "Idioma-bot",
+  "parentid": 275129742,
+  "diff": {
+    "to": 275836028,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 204:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 204:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ro:Etică]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ro:Etică]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ru:Этика]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ru:Этика]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[sah:Этика]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sq:Etika]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sq:Etika]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[scn:Ètica]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[scn:Ètica]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:275129742:newid:275836028 -->\n",
+    "from": 275129742
+  },
+  "minor": ""
+}

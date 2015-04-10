@@ -1,0 +1,13 @@
+﻿{
+  "comment": "r2.6.4) (Robot: Adding [[fy:Moraal]]",
+  "timestamp": "2011-12-01T16:23:48Z",
+  "revid": 463516993,
+  "user": "EmausBot",
+  "parentid": 463286254,
+  "diff": {
+    "to": 463516993,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 195:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 195:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[hif:Morality]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[hif:Morality]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fr:Morale]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fr:Morale]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[fy:Moraal]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[gl:Moral]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[gl:Moral]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ko:도덕]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ko:도덕]]</div></td>\n</tr>\n",
+    "from": 463286254
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2002-11-05T06:27:42Z",
+  "revid": 405299,
+  "user": "Stevertigo",
+  "parentid": 405272,
+  "diff": {
+    "to": 405299,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>---- </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>---- </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>See: [[blue law]]s, [[sexual morality]], [[moral relativism]], [[moral absolutism]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>See: [[blue law]]s, [[sexual morality]], [[moral relativism]], [[moral absolutism<ins class=\"diffchange diffchange-inline\">]], [[moral universalism</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Compare: [[ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Compare: [[ethics]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:405272:newid:405299 -->\n",
+    "from": 405272
+  },
+  "minor": ""
+}

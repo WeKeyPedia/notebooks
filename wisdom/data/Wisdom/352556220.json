@@ -1,0 +1,13 @@
+﻿{
+  "comment": "ccvccccvgdgfddggdgycvchvcgcv\\",
+  "timestamp": "2010-03-28T16:24:51Z",
+  "revid": 352556220,
+  "anon": "",
+  "user": "41.210.9.60",
+  "parentid": 352512067,
+  "diff": {
+    "to": 352556220,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 162:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 162:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Spirituality]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Spirituality]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Positive psychology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Positive psychology]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Category:Knowledge]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Category:Knowledge]]<ins class=\"diffchange diffchange-inline\">dgdvgvdvdshdtdd x</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ar:حكمة]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ar:حكمة]]</div></td>\n</tr>\n",
+    "from": 352512067
+  }
+}

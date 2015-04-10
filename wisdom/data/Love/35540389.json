@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-01-17T14:15:00Z",
+  "revid": 35540389,
+  "anon": "",
+  "user": "213.249.155.231",
+  "parentid": 35469491,
+  "diff": {
+    "to": 35540389,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 305:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 305:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tl:Pag-ibig]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tl:Pag-ibig]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>hello</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:35469491:newid:35540389 -->\n",
+    "from": 35469491
+  }
+}

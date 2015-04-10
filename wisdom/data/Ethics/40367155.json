@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/203.36.44.12|203.36.44.12]] ([[User talk:203.36.44.12|talk]]) to last version by Pgk",
+  "timestamp": "2006-02-20T02:21:22Z",
+  "revid": 40367155,
+  "user": "Sango123",
+  "parentid": 40367072,
+  "diff": {
+    "to": 40367155,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 152:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 152:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*** Joseph's Brain! One smart mofo!</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral absolutism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral absolutism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [[Deontology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [[Deontology]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:40367072:newid:40367155 -->\n",
+    "from": 40367072
+  },
+  "minor": ""
+}

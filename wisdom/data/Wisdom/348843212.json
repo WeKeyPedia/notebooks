@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Old Testament */",
+  "timestamp": "2010-03-09T23:10:34Z",
+  "revid": 348843212,
+  "anon": "",
+  "user": "72.221.92.43",
+  "parentid": 348842963,
+  "diff": {
+    "to": 348843212,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 70:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 70:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>It was an ancient belief among the Jews and [[Samaritan|Samaritans]] that both the wisest and most aged among them would grow [[goat|caprine]] horns, which were known literally as the \"horns of wisdom\" (קרניים חוכמה), hence the ancient Hebrew [[dictum]]:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>It was an ancient belief among the Jews and [[Samaritan|Samaritans]] that both the wisest and most aged among them would grow [[goat|caprine]] horns, which were known literally as the \"horns of wisdom\" (קרניים חוכמה), hence the ancient Hebrew [[dictum]]:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>''From Wisdom's horn</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>''From Wisdom's horn<ins class=\"diffchange diffchange-inline\">/Authority is born''.</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Authority is born''.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===New Testament===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===New Testament===</div></td>\n</tr>\n",
+    "from": 348842963
+  }
+}

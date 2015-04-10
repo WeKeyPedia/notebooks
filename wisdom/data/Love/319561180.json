@@ -1,0 +1,12 @@
+﻿{
+  "comment": "added \"polyamory\" link under see also to parallel existing link to \"monogamy\"",
+  "timestamp": "2009-10-13T04:11:14Z",
+  "revid": 319561180,
+  "user": "Scigirl543",
+  "parentid": 316837136,
+  "diff": {
+    "to": 319561180,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 276:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 276:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Love sickness]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Love sickness]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Monogamy]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Monogamy]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Polyamory]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n</tr>\n",
+    "from": 316837136
+  }
+}

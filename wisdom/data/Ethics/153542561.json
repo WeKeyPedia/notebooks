@@ -1,0 +1,13 @@
+﻿{
+  "comment": "[[af:Etiek]]",
+  "timestamp": "2007-08-25T12:43:42Z",
+  "revid": 153542561,
+  "user": "Adriaan",
+  "parentid": 151283823,
+  "diff": {
+    "to": 153542561,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 145:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 145:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Code of conduct]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Code of conduct]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[af:Etiek]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ar:أخلاق]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ar:أخلاق]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bar:Ethik]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bar:Ethik]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:151283823:newid:153542561 -->\n",
+    "from": 151283823
+  },
+  "minor": ""
+}

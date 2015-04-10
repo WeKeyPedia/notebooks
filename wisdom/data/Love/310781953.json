@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* References */",
+  "timestamp": "2009-08-29T21:43:52Z",
+  "revid": 310781953,
+  "user": "Chendy",
+  "parentid": 310321824,
+  "diff": {
+    "to": 310781953,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 272:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 272:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{reflist|<del class=\"diffchange diffchange-inline\">2</del>}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{reflist|<ins class=\"diffchange diffchange-inline\">3</ins>}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Sources==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Sources==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:310321824:newid:310781953 -->\n",
+    "from": 310321824
+  },
+  "minor": ""
+}

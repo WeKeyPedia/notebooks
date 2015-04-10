@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Adding {{pp-pc1}} ([[WP:TW|TW]])",
+  "timestamp": "2013-10-02T20:30:17Z",
+  "revid": 575488269,
+  "user": "Ks0stm",
+  "parentid": 575488237,
+  "diff": {
+    "to": 575488269,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{pp-pc1}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{pp-pc1<ins class=\"diffchange diffchange-inline\">|small=yes</ins>}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy sidebar}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:575488237:newid:575488269 -->\n",
+    "from": 575488237
+  }
+}

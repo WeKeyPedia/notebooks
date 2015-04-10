@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Ethics in psychology */",
+  "timestamp": "2007-03-21T18:33:01Z",
+  "revid": 116836466,
+  "user": "LCP",
+  "parentid": 116836281,
+  "diff": {
+    "to": 116836466,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 91:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 91:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A third group of psychological [[theories]] that have implications for the nature of ethics are based on [[evolutionary psychology]]. These theories are based on the assumption that the behavior that ethics prescribe can sometimes be seen as an evolutionary adaptation. For instance, [[altruism]] towards members of one's own [[family]] promotes one's [[inclusive fitness]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A third group of psychological [[theories]] that have implications for the nature of ethics are based on [[evolutionary psychology]]. These theories are based on the assumption that the behavior that ethics prescribe can sometimes be seen as an evolutionary adaptation. For instance, [[altruism]] towards members of one's own [[family]] promotes one's [[inclusive fitness]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>On the other side of the evolutionary fence, Phil Roberts, Jr. has offered a view in which [[morality]], and particularly the capacity for [[guilt]], is viewed as a maladaptive byproduct of the [[evolution]] of [[rationality]]:</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>On the other side of the evolutionary fence, <ins class=\"diffchange diffchange-inline\">[[</ins>Phil Roberts, Jr.<ins class=\"diffchange diffchange-inline\">]]</ins> has offered a view in which [[morality]], and particularly the capacity for [[guilt]], is viewed as a maladaptive byproduct of the [[evolution]] of [[rationality]]:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;blockquote&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;blockquote&gt;</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:116836281:newid:116836466 -->\n",
+    "from": 116836281
+  },
+  "minor": ""
+}

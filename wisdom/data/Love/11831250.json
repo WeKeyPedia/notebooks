@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Human love */",
+  "timestamp": "2005-04-03T11:03:09Z",
+  "revid": 11831250,
+  "anon": "",
+  "user": "202.180.83.6",
+  "parentid": 11831176,
+  "diff": {
+    "to": 11831250,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 234:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 234:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Personal relationship]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Personal relationship]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Erich Fromm]]'s view of human love</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Erich Fromm]]'s view of human love</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div> Love Is Snet-puss for Snae-puss 4221 :)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Other types of love (philias)===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Other types of love (philias)===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:11831176:newid:11831250 -->\n",
+    "from": 11831176
+  }
+}

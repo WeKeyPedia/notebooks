@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2009-03-29T20:41:13Z",
+  "revid": 280492628,
+  "anon": "",
+  "user": "69.221.239.6",
+  "parentid": 280213471,
+  "diff": {
+    "to": 280492628,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' is a branch of [[philosophy]] which seeks to address questions about [[morality]], such as what the fundamental [[semantic]], [[ontological]], and [[epistemic]] nature of ethics or morality is ([[meta-ethics]]), how moral values should be determined ([[normative ethics]]), how a moral outcome can be achieved in specific situations ([[applied ethics]]), how moral capacity or moral agency develops and what its nature is ([[moral psychology]]), and what moral values people actually abide by ([[descriptive ethics]]).</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' is a branch of [[philosophy]] which seeks to address questions about [[morality]], such as what the fundamental [[semantic]], [[ontological]], and [[epistemic]] nature of ethics or morality is ([[meta-ethics]]), how moral values should be determined ([[normative ethics]]), how a moral outcome can be achieved in specific situations ([[applied ethics]]), how moral capacity or moral agency develops and<ins class=\"diffchange diffchange-inline\"> loves to eat pussy</ins> what its nature is ([[moral psychology]]), and what moral values people actually abide by ([[descriptive ethics]]).</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n</tr>\n",
+    "from": 280213471
+  }
+}

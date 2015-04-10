@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/82.155.42.162|82.155.42.162]] ([[User talk:82.155.42.162|talk]]) to last version by 85.178.138.244",
+  "timestamp": "2006-01-25T14:18:48Z",
+  "revid": 36643536,
+  "user": "Wayward",
+  "parentid": 36643445,
+  "diff": {
+    "to": 36643536,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is amazing!!!</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is amazing!!!</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>but sometimes... it hurts so much!</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:36643445:newid:36643536 -->\n",
+    "from": 36643445
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Philosophical perspectives */",
+  "timestamp": "2011-07-27T04:18:29Z",
+  "revid": 441653075,
+  "anon": "",
+  "user": "121.54.58.139",
+  "parentid": 441648396,
+  "diff": {
+    "to": 441653075,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 16:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 16:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Philosophical perspectives==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Philosophical perspectives==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Ethics}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>''pag tikangtikang na daw kamu pag himo an aton report.'' (to:Versosa and Wenceslao)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''Ethics'' (also known as ''moral philosophy'') is the branch of [[philosophy]] that addresses questions about morality. (by: Winnie Sayson)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''Ethics'' (also known as ''moral philosophy'') is the branch of [[philosophy]] that addresses questions about morality. (by: Winnie Sayson)</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:441648396:newid:441653075 -->\n",
+    "from": 441648396
+  }
+}

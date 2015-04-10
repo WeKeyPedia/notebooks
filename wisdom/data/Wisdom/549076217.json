@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Taoism */",
+  "timestamp": "2013-04-07T00:28:22Z",
+  "revid": 549076217,
+  "user": "JointHarmony",
+  "parentid": 549076015,
+  "diff": {
+    "to": 549076217,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 113:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 113:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The Chinese character for Tao is 道：</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The Chinese character for Tao is 道：</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>:辶+首=道 (dao) walking feet on bottom head on top, two lines on top of head represent yin yang the line beneath is one represent taichi below is the self (自), depicting with the arising of this comes the arising of that, 道 is in motion with your feet, right in front of your face, the practice of just being a normal human or true human in ordinary life, it means road, channel, the way.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>:辶+首=道 (dao) walking feet on bottom head on top, two lines on top of head represent yin yang<ins class=\"diffchange diffchange-inline\">,</ins> the line beneath is one represent taichi<ins class=\"diffchange diffchange-inline\"> giving birth to yin yang,</ins> below is the self (自), depicting with the arising of this comes the arising of that, 道 is in motion with your feet, right in front of your face, the practice of just being a normal human or true human in ordinary life, it means road, channel, the way.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Hinduism===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Hinduism===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:549076015:newid:549076217 -->\n",
+    "from": 549076015
+  }
+}

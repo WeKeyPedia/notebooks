@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* External links */ +glossary",
+  "timestamp": "2008-03-31T09:55:37Z",
+  "revid": 202261878,
+  "user": "Mikael Häggström",
+  "parentid": 201538729,
+  "diff": {
+    "to": 202261878,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 125:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 125:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/frankena/ethics.html ''Ethics]'', 2d ed., 1973. by [[William Frankena]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/frankena/ethics.html ''Ethics]'', 2d ed., 1973. by [[William Frankena]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/ross/right.html 'The Right and the Good''] (1930) by [[W. D. Ross]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/ross/right.html 'The Right and the Good''] (1930) by [[W. D. Ross]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://ethics.sandiego.edu/Glossary.html University of San Diego - Ethics glossary] Useful terms in ethics discussions</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy navigation}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy navigation}}</div></td>\n</tr>\n",
+    "from": 201538729
+  }
+}

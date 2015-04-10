@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2010-11-17T01:34:13Z",
+  "revid": 397219719,
+  "anon": "",
+  "user": "81.147.81.26",
+  "parentid": 397190478,
+  "diff": {
+    "to": 397219719,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 215:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 215:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.philosophyarchive.com/index.php?title=Philosophy_of_Ethics The Philosophy of Ethics] on Philosophy Archive</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.philosophyarchive.com/index.php?title=Philosophy_of_Ethics The Philosophy of Ethics] on Philosophy Archive</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.sandiego.edu/ Ethics updates] Provides resources and updates on current literature, both popular and professional, that relate to ethics.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.sandiego.edu/ Ethics updates] Provides resources and updates on current literature, both popular and professional, that relate to ethics.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.klice.co.uk/ Kirby Laing Institute for Christian Ethics] Resources, events, and research on a range of ethical subjects from a Christian perspective.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy topics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy topics}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:397190478:newid:397219719 -->\n",
+    "from": 397190478
+  }
+}

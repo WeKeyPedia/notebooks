@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Scientific perspectives */",
+  "timestamp": "2007-03-12T15:08:10Z",
+  "revid": 114553816,
+  "user": "Stevenson-Perez",
+  "parentid": 114553611,
+  "diff": {
+    "to": 114553816,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 53:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 53:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''''“…the most important question we must ask ourselves is ‘Are we being good ancestors?’  Given the rapidly changing discoveries and conditions of the time, this opens up a crucial conversation – just what will it take for our descendants to look back upon our decisions today and judge us good ancestors?”''''' </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''''“…the most important question we must ask ourselves is ‘Are we being good ancestors?’  Given the rapidly changing discoveries and conditions of the time, this opens up a crucial conversation – just what will it take for our descendants to look back upon our decisions today and judge us good ancestors?”''''' </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Thus, some may  find [[scientific method]]&lt;ref&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Thus, some may  find<ins class=\"diffchange diffchange-inline\"> the</ins> [[scientific method]]&lt;ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[William Stanley Jevons]] (1873, 1877) ''The Principles of Science: a treatise on logic and scientific method'' Dover edition, with a new preface by [[Ernest Nagel]] (1958) </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[William Stanley Jevons]] (1873, 1877) ''The Principles of Science: a treatise on logic and scientific method'' Dover edition, with a new preface by [[Ernest Nagel]] (1958) </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/ref&gt; to be a satisfactory path to a goal of gaining wisdom.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/ref&gt; to be a satisfactory path to a goal of gaining wisdom.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:114553611:newid:114553816 -->\n",
+    "from": 114553611
+  },
+  "minor": ""
+}

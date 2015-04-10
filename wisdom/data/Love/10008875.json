@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Defining love */",
+  "timestamp": "2005-02-03T00:30:46Z",
+  "revid": 10008875,
+  "user": "Deirdre Golash",
+  "parentid": 9898451,
+  "diff": {
+    "to": 10008875,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 12:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 12:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>There are as many forms of love as there are lovers. However, all forms of love have some common factors and issues.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>There are as many forms of love as there are lovers. However, all forms of love have some common factors and issues.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Discussions of love are inevitably colored by the language used to describe it. Each language, developing alongside a corresponding culture, has a different set of words to describe love. <del class=\"diffchange diffchange-inline\">As</del> <del class=\"diffchange diffchange-inline\">such</del>, it's difficult to discuss different cultures' views without referencing their language. See the [[Sapir-Whorf hypothesis]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Discussions of love are inevitably colored by the language used to describe it. Each language, developing alongside a corresponding culture, has a different set of words to describe love. <ins class=\"diffchange diffchange-inline\">For</ins> <ins class=\"diffchange diffchange-inline\">this reason</ins>, it's difficult to discuss different cultures' views without referencing their language. See the [[Sapir-Whorf hypothesis]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Interpersonal love===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Interpersonal love===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:9898451:newid:10008875 -->\n",
+    "from": 9898451
+  },
+  "minor": ""
+}

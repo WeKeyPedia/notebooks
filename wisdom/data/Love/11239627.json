@@ -1,0 +1,13 @@
+﻿{
+  "comment": "links",
+  "timestamp": "2005-03-16T06:14:22Z",
+  "revid": 11239627,
+  "user": "Andycjp",
+  "parentid": 11191259,
+  "diff": {
+    "to": 11239627,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' has many meanings in [[English language|English]]. It can mean an intense feeling of [[affection]], an [[emotion]] or emotional state. In ordinary use, it usually refers to interpersonal love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' has many meanings in [[English language|English]]. It can mean an intense feeling of [[affection]], an [[emotion]] or emotional state. In ordinary use, it usually refers to interpersonal love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Love is one of the most common themes in art. The majority of modern movies have a love story and most pop music is about love.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Love is one of the most common themes in art. The majority of modern <ins class=\"diffchange diffchange-inline\">[[</ins>movies<ins class=\"diffchange diffchange-inline\">]]</ins> have a love story and most <ins class=\"diffchange diffchange-inline\">[[</ins>pop music<ins class=\"diffchange diffchange-inline\">]]</ins> is about love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Puppy Love==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Puppy Love==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:11191259:newid:11239627 -->\n",
+    "from": 11191259
+  },
+  "minor": ""
+}

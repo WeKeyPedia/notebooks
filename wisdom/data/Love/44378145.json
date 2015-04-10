@@ -1,0 +1,13 @@
+﻿{
+  "comment": "added content (as to some cultures not having a word for it)",
+  "timestamp": "2006-03-18T17:25:39Z",
+  "revid": 44378145,
+  "user": "Sadi Carnot",
+  "parentid": 44375594,
+  "diff": {
+    "to": 44378145,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[family]]''' - people related via common ancestry, religion, or race, etc.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[family]]''' - people related via common ancestry, religion, or race, etc.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Others maintain that love is un-definable; being a quantity which is more [[spiritual]], [[metaphysical]], or [[philosophical]] in nature, etc. </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">Some deny the existence of love, stating that it is a recently invented hypothetical concept.  Some cultures, reportedly, have no terminology for the word love. </ins>Others maintain that love<ins class=\"diffchange diffchange-inline\"> exists but</ins> is un-definable; being a quantity which is more [[spiritual]], [[metaphysical]], or [[philosophical]] in nature, etc. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{emotion}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{emotion}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Overview ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Overview ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:44375594:newid:44378145 -->\n",
+    "from": 44375594
+  },
+  "minor": ""
+}

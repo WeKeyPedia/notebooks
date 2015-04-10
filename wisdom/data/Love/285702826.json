@@ -1,0 +1,13 @@
+﻿{
+  "comment": "robot  Modifying: [[az:Sevda]]",
+  "timestamp": "2009-04-23T18:56:47Z",
+  "revid": 285702826,
+  "user": "ArthurBot",
+  "parentid": 285050752,
+  "diff": {
+    "to": 285702826,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 220:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 220:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ar:حب]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ar:حب]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[an:Aimor]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[an:Aimor]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[az:<del class=\"diffchange diffchange-inline\">Məhəbbət</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[az:<ins class=\"diffchange diffchange-inline\">Sevda</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bs:Ljubav]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bs:Ljubav]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bg:Любов]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bg:Любов]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:285050752:newid:285702826 -->\n",
+    "from": 285050752
+  },
+  "minor": ""
+}

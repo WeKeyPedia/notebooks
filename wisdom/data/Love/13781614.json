@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-05-13T04:19:28Z",
+  "revid": 13781614,
+  "anon": "",
+  "user": "148.85.205.214",
+  "parentid": 13642146,
+  "diff": {
+    "to": 13781614,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 92:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 92:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Eros]] &amp;mdash; a passionate physical love based on physical appearance</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Eros]] &amp;mdash; a passionate physical love based on physical appearance</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ludus]] &amp;mdash; love is played as a game; love is playful</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ludus]] &amp;mdash; love is played as a game; love is playful</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Storge]] &amp;mdash; an affectionate love that slowly develops, based on [[similarity]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Storge]] &amp;mdash; an affectionate love that slowly develops, based on [[<ins class=\"diffchange diffchange-inline\">similarity (psychology)|</ins>similarity]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Pragma (love)|Pragma]] &amp;mdash; pragmatic love</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Pragma (love)|Pragma]] &amp;mdash; pragmatic love</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Mania]] &amp;mdash; highly emotional love; unstable; the stereotype of [[romantic love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Mania]] &amp;mdash; highly emotional love; unstable; the stereotype of [[romantic love]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:13642146:newid:13781614 -->\n",
+    "from": 13642146
+  }
+}

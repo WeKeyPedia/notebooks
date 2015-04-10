@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Morals */",
+  "timestamp": "2008-03-26T13:53:07Z",
+  "revid": 201056121,
+  "anon": "",
+  "user": "207.73.105.250",
+  "parentid": 200552045,
+  "diff": {
+    "to": 201056121,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 15:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 15:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Personal ethics signifies a moral code applicable to individuals, while social ethics means moral theory applied to groups. Social ethics can be synonymous with social and political philosophy, in as much as it is the foundation of a good society or state.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Personal ethics signifies a moral code applicable to individuals, while social ethics means moral theory applied to groups. Social ethics can be synonymous with social and political philosophy, in as much as it is the foundation of a good society or state.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Ethics is not limited to specific acts and defined moral codes, but encompasses the whole of moral ideals and behaviors, a person's philosophy of life (or ''[[Weltanschauung]]'').&lt;ref&gt;Sahakian, William S. &amp; Sahakian, Mabel Lewis. ''Ideas of the Great Philosophers''. pp 31-32. Barnes and Noble Books (1993). ISBN 9781566192712.&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Ethics is not limited to specific acts and defined moral codes, but encompasses the whole of moral ideals and behaviors, a person's philosophy of life (or ''[[Weltanschauung]]'').&lt;ref&gt;Sahakian, William S. &amp; Sahakian, Mabel Lewis. ''Ideas of the Great Philosophers''. pp 31-32. Barnes and Noble Books (1993). ISBN 9781566192712.&lt;/ref&gt;<ins class=\"diffchange diffchange-inline\"> lalalalalalalalalalala</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Greek philosophy==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Greek philosophy==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:200552045:newid:201056121 -->\n",
+    "from": 200552045
+  }
+}

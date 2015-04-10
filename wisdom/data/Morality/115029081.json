@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Date/fix maintenance tags",
+  "timestamp": "2007-03-14T11:16:42Z",
+  "revid": 115029081,
+  "user": "SmackBot",
+  "parentid": 114971639,
+  "diff": {
+    "to": 115029081,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Unreferenced}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Unreferenced<ins class=\"diffchange diffchange-inline\">|date=March 2007</ins>}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''' refers to the concept of human [[ethics]] which pertains to matters of right and wrong &amp;mdash; also referred to as \"[[good and evil]]\" &amp;mdash; used within three contexts: individual [[conscience]]; systems of [[principle]]s and [[judgment]]s &amp;mdash; sometimes called [[moral value]]s &amp;mdash;shared within a [[cultural]], [[religion|religious]], [[secular]] or [[philosophical]] community; and codes of behavior or [[Code of conduct|conduct morality]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''' refers to the concept of human [[ethics]] which pertains to matters of right and wrong &amp;mdash; also referred to as \"[[good and evil]]\" &amp;mdash; used within three contexts: individual [[conscience]]; systems of [[principle]]s and [[judgment]]s &amp;mdash; sometimes called [[moral value]]s &amp;mdash;shared within a [[cultural]], [[religion|religious]], [[secular]] or [[philosophical]] community; and codes of behavior or [[Code of conduct|conduct morality]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:114971639:newid:115029081 -->\n",
+    "from": 114971639
+  },
+  "minor": ""
+}

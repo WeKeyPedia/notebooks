@@ -1,0 +1,13 @@
+﻿{
+  "comment": "+zh",
+  "timestamp": "2006-10-21T14:16:52Z",
+  "revid": 82814189,
+  "user": "Burn",
+  "parentid": 81712215,
+  "diff": {
+    "to": 82814189,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 83:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 83:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Visdom]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Visdom]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:קלוגשאפט]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:קלוגשאפט]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[zh:智慧]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:81712215:newid:82814189 -->\n",
+    "from": 81712215
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/211.31.44.31|211.31.44.31]] ([[User talk:211.31.44.31|talk]]) to last revision by 128.135.100.102 ([[WP:HG|HG]])",
+  "timestamp": "2011-03-17T06:36:44Z",
+  "revid": 419256250,
+  "user": "Kevinmon",
+  "parentid": 419256199,
+  "diff": {
+    "to": 419256250,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 74:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 74:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{See|Sophia_(wisdom)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{See|Sophia_(wisdom)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Furthermore, there is an oppositional element in Christian thought between [[secular]] wisdom and Godly wisdom.  The [[apostle Paul]] states that worldly wisdom thinks the claims of [[Christ]] to be foolishness.  However, to those who are being saved Christ represents the wisdom of God.  ([[1 Corinthians]] 1:17-31) Also, Wisdom is one of the [[seven gifts of the Holy Spirit]] according to Anglican, Catholic, and Lutheran belief. 1 Corinthians 12:8-10 gives an alternate list of nine virtues, among which wisdom is one.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Furthermore, there is an oppositional element in Christian thought between [[secular]] wisdom and Godly wisdom.  The [[apostle Paul]] states that worldly wisdom thinks the claims of [[Christ]] to be foolishness.  However, to those who are being saved Christ represents the wisdom of God.  ([[1 Corinthians]] 1:17-31) Also, Wisdom is one of the [[seven gifts of the Holy Spirit]] according to Anglican, Catholic, and Lutheran belief. 1 Corinthians 12:8-10 gives an alternate list of nine virtues, among which wisdom is one.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div> i like to eat eggs!</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Qur'an ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Qur'an ===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:419256199:newid:419256250 -->\n",
+    "from": 419256199
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "add external link",
+  "timestamp": "2008-09-08T23:50:18Z",
+  "revid": 237170776,
+  "user": "Vitalsigns.md",
+  "parentid": 237170258,
+  "diff": {
+    "to": 237170776,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 142:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 142:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.vitalsigns.md A site with answers to origin, meaning, MORALITY, and destiny from interviews of people from the world's religions/worldviews. Add your answers to MORALITY.]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.in-mind.org/artikelen/fairness-judgments-genuine-morality-or-disguised-egocentrism.html Fairness Judgments: Genuine Morality or Disguised Egoism?] Psychological Article on Fairness (registration required)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.in-mind.org/artikelen/fairness-judgments-genuine-morality-or-disguised-egocentrism.html Fairness Judgments: Genuine Morality or Disguised Egoism?] Psychological Article on Fairness (registration required)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://plato.stanford.edu/entries/morality-definition/ The Stanford Encyclopedia of Philosophy on the Definition of Morality]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://plato.stanford.edu/entries/morality-definition/ The Stanford Encyclopedia of Philosophy on the Definition of Morality]</div></td>\n</tr>\n",
+    "from": 237170258
+  },
+  "minor": ""
+}

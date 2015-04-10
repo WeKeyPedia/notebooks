@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Buddhist */",
+  "timestamp": "2005-12-12T04:56:03Z",
+  "revid": 31014740,
+  "anon": "",
+  "user": "68.163.51.177",
+  "parentid": 31014635,
+  "diff": {
+    "to": 31014740,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 167:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 167:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Buddhist===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Buddhist===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In [[Buddhism]], ''[[<del class=\"diffchange diffchange-inline\">Kama | </del>Kāma]]'' is sensuous, sexual love. It is an obstacle on the path to [[enlightenment (Buddhism)|enlightenment]], since it is selfish.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In [[Buddhism]], ''[[Kāma]]'' is sensuous, sexual love. It is an obstacle on the path to [[enlightenment (Buddhism)|enlightenment]], since it is selfish.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''[[Karuna | Karu&amp;#7751;ā]]'' is compassion and mercy, which reduces the suffering of others. It is complementary to wisdom, and is necessary for enlightenment.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''[[Karuna | Karu&amp;#7751;ā]]'' is compassion and mercy, which reduces the suffering of others. It is complementary to wisdom, and is necessary for enlightenment.</div></td>\n</tr>\n",
+    "from": 31014635
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/Aaron Brenneman|Aaron Brenneman]] ([[User_talk:Aaron Brenneman|talk]]) to version 54338363 by YurikBot using [[User:AmiDaniel/VandalProof|VandalProof]]",
+  "timestamp": "2006-05-21T11:53:10Z",
+  "revid": 54341213,
+  "user": "Zahid Abdassabur",
+  "parentid": 54341117,
+  "diff": {
+    "to": 54341213,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">* [[Love]], Nathan And Melinda.</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|200px|thumb|right|A [[cartoonish]] version of the [[Heart (symbol)|heart]], a frequent modern symbol of love.]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|200px|thumb|right|A [[cartoonish]] version of the [[Heart (symbol)|heart]], a frequent modern symbol of love.]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is an emotion of intense attraction to, care for, or identification with persons, place(s) or thing(s); a desire to be close to, move and construct its object. This can include love for one's self.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is an emotion of intense attraction to, care for, or identification with persons, place(s) or thing(s); a desire to be close to, move and construct its object. This can include love for one's self.</div></td>\n</tr>\n",
+    "from": 54341117
+  },
+  "minor": ""
+}

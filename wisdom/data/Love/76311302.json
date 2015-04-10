@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Types */",
+  "timestamp": "2006-09-17T23:14:44Z",
+  "revid": 76311302,
+  "anon": "",
+  "user": "66.203.234.192",
+  "parentid": 76261789,
+  "diff": {
+    "to": 76311302,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Philia]] - used in the New Testament, philia is a human response to something that is found to be delightful. Also known as \"brotherly love\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Philia]] - used in the New Testament, philia is a human response to something that is found to be delightful. Also known as \"brotherly love\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Platonic love]] – a close relationship in which sexual desire is non-existent or has been suppressed or sublimated</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Platonic love]] – a close relationship in which sexual desire is non-existent or has been suppressed or sublimated</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Puppy love]] – romantic affection that is not \"mature\" or not \"true.\" The term is often used with negative connotations, insinuating that love between youngsters is less genuine or valuable</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Puppy love]] – romantic affection that is not \"mature\" or not \"true.\" The term is often used with negative connotations, insinuating that love between youngsters is less genuine or valuable<ins class=\"diffchange diffchange-inline\">, even though it is '''Bold text'''more'''Bold text''' genuine and valuable.</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Religious love]] – devotion to one's deity or theology</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Religious love]] – devotion to one's deity or theology</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional intimacy and sexual desire</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional intimacy and sexual desire</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:76261789:newid:76311302 -->\n",
+    "from": 76261789
+  }
+}

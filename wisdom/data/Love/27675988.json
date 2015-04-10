@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-11-08T01:42:36Z",
+  "revid": 27675988,
+  "user": "Bigscreenx",
+  "parentid": 27675874,
+  "diff": {
+    "to": 27675988,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Love is when you wanna bone your <del class=\"diffchange diffchange-inline\">check</del> <del class=\"diffchange diffchange-inline\">everyday.</del> <del class=\"diffchange diffchange-inline\">Done</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Love is when you wanna bone your <ins class=\"diffchange diffchange-inline\">chick</ins> <ins class=\"diffchange diffchange-inline\">everyda</ins> <ins class=\"diffchange diffchange-inline\">COUGH COUGH KAYLA COUGH.</ins></div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:27675874:newid:27675988 -->\n",
+    "from": 27675874
+  }
+}

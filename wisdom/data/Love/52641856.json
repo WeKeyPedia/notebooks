@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Types */",
+  "timestamp": "2006-05-11T11:18:46Z",
+  "revid": 52641856,
+  "anon": "",
+  "user": "222.153.44.184",
+  "parentid": 52614008,
+  "diff": {
+    "to": 52641856,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Types ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Types ==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Some types of love might include:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Courtly love]] – a late medieval conventionalized code prescribing certain conduct and emotions for ladies and their lovers.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Courtly love]] – a late medieval conventionalized code prescribing certain conduct and emotions for ladies and their lovers.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Erotic love]] – desire characterized by a focus on sexual desires.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Erotic love]] – desire characterized by a focus on sexual desires.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:52614008:newid:52641856 -->\n",
+    "from": 52614008
+  }
+}

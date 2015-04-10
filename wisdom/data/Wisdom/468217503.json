@@ -1,0 +1,13 @@
+﻿{
+  "comment": "[[Help:Reverting|Reverted]] edits by [[Special:Contributions/99.181.153.29|99.181.153.29]] ([[User talk:99.181.153.29|talk]]) to last version by FrescoBot",
+  "timestamp": "2011-12-29T05:31:24Z",
+  "revid": 468217503,
+  "user": "Arthur Rubin",
+  "parentid": 468215430,
+  "diff": {
+    "to": 468217503,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 153:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 153:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[E. F. Schumacher]], \"Small is Beautiful\", [[Harper and Row]], New York, New York, 1989.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[E. F. Schumacher]], \"Small is Beautiful\", [[Harper and Row]], New York, New York, 1989.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Sternberg, Robert J.]], ''Wisdom: Its Nature, Origins, and Development'' (1990). [[Cambridge University Press]]. ISBN 978-0521367189 {{importance-inline|date=December 2010}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Sternberg, Robert J.]], ''Wisdom: Its Nature, Origins, and Development'' (1990). [[Cambridge University Press]]. ISBN 978-0521367189 {{importance-inline|date=December 2010}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* Stephen S. Hall, ''Wisdom: From Philosophy to Neuroscience'', Knopf (2010) ISBN 978-0307269102</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n</tr>\n",
+    "from": 468215430
+  },
+  "minor": ""
+}

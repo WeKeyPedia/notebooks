@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-02-14T17:19:48Z",
+  "revid": 39609935,
+  "anon": "",
+  "user": "64.26.112.5",
+  "parentid": 39605047,
+  "diff": {
+    "to": 39609935,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 12:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 12:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love may be compared to the truth, for one must love to find the truth, but most will find love on more instinct levels.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love may be compared to the truth, for one must love to find the truth, but most will find love on more instinct levels.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{emotion}}</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>okay...so basicly love sucks, what have i gotten from it?  well i loved somone and they didnt love me so i got mad! im now afraid to say love... i will never love agian!</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>----LONDYN</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious love==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious love==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:39605047:newid:39609935 -->\n",
+    "from": 39605047
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Psychological perspectives */ add Vivian Clayton",
+  "timestamp": "2007-05-13T08:21:01Z",
+  "revid": 130499464,
+  "user": "JamesMLane",
+  "parentid": 127884812,
+  "diff": {
+    "to": 130499464,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 52:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 52:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Thus, within Eriksonian theory, wisdom universally surfaces as an optimal potential outcome of the human experience.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Thus, within Eriksonian theory, wisdom universally surfaces as an optimal potential outcome of the human experience.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In the 1970s, Vivian Clayton pioneered the academic study of wisdom.  Clayton \"is generally recognized as the first psychologist to ask, in even faintly scientific terms, 'What does wisdom mean, and how does age affect it?'\"&lt;ref&gt;</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Citation| last =Hall| first =Stephen S.| title =The Older-and-Wiser Hypothesis| newspaper =[[The New York Times Magazine]]| pages =61| year =2007| date =May 6, 2007| url = http://www.nytimes.com/2007/05/06/magazine/06Wisdom-t.html?_r=1&amp;oref=slogin}}&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious perspectives==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious perspectives==</div></td>\n</tr>\n",
+    "from": 127884812
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/82.48.198.171|82.48.198.171]] ([[User talk:82.48.198.171|talk]]) to last version by Gimmetrow",
+  "timestamp": "2006-07-24T22:09:07Z",
+  "revid": 65638102,
+  "user": "Ohnoitsjamie",
+  "parentid": 65637710,
+  "diff": {
+    "to": 65638102,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 141:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 141:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.how-to-kiss.us Kissing, Dating, Love and Marriage]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.how-to-kiss.us Kissing, Dating, Love and Marriage]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.iltuobenessere.com stress and love (italian)]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.true-love-relationship-advice.com/true-love.html True Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.true-love-relationship-advice.com/true-love.html True Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 65637710
+  },
+  "minor": ""
+}

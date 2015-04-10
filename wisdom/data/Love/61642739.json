@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Types */ true love added",
+  "timestamp": "2006-07-02T05:06:09Z",
+  "revid": 61642739,
+  "user": "Ppaterson",
+  "parentid": 61599909,
+  "diff": {
+    "to": 61642739,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 16:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 16:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional and sexual desire</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional and sexual desire</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* True love - love without motive, condition or attachment </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>There are also [[Greek words for love|six Greek terms]] for differing types of love:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>There are also [[Greek words for love|six Greek terms]] for differing types of love:</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:61599909:newid:61642739 -->\n",
+    "from": 61599909
+  }
+}

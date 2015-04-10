@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */ fixing_ugly_underscores_in_internal_link",
+  "timestamp": "2007-01-16T23:06:49Z",
+  "revid": 101201901,
+  "user": "EdGl",
+  "parentid": 101201550,
+  "diff": {
+    "to": 101201901,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 135:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 135:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Romanticism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Romanticism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Romantic love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Romantic love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[<del class=\"diffchange diffchange-inline\">Sacrificial_love</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[<ins class=\"diffchange diffchange-inline\">Sacrificial love</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Seduction]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Seduction]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Seduction Community]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Seduction Community]]</div></td>\n</tr>\n",
+    "from": 101201550
+  },
+  "minor": ""
+}

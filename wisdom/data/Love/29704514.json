@@ -1,0 +1,13 @@
+﻿{
+  "comment": "rv musings about John, Paul, George and Ringo",
+  "timestamp": "2005-11-30T16:31:02Z",
+  "revid": 29704514,
+  "user": "Jfdwolff",
+  "parentid": 29699290,
+  "diff": {
+    "to": 29704514,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Companionate vs. passionate ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Companionate vs. passionate ===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The traditional psychological view sees love as being a combination of [[companionate love]] and [[passionate love]]. [[Passionate love]] is intense longing, and is often accompanied by [[physiological arousal]] (shortness of breath, rapid heart rate). [[Companionate love]] is affection and a feeling of intimacy not accompanied by physiological arousal<del class=\"diffchange diffchange-inline\">. This feeling is represented by the Beatles in their hit ''Love is All You Need''. Many time the Beatles have astounded the world with thier reflection of love, but it is easy to understand, that love is really all you need</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The traditional psychological view sees love as being a combination of [[companionate love]] and [[passionate love]]. [[Passionate love]] is intense longing, and is often accompanied by [[physiological arousal]] (shortness of breath, rapid heart rate). [[Companionate love]] is affection and a feeling of intimacy not accompanied by physiological arousal.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Sternberg's Triangular Theory of Love ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Sternberg's Triangular Theory of Love ===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:29699290:newid:29704514 -->\n",
+    "from": 29699290
+  },
+  "minor": ""
+}

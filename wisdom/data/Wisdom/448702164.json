@@ -1,0 +1,13 @@
+﻿{
+  "comment": "corrected link to the Persian article, حکیم means wise and حکمت means wisdom",
+  "timestamp": "2011-09-06T05:34:50Z",
+  "revid": 448702164,
+  "anon": "",
+  "user": "24.246.81.88",
+  "parentid": 447181449,
+  "diff": {
+    "to": 448702164,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 185:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 185:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[es:Sabiduría]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[es:Sabiduría]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[eo:Saĝo]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[eo:Saĝo]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[fa:<del class=\"diffchange diffchange-inline\">خرد (عقل)</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[fa:<ins class=\"diffchange diffchange-inline\">حکمت</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fr:Sagesse]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fr:Sagesse]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ff:Ndimaagu]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ff:Ndimaagu]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:447181449:newid:448702164 -->\n",
+    "from": 447181449
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2008-09-03T14:36:16Z",
+  "revid": 236034448,
+  "anon": "",
+  "user": "70.81.214.176",
+  "parentid": 236033941,
+  "diff": {
+    "to": 236034448,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 49:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 49:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Normative Ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Normative Ethics==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{main|Normative Ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Traditionally, normative ethics (also known as moral theory) was the study what makes actions right and wrong. Classical theories in this vein include [[utilitarianism]], [[Kantianism]], and some forms of [[contractarianism]]. These theories offered an overarching moral principle to which one could appeal in resolving difficult moral decisions.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Traditionally, normative ethics (also known as moral theory) was the study what makes actions right and wrong. Classical theories in this vein include [[utilitarianism]], [[Kantianism]], and some forms of [[contractarianism]]. These theories offered an overarching moral principle to which one could appeal in resolving difficult moral decisions.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:236033941:newid:236034448 -->\n",
+    "from": 236033941
+  }
+}

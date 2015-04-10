@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Psychological perspectives */",
+  "timestamp": "2009-11-18T16:15:09Z",
+  "revid": 326555356,
+  "anon": "",
+  "user": "204.38.186.50",
+  "parentid": 326330152,
+  "diff": {
+    "to": 326555356,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 23:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 23:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | page = 106</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | page = 106</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | isbn = 0-19-516701-5}}&lt;/ref&gt; With this definition, wisdom can supposedly be measured using the following criteria.&lt;ref name=\"CSVperspective\" /&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | isbn = 0-19-516701-5}}&lt;/ref&gt; With this definition, wisdom can supposedly be measured using the following criteria.&lt;ref name=\"CSVperspective\" /&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* A wise person can <del class=\"diffchange diffchange-inline\">discern</del> <del class=\"diffchange diffchange-inline\">the</del> <del class=\"diffchange diffchange-inline\">core</del> <del class=\"diffchange diffchange-inline\">of</del> <del class=\"diffchange diffchange-inline\">important problems.</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* A wise person can <ins class=\"diffchange diffchange-inline\">have</ins> <ins class=\"diffchange diffchange-inline\">sex</ins> <ins class=\"diffchange diffchange-inline\">with</ins> <ins class=\"diffchange diffchange-inline\">real</ins> <ins class=\"diffchange diffchange-inline\">girls</ins></div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* A wise person has [[self-knowledge]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* A wise person has [[self-knowledge]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* A wise person seems [[Sincerity|sincere]] and direct with others.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* A wise person seems [[Sincerity|sincere]] and direct with others.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:326330152:newid:326555356 -->\n",
+    "from": 326330152
+  }
+}

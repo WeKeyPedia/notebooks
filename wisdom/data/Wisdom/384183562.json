@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2010-09-11T11:27:46Z",
+  "revid": 384183562,
+  "anon": "",
+  "user": "122.174.76.130",
+  "parentid": 378403832,
+  "diff": {
+    "to": 384183562,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 152:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 152:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.excaliburbooks.com Wisdom in Perspective]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.excaliburbooks.com Wisdom in Perspective]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.foundationsmag.com/wisdom2.html Wisdom: The Interval Between the Notes]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.foundationsmag.com/wisdom2.html Wisdom: The Interval Between the Notes]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">* [http://www.wisdomquotes.vardh.com/ Selected collection of wisdom quotes]</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Resources===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Resources===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://library.mpib-berlin.mpg.de/ft/pb/PB_Wisdom_2004.pdf Book on Wisdom from psychologist Paul Baltes]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://library.mpib-berlin.mpg.de/ft/pb/PB_Wisdom_2004.pdf Book on Wisdom from psychologist Paul Baltes]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:378403832:newid:384183562 -->\n",
+    "from": 378403832
+  }
+}

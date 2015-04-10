@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Why the awareness to Morality is important in the human society */",
+  "timestamp": "2014-02-17T01:50:52Z",
+  "revid": 595812872,
+  "user": "Itamarkalimi",
+  "parentid": 595812536,
+  "diff": {
+    "to": 595812872,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 173:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 173:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The awareness to Morality(and [[Ethics]]) of the [[individual]] will help the individual to choose the right way how to live his life, do good and not bad.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The awareness to Morality(and [[Ethics]]) of the [[individual]] will help the individual to choose the right way how to live his life, do good and not bad.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The awareness to Morality(and [[Ethics]]) of the individual will make the [[society]] a better <del class=\"diffchange diffchange-inline\">[[human]]</del> society.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The awareness to Morality(and [[Ethics]]) of the individual will make the<ins class=\"diffchange diffchange-inline\"> [[human]]</ins> [[society]] a better <ins class=\"diffchange diffchange-inline\">society ,a moral</ins> society<ins class=\"diffchange diffchange-inline\"> that do good and not bad</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Morality vs Ethics ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Morality vs Ethics ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:595812536:newid:595812872 -->\n",
+    "from": 595812536
+  }
+}

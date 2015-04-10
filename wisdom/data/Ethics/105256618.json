@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Normative ethics */",
+  "timestamp": "2007-02-03T03:37:42Z",
+  "revid": 105256618,
+  "anon": "",
+  "user": "66.92.169.190",
+  "parentid": 104978933,
+  "diff": {
+    "to": 105256618,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Normative ethicists who follow the second approach are often called [[deontological ethics|deontological ethicists]]. [[Immanuel Kant]] set out the large framework for a deontological normative ethical theory.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Normative ethicists who follow the second approach are often called [[deontological ethics|deontological ethicists]]. [[Immanuel Kant]] set out the large framework for a deontological normative ethical theory.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Normative ethicists who follow the third approach are often called [[consequentialism|consequentialists]] or (specifically in regard to the theory of the greatest good for the greatest number) [[utilitarianism|utilitarian]]s<del class=\"diffchange diffchange-inline\">, and</del> [[John Stuart Mill]] set out a large framework for a utilitarian normative ethics. </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Normative ethicists who follow the third approach are often called [[consequentialism|consequentialists]] or (specifically in regard to the theory of the greatest good for the greatest number) [[utilitarianism|utilitarian]]s<ins class=\"diffchange diffchange-inline\">;</ins> [[John Stuart Mill]] set out a large framework for a utilitarian normative ethics. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Descriptive ethics===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Descriptive ethics===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:104978933:newid:105256618 -->\n",
+    "from": 104978933
+  }
+}

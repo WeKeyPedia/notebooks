@@ -1,0 +1,14 @@
+﻿{
+  "comment": "[[es:Ética]]",
+  "timestamp": "2003-01-01T02:51:05Z",
+  "revid": 559088,
+  "anon": "",
+  "user": "68.164.21.231",
+  "parentid": 549091,
+  "diff": {
+    "to": 559088,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[es:Ética]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' is a branch of [[philosophy]] which studies questions pertaining to right and wrong, good and bad. Ethics is typically broken into at least four sub-disciplines, including &lt;i&gt;[[meta-ethics]]&lt;/i&gt;, &lt;i&gt;[[value theory]]&lt;/i&gt;, the &lt;i&gt;[[theory of conduct]]&lt;/i&gt;, and &lt;i&gt;[[applied ethics]]&lt;/i&gt;. Each of these will be defined below.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' is a branch of [[philosophy]] which studies questions pertaining to right and wrong, good and bad. Ethics is typically broken into at least four sub-disciplines, including &lt;i&gt;[[meta-ethics]]&lt;/i&gt;, &lt;i&gt;[[value theory]]&lt;/i&gt;, the &lt;i&gt;[[theory of conduct]]&lt;/i&gt;, and &lt;i&gt;[[applied ethics]]&lt;/i&gt;. Each of these will be defined below.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 549091
+  },
+  "minor": ""
+}

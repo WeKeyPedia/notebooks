@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2002-12-26T01:53:22Z",
+  "revid": 537488,
+  "anon": "",
+  "user": "68.164.45.20",
+  "parentid": 537477,
+  "diff": {
+    "to": 537488,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' is a branch of [[philosophy]] which studies questions related to right and wrong, good and bad. Ethics is typically broken into at least five sub-disciplines, including &lt;i&gt;[[meta-ethics]]&lt;/i&gt;, &lt;i&gt;[[value theory]]&lt;/i&gt;, the &lt;i&gt;[[theory of conduct]]&lt;/i&gt;, and &lt;i&gt;[[applied ethics]]&lt;/i&gt;. Each of these will be <del class=\"diffchange diffchange-inline\">introduced</del> below.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' is a branch of [[philosophy]] which studies questions related to right and wrong, good and bad. Ethics is typically broken into at least five sub-disciplines, including &lt;i&gt;[[meta-ethics]]&lt;/i&gt;, &lt;i&gt;[[value theory]]&lt;/i&gt;, the &lt;i&gt;[[theory of conduct]]&lt;/i&gt;, and &lt;i&gt;[[applied ethics]]&lt;/i&gt;. Each of these will be <ins class=\"diffchange diffchange-inline\">defined</ins> below.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>First, we need to define an \"&lt;i&gt;[[ethical sentence]]&lt;/i&gt;\", also called a &lt;i&gt;normative statement&lt;/i&gt;.  An ethical sentence is one that is used to make either a positive or a negative (moral) evaluation of something. Ethical sentences typically use words such as \"good,\" \"bad,\" \"right,\" \"wrong,\" \"moral,\" \"immoral,\" and so on. Here are some examples:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>First, we need to define an \"&lt;i&gt;[[ethical sentence]]&lt;/i&gt;\", also called a &lt;i&gt;normative statement&lt;/i&gt;.  An ethical sentence is one that is used to make either a positive or a negative (moral) evaluation of something. Ethical sentences typically use words such as \"good,\" \"bad,\" \"right,\" \"wrong,\" \"moral,\" \"immoral,\" and so on. Here are some examples:</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:537477:newid:537488 -->\n",
+    "from": 537477
+  }
+}

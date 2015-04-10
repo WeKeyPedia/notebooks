@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Defining love */",
+  "timestamp": "2005-08-16T01:22:36Z",
+  "revid": 21107045,
+  "anon": "",
+  "user": "68.197.58.196",
+  "parentid": 21096061,
+  "diff": {
+    "to": 21107045,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 6:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 6:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining love==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining love==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Just as there are many types of lovers, there are many kinds of love. Love is inherent in all human cultures. It is precisely these cultural differences that make any universal definition of love difficult to establish. See the [[Sapir-Whorf hypothesis]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">If you want some loving please call megan at 732-309-9136.  </ins>Just as there are many types of lovers, there are many kinds of love. Love is inherent in all human cultures. It is precisely these cultural differences that make any universal definition of love difficult to establish. See the [[Sapir-Whorf hypothesis]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Expressions of love may include the love for a 'soul' or mind, the love of laws and organizations, love for a body, love for nature, love of food, love of money, love for learning, love of power, love of fame, love for the respect of others, et cetera.  Different people place varying degrees of import on the kinds of love they receive. Love is essentially an abstract concept, easier to experience than explain.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Expressions of love may include the love for a 'soul' or mind, the love of laws and organizations, love for a body, love for nature, love of food, love of money, love for learning, love of power, love of fame, love for the respect of others, et cetera.  Different people place varying degrees of import on the kinds of love they receive. Love is essentially an abstract concept, easier to experience than explain.</div></td>\n</tr>\n",
+    "from": 21096061
+  }
+}

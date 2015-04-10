@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Types */",
+  "timestamp": "2006-07-26T19:32:54Z",
+  "revid": 66016662,
+  "anon": "",
+  "user": "12.96.3.42",
+  "parentid": 66016589,
+  "diff": {
+    "to": 66016662,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 17:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 17:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Types==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Types==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Courtly love]] – a late medieval conventionalized code prescribing certain conduct and emotions for ladies and their lovers</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Courtly love]] – a late medieval conventionalized code prescribing certain conduct and emotions for ladies and their lovers</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Erotic love]] – <del class=\"diffchange diffchange-inline\">desire</del> <del class=\"diffchange diffchange-inline\">characterized</del> <del class=\"diffchange diffchange-inline\">by</del> <del class=\"diffchange diffchange-inline\">sexual desires</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Erotic love]] – <ins class=\"diffchange diffchange-inline\">illegal</ins> <ins class=\"diffchange diffchange-inline\">in</ins> <ins class=\"diffchange diffchange-inline\">13</ins> <ins class=\"diffchange diffchange-inline\">states</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Familial love]] – affection brokered through kinship connections, intertwined with concepts of attachment and bonding</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Familial love]] – affection brokered through kinship connections, intertwined with concepts of attachment and bonding</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Free love]] – sexual relations according to choice and unrestricted by marriage</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Free love]] – sexual relations according to choice and unrestricted by marriage</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:66016589:newid:66016662 -->\n",
+    "from": 66016589
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "fixed thai interwiki",
+  "timestamp": "2007-04-10T00:10:36Z",
+  "revid": 121558485,
+  "user": "Bkkbrad",
+  "parentid": 121486386,
+  "diff": {
+    "to": 121558485,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 216:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 216:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Kärlek]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Kärlek]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tl:Pag-ibig]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tl:Pag-ibig]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[th:รัก]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[th:<ins class=\"diffchange diffchange-inline\">ความ</ins>รัก]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tr:Aşk]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tr:Aşk]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:121486386:newid:121558485 -->\n",
+    "from": 121486386
+  },
+  "minor": ""
+}

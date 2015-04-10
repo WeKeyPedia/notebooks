@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/87.236.254.11|87.236.254.11]] to last revision by 71.174.73.146 ([[WP:HG|HG]])",
+  "timestamp": "2009-11-07T06:25:44Z",
+  "revid": 324417449,
+  "user": "Ginsengbomb",
+  "parentid": 324417433,
+  "diff": {
+    "to": 324417449,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 18:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 18:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Expand section|date=June 2008}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Expand section|date=June 2008}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">hfkdfh sf sdfjsd [fsjidfisdjcs kdcmsijmdijc idjc</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== In-group and out-group ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== In-group and out-group ===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:324417433:newid:324417449 -->\n",
+    "from": 324417433
+  },
+  "minor": ""
+}

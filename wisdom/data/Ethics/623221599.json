@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Further reading */",
+  "timestamp": "2014-08-28T20:32:16Z",
+  "revid": 623221599,
+  "anon": "",
+  "user": "87.64.164.200",
+  "parentid": 621873051,
+  "diff": {
+    "to": 623221599,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 239:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 239:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*D'Urance, Michel, ''Jalons pour une éthique rebelle'', Aléthéia, Paris, 2005.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*D'Urance, Michel, ''Jalons pour une éthique rebelle'', Aléthéia, Paris, 2005.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*John Newton, Ph.D. ''Complete Conduct Principles for the 21st Century'', 2000. ISBN 0-9673705-7-4.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*John Newton, Ph.D. ''Complete Conduct Principles for the 21st Century'', 2000. ISBN 0-9673705-7-4.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*Guy Cools &amp; Pascal Gielen, The Ethics of Art. Valiz: Amsterdam, 2014.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:621873051:newid:623221599 -->\n",
+    "from": 621873051
+  }
+}

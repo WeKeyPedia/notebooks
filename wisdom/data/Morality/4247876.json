@@ -1,0 +1,13 @@
+﻿{
+  "comment": "restore category, leave the rest",
+  "timestamp": "2004-06-10T06:51:15Z",
+  "revid": 4247876,
+  "user": "Bryan Derksen",
+  "parentid": 4013207,
+  "diff": {
+    "to": 4247876,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 55:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 55:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''Compare:'' [[ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''Compare:'' [[ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Category:Core issues in ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[da:Moral]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[da:Moral]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[de:Moral]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[de:Moral]]</div></td>\n</tr>\n",
+    "from": 4013207
+  },
+  "minor": ""
+}

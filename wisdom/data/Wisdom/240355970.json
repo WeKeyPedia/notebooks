@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Erik Erikson */",
+  "timestamp": "2008-09-23T03:04:14Z",
+  "revid": 240355970,
+  "anon": "",
+  "user": "65.1.188.96",
+  "parentid": 240028402,
+  "diff": {
+    "to": 240355970,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Erik Erikson===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Erik Erikson===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Personality theorist [[Erik Erikson]] related wisdom to the last stage of his eight-stage theory of psychosocial development. Erikson's theory spans the entire lifespan and frames each stage in the form of internally-generated questions or tensions. Erikson claimed that in the last stage of human development, from approximately 65 years to death, individuals must resolve a psychological conflict between integrity and despair. He proposed that attaining wisdom is a favorable resolution and product of this conflict.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Personality theorist [[Erik Erikson]] related wisdom to the last stage of his eight-stage theory of psychosocial development. Erikson's theory spans the entire lifespan and frames each stage in the form of internally-generated questions or tensions. Erikson claimed that in the last stage of human development, from approximately 65 years to death, individuals must resolve a psychological conflict between integrity and despair. He proposed that attaining wisdom is a favorable resolution and product of this conflict.<ins class=\"diffchange diffchange-inline\"> WISDOM IS STUPID</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Quote|Strength here takes the form of that detached yet active concern with life bounded by death,which we call wisdom… Not that each man can evolve wisdom for himself....</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Quote|Strength here takes the form of that detached yet active concern with life bounded by death,which we call wisdom… Not that each man can evolve wisdom for himself....</div></td>\n</tr>\n",
+    "from": 240028402
+  }
+}

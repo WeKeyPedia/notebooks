@@ -1,0 +1,13 @@
+﻿{
+  "comment": "fixes on the formatting",
+  "timestamp": "2006-07-03T05:31:32Z",
+  "revid": 61801193,
+  "user": "Monkeykiss",
+  "parentid": 61364306,
+  "diff": {
+    "to": 61801193,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">--[[User:Scruple|Scruple]] 22:47, 26 June 2006 (UTC)</del>{{merge|philosophy}} </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{merge|philosophy}} </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Wisdom is that state that enables us to look at a decision, a thought, or an act, in the same way across time, moods, and other factors.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Wisdom is that state that enables us to look at a decision, a thought, or an act, in the same way across time, moods, and other factors.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:61364306:newid:61801193 -->\n",
+    "from": 61364306
+  },
+  "minor": ""
+}

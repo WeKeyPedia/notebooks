@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* In-group and out-group */",
+  "timestamp": "2008-11-20T09:30:45Z",
+  "revid": 252956379,
+  "anon": "",
+  "user": "66.167.84.105",
+  "parentid": 252266279,
+  "diff": {
+    "to": 252956379,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Expand-section|date=June 2008}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Expand-section|date=June 2008}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Some observers hold that individuals have distinct sets of moral rules that they apply to different groups of people. There is the \"ingroup,\" which includes the individual and those they believe to be<del class=\"diffchange diffchange-inline\"> of the same culture or race, and there is the \"outgroup,\" whose members are not entitled to be treated according to the same rules. Some biologists, anthropologists and [[evolutionary psychology|evolutionary psychologists]] believe this ingroup/outgroup difference is an evolutionary mechanism, one which evolved due to its enhanced survival aspects. [[Gary R. Johnson]] and [[V.S. Falger]] have argued that [[nationalism]] and [[patriotism]] are forms of this ingroup/outgroup boundary.</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Some observers hold that individuals have distinct sets of moral rules that they apply to different groups of people. There is the \"ingroup,\" which includes the individual and those they believe to be</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Comparing cultures ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Comparing cultures ===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:252266279:newid:252956379 -->\n",
+    "from": 252266279
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2008-04-30T06:25:57Z",
+  "revid": 209178345,
+  "anon": "",
+  "user": "122.162.210.229",
+  "parentid": 209178208,
+  "diff": {
+    "to": 209178345,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 56:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 56:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===ABOUT LOVE===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===ABOUT LOVE===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>   </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>   </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>   Love is not a heart of life,it is only a part of life</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>   Love is not a heart of life,it is only a part of life<ins class=\"diffchange diffchange-inline\">.</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>   The acual meaning of love is giveup</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>   The acual meaning of love is <ins class=\"diffchange diffchange-inline\">\"</ins>giveup<ins class=\"diffchange diffchange-inline\">\".</ins></div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>          'So Beware of love'</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious perspectives==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious perspectives==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:209178208:newid:209178345 -->\n",
+    "from": 209178208
+  }
+}

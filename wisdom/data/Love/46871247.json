@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-04-04T04:49:22Z",
+  "revid": 46871247,
+  "anon": "",
+  "user": "165.123.150.23",
+  "parentid": 46871179,
+  "diff": {
+    "to": 46871247,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>I love Marta</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- We know, it's amazing to love and be loved, but please express your love by helping Wikipedia to improve, not by telling all the world here in this article how much you love your significant other or others. The edit will be removed in seconds anyway. Have a happy life! --&gt;{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- We know, it's amazing to love and be loved, but please express your love by helping Wikipedia to improve, not by telling all the world here in this article how much you love your significant other or others. The edit will be removed in seconds anyway. Have a happy life! --&gt;{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|200px|thumb|right|A [[cartoonish]] version of the [[Heart (symbol)|heart]], a frequent modern symbol of love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|200px|thumb|right|A [[cartoonish]] version of the [[Heart (symbol)|heart]], a frequent modern symbol of love]]</div></td>\n</tr>\n",
+    "from": 46871179
+  }
+}

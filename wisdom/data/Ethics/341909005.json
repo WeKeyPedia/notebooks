@@ -1,0 +1,13 @@
+﻿{
+  "comment": "[[Help:Reverting|Reverted]] edits by [[Special:Contributions/64.39.133.148|64.39.133.148]] ([[User talk:64.39.133.148|talk]]) to last version by SmackBot",
+  "timestamp": "2010-02-04T16:06:47Z",
+  "revid": 341909005,
+  "user": "Philip Trueman",
+  "parentid": 341908889,
+  "diff": {
+    "to": 341909005,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">go fetch me some ethics from the store</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' (also known as '''moral philosophy''') is a branch of [[philosophy]] which seeks to address questions about [[morality]]; that is, about concepts such as [[good]] and [[bad]], [[right]] and [[wrong]], [[justice]], and [[virtue]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' (also known as '''moral philosophy''') is a branch of [[philosophy]] which seeks to address questions about [[morality]]; that is, about concepts such as [[good]] and [[bad]], [[right]] and [[wrong]], [[justice]], and [[virtue]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 341908889
+  },
+  "minor": ""
+}

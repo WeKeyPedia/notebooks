@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2007-03-15T14:48:03Z",
+  "revid": 115323340,
+  "anon": "",
+  "user": "84.13.83.108",
+  "parentid": 115271013,
+  "diff": {
+    "to": 115323340,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 152:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 152:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://www.achsnatl.org/ethics/bio_ethics_model.pdf Association of College Honor Societies (ACHS) resource] on bioethical model developed by Omar Ha-Redeye that proposes relationship between different ethical perspectives</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.achsnatl.org/ethics/bio_ethics_model.pdf Association of College Honor Societies (ACHS) resource] on bioethical model developed by<ins class=\"diffchange diffchange-inline\"> [http://www.turkce.name</ins> Omar<ins class=\"diffchange diffchange-inline\">]</ins> Ha-Redeye that proposes relationship between different ethical perspectives</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://intertheory.org/kritikos Kritikos: journal of postmodern cultural sound, text and image]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://intertheory.org/kritikos Kritikos: journal of postmodern cultural sound, text and image]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.sandiego.edu/ Ethics Updates] Resources and updates on popular and professional ethics literature maintained by Lawrence Hinman of the University of San Diego.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.sandiego.edu/ Ethics Updates] Resources and updates on popular and professional ethics literature maintained by Lawrence Hinman of the University of San Diego.</div></td>\n</tr>\n",
+    "from": 115271013
+  }
+}

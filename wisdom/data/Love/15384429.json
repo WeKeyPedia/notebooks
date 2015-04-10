@@ -1,0 +1,13 @@
+﻿{
+  "comment": "punct",
+  "timestamp": "2005-06-18T05:39:12Z",
+  "revid": 15384429,
+  "user": "NatusRoma",
+  "parentid": 15384343,
+  "diff": {
+    "to": 15384429,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Love''' has many meanings in [[English language|English]] from something that gives a little pleasure (\"I loved that movie\") to something one would die for ([[patriotism]], pairbonding). It can <del class=\"diffchange diffchange-inline\">mean</del> an intense feeling of [[affection]], an [[emotion]] or emotional state. In ordinary use, it usually refers to interpersonal love. Probably due to its large psychological relevance, love is one of the most common themes in art. The majority of modern [[movies]] have a love story and most [[pop music]] is about love.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Love''' has many meanings in [[English language|English]]<ins class=\"diffchange diffchange-inline\">,</ins> from something that gives a little pleasure (\"I loved that movie\") to something one would die for ([[patriotism]], pairbonding). It can <ins class=\"diffchange diffchange-inline\">describe</ins> an intense feeling of [[affection]], an [[emotion]] or<ins class=\"diffchange diffchange-inline\"> an</ins> emotional state. In ordinary use, it usually refers to interpersonal love. Probably due to its large psychological relevance, love is one of the most common themes in art. The majority of modern [[movies]] have a love story and most [[pop music]] is about love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining love==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining love==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:15384343:newid:15384429 -->\n",
+    "from": 15384343
+  },
+  "minor": ""
+}

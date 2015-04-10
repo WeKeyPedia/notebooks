@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* References */ External links was broken",
+  "timestamp": "2006-06-18T04:55:17Z",
+  "revid": 59226317,
+  "user": "SocratesJedi",
+  "parentid": 58981591,
+  "diff": {
+    "to": 59226317,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 205:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 205:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> }}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> }}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>== External links </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>== External links <ins class=\"diffchange diffchange-inline\">==</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Roderick Hindery, Propaganda vs. Critical Thought, http://www.public.asu.edu/~sheilrod/ Lists ethical works by Roderick Hindery in Muslim, Confucian, Catholic,&amp; other traditions.]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Roderick Hindery, Propaganda vs. Critical Thought, http://www.public.asu.edu/~sheilrod/ Lists ethical works by Roderick Hindery in Muslim, Confucian, Catholic,&amp; other traditions.]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Roderick Hindery, Comparative Religious Ethics in Hindu and Buddhist Traditions</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Roderick Hindery, Comparative Religious Ethics in Hindu and Buddhist Traditions</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:58981591:newid:59226317 -->\n",
+    "from": 58981591
+  }
+}

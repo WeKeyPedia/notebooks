@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Renoted",
+  "timestamp": "2006-07-03T06:37:06Z",
+  "revid": 61807350,
+  "user": "Bobo192",
+  "parentid": 61807217,
+  "diff": {
+    "to": 61807350,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 49:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 49:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some people tend to view love as a simple chemical reaction.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some people tend to view love as a simple chemical reaction.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&lt;<del class=\"diffchange diffchange-inline\">&lt;&lt;</del> This needs references or a fuller explanation <del class=\"diffchange diffchange-inline\">&gt;&gt;</del>&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>&lt;<ins class=\"diffchange diffchange-inline\">!--</ins> This needs references or a fuller explanation <ins class=\"diffchange diffchange-inline\">--</ins>&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&lt;<del class=\"diffchange diffchange-inline\">&lt;&lt;</del> See \"Biological Model of Sex\" <del class=\"diffchange diffchange-inline\">&gt;&gt;</del>&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>&lt;<ins class=\"diffchange diffchange-inline\">!--</ins> See \"Biological Model of Sex\" <ins class=\"diffchange diffchange-inline\">--</ins>&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Definitional issues ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Definitional issues ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:61807217:newid:61807350 -->\n",
+    "from": 61807217
+  },
+  "minor": ""
+}

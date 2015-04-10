@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-12-01T17:59:14Z",
+  "revid": 29823354,
+  "anon": "",
+  "user": "86.128.57.75",
+  "parentid": 29809236,
+  "diff": {
+    "to": 29823354,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 6:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 6:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Just as there are many types of lovers, there are many kinds of love. Love is inherent in all human cultures. It is precisely these cultural differences that make any universal definition of love difficult to establish. See the [[Sapir-Whorf hypothesis]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Just as there are many types of lovers, there are many kinds of love. Love is inherent in all human cultures. It is precisely these cultural differences that make any universal definition of love difficult to establish. See the [[Sapir-Whorf hypothesis]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Expressions of love may include the love for a \"soul\" or mind, the love of laws and organizations, love for a body, love for nature, love of food, love of money, love for learning, love of power, love of fame, love for the respect of others, et cetera.  Different people place varying degrees of importance on the kinds of love they receive. Love is essentially an abstract concept, easier to experience than to explain.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Expressions of love may include the love for a \"soul\" or mind, the love of laws and organizations, love for a body, love for nature, love of food, love of money, love for learning, love of power, love of fame, love for the respect of others,<ins class=\"diffchange diffchange-inline\"> Harris' love of Ruth</ins> et cetera.  Different people place varying degrees of importance on the kinds of love they receive. Love is essentially an abstract concept, easier to experience than to explain.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:29809236:newid:29823354 -->\n",
+    "from": 29809236
+  }
+}

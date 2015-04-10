@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* See also */ added Contemporary Ethics, WP arcticle",
+  "timestamp": "2012-01-08T02:59:23Z",
+  "revid": 470193854,
+  "user": "TonyClarke",
+  "parentid": 470188021,
+  "diff": {
+    "to": 470193854,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 173:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 173:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral psychology]], about how moral capacity or moral agency develops and what its nature is;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral psychology]], about how moral capacity or moral agency develops and what its nature is;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Descriptive ethics]], about what moral values people actually abide by.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Descriptive ethics]], about what moral values people actually abide by.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Contemporary ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:470188021:newid:470193854 -->\n",
+    "from": 470188021
+  }
+}

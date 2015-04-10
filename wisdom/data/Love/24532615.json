@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-10-02T03:51:11Z",
+  "revid": 24532615,
+  "anon": "",
+  "user": "142.217.242.90",
+  "parentid": 24518670,
+  "diff": {
+    "to": 24532615,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''AVOID AT ALL COST</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>: ''For the 1960s band, see [[Love (band)|Love]].  The term is also used in [[Tennis#History|tennis]]. ''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>: ''For the 1960s band, see [[Love (band)|Love]].  The term is also used in [[Tennis#History|tennis]]. ''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|thumb|right|The [[Heart (Symbolism and Metaphor)|heart]], a symbol of love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|thumb|right|The [[Heart (Symbolism and Metaphor)|heart]], a symbol of love]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:24518670:newid:24532615 -->\n",
+    "from": 24518670
+  }
+}

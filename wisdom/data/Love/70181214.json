@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-08-17T06:55:37Z",
+  "revid": 70181214,
+  "anon": "",
+  "user": "71.135.200.164",
+  "parentid": 70181191,
+  "diff": {
+    "to": 70181214,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 184:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 184:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>I LOVE DUSTIN JOSEPH SOUTH!!!!!!!!!!!!!</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>I LOVE DUSTIN JOSEPH SOUTH!!!!!!!!!!!!!<ins class=\"diffchange diffchange-inline\"> he rox my sox</ins></div></td>\n</tr>\n",
+    "from": 70181191
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* External links */ {{Wikiquote}} added",
+  "timestamp": "2012-09-13T12:48:13Z",
+  "revid": 512171050,
+  "user": "VisitingPhilosopher",
+  "parentid": 509518295,
+  "diff": {
+    "to": 512171050,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 259:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 259:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wiktionary|I love you}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wiktionary|I love you}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Wikiquote}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*{{Commons category-inline|Love}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*{{Commons category-inline|Love}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*{{Wikiquote-inline}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*{{Wikiquote-inline}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:509518295:newid:512171050 -->\n",
+    "from": 509518295
+  }
+}

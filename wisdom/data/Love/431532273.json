@@ -1,0 +1,12 @@
+﻿{
+  "comment": "give me a fucking break",
+  "timestamp": "2011-05-29T19:30:42Z",
+  "revid": 431532273,
+  "user": "Lycurgus",
+  "parentid": 430930726,
+  "diff": {
+    "to": 431532273,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 12:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 12:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- themes --&gt;Love in its various forms acts as a major facilitator of [[interpersonal relationship]]s and, owing to its central psychological importance, is one of the most common themes in the [[creative arts]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- themes --&gt;Love in its various forms acts as a major facilitator of [[interpersonal relationship]]s and, owing to its central psychological importance, is one of the most common themes in the [[creative arts]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">[[Science]]</del> defines what could be understood as love as an evolved state of the survival instinct, primarily used to keep human beings together against menaces and to facilitate the continuation of the species through [[reproduction]].&lt;ref name=\"Fisher\"&gt;Helen Fisher. ''Why we love: the nature and chemistry of romantic love''. 2004.&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">Helen Fisher</ins> defines what could be understood as love as an evolved state of the survival instinct, primarily used to keep human beings together against menaces and to facilitate the continuation of the species through [[reproduction]].&lt;ref name=\"Fisher\"&gt;Helen Fisher. ''Why we love: the nature and chemistry of romantic love''. 2004.&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Definitions==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Definitions==</div></td>\n</tr>\n",
+    "from": 430930726
+  }
+}

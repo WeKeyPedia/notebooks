@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-12-27T14:55:23Z",
+  "revid": 96745073,
+  "user": "Gurpreet gupy",
+  "parentid": 96190868,
+  "diff": {
+    "to": 96745073,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' (from the [[Ancient Greek]] \"''ethikos''\", meaning \"arising from habit\"), a major branch of [[philosophy]], is the study of value or quality. It covers the [[Philosophical analysis|analysis]] and employment of [[concept]]s such as [[right]], [[wrong]], [[good]], [[evil]], and [[moral responsibility|responsibility]]. It is divided into three primary areas: ''meta-ethics'' (the study of the concept of ethics), ''normative ethics'' (the study of how to determine ethical values), and ''applied ethics'' (the study of the use of ethical values). </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' (from the [[Ancient Greek]] \"''ethikos''\", meaning \"arising from habit\"), a major branch of [[philosophy]], is the study of value or quality. It covers the [[Philosophical analysis|analysis]] and employment of [[concept]]s such as [[right]], [[wrong]], [[good]], [[evil]], and [[moral responsibility|responsibility]]. It is divided into three primary areas: ''meta-ethics'' (the study of the concept of ethics), ''normative ethics'' (the study of how to determine ethical values), and ''applied ethics'' (the study of the use of ethical values). </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">ethics is the un-written law for the people to follow. </ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Meta-ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Meta-ethics}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:96190868:newid:96745073 -->\n",
+    "from": 96190868
+  },
+  "minor": ""
+}

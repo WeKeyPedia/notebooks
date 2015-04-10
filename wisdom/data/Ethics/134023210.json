@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2007-05-28T06:33:15Z",
+  "revid": 134023210,
+  "anon": "",
+  "user": "81.165.126.113",
+  "parentid": 133461497,
+  "diff": {
+    "to": 134023210,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 177:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 177:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.observacionesfilosoficas.net/etica.htm Ética y Filosofía Política | In Revista Observaciones Filosóficas | In spanish]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.observacionesfilosoficas.net/etica.htm Ética y Filosofía Política | In Revista Observaciones Filosóficas | In spanish]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.pinkyshow.org/archives/episodes/060422/ ''Students Against Rice Eaters''] — an online video about student ethics.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.pinkyshow.org/archives/episodes/060422/ ''Students Against Rice Eaters''] — an online video about student ethics.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">* [http://www.sofiatopia.org/equiaeon/behaviours.htm On a Critical Ethics]</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy navigation}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy navigation}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:133461497:newid:134023210 -->\n",
+    "from": 133461497
+  }
+}

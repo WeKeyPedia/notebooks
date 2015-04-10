@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Further reading */ added bell hooks' \"all About Love\"",
+  "timestamp": "2007-09-28T01:59:04Z",
+  "revid": 160828463,
+  "user": "Ramurf",
+  "parentid": 160723078,
+  "diff": {
+    "to": 160828463,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 164:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 164:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Helen Fisher. ''Why We Love: the Nature and Chemistry of Romantic Love''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Helen Fisher. ''Why We Love: the Nature and Chemistry of Romantic Love''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Gabriele Froböse, Rolf Froböse, Michael Gross (Translator): ''Lust and Love: Is it more than Chemistry?'' Publisher: Royal Society of Chemistry, ISBN 0-85404-867-7, (2006). </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Gabriele Froböse, Rolf Froböse, Michael Gross (Translator): ''Lust and Love: Is it more than Chemistry?'' Publisher: Royal Society of Chemistry, ISBN 0-85404-867-7, (2006). </div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[bell hooks]], 'All About Love'. New York: Harper Perennial, 2001.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Johnson, P (2005) 'Love, Heterosexuality and Society'. Routledge: London.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Johnson, P (2005) 'Love, Heterosexuality and Society'. Routledge: London.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Thomas Jay Oord, Science of Love: The Wisdom of Well-Being. Philadelphia: Templeton Foundation Press, 2004.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Thomas Jay Oord, Science of Love: The Wisdom of Well-Being. Philadelphia: Templeton Foundation Press, 2004.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:160723078:newid:160828463 -->\n",
+    "from": 160723078
+  }
+}

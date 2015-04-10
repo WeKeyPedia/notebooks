@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Headline text */",
+  "timestamp": "2006-09-26T17:27:38Z",
+  "revid": 77937078,
+  "anon": "",
+  "user": "84.69.82.66",
+  "parentid": 77936813,
+  "diff": {
+    "to": 77937078,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 9:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 9:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Bold text'''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Bold text'''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">==</del> <del class=\"diffchange diffchange-inline\">Headline</del> <del class=\"diffchange diffchange-inline\">text</del> <del class=\"diffchange diffchange-inline\">==</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">'''i</ins> <ins class=\"diffchange diffchange-inline\">love</ins> <ins class=\"diffchange diffchange-inline\">ajitpal</ins> <ins class=\"diffchange diffchange-inline\">dhaliwal :) x x x'''</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>i love ajitpal dhaliwal :) x x x</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Overview==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Overview==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:77936813:newid:77937078 -->\n",
+    "from": 77936813
+  }
+}

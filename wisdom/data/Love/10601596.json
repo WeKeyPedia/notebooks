@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-02-26T22:08:26Z",
+  "revid": 10601596,
+  "anon": "",
+  "user": "68.239.7.161",
+  "parentid": 10596572,
+  "diff": {
+    "to": 10601596,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 6:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 6:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is one of the most common themes in art. The majority of modern movies have a love story and most pop music is about love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is one of the most common themes in art. The majority of modern movies have a love story and most pop music is about love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>==Puppy Love==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Puppy love is quite often the begining of love for kids. Part of it is like crushes  and stuff similar, while the other half is stuff such as just getting the other person's attention. Quite alot of the time this results in heartbreakers because the other person feels the opposite.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining love==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining love==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:10596572:newid:10601596 -->\n",
+    "from": 10596572
+  }
+}

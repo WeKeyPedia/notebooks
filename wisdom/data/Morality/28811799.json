@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Rational Morality */",
+  "timestamp": "2005-11-20T06:37:03Z",
+  "revid": 28811799,
+  "anon": "",
+  "user": "70.20.180.18",
+  "parentid": 28503646,
+  "diff": {
+    "to": 28811799,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 12:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 12:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Rational Morality==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Rational Morality==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Whereas<del class=\"diffchange diffchange-inline\"> \"derived\" morality may depend on [[religion]] or collective thought, ''rational morality'' is the idea of morality as innate or self-evident, based on reason. Thus morality is necessarily one of self-interest and looks at man's nature and the reason he needs values, then defines the virtues, known as a ''moral code'', that must be practiced to reach those values. Morality is \"rationally accepted\" and chosen. Rational morality asserts that all other \"views\" of morality are subjective and require some sort of sacrifice, either to the supernatural (i.e., God) or the social collective, whereas proper morality is self-evident and in the interest of the individual's happiness. Thus rational morality is synonymous with individual rights.</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Whereas</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Morality and Darwinism==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Morality and Darwinism==</div></td>\n</tr>\n",
+    "from": 28503646
+  }
+}

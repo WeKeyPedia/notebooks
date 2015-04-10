@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* In Role-Playing Games */  Fixed Link",
+  "timestamp": "2008-02-06T22:54:03Z",
+  "revid": 189605399,
+  "user": "Reyemile",
+  "parentid": 189544922,
+  "diff": {
+    "to": 189605399,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 72:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 72:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== In Role-Playing Games ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== In Role-Playing Games ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Wisdom is an [[Attribute (role-playing games)|attribute]] used in several [[role-playing game|role-playing games]].  Wisdom is usually defined as common sense, intuition, and perception, as opposed to intelligence, the ability to use or recall information &lt;ref&gt;{{citation| Title = D20 SRD| url = http://www.d20srd.org/srd/theBasics.htm#wisdomWis}}&lt;/ref&gt;  Wisdom can also be used to represent [[willpower]] or connection to the divine.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Wisdom is an [[Attribute (role-playing games)|attribute]] used in several [[role-playing game|role-playing games]].  Wisdom is usually defined as common sense, intuition, and perception, as opposed to intelligence, the ability to use or recall information &lt;ref&gt;{{citation| Title = D20 SRD| url = http://www.d20srd.org/srd/theBasics.htm#wisdomWis}}&lt;/ref&gt;  Wisdom can also be used to represent [[<ins class=\"diffchange diffchange-inline\">self control|</ins>willpower]] or connection to the divine.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Quotations about wisdom==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Quotations about wisdom==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:189544922:newid:189605399 -->\n",
+    "from": 189544922
+  },
+  "minor": ""
+}

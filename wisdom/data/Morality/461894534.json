@@ -1,0 +1,13 @@
+﻿{
+  "comment": "title = The Concept of Morals  | publisher = [[The MacMillan Company]]  | date = 1937, Reprinted 1975 by permission of MacMillan Publishing Co. Inc.",
+  "timestamp": "2011-11-22T05:58:50Z",
+  "revid": 461894534,
+  "anon": "",
+  "user": "99.190.83.205",
+  "parentid": 461880360,
+  "diff": {
+    "to": 461894534,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 146:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 146:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> | coauthors =</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> | coauthors =</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> | title = The Concept of Morals</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> | title = The Concept of Morals</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div> | publisher = The MacMillan Company</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div> | publisher = <ins class=\"diffchange diffchange-inline\">[[</ins>The MacMillan Company<ins class=\"diffchange diffchange-inline\">]]</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> | date = 1937, Reprinted 1975 by permission of MacMillan Publishing Co. Inc.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> | date = 1937, Reprinted 1975 by permission of MacMillan Publishing Co. Inc.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> | location = New York</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> | location = New York</div></td>\n</tr>\n",
+    "from": 461880360
+  }
+}

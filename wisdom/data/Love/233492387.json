@@ -1,0 +1,13 @@
+﻿{
+  "comment": "robot  Adding: [[lv:Mīlestība]]",
+  "timestamp": "2008-08-22T07:32:29Z",
+  "revid": 233492387,
+  "user": "SieBot",
+  "parentid": 232679953,
+  "diff": {
+    "to": 233492387,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 231:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 231:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[he:אהבה]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[he:אהבה]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[la:Amor]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[la:Amor]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[lv:Mīlestība]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[lt:Meilė]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[lt:Meilė]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[li:Leefde]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[li:Leefde]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:232679953:newid:233492387 -->\n",
+    "from": 232679953
+  },
+  "minor": ""
+}

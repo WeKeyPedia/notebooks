@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2009-10-21T19:43:35Z",
+  "revid": 321250996,
+  "anon": "",
+  "user": "96.233.5.169",
+  "parentid": 321250064,
+  "diff": {
+    "to": 321250996,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Redirect|Appropriate||Appropriation}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Redirect|Appropriate||Appropriation}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Fckkkkkkkk YUUUU <del class=\"diffchange diffchange-inline\">!</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Fckkkkkkkk YUUUU <ins class=\"diffchange diffchange-inline\">is an example of BAD morality ;)</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''' (from the [[Latin]] ''{{lang|la|moralitas}}'' \"manner, character, proper behavior\") has three principal meanings.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''' (from the [[Latin]] ''{{lang|la|moralitas}}'' \"manner, character, proper behavior\") has three principal meanings.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:321250064:newid:321250996 -->\n",
+    "from": 321250064
+  }
+}

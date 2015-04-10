@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Morality and religion */",
+  "timestamp": "2011-07-19T22:43:31Z",
+  "revid": 440387635,
+  "user": "Mange01",
+  "parentid": 440222450,
+  "diff": {
+    "to": 440387635,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 91:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 91:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Morality and religion==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Morality and religion==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{See also|Divine command theory|Morality without religion}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{See also|Divine command theory|Morality without religion<ins class=\"diffchange diffchange-inline\">|Secular ethics</ins>}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Many religions provide moral guidelines for their followers. They believe that the divine has instructed them with a way to live and that following these rules will lead to good social structure, and closer communion with the divine.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Many religions provide moral guidelines for their followers. They believe that the divine has instructed them with a way to live and that following these rules will lead to good social structure, and closer communion with the divine.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:440222450:newid:440387635 -->\n",
+    "from": 440222450
+  }
+}

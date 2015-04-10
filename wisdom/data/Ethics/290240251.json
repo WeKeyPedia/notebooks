@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2009-05-16T04:44:48Z",
+  "revid": 290240251,
+  "anon": "",
+  "user": "81.76.23.166",
+  "parentid": 290080772,
+  "diff": {
+    "to": 290240251,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 162:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 162:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.sandiego.edu/LMH/E2/Glossary.asp [[University of San Diego]] - Ethics glossary] Useful terms in ethics discussions</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.sandiego.edu/LMH/E2/Glossary.asp [[University of San Diego]] - Ethics glossary] Useful terms in ethics discussions</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://bioethics.georgetown.edu/nrc/ National Reference Center for Bioethics Literature] World's largest library for ethical issues in medicine and biomedical research</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://bioethics.georgetown.edu/nrc/ National Reference Center for Bioethics Literature] World's largest library for ethical issues in medicine and biomedical research</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.ethical-democracy.org Ethics and Democracy]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy topics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy topics}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:290080772:newid:290240251 -->\n",
+    "from": 290080772
+  }
+}

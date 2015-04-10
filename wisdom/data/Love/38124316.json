@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-02-04T09:20:51Z",
+  "revid": 38124316,
+  "anon": "",
+  "user": "219.64.186.68",
+  "parentid": 38045385,
+  "diff": {
+    "to": 38124316,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 291:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 291:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.humanthermodynamics.com/RP2-Love.html Top 150 Definitions of Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.humanthermodynamics.com/RP2-Love.html Top 150 Definitions of Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.chabad.org/article.asp?AID=42538 Love in Judaism]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.chabad.org/article.asp?AID=42538 Love in Judaism]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.withfriendship.com/quotes/love-quotes.php Famous love quotes]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[:zh:早恋|''Zaolian'' (早恋) on Chinese Wikipedia]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[:zh:早恋|''Zaolian'' (早恋) on Chinese Wikipedia]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:38045385:newid:38124316 -->\n",
+    "from": 38045385
+  }
+}

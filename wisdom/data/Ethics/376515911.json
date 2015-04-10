@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* See also */ adding 1 internal link: * [[Religious values]]",
+  "timestamp": "2010-08-01T00:58:28Z",
+  "revid": 376515911,
+  "user": "Wavelength",
+  "parentid": 376459778,
+  "diff": {
+    "to": 376515911,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 175:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 175:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral skepticism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral skepticism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral syncretism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral syncretism]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Religious values]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n</tr>\n",
+    "from": 376459778
+  }
+}

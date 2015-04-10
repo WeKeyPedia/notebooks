@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Scientific views */",
+  "timestamp": "2007-10-03T06:01:23Z",
+  "revid": 161960270,
+  "anon": "",
+  "user": "58.68.100.144",
+  "parentid": 161959600,
+  "diff": {
+    "to": 161960270,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 23:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 23:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>by the love gru MOHIT</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Love (scientific views)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Love (scientific views)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Throughout history, [[philosophy]] and [[religion]] have done the most speculation on the phenomenon of love. In the last century, the science of [[psychology]] has written a great deal on the subject. In recent years, the sciences of [[evolutionary psychology]], [[evolutionary biology]], [[anthropology]], [[neuroscience]], and [[biology]] have added to the understanding of the nature and function of love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Throughout history, [[philosophy]] and [[religion]] have done the most speculation on the phenomenon of love. In the last century, the science of [[psychology]] has written a great deal on the subject. In recent years, the sciences of [[evolutionary psychology]], [[evolutionary biology]], [[anthropology]], [[neuroscience]], and [[biology]] have added to the understanding of the nature and function of love.</div></td>\n</tr>\n",
+    "from": 161959600
+  }
+}

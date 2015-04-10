@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Wisdom and philosophy */",
+  "timestamp": "2005-11-09T23:32:10Z",
+  "revid": 27866753,
+  "anon": "",
+  "user": "65.93.85.39",
+  "parentid": 27263279,
+  "diff": {
+    "to": 27866753,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Wisdom and philosophy==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Wisdom and philosophy==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A standard [[philosophy|philosophical]] definition says that wisdom consists of making the best use of available [[propositional knowledge|knowledge]]. As with all decisions, a wise decision may be made with incomplete [[information]]. The technical philosophical term for the opposite of wisdom is [[folly]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A standard [[philosophy|philosophical]] definition says that wisdom consists of making the best use of available [[propositional knowledge|knowledge]]. As with all decisions, a wise decision may be made with incomplete [[information]]. The technical philosophical term for the opposite of wisdom is [[folly]].</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In his ''Metaphysics'', Aristotle defines wisdom as knowledge of causes: ''why'' things are the way they are.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Sources of Wisdom==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Sources of Wisdom==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:27263279:newid:27866753 -->\n",
+    "from": 27263279
+  }
+}

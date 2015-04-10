@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Using [[Cascading Style Sheets|CSS]] class references-small from [[MediaWiki:Common.css]]",
+  "timestamp": "2006-05-10T14:24:48Z",
+  "revid": 52491010,
+  "user": "Ligulem",
+  "parentid": 52414909,
+  "diff": {
+    "to": 52491010,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 71:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 71:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&lt;div <del class=\"diffchange diffchange-inline\">style</del>=\"<del class=\"diffchange diffchange-inline\">font</del>-<del class=\"diffchange diffchange-inline\">size:85%</del>\"&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>&lt;div <ins class=\"diffchange diffchange-inline\">class</ins>=\"<ins class=\"diffchange diffchange-inline\">references</ins>-<ins class=\"diffchange diffchange-inline\">small</ins>\"&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;references /&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;references /&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:* Roger Allen, Hillar Kilpatrick, and Ed de Moor, eds. ''Love and Sexuality in Modern Arabic Literature''. London: Saqi Books, 1995.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:* Roger Allen, Hillar Kilpatrick, and Ed de Moor, eds. ''Love and Sexuality in Modern Arabic Literature''. London: Saqi Books, 1995.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:52414909:newid:52491010 -->\n",
+    "from": 52414909
+  }
+}

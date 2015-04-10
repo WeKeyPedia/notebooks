@@ -1,0 +1,12 @@
+﻿{
+  "comment": "[[WP:AES|←]]Undid revision 117410475 by [[Special:Contributions/75.80.128.133|75.80.128.133]] ([[User talk:75.80.128.133|talk]]) /*  format properly next time  */",
+  "timestamp": "2007-03-24T01:46:24Z",
+  "revid": 117423723,
+  "user": "AngryStan",
+  "parentid": 117410475,
+  "diff": {
+    "to": 117423723,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 83:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 83:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{reflist|1}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{reflist|1}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>CD hawkins in \" the mortality of within\"</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== See also ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== See also ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:117410475:newid:117423723 -->\n",
+    "from": 117410475
+  }
+}

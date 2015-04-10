@@ -1,0 +1,12 @@
+﻿{
+  "comment": "rm observation about airport",
+  "timestamp": "2006-09-03T15:51:23Z",
+  "revid": 73587812,
+  "user": "FreplySpang",
+  "parentid": 73582452,
+  "diff": {
+    "to": 73587812,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 68:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 68:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Thomas Jay Oord]] defines love as acting intentionally, in sympathetic response to others (including God), to promote overall well-being.  Oord means for his definition to be adequate for religion, philosophy, and the sciences.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Thomas Jay Oord]] defines love as acting intentionally, in sympathetic response to others (including God), to promote overall well-being.  Oord means for his definition to be adequate for religion, philosophy, and the sciences.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>== Trivia ==</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>When people travel through [[Heathrow Airport]] and they see parents hugging children, old friends re-united and lovers kissing they begin to realise that '''''Love, Actually,''''' is all around</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n",
+    "from": 73582452
+  }
+}

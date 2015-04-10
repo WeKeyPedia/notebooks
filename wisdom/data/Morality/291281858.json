@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverting possible vandalism by [[Special:Contributions/72.196.97.3|72.196.97.3]] to version by Zvika. False positive? [[User:ClueBot/FalsePositives|Report it]]. Thanks, [[User:ClueBot|ClueBot]]. (707109) (Bot)",
+  "timestamp": "2009-05-20T23:09:59Z",
+  "revid": 291281858,
+  "user": "ClueBot",
+  "parentid": 291281829,
+  "diff": {
+    "to": 291281858,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 33:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 33:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>There are many other examples.<del class=\"diffchange diffchange-inline\"> such as: BRUCE LIKES COCK!!!!</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>There are many other examples.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Anthropological perspectives ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Anthropological perspectives ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:291281829:newid:291281858 -->\n",
+    "from": 291281829
+  },
+  "minor": ""
+}

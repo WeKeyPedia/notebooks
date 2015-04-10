@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Human love */ * [[I love you]]",
+  "timestamp": "2006-02-07T21:04:02Z",
+  "revid": 38663495,
+  "user": "Ae-a",
+  "parentid": 38661873,
+  "diff": {
+    "to": 38663495,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 259:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 259:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Historical pederastic couples]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Historical pederastic couples]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Human bonding]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Human bonding]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[I love you]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{col-break}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{col-break}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Limerence]]  &amp;mdash; the \"in love\" state</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Limerence]]  &amp;mdash; the \"in love\" state</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:38661873:newid:38663495 -->\n",
+    "from": 38661873
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "# [[sexual love]], also called [[lust]]",
+  "timestamp": "2004-02-04T23:11:55Z",
+  "revid": 2368361,
+  "user": "Karada",
+  "parentid": 2303953,
+  "diff": {
+    "to": 2368361,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love of [[friend]]s</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love of [[friend]]s</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># [[romantic love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># [[romantic love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div># [[<del class=\"diffchange diffchange-inline\">human </del>sexual <del class=\"diffchange diffchange-inline\">behavior|sexual</del>]] <del class=\"diffchange diffchange-inline\">love</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div># [[sexual <ins class=\"diffchange diffchange-inline\">love</ins>]]<ins class=\"diffchange diffchange-inline\">,</ins> <ins class=\"diffchange diffchange-inline\">also called [[lust]]</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving one another in general</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving one another in general</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving something abstract or inanimate</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving something abstract or inanimate</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:2303953:newid:2368361 -->\n",
+    "from": 2303953
+  }
+}

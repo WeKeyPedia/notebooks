@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted to last edit by Nixdorf",
+  "timestamp": "2003-06-17T16:21:48Z",
+  "revid": 1048346,
+  "user": "Sannse",
+  "parentid": 1048323,
+  "diff": {
+    "to": 1048346,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[es:Ética]][[fr:Éthique]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' is a branch of [[philosophy]] which studies questions pertaining to right and wrong, good and bad.  '''[[meta:Simple View of Ethics and Morals]]''' deals with these in much simpler language.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' is a branch of [[philosophy]] which studies questions pertaining to right and wrong, good and bad.  '''[[meta:Simple View of Ethics and Morals]]''' deals with these in much simpler language.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:1048323:newid:1048346 -->\n",
+    "from": 1048323
+  },
+  "minor": ""
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Undid revision 471952980 by [[Special:Contributions/99.235.193.177|99.235.193.177]] ([[User talk:99.235.193.177|talk]]) good faith but unconstructive",
+  "timestamp": "2012-01-18T03:43:41Z",
+  "revid": 471987172,
+  "user": "Pfhorrest",
+  "parentid": 471952980,
+  "diff": {
+    "to": 471987172,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 63:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 63:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Modern ethics===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Modern ethics===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">Modern ethics is the philosiphy behind the ways that people should behave. There are many branches of ethics including buisness,political and so on. </del>In the [[modern philosophy|modern]] era, ethical theories were generally divided between the consequentialist theories of utilitarian philosophers such as [[Jeremy Bentham]] and [[John Stuart Mill]], and [[deontological ethics]] as epitomized by the work of [[Immanuel Kant]]. This is also the era associated with the origin of [[pragmatic ethics]], especially in the work of [[John Dewey]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In the [[modern philosophy|modern]] era, ethical theories were generally divided between the consequentialist theories of utilitarian philosophers such as [[Jeremy Bentham]] and [[John Stuart Mill]], and [[deontological ethics]] as epitomized by the work of [[Immanuel Kant]]. This is also the era associated with the origin of [[pragmatic ethics]], especially in the work of [[John Dewey]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Modern consequentialism====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Modern consequentialism====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:471952980:newid:471987172 -->\n",
+    "from": 471952980
+  }
+}

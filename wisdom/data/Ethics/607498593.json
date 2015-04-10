@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2014-05-07T16:29:36Z",
+  "revid": 607498593,
+  "user": "J8089709",
+  "parentid": 607498505,
+  "diff": {
+    "to": 607498593,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Related fields are [[moral psychology]], [[descriptive ethics]], and [[value theory]]. Ethics seeks to resolve questions dealing with human morality—concepts such as [[good and evil]], [[right and wrong]], [[virtue]] and [[vice]], [[justice]] and [[crime]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Related fields are [[moral psychology]], [[descriptive ethics]], and [[value theory]]. Ethics seeks to resolve questions dealing with human morality—concepts such as [[good and evil]], [[right and wrong]], [[virtue]] and [[vice]], [[justice]] and [[crime]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">=</del>==Sexthics<del class=\"diffchange diffchange-inline\">=</del>==</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>==Sexthics==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Sexthics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Sexthics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>This is a type of ethics to determine whether or not to have intercourse. Of course the answer is always fucking yes. Especially with ''[[Kate Upton ]]''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>This is a type of ethics to determine whether or not to have intercourse. Of course the answer is always fucking yes. Especially with ''[[Kate Upton ]]''</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:607498505:newid:607498593 -->\n",
+    "from": 607498505
+  }
+}

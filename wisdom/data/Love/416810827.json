@@ -1,0 +1,13 @@
+﻿{
+  "comment": "r2.7.1) (robot Adding: [[fy:Leafde]]",
+  "timestamp": "2011-03-02T22:39:10Z",
+  "revid": 416810827,
+  "user": "Luckas-bot",
+  "parentid": 416791091,
+  "diff": {
+    "to": 416810827,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 281:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 281:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[hif:Pyar]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[hif:Pyar]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fr:Amour]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fr:Amour]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[fy:Leafde]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[gd:Gràdh]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[gd:Gràdh]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[gl:Amor]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[gl:Amor]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:416791091:newid:416810827 -->\n",
+    "from": 416791091
+  },
+  "minor": ""
+}

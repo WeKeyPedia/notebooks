@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-06-01T21:54:28Z",
+  "revid": 4012032,
+  "user": "JRR Trollkien",
+  "parentid": 3830669,
+  "diff": {
+    "to": 4012032,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 60:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 60:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Moralno&amp;#347;&amp;#263;]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Moralno&amp;#347;&amp;#263;]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:&amp;#36947;&amp;#24503;]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:&amp;#36947;&amp;#24503;]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Category:<del class=\"diffchange diffchange-inline\">Ethics</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Category:<ins class=\"diffchange diffchange-inline\">Core issues in ethics</ins>]]</div></td>\n</tr>\n",
+    "from": 3830669
+  }
+}

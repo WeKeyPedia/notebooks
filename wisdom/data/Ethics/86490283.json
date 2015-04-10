@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Ethical propositions and truth-aptitude */",
+  "timestamp": "2006-11-08T14:03:46Z",
+  "revid": 86490283,
+  "anon": "",
+  "user": "195.33.116.97",
+  "parentid": 85998700,
+  "diff": {
+    "to": 86490283,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"He did things that were disapproved of.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"He did things that were disapproved of.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>(It is important to note that non-cognitivists may disagree with the categorization of the last two propositions as non-ethical, as one non-cognitivist position is that ethical propositions are nothing more than coded expressions of approval or disapproval.)</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>(It is important to note that non-cognitivists may disagree with the categorization of the last two propositions as non-ethical, as one non-cognitivist position is that ethical propositions are nothing more than coded expressions of approval or disapproval.)<ins class=\"diffchange diffchange-inline\">l</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religion and meta-ethics===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religion and meta-ethics===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:85998700:newid:86490283 -->\n",
+    "from": 85998700
+  }
+}

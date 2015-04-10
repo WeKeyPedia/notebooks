@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Ethical propositions and truth-aptitude */",
+  "timestamp": "2006-10-05T10:32:17Z",
+  "revid": 79627318,
+  "anon": "",
+  "user": "121.6.46.152",
+  "parentid": 79466036,
+  "diff": {
+    "to": 79627318,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 13:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 13:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Sally is a good person.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Sally is a good person.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"People should not steal.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"People should not steal.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* \"The [[<del class=\"diffchange diffchange-inline\">O.</del> <del class=\"diffchange diffchange-inline\">J. Simpson</del>|Simpson]] verdict was unjust.\"</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* \"The [[<ins class=\"diffchange diffchange-inline\">The</ins> <ins class=\"diffchange diffchange-inline\">Simpsons</ins>|Simpson]] verdict was unjust.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Honesty is a virtue.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Honesty is a virtue.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"One ought not to break the law.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"One ought not to break the law.\"</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:79466036:newid:79627318 -->\n",
+    "from": 79466036
+  }
+}

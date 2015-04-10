@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2005-05-25T11:44:18Z",
+  "revid": 14207646,
+  "user": "Hans51",
+  "parentid": 14207515,
+  "diff": {
+    "to": 14207646,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 250:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 250:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.bestlovepoems.net/ Love Poems]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.bestlovepoems.net/ Love Poems]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.religiousbook.net/Books/Online_books/Ec/Ecology_9.html What is Love] religious view</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.religiousbook.net/Books/Online_books/Ec/Ecology_9.html What is Love] religious view</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.kriyayoga.com/love/love.html God's Love] Love - God's Love - True Love - Divine Love</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:14207515:newid:14207646 -->\n",
+    "from": 14207515
+  }
+}

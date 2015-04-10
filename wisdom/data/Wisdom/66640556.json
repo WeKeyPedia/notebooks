@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-07-30T05:23:10Z",
+  "revid": 66640556,
+  "anon": "",
+  "user": "67.40.178.155",
+  "parentid": 66636754,
+  "diff": {
+    "to": 66640556,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 55:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 55:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.nick-maxwell.demon.co.uk From Knowledge to Wisdom]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.nick-maxwell.demon.co.uk From Knowledge to Wisdom]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.wow4u.com Words of Wisdom 4 U]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.wow4u.com Words of Wisdom 4 U]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.thesearchforwisdom.com The Wisdom Project]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Philosophical terminology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Philosophical terminology]]</div></td>\n</tr>\n",
+    "from": 66636754
+  }
+}

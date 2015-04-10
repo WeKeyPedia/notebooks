@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Human love */",
+  "timestamp": "2006-02-11T12:31:23Z",
+  "revid": 39199545,
+  "anon": "",
+  "user": "87.196.47.50",
+  "parentid": 39186724,
+  "diff": {
+    "to": 39199545,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 253:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 253:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{col-break}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{col-break}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Affectional orientation]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Affectional orientation]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Crush]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[<ins class=\"diffchange diffchange-inline\">Crush (love)|</ins>Crush]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Emotion]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Emotion]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Erich Fromm]]'s view of human love</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Erich Fromm]]'s view of human love</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:39186724:newid:39199545 -->\n",
+    "from": 39186724
+  }
+}

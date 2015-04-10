@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Psychological perspectives */ bold",
+  "timestamp": "2008-04-09T05:06:39Z",
+  "revid": 204388757,
+  "user": "Dr.enh",
+  "parentid": 204387560,
+  "diff": {
+    "to": 204388757,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 39:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 39:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Citation| last =Hall| first =Stephen S.| title =The Older-and-Wiser Hypothesis| newspaper =[[The New York Times Magazine]]| pages =62| year =2007|date=May 6, 2007| url = http://www.nytimes.com/2007/05/06/magazine/06Wisdom-t.html?ex=1336104000&amp;en=4b4959cf047f61fe&amp;ei=5088&amp;partner=rssnyt&amp;emc=rss}}&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Citation| last =Hall| first =Stephen S.| title =The Older-and-Wiser Hypothesis| newspaper =[[The New York Times Magazine]]| pages =62| year =2007|date=May 6, 2007| url = http://www.nytimes.com/2007/05/06/magazine/06Wisdom-t.html?ex=1336104000&amp;en=4b4959cf047f61fe&amp;ei=5088&amp;partner=rssnyt&amp;emc=rss}}&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Researchers in [[positive psychology]] have defined wisdom (a.k.a psychological perspective) as the coordination of \"knowledge and experience\" and \"its deliberate use to improve wellbeing.\"&lt;ref name=\"CSV106\"&gt;{{cite book</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Researchers in [[positive psychology]] have defined wisdom (a.k.a <ins class=\"diffchange diffchange-inline\">'''</ins>psychological perspective<ins class=\"diffchange diffchange-inline\">'''</ins>) as the coordination of \"knowledge and experience\" and \"its deliberate use to improve wellbeing.\"&lt;ref name=\"CSV106\"&gt;{{cite book</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | last = Peterson</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | last = Peterson</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | first = Christopher</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | first = Christopher</div></td>\n</tr>\n",
+    "from": 204387560
+  },
+  "minor": ""
+}

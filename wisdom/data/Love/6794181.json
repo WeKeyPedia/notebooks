@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* K&#257;ma */",
+  "timestamp": "2004-10-23T00:32:42Z",
+  "revid": 6794181,
+  "user": "Andries",
+  "parentid": 6784704,
+  "diff": {
+    "to": 6794181,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 176:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 176:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">=</del>====Prema<del class=\"diffchange diffchange-inline\">=</del>====</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>====Prema====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In contrast to ''k&amp;#257;ma'', [[prema]] or ''prem'' refers to elevated love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In contrast to ''k&amp;#257;ma'', [[prema]] or ''prem'' refers to elevated love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:6784704:newid:6794181 -->\n",
+    "from": 6784704
+  },
+  "minor": ""
+}

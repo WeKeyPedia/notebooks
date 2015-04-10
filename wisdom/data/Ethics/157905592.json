@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Descriptive ethics */",
+  "timestamp": "2007-09-14T19:22:43Z",
+  "revid": 157905592,
+  "anon": "",
+  "user": "168.212.196.176",
+  "parentid": 157905434,
+  "diff": {
+    "to": 157905592,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 27:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 27:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Normative ethicists who follow the third approach are often called [[consequentialism|consequentialists]] or (specifically in regard to the theory of the greatest good for the greatest number) [[utilitarianism|utilitarian]]s; [[John Stuart Mill]] set out a large framework for a utilitarian normative ethics.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Normative ethicists who follow the third approach are often called [[consequentialism|consequentialists]] or (specifically in regard to the theory of the greatest good for the greatest number) [[utilitarianism|utilitarian]]s; [[John Stuart Mill]] set out a large framework for a utilitarian normative ethics.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>==Descriptive ethics==</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>==Descriptive ethics==<ins class=\"diffchange diffchange-inline\"> dumm dumm want gumm gumm?</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Descriptive ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Descriptive ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Expert-subject|Moral Philosophy}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Expert-subject|Moral Philosophy}}</div></td>\n</tr>\n",
+    "from": 157905434
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Religious love */",
+  "timestamp": "2006-02-20T23:41:55Z",
+  "revid": 40493704,
+  "anon": "",
+  "user": "209.165.134.49",
+  "parentid": 40492941,
+  "diff": {
+    "to": 40493704,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 13:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 13:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Olive you <del class=\"diffchange diffchange-inline\">Daisy</del> May:x</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">'''''''''''</ins>Olive you <ins class=\"diffchange diffchange-inline\">:XDaisy</ins> May:x<ins class=\"diffchange diffchange-inline\">'''''''''''</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Scientific models ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Scientific models ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:40492941:newid:40493704 -->\n",
+    "from": 40492941
+  }
+}

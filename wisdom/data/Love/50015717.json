@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Etymology */ clarified with summary",
+  "timestamp": "2006-04-25T01:46:32Z",
+  "revid": 50015717,
+  "user": "Sadi Carnot",
+  "parentid": 49998310,
+  "diff": {
+    "to": 50015717,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 17:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 17:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Etymology ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Etymology ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In origins, love is an [[Indo-Iranian]] word. According to the [[Oxford English Dictionary]], the English word \"love\" is derived more immediately from [[Old English]] lufu, luvu, or lubu, which derived from luba of [[Old High German]]. The luba of Old High German derived from leubh, lubet, and libet of [[Sanskrit]] and [[Old Aryan]], meaning “pleasing.” </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In origins, <ins class=\"diffchange diffchange-inline\">'''</ins>love<ins class=\"diffchange diffchange-inline\">'''</ins> is an [[Indo-Iranian]] word. According to the [[Oxford English Dictionary]], the English word \"love\" is derived more immediately from [[Old English]] lufu, luvu, or lubu, which derived from luba of [[Old High German]]. The luba of Old High German derived from leubh, lubet, and libet of [[Sanskrit]] and [[Old Aryan]], meaning “pleasing.” <ins class=\"diffchange diffchange-inline\"> Essentially, the modern-day version of the word \"love\" is the grammatical evolution of a 12th century word meaning ''to please''.</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Types ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Types ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:49998310:newid:50015717 -->\n",
+    "from": 49998310
+  },
+  "minor": ""
+}

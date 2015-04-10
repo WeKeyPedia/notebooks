@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Applied ethics */",
+  "timestamp": "2006-07-13T19:14:46Z",
+  "revid": 63649380,
+  "user": "Stevenwmccrary58",
+  "parentid": 63648885,
+  "diff": {
+    "to": 63649380,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 21:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 21:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Applied ethics ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Applied ethics ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{main|<del class=\"diffchange diffchange-inline\">applied</del> ethics}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{main|<ins class=\"diffchange diffchange-inline\">Applied</ins> ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{see also|Universal values}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{see also|Universal values}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 63648885
+  },
+  "minor": ""
+}

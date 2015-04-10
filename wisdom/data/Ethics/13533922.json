@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2005-05-08T04:11:16Z",
+  "revid": 13533922,
+  "anon": "",
+  "user": "202.63.32.127",
+  "parentid": 13411596,
+  "diff": {
+    "to": 13533922,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 236:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 236:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tl:Etika]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tl:Etika]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:&amp;#20262;&amp;#29702;&amp;#23398;]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:&amp;#20262;&amp;#29702;&amp;#23398;]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>hello</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:13411596:newid:13533922 -->\n",
+    "from": 13411596
+  }
+}

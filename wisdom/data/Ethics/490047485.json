@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2012-05-01T01:04:51Z",
+  "revid": 490047485,
+  "anon": "",
+  "user": "203.184.40.239",
+  "parentid": 490047455,
+  "diff": {
+    "to": 490047485,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''', also known as \"my mums house ;)</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''', also known as \"my mums house ;)<ins class=\"diffchange diffchange-inline\"> chris is gay</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\", is a branch of [[philosophy]] that involves systematizing, defending, and recommending concepts of right and wrong behavior.&lt;ref name=\"iep.utm.edu\"&gt;http://www.iep.utm.edu/ethics/&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\", is a branch of [[philosophy]] that involves systematizing, defending, and recommending concepts of right and wrong behavior.&lt;ref name=\"iep.utm.edu\"&gt;http://www.iep.utm.edu/ethics/&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 490047455
+  }
+}

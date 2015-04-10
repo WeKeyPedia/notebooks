@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/68.236.247.97|68.236.247.97]] ([[User talk:68.236.247.97|talk]]) to last version by Satanael",
+  "timestamp": "2006-01-01T04:31:28Z",
+  "revid": 33448569,
+  "user": "Jfdwolff",
+  "parentid": 33446766,
+  "diff": {
+    "to": 33448569,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>  </div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Eros - Pompeiian statue - Naples Archeological Museum.jpg|thumb|right|250px|Eros&lt;br&gt;God and symbol of love since antiquity]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Eros - Pompeiian statue - Naples Archeological Museum.jpg|thumb|right|250px|Eros&lt;br&gt;God and symbol of love since antiquity]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:33446766:newid:33448569 -->\n",
+    "from": 33446766
+  },
+  "minor": ""
+}

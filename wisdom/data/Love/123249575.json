@@ -1,0 +1,13 @@
+﻿{
+  "comment": "[[WP:UNDO|Undid]] revision 123244637 by [[Special:Contributions/Joseph benson|Joseph benson]] ([[User talk:Joseph benson|talk]])",
+  "timestamp": "2007-04-16T14:08:29Z",
+  "revid": 123249575,
+  "user": "Shoessss",
+  "parentid": 123244637,
+  "diff": {
+    "to": 123249575,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 6:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 6:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love notes and other vandalism will be quickly removed. Thanks!</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love notes and other vandalism will be quickly removed. Thanks!</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">someone who is in to some bitch for no fucking resaon! they just see the bastard them BAM there are havin stupid wierd fucking sex! love is a hidious, pointless, lousy, and disgusting piece of fuckin shit! its is caused for no god damn motherfucking bitchin good reason!</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>****************************************************************</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>****************************************************************</div></td>\n</tr>\n",
+    "from": 123244637
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-02-23T02:09:25Z",
+  "revid": 40797883,
+  "anon": "",
+  "user": "69.21.15.102",
+  "parentid": 40797841,
+  "diff": {
+    "to": 40797883,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">fdsaf</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Sam = Love.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:40797841:newid:40797883 -->\n",
+    "from": 40797841
+  }
+}

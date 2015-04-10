@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2012-01-07T21:43:18Z",
+  "revid": 470152668,
+  "user": "Deanmullen09",
+  "parentid": 469891578,
+  "diff": {
+    "to": 470152668,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''', also known as '''moral philosophy''', is a branch of [[philosophy]] that addresses questions about [[morality]]—that is, concepts such as [[good and evil]], right and wrong, [[virtue]] and [[vice]], [[justice]] and [[crime]], etc.{{citation needed|date=January 2012}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''', also known as '''moral philosophy''', is a branch of [[philosophy]] that addresses questions about [[morality]]—that is, concepts such as [[good and evil]], right and wrong, [[virtue]] and [[vice]], [[justice]] and [[crime]], etc.{{citation needed|date=January 2012}}<ins class=\"diffchange diffchange-inline\"> Ethics is a by-product of social evolution, although primitive forms of ethics persist in the natural world, most ethics arose through social evolution as each generation of [[homo sapiens]] debated ethical issues, to draw new models for an ethically justifiable way of life. &lt;ref&gt;[http://www.youtube.com/watch?v=mu7AQTs_y5A]&lt;/ref&gt;</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:469891578:newid:470152668 -->\n",
+    "from": 469891578
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/131.111.8.96|131.111.8.96]] to last version by Stevertigo",
+  "timestamp": "2005-06-05T15:12:47Z",
+  "revid": 14992403,
+  "user": "Antandrus",
+  "parentid": 14743457,
+  "diff": {
+    "to": 14992403,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{nonsense}}</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''' is a system of principles and judgments based on [[cultural]], [[religious]], and [[philosophical]] concepts and beliefs, by which humans determine whether given actions are [[good|right]] or [[evil|wrong]].  </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''' is a system of principles and judgments based on [[cultural]], [[religious]], and [[philosophical]] concepts and beliefs, by which humans determine whether given actions are [[good|right]] or [[evil|wrong]].  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>These concepts and beliefs are often generalized and codified by a culture or group, and thus serve to regulate the behaviour of its members.  </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>These concepts and beliefs are often generalized and codified by a culture or group, and thus serve to regulate the behaviour of its members.  </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:14743457:newid:14992403 -->\n",
+    "from": 14743457
+  },
+  "minor": ""
+}

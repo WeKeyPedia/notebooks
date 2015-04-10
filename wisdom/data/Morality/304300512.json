@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Bibliography */",
+  "timestamp": "2009-07-26T14:43:12Z",
+  "revid": 304300512,
+  "anon": "",
+  "user": "67.176.117.232",
+  "parentid": 301347128,
+  "diff": {
+    "to": 304300512,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 173:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 173:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Bibliography ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Bibliography ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">*[[Miguel A. De La Torre|De La Torre, Miguel A.]], \"Doing Christian Ethics from the Margins,\" Orbis Books, 2004.</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Walker, Martin G. ''LIFE! Why We Exist...And What We Must Do to Survive'' ([http://en.wikipedia.org/wiki/LIFE_Why_We_Exist...] Wiki Book Page) ([http://www.meaninginmylife.com] Web Site), Dog Ear Publishing, 2006, ISBN 1-59858-243-7</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Walker, Martin G. ''LIFE! Why We Exist...And What We Must Do to Survive'' ([http://en.wikipedia.org/wiki/LIFE_Why_We_Exist...] Wiki Book Page) ([http://www.meaninginmylife.com] Web Site), Dog Ear Publishing, 2006, ISBN 1-59858-243-7</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Trompenaars, Fons. ''Did the Pedestrian Die?'' ISBN 1-84112-436-2</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Trompenaars, Fons. ''Did the Pedestrian Die?'' ISBN 1-84112-436-2</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:301347128:newid:304300512 -->\n",
+    "from": 301347128
+  }
+}

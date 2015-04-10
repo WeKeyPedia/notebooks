@@ -1,0 +1,13 @@
+﻿{
+  "comment": "spelling: 'et cetera' changed to etcetera",
+  "timestamp": "2006-01-27T13:42:54Z",
+  "revid": 36940849,
+  "anon": "",
+  "user": "86.3.227.71",
+  "parentid": 36908360,
+  "diff": {
+    "to": 36940849,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is inherent in all human cultures. It is precisely these cultural differences that make any universal definition of love difficult, but not impossible, to establish. See the [[Sapir-Whorf hypothesis]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is inherent in all human cultures. It is precisely these cultural differences that make any universal definition of love difficult, but not impossible, to establish. See the [[Sapir-Whorf hypothesis]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Expressions of love may include the love for a [[soul]] or mind, the love of laws and organizations, love for a body, love for nature, love of food, love of money, love for learning, love of power, love of fame, love for the respect of others, <del class=\"diffchange diffchange-inline\">et cetera</del>.  Different people place varying degrees of importance on the kinds of love they receive. Love is essentially an abstract concept, easier to experience than to explain. </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Expressions of love may include the love for a [[soul]] or mind, the love of laws and organizations, love for a body, love for nature, love of food, love of money, love for learning, love of power, love of fame, love for the respect of others, <ins class=\"diffchange diffchange-inline\">etcetera</ins>.  Different people place varying degrees of importance on the kinds of love they receive. Love is essentially an abstract concept, easier to experience than to explain. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{emotion}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{emotion}}</div></td>\n</tr>\n",
+    "from": 36908360
+  }
+}

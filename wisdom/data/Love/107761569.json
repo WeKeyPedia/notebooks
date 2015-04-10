@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Definitions */",
+  "timestamp": "2007-02-13T06:00:00Z",
+  "revid": 107761569,
+  "user": "Moogleluvr",
+  "parentid": 107545242,
+  "diff": {
+    "to": 107761569,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The different aspects of ''love'' can be roughly illustrated by comparing their corollaries and opposites. As a general expression of positive sentiment (a stronger form of ''like''), love is commonly contrasted with [[hate]] (or neutral [[apathy]]); as a less sexual and more mutual and \"pure\" form of romantic attachment, love is commonly contrasted with [[lust]]; and as an interpersonal relationship with romantic overtones, love is commonly contrasted with [[friendship]], although other connotations of ''love'' may be applied to close friendships as well.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The different aspects of ''love'' can be roughly illustrated by comparing their corollaries and opposites. As a general expression of positive sentiment (a stronger form of ''like''), love is commonly contrasted with [[hate]] (or neutral [[apathy]]); as a less sexual and more mutual and \"pure\" form of romantic attachment, love is commonly contrasted with [[lust]]; and as an interpersonal relationship with romantic overtones, love is commonly contrasted with [[friendship]], although other connotations of ''love'' may be applied to close friendships as well.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&gt;[http:www.love.com]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{weasel}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{weasel}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:107545242:newid:107761569 -->\n",
+    "from": 107545242
+  }
+}

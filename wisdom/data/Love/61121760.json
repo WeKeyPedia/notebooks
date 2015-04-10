@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* References */  removed vanity edit by Sheilrod",
+  "timestamp": "2006-06-29T01:46:38Z",
+  "revid": 61121760,
+  "user": "Pascal.Tesson",
+  "parentid": 61077064,
+  "diff": {
+    "to": 61121760,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 104:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 104:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:* Helen Fisher. ''Why We Love: the Nature and Chemistry of Romantic Love''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:* Helen Fisher. ''Why We Love: the Nature and Chemistry of Romantic Love''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:* Gabriele Froböse, Rolf Froböse, Michael Gross (Translator): ''Lust and Love: Is it more than Chemistry?'' Publisher: Royal Society of Chemistry, ISBN 0854048677, (2006). </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:* Gabriele Froböse, Rolf Froböse, Michael Gross (Translator): ''Lust and Love: Is it more than Chemistry?'' Publisher: Royal Society of Chemistry, ISBN 0854048677, (2006). </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>:* Roderick Hindery, \"Ch. 5, The Fullness of Freedom,\" in Indoctrination and Self-deception or Free and Critical Thought? Mellen Press, 2001.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:* Thomas Jay Oord, Science of Love: The Wisdom of Well-Being. Philadelphia: Templeton Foundation Press, 2004.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:* Thomas Jay Oord, Science of Love: The Wisdom of Well-Being. Philadelphia: Templeton Foundation Press, 2004.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:*R. J. Sternberg. ''A triangular theory of love''. 1986. Psychological Review, 93, 119&amp;ndash;135</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:*R. J. Sternberg. ''A triangular theory of love''. 1986. Psychological Review, 93, 119&amp;ndash;135</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:61077064:newid:61121760 -->\n",
+    "from": 61077064
+  }
+}

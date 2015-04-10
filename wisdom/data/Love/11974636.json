@@ -1,0 +1,13 @@
+﻿{
+  "comment": "I removed \"artists\" from those \"inspired to seek truth by eros\" because Plato believed that artists were essentially liars and should be removed from \"proper\" civilization.",
+  "timestamp": "2005-04-06T23:07:42Z",
+  "revid": 11974636,
+  "anon": "",
+  "user": "128.198.78.158",
+  "parentid": 11974546,
+  "diff": {
+    "to": 11974636,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 140:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 140:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Eros]] is passionate love, with sensual desire and longing. The Greek word 'erota' means 'in love'</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Eros]] is passionate love, with sensual desire and longing. The Greek word 'erota' means 'in love'</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Plato]] refined his own definition. Although eros is initially felt for a person, with contemplation it becomes an appreciation of the beauty within that person, or even becomes appreciation of beauty itself. Eros helps the soul recall knowledge of beauty, and contributes to an understanding of spiritual truth. Lovers<del class=\"diffchange diffchange-inline\">, artists,</del> and philosophers are all inspired to seek truth by eros.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Plato]] refined his own definition. Although eros is initially felt for a person, with contemplation it becomes an appreciation of the beauty within that person, or even becomes appreciation of beauty itself. Eros helps the soul recall knowledge of beauty, and contributes to an understanding of spiritual truth. Lovers and philosophers are all inspired to seek truth by eros.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Philia ({{polytonic|&amp;#x03c6;&amp;#x03b9;&amp;#x03bb;&amp;#x1f77;&amp;#x03b1;}} ''&amp;#x70;&amp;#x68;&amp;#x69;&amp;#x6c;&amp;#x00ed;&amp;#x61;'')====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Philia ({{polytonic|&amp;#x03c6;&amp;#x03b9;&amp;#x03bb;&amp;#x1f77;&amp;#x03b1;}} ''&amp;#x70;&amp;#x68;&amp;#x69;&amp;#x6c;&amp;#x00ed;&amp;#x61;'')====</div></td>\n</tr>\n",
+    "from": 11974546
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2008-10-01T23:19:08Z",
+  "revid": 242366499,
+  "anon": "",
+  "user": "70.45.230.236",
+  "parentid": 242255664,
+  "diff": {
+    "to": 242366499,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>== '''Headline text'''''DONT TRUST WIKIPEDIA it is all fake</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'' ==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' is a major branch of [[philosophy]], encompassing right conduct and good life. It is significantly broader than the common conception of analyzing right and wrong. A central aspect of ethics is \"the good life\", the life worth living or life that is simply satisfying, which is held by many philosophers to be more important than [[Morality|moral]] conduct.&lt;ref&gt;Singer, P. (1993) ''Practical Ethics'', 2nd edition (p.10), Cambrdige: Cambridge University Press&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' is a major branch of [[philosophy]], encompassing right conduct and good life. It is significantly broader than the common conception of analyzing right and wrong. A central aspect of ethics is \"the good life\", the life worth living or life that is simply satisfying, which is held by many philosophers to be more important than [[Morality|moral]] conduct.&lt;ref&gt;Singer, P. (1993) ''Practical Ethics'', 2nd edition (p.10), Cambrdige: Cambridge University Press&lt;/ref&gt;</div></td>\n</tr>\n",
+    "from": 242255664
+  }
+}

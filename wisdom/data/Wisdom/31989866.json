@@ -1,0 +1,13 @@
+﻿{
+  "comment": "robot  Adding: sv",
+  "timestamp": "2005-12-19T18:04:08Z",
+  "revid": 31989866,
+  "user": "FlaBot",
+  "parentid": 31450745,
+  "diff": {
+    "to": 31989866,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 50:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 50:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ru:Мудрость]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ru:Мудрость]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Viisaus]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Viisaus]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[sv:Visdom]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:31450745:newid:31989866 -->\n",
+    "from": 31450745
+  },
+  "minor": ""
+}

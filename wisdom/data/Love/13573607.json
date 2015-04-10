@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2005-05-11T15:56:59Z",
+  "revid": 13573607,
+  "anon": "",
+  "user": "212.138.47.15",
+  "parentid": 13562269,
+  "diff": {
+    "to": 13573607,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 250:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 250:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.bestlovepoems.net/ Love Poems]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.bestlovepoems.net/ Love Poems]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.religiousbook.net/Books/Online_books/Ec/Ecology_9.html What is Love] religious view</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.religiousbook.net/Books/Online_books/Ec/Ecology_9.html What is Love] religious view</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.words4ever.net/subjects/90/love-and-romance-quotations-sayings.htm Love and Romance Quotations]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love]]</div></td>\n</tr>\n",
+    "from": 13562269
+  }
+}

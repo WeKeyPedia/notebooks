@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Applied ethics */ added a topic",
+  "timestamp": "2006-02-28T19:55:54Z",
+  "revid": 41647844,
+  "anon": "",
+  "user": "129.62.113.183",
+  "parentid": 41125637,
+  "diff": {
+    "to": 41647844,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 59:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 59:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Just war theory]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Just war theory]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Medical ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Medical ethics]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Technological ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Utilitarian ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Utilitarian ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Utilitarian bioethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Utilitarian bioethics]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:41125637:newid:41647844 -->\n",
+    "from": 41125637
+  }
+}

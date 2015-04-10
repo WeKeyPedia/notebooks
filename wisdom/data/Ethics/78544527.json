@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-09-29T18:23:51Z",
+  "revid": 78544527,
+  "anon": "",
+  "user": "216.223.158.249",
+  "parentid": 78544384,
+  "diff": {
+    "to": 78544527,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 285:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 285:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[uk:Етика]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[uk:Етика]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>computer class is gay</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n",
+    "from": 78544384
+  }
+}

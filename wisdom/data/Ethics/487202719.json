@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverting possible vandalism by [[Special:Contributions/199.185.67.223|199.185.67.223]] to version by 41.237.235.148. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1010557) (Bot)",
+  "timestamp": "2012-04-13T17:14:37Z",
+  "revid": 487202719,
+  "user": "ClueBot NG",
+  "parentid": 487202699,
+  "diff": {
+    "to": 487202719,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Normative ethics]], about the practical means of determining a moral course of action;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Normative ethics]], about the practical means of determining a moral course of action;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Applied ethics]], about how moral outcomes can be achieved in specific situations;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Applied ethics]], about how moral outcomes can be achieved in specific situations;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>WILL THE REAL SLIM SHADY PLEASE STAND UP.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Each of these areas include many further sub-fields of study.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Each of these areas include many further sub-fields of study.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:487202699:newid:487202719 -->\n",
+    "from": 487202699
+  },
+  "minor": ""
+}

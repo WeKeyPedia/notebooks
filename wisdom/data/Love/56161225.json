@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-05-31T17:22:24Z",
+  "revid": 56161225,
+  "anon": "",
+  "user": "85.140.97.87",
+  "parentid": 56153457,
+  "diff": {
+    "to": 56161225,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 96:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 96:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Wiktionary:I love you|\"I love you\" in various languages]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Wiktionary:I love you|\"I love you\" in various languages]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.freewebs.com/spiritual-help/agiftoflove.htm '''What You Give to Your Beloved''' (article)]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.humanthermodynamics.com/RP2-Love.html Top 150 Definitions of Love]  +  </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.humanthermodynamics.com/RP2-Love.html Top 150 Definitions of Love]  +  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.withfriendship.com/quotes/love-quotes.php?type=allinone 26 Famous Quotes on Love]   </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.withfriendship.com/quotes/love-quotes.php?type=allinone 26 Famous Quotes on Love]   </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:56153457:newid:56161225 -->\n",
+    "from": 56153457
+  }
+}

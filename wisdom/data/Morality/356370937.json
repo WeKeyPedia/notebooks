@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Anthropological perspectives */",
+  "timestamp": "2010-04-16T13:06:32Z",
+  "revid": 356370937,
+  "anon": "",
+  "user": "213.94.229.138",
+  "parentid": 356370779,
+  "diff": {
+    "to": 356370937,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 17:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 17:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>By constructing a causal definition for morality it goes beyond Kant's [[categorical imperative]] to explain ‘why’ morality. It understands the moral question as a clash of interests (individual's interest with someone else's superior interest) in the mind of an individual endowed with internal conflicting pulls on his choice.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>By constructing a causal definition for morality it goes beyond Kant's [[categorical imperative]] to explain ‘why’ morality. It understands the moral question as a clash of interests (individual's interest with someone else's superior interest) in the mind of an individual endowed with internal conflicting pulls on his choice.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>== Anthropological perspectives ==</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>== Anthropological perspectives ==<ins class=\"diffchange diffchange-inline\"> IM morality</ins></div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Expand section|date=June 2008}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Expand section|date=June 2008}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Tribal and territorial moralities ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Tribal and territorial moralities ===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:356370779:newid:356370937 -->\n",
+    "from": 356370779
+  }
+}

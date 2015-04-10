@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-05-21T23:17:09Z",
+  "revid": 54430879,
+  "anon": "",
+  "user": "59.167.252.202",
+  "parentid": 54430796,
+  "diff": {
+    "to": 54430879,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' (from Greek ''[[ethos|ἦθος]]'' meaning \"custom\") is the branch of [[axiology]], one of the four major branches of [[philosophy]], which attempts to understand the nature of [[morality]]; to distinguish that which is [[right]] from that which is [[wrong]].  The [[Western philosophy|Western tradition]] of ethics is sometimes called '''moral philosophy'''.  </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' (from Greek ''[[ethos|ἦθος]]'' meaning \"custom\") is the branch of [[axiology]], one of the four major branches of [[philosophy]], which attempts to understand the nature of [[morality]]; to distinguish that which is [[right]] from that which is [[wrong]].  The [[Western philosophy|Western tradition]] of ethics is sometimes called '''moral philosophy'''.  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">Ethics means marge loves men</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Meta-ethics ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Meta-ethics ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Meta-ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Meta-ethics}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:54430796:newid:54430879 -->\n",
+    "from": 54430796
+  }
+}

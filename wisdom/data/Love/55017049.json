@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/203.206.171.103|203.206.171.103]] ([[User_talk:203.206.171.103|talk]]) to version 55012055 by Spencerk using [[User:AmiDaniel/VandalProof|VandalProof]]",
+  "timestamp": "2006-05-25T04:39:57Z",
+  "revid": 55017049,
+  "user": "Paleorthid",
+  "parentid": 55016671,
+  "diff": {
+    "to": 55017049,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Bertrand Russell]] describes love as a condition of 'absolute value', as opposed to 'relative value'.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Bertrand Russell]] describes love as a condition of 'absolute value', as opposed to 'relative value'.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>One Definition of Love is this: That in which is a chosen necessity in ones life to possess to have and to hold to cherish even to loosing of one's own life and health and wealth and even the denial of ones on will in all that does not go against Love.{{fact}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>One Definition of Love is this: That in which is a chosen necessity in ones life to possess to have and to hold to cherish even to loosing of one's own life and health and wealth and even the denial of ones on will in all that does not go against Love.{{fact}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>love you sarah, bestest friends forever and ever...love gracie</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Types ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Types ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:55016671:newid:55017049 -->\n",
+    "from": 55016671
+  },
+  "minor": ""
+}

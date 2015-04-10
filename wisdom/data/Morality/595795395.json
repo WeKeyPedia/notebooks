@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* The moral code in the individual decision making */",
+  "timestamp": "2014-02-16T23:18:29Z",
+  "revid": 595795395,
+  "user": "Itamarkalimi",
+  "parentid": 595794820,
+  "diff": {
+    "to": 595795395,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 164:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 164:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The Morality purpose is to help the individual in making right choose and do good and not bad.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The Morality purpose is to help the individual in making right choose and do good and not bad.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The individual human life involved making decisions.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The individual human life involved making decisions<ins class=\"diffchange diffchange-inline\">, right or wrong</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Some of them will right or wrong.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Decision making]] can be regarded as the cognitive process resulting in the selection of a belief and/or a course of action among several alternative possibilities. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Decision making]] can be regarded as the cognitive process resulting in the selection of a belief and/or a course of action among several alternative possibilities. </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:595794820:newid:595795395 -->\n",
+    "from": 595794820
+  }
+}

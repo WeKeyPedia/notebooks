@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* See also */ wikilinked in article",
+  "timestamp": "2014-03-01T03:51:34Z",
+  "revid": 597618347,
+  "user": "Editor2020",
+  "parentid": 597618233,
+  "diff": {
+    "to": 597618347,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 151:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 151:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Sentience]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Sentience]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[The Wisdom of Crowds]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[The Wisdom of Crowds]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Virtue]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* The Wikiversity [[v:Wisdom|course on Wisdom]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* The Wikiversity [[v:Wisdom|course on Wisdom]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Div col end}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Div col end}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:597618233:newid:597618347 -->\n",
+    "from": 597618233
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "rm circular link ([[moral repugnance]] redirects to Morality)",
+  "timestamp": "2005-10-13T23:03:55Z",
+  "revid": 25465618,
+  "user": "Panzuriel",
+  "parentid": 25465122,
+  "diff": {
+    "to": 25465618,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 51:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 51:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Guilt]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Guilt]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Kohlberg's stages of moral development]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Kohlberg's stages of moral development]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[moral repugnance]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External link==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External link==</div></td>\n</tr>\n",
+    "from": 25465122
+  }
+}

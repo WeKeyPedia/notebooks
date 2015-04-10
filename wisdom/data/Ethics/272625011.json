@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2009-02-23T01:30:29Z",
+  "revid": 272625011,
+  "user": "UrghartSatisPeter",
+  "parentid": 272491501,
+  "diff": {
+    "to": 272625011,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 144:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 144:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.sandiego.edu/LMH/E2/Glossary.asp University of San Diego - Ethics glossary] Useful terms in ethics discussions</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.sandiego.edu/LMH/E2/Glossary.asp University of San Diego - Ethics glossary] Useful terms in ethics discussions</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://bioethics.georgetown.edu/nrc/ National Reference Center for Bioethics Literature] World's largest library for ethical issues in medicine and biomedical research</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://bioethics.georgetown.edu/nrc/ National Reference Center for Bioethics Literature] World's largest library for ethical issues in medicine and biomedical research</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://wwwfacebookcom-urghart.blogspot.com/]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy topics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy topics}}</div></td>\n</tr>\n",
+    "from": 272491501
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-10-20T19:38:39Z",
+  "revid": 26031682,
+  "anon": "",
+  "user": "82.42.40.140",
+  "parentid": 26029804,
+  "diff": {
+    "to": 26031682,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Love is <del class=\"diffchange diffchange-inline\">whatyou</del> feel for a person and what a person feels for you. <del class=\"diffchange diffchange-inline\">I was in a relationship with a person who really liked me. You could call it love. We would still be together but I messed that up. If I had another chance, I would show my affections for that person instead of making him feel as though I felt nothing. Now, I want him back, but it might be too late, when we first started out, I thought it was fate. But now our relationship is over and the bond is gone. I wish we were still together, but I was wrong.</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Love is <ins class=\"diffchange diffchange-inline\">what you</ins> feel for a person and what a person feels for you. </div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Love can come in many forms, ad can never be fully discribed. Maybe it is a word used to often in modern language, but then again maybe its not used enough.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:26029804:newid:26031682 -->\n",
+    "from": 26029804
+  }
+}

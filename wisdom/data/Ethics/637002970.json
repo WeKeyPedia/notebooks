@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Undid revision 637002719 by [[Special:Contributions/2.30.223.24|2.30.223.24]] ([[User talk:2.30.223.24|talk]]) revert spam",
+  "timestamp": "2014-12-07T09:46:14Z",
+  "revid": 637002970,
+  "user": "Cmr08",
+  "parentid": 637002719,
+  "diff": {
+    "to": 637002970,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 259:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 259:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*{{InPho|taxonomy|2243}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*{{InPho|taxonomy|2243}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*{{IEP|Ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*{{IEP|Ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.myfreecoursesonline.com/marketing/international-business-ethics ''International business ethics]'', 1st ed., 2009. by [[Adriaan Brits]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.galilean-library.org/manuscript.php?postid=43789 An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.galilean-library.org/manuscript.php?postid=43789 An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.ditext.com/frankena/ethics.html ''Ethics]'', 2d ed., 1973. by [[William Frankena]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.ditext.com/frankena/ethics.html ''Ethics]'', 2d ed., 1973. by [[William Frankena]]</div></td>\n</tr>\n",
+    "from": 637002719
+  }
+}

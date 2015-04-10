@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Greek philosophy */",
+  "timestamp": "2010-11-27T21:22:15Z",
+  "revid": 399205734,
+  "anon": "",
+  "user": "190.233.235.194",
+  "parentid": 398210596,
+  "diff": {
+    "to": 399205734,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 56:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 56:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- ===Confucius===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- ===Confucius===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- --&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- --&gt;</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>HOLA</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Modern ethics===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Modern ethics===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:398210596:newid:399205734 -->\n",
+    "from": 398210596
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */ cut (moved to talk)",
+  "timestamp": "2006-06-20T16:56:05Z",
+  "revid": 59651220,
+  "user": "Sadi Carnot",
+  "parentid": 59641593,
+  "diff": {
+    "to": 59651220,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 111:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 111:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Wiktionary:I love you|\"I love you\" in various languages]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.capezone.com/love.html The Definition of Love from WordNet, The Free On-line Dictionary and The Collaborative International Dictionary] </div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:59641593:newid:59651220 -->\n",
+    "from": 59641593
+  },
+  "minor": ""
+}

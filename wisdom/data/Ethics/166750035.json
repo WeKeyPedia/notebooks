@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Specific questions */",
+  "timestamp": "2007-10-24T14:27:11Z",
+  "revid": 166750035,
+  "anon": "",
+  "user": "163.153.222.102",
+  "parentid": 166749497,
+  "diff": {
+    "to": 166750035,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 59:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 59:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Specific questions===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Specific questions===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">Tyler is a super genius!!</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Applied ethics is used in determining public policy. For example, the following would be questions of applied ethics: \"Is getting an abortion immoral?\" \"Is euthanasia immoral?\" \"Is affirmative action right or wrong?\" \"What are human rights, and how do we determine them?\" and \"Do animals have rights as well?\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Applied ethics is used in determining public policy. For example, the following would be questions of applied ethics: \"Is getting an abortion immoral?\" \"Is euthanasia immoral?\" \"Is affirmative action right or wrong?\" \"What are human rights, and how do we determine them?\" and \"Do animals have rights as well?\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:166749497:newid:166750035 -->\n",
+    "from": 166749497
+  }
+}

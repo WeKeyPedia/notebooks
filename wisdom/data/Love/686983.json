@@ -1,0 +1,13 @@
+﻿{
+  "comment": "rv",
+  "timestamp": "2003-02-19T22:42:05Z",
+  "revid": 686983,
+  "user": "Mav",
+  "parentid": 682918,
+  "diff": {
+    "to": 686983,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[What is Love ?]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;b&gt;Love&lt;/b&gt; is a special [[affection]] for someone or something, a [[feeling]] or [[emotion]]. Some describe it as a chemical reaction in the human [[brain]].  Various different types of love exist, which are more or less related:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;b&gt;Love&lt;/b&gt; is a special [[affection]] for someone or something, a [[feeling]] or [[emotion]]. Some describe it as a chemical reaction in the human [[brain]].  Various different types of love exist, which are more or less related:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love between family members: parent's love of children, etc.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love between family members: parent's love of children, etc.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:682918:newid:686983 -->\n",
+    "from": 682918
+  },
+  "minor": ""
+}

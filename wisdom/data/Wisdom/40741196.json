@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Added link to Atlas of Wisdom",
+  "timestamp": "2006-02-22T18:37:30Z",
+  "revid": 40741196,
+  "user": "Wikiik",
+  "parentid": 39935130,
+  "diff": {
+    "to": 40741196,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 39:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 39:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.foundationsmag.com/wisdom.html Where is the Wisdom we have Lost in Knowledge?]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.foundationsmag.com/wisdom.html Where is the Wisdom we have Lost in Knowledge?]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.poetrybytroy.com/living_wisdom.html Living Wisdom - A Research Paper about Wisdom]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.poetrybytroy.com/living_wisdom.html Living Wisdom - A Research Paper about Wisdom]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.path-work.info Atlas of Wisdom: Wisdom in Psychology and Spirituality]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Knowledge]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Knowledge]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:39935130:newid:40741196 -->\n",
+    "from": 39935130
+  },
+  "minor": ""
+}

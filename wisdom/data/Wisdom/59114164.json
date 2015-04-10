@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Culture and Wisdom */",
+  "timestamp": "2006-06-17T15:01:24Z",
+  "revid": 59114164,
+  "anon": "",
+  "user": "202.168.105.181",
+  "parentid": 58983772,
+  "diff": {
+    "to": 59114164,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 32:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 32:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* PRACTICAL Wisdom may be described as: Knowing what to say and when to say it.--TAO</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* PRACTICAL Wisdom may be described as: Knowing what to say and when to say it.--TAO</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>== Culture and Wisdom ==</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The theme of Wisdom is very important in the [[Star Wars]] series of movies, where it is subtly emphasized to know what to do prevent the dark side from winning through manipulating folly or their nefarious and intricate attack plans. [[Yoda]] is seen as the wisest of them all in the series.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n",
+    "from": 58983772
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2013-04-07T08:09:21Z",
+  "revid": 549120751,
+  "anon": "",
+  "user": "24.63.143.83",
+  "parentid": 549120692,
+  "diff": {
+    "to": 549120751,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 89:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 89:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:人+二=仁 (ren) man on left two on right, the relationship between two human beings, means humanity, benevolence, seed. Originally the the character was just written as丨二 representing yin yang, the vertical line is yang (male, penis, heaven, odd numbers), the two horizontal lines are yin (female, vagina, earth, even numbers), it is the seed and core of everything.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:人+二=仁 (ren) man on left two on right, the relationship between two human beings, means humanity, benevolence, seed. Originally the the character was just written as丨二 representing yin yang, the vertical line is yang (male, penis, heaven, odd numbers), the two horizontal lines are yin (female, vagina, earth, even numbers), it is the seed and core of everything.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:如+心=恕 (shu) like or as if on top heart or mind below, means forgiveness and consideration. Confucius said,\"Don't do to others what you don't want others do to you.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:如+心=恕 (shu) like or as if on top heart or mind below, means forgiveness and consideration. Confucius said,\"Don't do to others what you don't want others do to you.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>:人+言=信 (xin) man on left word or speech on right, means trustworthy and integrity<del class=\"diffchange diffchange-inline\"> </del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>:人+言=信 (xin) man on left word or speech on right, means trustworthy and integrity.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Buddhism===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Buddhism===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:549120692:newid:549120751 -->\n",
+    "from": 549120692
+  }
+}

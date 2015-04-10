@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-12-12T19:42:33Z",
+  "revid": 93877980,
+  "anon": "",
+  "user": "199.212.26.244",
+  "parentid": 93877681,
+  "diff": {
+    "to": 93877980,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 189:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 189:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://www.achsnatl.org/ethics/bio_ethics_model.pdf<del class=\"diffchange diffchange-inline\"> ]]</del> Association of College Honor Societies (ACHS)resource on bioethical model developed by Omar Ha-Redeye that proposes relationship between different ethical perspectives</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.achsnatl.org/ethics/bio_ethics_model.pdf Association of College Honor Societies (ACHS)<ins class=\"diffchange diffchange-inline\"> </ins>resource<ins class=\"diffchange diffchange-inline\">]]</ins> on bioethical model developed by Omar Ha-Redeye that proposes relationship between different ethical perspectives</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://intertheory.org/kritikos Kritikos: journal of postmodern cultural sound, text and image]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://intertheory.org/kritikos Kritikos: journal of postmodern cultural sound, text and image]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.normativeethics.com Normative Ethics: 5 Questions] interviews with some of the most influential scholars in ethics.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.normativeethics.com Normative Ethics: 5 Questions] interviews with some of the most influential scholars in ethics.</div></td>\n</tr>\n",
+    "from": 93877681
+  }
+}

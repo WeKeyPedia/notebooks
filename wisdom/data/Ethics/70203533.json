@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-08-17T10:56:41Z",
+  "revid": 70203533,
+  "anon": "",
+  "user": "83.170.220.3",
+  "parentid": 70193641,
+  "diff": {
+    "to": 70203533,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 14:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 14:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Normative ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Normative ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Normative ethics''' bridges the gap between meta-ethics and applied ethics. It is the attempt to arrive at practical moral standards that tell us right from wrong, and how to live moral lives. This may involve articulating the good habits that we should acquire, the duties that we should follow, or the consequences of our behavior on others.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Normative ethics''' bridges the gap between meta-ethics<ins class=\"diffchange diffchange-inline\"> (too comlex notion for what wee need here)</ins> and applied ethics. It is the attempt to arrive at practical moral standards that tell us right from wrong, and how to live moral lives. This may involve articulating the good habits that we should acquire, the duties that we should follow, or the consequences of our behavior on others.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Applied ethics ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Applied ethics ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:70193641:newid:70203533 -->\n",
+    "from": 70193641
+  }
+}

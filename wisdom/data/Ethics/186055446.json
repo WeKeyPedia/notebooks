@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/208.235.226.241|208.235.226.241]] ([[User talk:208.235.226.241|talk]]) to last version by DVD R W",
+  "timestamp": "2008-01-22T05:43:25Z",
+  "revid": 186055446,
+  "user": "Skomorokh",
+  "parentid": 186054919,
+  "diff": {
+    "to": 186055446,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Ethics is not limited to specific acts and defined moral codes, but encompasses the whole of moral ideals and behaviors, a person's philosophy of life (or ''[[Weltanschauung]]'').&lt;ref&gt;Sahakian, William S. &amp; Sahakian, Mabel Lewis. ''Ideas of the Great Philosophers''. pp 31-32. Barnes and Noble Books (1993). ISBN 9781566192712.&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Ethics is not limited to specific acts and defined moral codes, but encompasses the whole of moral ideals and behaviors, a person's philosophy of life (or ''[[Weltanschauung]]'').&lt;ref&gt;Sahakian, William S. &amp; Sahakian, Mabel Lewis. ''Ideas of the Great Philosophers''. pp 31-32. Barnes and Noble Books (1993). ISBN 9781566192712.&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>John Cris Raya</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Donnel Bryan Brandino</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Greek philosophy==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Greek philosophy==</div></td>\n</tr>\n",
+    "from": 186054919
+  },
+  "minor": ""
+}

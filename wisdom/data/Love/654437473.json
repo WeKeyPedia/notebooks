@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Nominated for deletion; see [[Wikipedia:Articles for deletion/Love]]. ([[WP:TW|TW]])",
+  "timestamp": "2015-04-01T03:01:03Z",
+  "revid": 654437473,
+  "user": "Mr. Guye",
+  "parentid": 653858854,
+  "diff": {
+    "to": 654437473,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>&lt;!-- Please do not remove or change this AfD message until the issue is settled --&gt;</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Article for deletion/dated|page=Love|timestamp=20150401030101|year=2015|month=April|day=1|substed=yes|help=off}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>&lt;!-- For administrator use only: {{Old AfD multi|page=Love|date=1 April 2015|result='''keep'''}} --&gt;</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>&lt;!-- End of AfD message, feel free to edit beyond this point --&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Use dmy dates|date=November 2014}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Use dmy dates|date=November 2014}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{About|the general concept of \"love\"}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{About|the general concept of \"love\"}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:653858854:newid:654437473 -->\n",
+    "from": 653858854
+  }
+}

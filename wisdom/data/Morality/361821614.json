@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Undid part of revision by [[Special:Contributions/72.144.180.62|72.144.180.62]] ([[User talk:72.144.180.62|talk]]) from March 29, 2010",
+  "timestamp": "2010-05-13T04:15:15Z",
+  "revid": 361821614,
+  "anon": "",
+  "user": "64.85.221.35",
+  "parentid": 361204704,
+  "diff": {
+    "to": 361821614,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 211:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 211:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Đạo đức]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Đạo đức]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מוסר]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מוסר]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[zh:道德]]<del class=\"diffchange diffchange-inline\"> BY PIERRE J </del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[zh:道德]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>2012</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:361204704:newid:361821614 -->\n",
+    "from": 361204704
+  }
+}

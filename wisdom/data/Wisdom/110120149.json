@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Psychological perspectives */ rm extra space",
+  "timestamp": "2007-02-22T18:38:38Z",
+  "revid": 110120149,
+  "user": "Nesbit",
+  "parentid": 110120034,
+  "diff": {
+    "to": 110120149,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 50:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 50:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;ref&gt;Brown, S. C., &amp; Greene, J. A. (2006). The Wisdom Development Scale: Translating the conceptual to the concrete.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;ref&gt;Brown, S. C., &amp; Greene, J. A. (2006). The Wisdom Development Scale: Translating the conceptual to the concrete.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Journal of College Student Development, 47, 1-19.&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Journal of College Student Development, 47, 1-19.&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious perspectives==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious perspectives==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:110120034:newid:110120149 -->\n",
+    "from": 110120034
+  },
+  "minor": ""
+}

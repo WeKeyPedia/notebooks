@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Reverted edit(s) of [[Special:Contributions/150.101.178.161|150.101.178.161]] to previous one by 86.143.0.24",
+  "timestamp": "2006-07-06T06:55:16Z",
+  "revid": 62327640,
+  "user": "Tmopkisn",
+  "parentid": 62327624,
+  "diff": {
+    "to": 62327640,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 114:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 114:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.love-wiki.com Love Wiki, A growing Wiki based entirely on love.]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.love-wiki.com Love Wiki, A growing Wiki based entirely on love.]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.yarzheit.com/heavensregister/lifeoflove.htm] Explanation of True Love, living a \"Life of Love\" from Sefer Shinuyim - The Ancient Jewish Book of Changes,  from SeferShinuyim.com</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:'''See:''' [http://en.wikipedia.org/wiki/Talk:Love#External_links Talk Page] to vote on which links should go here</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:'''See:''' [http://en.wikipedia.org/wiki/Talk:Love#External_links Talk Page] to vote on which links should go here</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:62327624:newid:62327640 -->\n",
+    "from": 62327624
+  }
+}

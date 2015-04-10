@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Resources */",
+  "timestamp": "2010-04-03T19:06:23Z",
+  "revid": 353770491,
+  "anon": "",
+  "user": "24.150.187.105",
+  "parentid": 352615103,
+  "diff": {
+    "to": 353770491,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 156:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 156:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.poetrybytroy.com/living_wisdom.html Living Wisdom — A Research Paper about Wisdom]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.poetrybytroy.com/living_wisdom.html Living Wisdom — A Research Paper about Wisdom]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.wisdompage.com The Wisdom Page]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.wisdompage.com The Wisdom Page]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">*[http://www.wisdomation.com Sharing Wit and Wisdom]</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n</tr>\n",
+    "from": 352615103
+  }
+}

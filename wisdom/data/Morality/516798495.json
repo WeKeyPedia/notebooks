@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Further reading */",
+  "timestamp": "2012-10-09T10:32:07Z",
+  "revid": 516798495,
+  "anon": "",
+  "user": "108.20.105.35",
+  "parentid": 516251763,
+  "diff": {
+    "to": 516798495,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 191:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 191:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* {{cite book|last=Trompenaars|first=Fons|authorlink=Fons Trompenaars|title=Did the Pedestrian Die?: Insights from the World's Greatest Culture Guru|year=2003|publisher=Capstone|location=Oxford|isbn=1-84112-436-2|url=http://books.google.com/books?id=BAYKAQAAMAAJ}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* {{cite book|last=Trompenaars|first=Fons|authorlink=Fons Trompenaars|title=Did the Pedestrian Die?: Insights from the World's Greatest Culture Guru|year=2003|publisher=Capstone|location=Oxford|isbn=1-84112-436-2|url=http://books.google.com/books?id=BAYKAQAAMAAJ}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.scientificamerican.com/article.cfm?id=license-to-sin Virtuous Behaviors Sanction Later Sins: People are quick to treat themselves after a good deed or healthy act] March 4, 2012</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.scientificamerican.com/article.cfm?id=license-to-sin Virtuous Behaviors Sanction Later Sins: People are quick to treat themselves after a good deed or healthy act] March 4, 2012</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* John Newton, Ph.D. ''Complete Conduct Principles for the 21st Century'', 2000. ISBN 0967370574.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:516251763:newid:516798495 -->\n",
+    "from": 516251763
+  }
+}

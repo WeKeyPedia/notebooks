@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Love styles */",
+  "timestamp": "2005-12-28T22:26:08Z",
+  "revid": 33046655,
+  "user": "Stripe66506",
+  "parentid": 33045377,
+  "diff": {
+    "to": 33046655,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 88:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 88:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Storge]] &amp;mdash; an affectionate love that slowly develops, based on [[similarity (psychology)|similarity]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Storge]] &amp;mdash; an affectionate love that slowly develops, based on [[similarity (psychology)|similarity]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Pragma (love)|Pragma]] &amp;mdash; pragmatic love</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Pragma (love)|Pragma]] &amp;mdash; pragmatic love</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Mania]] &amp;mdash; highly emotional love; unstable; the stereotype of [[romantic love]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[<ins class=\"diffchange diffchange-inline\">Mania (love)| </ins>Mania]] &amp;mdash; highly emotional love; unstable; the stereotype of [[romantic love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Agapē]] &amp;mdash; selfless altruistic love; spiritual</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Agapē]] &amp;mdash; selfless altruistic love; spiritual</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:33045377:newid:33046655 -->\n",
+    "from": 33045377
+  }
+}

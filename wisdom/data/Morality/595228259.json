@@ -1,0 +1,12 @@
+﻿{
+  "comment": "merge template",
+  "timestamp": "2014-02-13T01:18:46Z",
+  "revid": 595228259,
+  "user": "Pfhorrest",
+  "parentid": 595226068,
+  "diff": {
+    "to": 595228259,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{merge from|Immorality|discuss=Talk:Immorality#Merge_to_Morality.3F}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{POV|date=May 2013}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{POV|date=May 2013}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{lead too short|date=June 2012}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{lead too short|date=June 2012}}</div></td>\n</tr>\n",
+    "from": 595226068
+  }
+}

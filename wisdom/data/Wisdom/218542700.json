@@ -1,0 +1,12 @@
+﻿{
+  "comment": "[[WP:UNDO|Undid]] revision 218462078 by [[Special:Contributions/81.159.185.194|81.159.185.194]] ([[User talk:81.159.185.194|talk]])",
+  "timestamp": "2008-06-11T02:52:23Z",
+  "revid": 218542700,
+  "user": "Nesbit",
+  "parentid": 218462078,
+  "diff": {
+    "to": 218542700,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 107:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 107:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;references/&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;references/&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">monkey</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">Freduci Philomathis, \"What is this thing called wisdom?\", Journal Behind the State of the Art, Maybell, Colorado, 2006, p.1.</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Further reading ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Further reading ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:218462078:newid:218542700 -->\n",
+    "from": 218462078
+  }
+}

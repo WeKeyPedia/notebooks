@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* See Also */",
+  "timestamp": "2008-12-31T13:56:18Z",
+  "revid": 261087684,
+  "user": "Boyd Reimer",
+  "parentid": 261086450,
+  "diff": {
+    "to": 261087684,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 135:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 135:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See Also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See Also==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Value Theory]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* ''The Concept of Morals'' (book)&lt;ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* ''The Concept of Morals'' (book)&lt;ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> {{cite book</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> {{cite book</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:261086450:newid:261087684 -->\n",
+    "from": 261086450
+  }
+}

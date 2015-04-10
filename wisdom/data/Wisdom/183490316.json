@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2008-01-10T21:56:01Z",
+  "revid": 183490316,
+  "anon": "",
+  "user": "142.177.27.45",
+  "parentid": 182680863,
+  "diff": {
+    "to": 183490316,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Wisdom''', according to the [[Merriam-Webster]] dictionary, is defined as \"1 </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Wisdom''', according to the [[Merriam-Webster]] dictionary, is defined as \"1 </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>a: Accumulated <del class=\"diffchange diffchange-inline\">philosophic</del> or scientific learning : knowledge; </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>a: Accumulated <ins class=\"diffchange diffchange-inline\">pillows</ins> or scientific learning : knowledge; </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>b: Ability to discern inner qualities and relationships : insight; </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>b: Ability to discern inner qualities and relationships : insight; </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>c: Good sense : judgment d: Generally accepted belief &lt;challenges what has become accepted wisdom among many historians — [[Robert Darnton]]&gt;. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>c: Good sense : judgment d: Generally accepted belief &lt;challenges what has become accepted wisdom among many historians — [[Robert Darnton]]&gt;. </div></td>\n</tr>\n",
+    "from": 182680863
+  }
+}

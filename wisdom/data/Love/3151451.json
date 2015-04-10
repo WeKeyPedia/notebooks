@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-04-11T20:53:47Z",
+  "revid": 3151451,
+  "anon": "",
+  "user": "66.136.216.249",
+  "parentid": 3151356,
+  "diff": {
+    "to": 3151451,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 64:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 64:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:::- ''The Devil's Dictionary'', [[Ambrose Bierce]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:::- ''The Devil's Dictionary'', [[Ambrose Bierce]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>::''Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It is not rude, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. Love never fails.''</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>::''Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It is not rude, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth<ins class=\"diffchange diffchange-inline\">. Vassago was here</ins>. It always protects, always trusts, always hopes, always perseveres. Love never fails.''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:::- The [[Apostle Paul]], [[1 Corinthians]] 13:4-8a ([[NIV]])</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:::- The [[Apostle Paul]], [[1 Corinthians]] 13:4-8a ([[NIV]])</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:3151356:newid:3151451 -->\n",
+    "from": 3151356
+  }
+}

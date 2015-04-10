@@ -1,0 +1,12 @@
+﻿{
+  "comment": "the quran is a holy text in islam not a moral  code",
+  "timestamp": "2014-03-15T03:31:15Z",
+  "revid": 599672984,
+  "user": "Professorr ex the Great",
+  "parentid": 598362904,
+  "diff": {
+    "to": 599672984,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 143:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 143:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | isbn = 0-8446-2990-1</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | isbn = 0-8446-2990-1</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  }} (above quote found p. 136, ch. 6)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  }} (above quote found p. 136, ch. 6)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&lt;/ref&gt; the [[Five Precepts]] and the [[Noble Eightfold Path]] of [[Buddhism]] (''see'' [[Śīla]]); the ancient Egyptian code of [[Ma'at]]; the [[Ten Commandments]] of [[Judaism]] and [[Christianity]]<del class=\"diffchange diffchange-inline\">; the [[Quran]] of Islam</del>; Judaism's [[Noahide Law]]; and the [[yamas]] and [[niyama]] of the [[Hindu scriptures]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>&lt;/ref&gt; the [[Five Precepts]] and the [[Noble Eightfold Path]] of [[Buddhism]] (''see'' [[Śīla]]); the ancient Egyptian code of [[Ma'at]]; the [[Ten Commandments]] of [[Judaism]] and [[Christianity]]; Judaism's [[Noahide Law]]; and the [[yamas]] and [[niyama]] of the [[Hindu scriptures]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n",
+    "from": 598362904
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "missing comma",
+  "timestamp": "2013-05-29T23:22:38Z",
+  "revid": 557427408,
+  "anon": "",
+  "user": "142.151.129.129",
+  "parentid": 556689185,
+  "diff": {
+    "to": 557427408,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Descriptive ethics]], also known as comparative ethics, is the study of people's beliefs about morality;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Descriptive ethics]], also known as comparative ethics, is the study of people's beliefs about morality;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Ethics seeks to resolve questions dealing with human morality—concepts such as [[good and evil]], [[right and wrong]] [[virtue]] and [[vice]], [[justice]] and [[crime]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Ethics seeks to resolve questions dealing with human morality—concepts such as [[good and evil]], [[right and wrong]]<ins class=\"diffchange diffchange-inline\">,</ins> [[virtue]] and [[vice]], [[justice]] and [[crime]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Defining ethics ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Defining ethics ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:556689185:newid:557427408 -->\n",
+    "from": 556689185
+  }
+}

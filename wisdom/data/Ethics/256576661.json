@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */ + {{portal|Philosophy|The_Thinker_Musee_Rodin.jpg}}",
+  "timestamp": "2008-12-08T06:34:32Z",
+  "revid": 256576661,
+  "anon": "",
+  "user": "71.202.65.243",
+  "parentid": 256491513,
+  "diff": {
+    "to": 256576661,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 102:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 102:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{<del class=\"diffchange diffchange-inline\">portalpar</del>|Philosophy|<del class=\"diffchange diffchange-inline\">Socrates</del>.<del class=\"diffchange diffchange-inline\">png</del>}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{<ins class=\"diffchange diffchange-inline\">portal</ins>|Philosophy|<ins class=\"diffchange diffchange-inline\">The_Thinker_Musee_Rodin</ins>.<ins class=\"diffchange diffchange-inline\">jpg</ins>}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{|</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{|</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>| width=\"200pt\" valign=\"top\" |</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>| width=\"200pt\" valign=\"top\" |</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:256491513:newid:256576661 -->\n",
+    "from": 256491513
+  }
+}

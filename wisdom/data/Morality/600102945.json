@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Undid revision 599672984 by [[Special:Contributions/Professorr ex the Great|Professorr ex the Great]] ([[User talk:Professorr ex the Great|talk]]) but it does spell out a moral code; if you know the more proper name for that code, please substitute it",
+  "timestamp": "2014-03-18T02:30:28Z",
+  "revid": 600102945,
+  "user": "Pfhorrest",
+  "parentid": 599820411,
+  "diff": {
+    "to": 600102945,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 143:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 143:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | isbn = 0-8446-2990-1</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | isbn = 0-8446-2990-1</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  }} (above quote found p. 136, ch. 6)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  }} (above quote found p. 136, ch. 6)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&lt;/ref&gt; the [[Five Precepts]] and the [[Noble Eightfold Path]] of [[Buddhism]] (''see'' [[Śīla]]); the ancient Egyptian code of [[Ma'at]]; the [[Ten Commandments]] of [[Judaism]] and [[Christianity]]; Judaism's [[Noahide Law]]; and the [[yamas]] and [[niyama]] of the [[Hindu scriptures]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>&lt;/ref&gt; the [[Five Precepts]] and the [[Noble Eightfold Path]] of [[Buddhism]] (''see'' [[Śīla]]); the ancient Egyptian code of [[Ma'at]]; the [[Ten Commandments]] of [[Judaism]] and [[Christianity]]<ins class=\"diffchange diffchange-inline\">; the [[Quran]] of Islam</ins>; Judaism's [[Noahide Law]]; and the [[yamas]] and [[niyama]] of the [[Hindu scriptures]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n",
+    "from": 599820411
+  }
+}

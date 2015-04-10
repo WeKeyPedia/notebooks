@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2007-12-21T21:31:25Z",
+  "revid": 179463659,
+  "user": "Saisatha",
+  "parentid": 179463365,
+  "diff": {
+    "to": 179463659,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 364:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 364:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.gratitudebook.com How To Get More Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.gratitudebook.com How To Get More Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.<del class=\"diffchange diffchange-inline\">fantacyandlove</del>.com <del class=\"diffchange diffchange-inline\">Fantacy</del> and Love]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.<ins class=\"diffchange diffchange-inline\">fantasyandlove</ins>.com <ins class=\"diffchange diffchange-inline\">Fantasy</ins> and Love]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:179463365:newid:179463659 -->\n",
+    "from": 179463365
+  }
+}

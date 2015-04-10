@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Impersonal love */",
+  "timestamp": "2005-12-05T00:35:26Z",
+  "revid": 30168321,
+  "anon": "",
+  "user": "69.252.227.14",
+  "parentid": 30168270,
+  "diff": {
+    "to": 30168321,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 16:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 16:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The text book definition of love is how Kortney feels about Brent.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">'''</ins>The text book definition of love is how Kortney feels about Brent<ins class=\"diffchange diffchange-inline\">'''</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 30168270
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-02-05T07:11:09Z",
+  "revid": 38277533,
+  "anon": "",
+  "user": "24.4.42.44",
+  "parentid": 38203383,
+  "diff": {
+    "to": 38277533,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 51:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 51:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|&amp;nbsp;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|&amp;nbsp;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|-</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|-</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>|'''Empty love'''</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>|'''<ins class=\"diffchange diffchange-inline\">[[</ins>Empty love<ins class=\"diffchange diffchange-inline\">]]</ins>'''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|&amp;nbsp;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|&amp;nbsp;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|&amp;nbsp;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|&amp;nbsp;</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:38203383:newid:38277533 -->\n",
+    "from": 38203383
+  }
+}

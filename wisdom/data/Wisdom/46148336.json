@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* See also */",
+  "timestamp": "2006-03-30T10:26:34Z",
+  "revid": 46148336,
+  "user": "Ems2",
+  "parentid": 45753965,
+  "diff": {
+    "to": 46148336,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 32:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 32:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Streetwise]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Streetwise]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Wisdom literature]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Wisdom literature]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Book of Wisdom]] (<del class=\"diffchange diffchange-inline\">Biblical book, also called ''Wisdom of</del> [[<del class=\"diffchange diffchange-inline\">Solomon</del>]]<del class=\"diffchange diffchange-inline\">''</del> <del class=\"diffchange diffchange-inline\">(A considered wise man according to the Bible</del>)</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Book of Wisdom]] (<ins class=\"diffchange diffchange-inline\">A</ins> [[<ins class=\"diffchange diffchange-inline\">Christian</ins>]] <ins class=\"diffchange diffchange-inline\">book</ins>)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[School of Hard Knocks]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[School of Hard Knocks]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Regret]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Regret]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:45753965:newid:46148336 -->\n",
+    "from": 45753965
+  }
+}

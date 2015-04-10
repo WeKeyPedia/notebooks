@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2010-04-01T22:12:23Z",
+  "revid": 353433455,
+  "user": "Somebodhi",
+  "parentid": 352705953,
+  "diff": {
+    "to": 353433455,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 214:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 214:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.utilitarian.net/singer/by/1985----.htm Ethics] entry in Encyclopædia Britannica by [[Peter Singer]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.utilitarian.net/singer/by/1985----.htm Ethics] entry in Encyclopædia Britannica by [[Peter Singer]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.philosophyarchive.com/index.php?title=Philosophy_of_Ethics The Philosophy of Ethics] on Philosophy Archive</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.philosophyarchive.com/index.php?title=Philosophy_of_Ethics The Philosophy of Ethics] on Philosophy Archive</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://ethics.sandiego.edu/ Ethics updates] Provides resources and updates on current literature, both popular and professional, that relate to ethics. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy topics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy topics}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:352705953:newid:353433455 -->\n",
+    "from": 352705953
+  }
+}

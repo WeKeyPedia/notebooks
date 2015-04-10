@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Cultural views */",
+  "timestamp": "2006-09-01T19:48:18Z",
+  "revid": 73277279,
+  "anon": "",
+  "user": "144.226.173.68",
+  "parentid": 73231706,
+  "diff": {
+    "to": 73277279,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 42:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 42:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Love (cultural views)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Love (cultural views)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Although there exist numerous cross-cultural unified similarities as to the nature and definition of love, as in there being a thread of commitment, tenderness, and passion common to all human existence, there are differences. For example, in <del class=\"diffchange diffchange-inline\">[[India]],</del> with arranged marriages commonplace, it is believed that love is not a necessary ingredient in the initial stages of marriage – it is something that can be created during the marriage; whereas in Western culture, by comparison, love is seen as a necessary prerequisite to marriage.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Although there exist numerous cross-cultural unified similarities as to the nature and definition of love, as in there being a thread of commitment, tenderness, and passion common to all human existence, there are differences. For example, in <ins class=\"diffchange diffchange-inline\">the Orient</ins> with arranged marriages commonplace, it is believed that love is not a necessary ingredient in the initial stages of marriage – it is something that can be created during the marriage; whereas in Western culture, by comparison, love is seen as a necessary prerequisite to marriage.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious views==</div></td>\n</tr>\n",
+    "from": 73231706
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "=Major doctrines of ethics=",
+  "timestamp": "2004-05-15T15:23:46Z",
+  "revid": 3591126,
+  "user": "EuroTom",
+  "parentid": 3590976,
+  "diff": {
+    "to": 3591126,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 86:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 86:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Philosophers have developed a number of competing systems to explain how to choose what is best for both the individual and for society. No one system has gained universal assent. The major philosophical doctrines of ethics include:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Philosophers have developed a number of competing systems to explain how to choose what is best for both the individual and for society. No one system has gained universal assent. The major philosophical doctrines of ethics include:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Divine command ethics]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[<ins class=\"diffchange diffchange-inline\">Divine command theory|</ins>Divine command ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Consequentialism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Consequentialism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Virtue ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Virtue ethics]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:3590976:newid:3591126 -->\n",
+    "from": 3590976
+  },
+  "minor": ""
+}

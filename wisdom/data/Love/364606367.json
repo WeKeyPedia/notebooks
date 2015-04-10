@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */ removing redlink",
+  "timestamp": "2010-05-28T04:06:43Z",
+  "revid": 364606367,
+  "user": "Jinnai",
+  "parentid": 364268883,
+  "diff": {
+    "to": 364606367,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 204:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 204:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Interpersonal attraction]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Interpersonal attraction]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{col-break|width=24%}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{col-break|width=24%}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Love (cultural views)]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Love letter]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Love letter]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Love (religious views)]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Love (religious views)]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:364268883:newid:364606367 -->\n",
+    "from": 364268883
+  },
+  "minor": ""
+}

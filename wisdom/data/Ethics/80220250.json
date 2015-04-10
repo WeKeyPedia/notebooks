@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */",
+  "timestamp": "2006-10-08T15:24:48Z",
+  "revid": 80220250,
+  "anon": "",
+  "user": "70.111.218.254",
+  "parentid": 80220100,
+  "diff": {
+    "to": 80220250,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 128:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 128:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*Comparative ethics</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*<ins class=\"diffchange diffchange-inline\">[[</ins>Comparative ethics<ins class=\"diffchange diffchange-inline\">]]</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*Comparative religious ethics</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*<ins class=\"diffchange diffchange-inline\">[[</ins>Comparative religious ethics<ins class=\"diffchange diffchange-inline\">]]</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*Core Values</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*<ins class=\"diffchange diffchange-inline\">[[</ins>Core Values<ins class=\"diffchange diffchange-inline\">]]</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Dessek]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Dessek]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Empathy]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Empathy]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:80220100:newid:80220250 -->\n",
+    "from": 80220100
+  }
+}

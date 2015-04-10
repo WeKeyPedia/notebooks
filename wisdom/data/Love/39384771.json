@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-02-12T20:43:04Z",
+  "revid": 39384771,
+  "anon": "",
+  "user": "80.0.78.29",
+  "parentid": 39305711,
+  "diff": {
+    "to": 39384771,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 30:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 30:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In the February 2006 issue of [[National Geographic]], Lauren Slater's cover page article \"Love: The Chemical Reaction\" discusses love and the chemicals responsible.  In it Slater explains some of the research in the area.  Some key points:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In the February 2006 issue of [[National Geographic]], Lauren Slater's cover page article \"Love: The Chemical Reaction\" discusses love and the chemicals responsible.  In it Slater explains some of the research in the area.  Some key points:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*The serotonin effects of being in love have a simliar chemical appearance to [[obsessive-compulsive disorder]].  For this reason some assert that being on a [[SSRI]], which treats OCD, impedes ones ability to fall in love.  </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*The serotonin effects of being in love have a simliar chemical appearance to [[obsessive-compulsive disorder]]<ins class=\"diffchange diffchange-inline\">(which could explain why, when somebody is in love, thay cannot think of anybody else)</ins>.  For this reason some assert that being on a [[SSRI]], which treats OCD, impedes ones ability to fall in love.  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*The long-term attachment felt after the initial passion is over is a result of chemicals such as [[oxytocin]].  Things like massaging and \"making love\" can help trigger oxytocin.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*The long-term attachment felt after the initial passion is over is a result of chemicals such as [[oxytocin]].  Things like massaging and \"making love\" can help trigger oxytocin.</div></td>\n</tr>\n",
+    "from": 39305711
+  }
+}

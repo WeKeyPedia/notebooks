@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Undid revision 384662572 by [[Special:Contributions/72.27.213.188|72.27.213.188]] ([[User talk:72.27.213.188|talk]]) rv",
+  "timestamp": "2010-09-14T03:23:17Z",
+  "revid": 384716071,
+  "user": "Barek",
+  "parentid": 384662572,
+  "diff": {
+    "to": 384716071,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 135:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 135:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>And others.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>And others.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>NB. Ethics is not following culturally accepted norms.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Moral psychology==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Moral psychology==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:384662572:newid:384716071 -->\n",
+    "from": 384662572
+  }
+}

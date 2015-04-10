@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* The analytic view */",
+  "timestamp": "2006-04-19T23:39:53Z",
+  "revid": 49203951,
+  "anon": "",
+  "user": "70.243.216.65",
+  "parentid": 49203696,
+  "diff": {
+    "to": 49203951,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 138:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 138:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Someone took the stereo out of my car.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Someone took the stereo out of my car.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* \"Simpson was acquitted at his trial.\"</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* \"<ins class=\"diffchange diffchange-inline\">Homer </ins>Simpson was acquitted at his trial.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Many people are dishonest.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Many people are dishonest.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"I dislike it when people break the law.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"I dislike it when people break the law.\"</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:49203696:newid:49203951 -->\n",
+    "from": 49203696
+  }
+}

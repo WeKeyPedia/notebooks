@@ -1,0 +1,13 @@
+﻿{
+  "comment": "+sr",
+  "timestamp": "2005-06-10T16:18:14Z",
+  "revid": 14987239,
+  "user": "Саша Стефановић",
+  "parentid": 14982088,
+  "diff": {
+    "to": 14987239,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 235:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 235:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[simple:Ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[simple:Ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sk:Etika]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sk:Etika]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[sr:&amp;#1045;&amp;#1090;&amp;#1080;&amp;#1082;&amp;#1072;]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Etiikka]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Etiikka]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Etik]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Etik]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:14982088:newid:14987239 -->\n",
+    "from": 14982088
+  },
+  "minor": ""
+}

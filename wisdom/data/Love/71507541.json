@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/69.165.182.32|69.165.182.32]] ([[User talk:69.165.182.32|talk]]) to version 71448189 by Alexjohnc3 using [[WP:SNIPE|VS]]",
+  "timestamp": "2006-08-24T01:54:32Z",
+  "revid": 71507541,
+  "user": "Omicronpersei8",
+  "parentid": 71507519,
+  "diff": {
+    "to": 71507541,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 139:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 139:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Dorothy Tennov. ''A Scientist Looks at Romantic Love and Calls It \"Limerence\": The Collected Works of Dorothy Tennov''. Greenwich, CT: The Great American Publishing Society (GRAMPS), [http://www.gramps.org/limerence]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Dorothy Tennov. ''A Scientist Looks at Romantic Love and Calls It \"Limerence\": The Collected Works of Dorothy Tennov''. Greenwich, CT: The Great American Publishing Society (GRAMPS), [http://www.gramps.org/limerence]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Wood, Wood and Boyd. ''The World of Psychology''. 5th edition. 2005. Pearson Education, 402&amp;ndash;403</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Wood, Wood and Boyd. ''The World of Psychology''. 5th edition. 2005. Pearson Education, 402&amp;ndash;403</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* '''I love you boo boo!!!!!'''</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n",
+    "from": 71507519
+  },
+  "minor": ""
+}

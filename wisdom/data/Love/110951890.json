@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* References */",
+  "timestamp": "2007-02-26T00:18:19Z",
+  "revid": 110951890,
+  "anon": "",
+  "user": "69.120.83.61",
+  "parentid": 110951611,
+  "diff": {
+    "to": 110951890,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 155:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 155:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Dorothy Tennov. ''A Scientist Looks at Romantic Love and Calls It \"Limerence\": The Collected Works of Dorothy Tennov''. Greenwich, CT: The Great American Publishing Society (GRAMPS), [http://www.gramps.org/limerence]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Dorothy Tennov. ''A Scientist Looks at Romantic Love and Calls It \"Limerence\": The Collected Works of Dorothy Tennov''. Greenwich, CT: The Great American Publishing Society (GRAMPS), [http://www.gramps.org/limerence]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Wood, Wood and Boyd. ''The World of Psychology''. 5th edition. 2005. Pearson Education, 402&amp;ndash;403</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Wood, Wood and Boyd. ''The World of Psychology''. 5th edition. 2005. Pearson Education, 402&amp;ndash;403</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">* I love Kelly &lt;3</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:110951611:newid:110951890 -->\n",
+    "from": 110951611
+  }
+}

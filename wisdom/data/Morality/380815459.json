@@ -1,0 +1,13 @@
+﻿{
+  "comment": "[[Help:Reverting|Reverted]] edits by [[Special:Contributions/75.74.88.83|75.74.88.83]] ([[User talk:75.74.88.83|talk]]) to last version by Piotrus",
+  "timestamp": "2010-08-24T23:48:09Z",
+  "revid": 380815459,
+  "user": "Pinethicket",
+  "parentid": 380815403,
+  "diff": {
+    "to": 380815459,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 106:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 106:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Powell, K. (1997). Correlates of violent and nonviolent behavior among vulnerable inner-city youths. Family and Community Health, 20, 38–47.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Powell, K. (1997). Correlates of violent and nonviolent behavior among vulnerable inner-city youths. Family and Community Health, 20, 38–47.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&lt;/ref&gt; Indeed, a meta-analysis of 60 studies on religion and crime concluded, “religious behaviors and beliefs exert a moderate deterrent effect on individuals’ criminal behavior”.&lt;ref&gt;Baier, C. J.,&amp; Wright, B. R. (2001). “If you love me, keep my commandments”:A meta-analysis of the effect of religion on crime. Journal of Research in Crime and Delinquency,38,3–21.&lt;/ref&gt;<del class=\"diffchange diffchange-inline\"> hi</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>&lt;/ref&gt; Indeed, a meta-analysis of 60 studies on religion and crime concluded, “religious behaviors and beliefs exert a moderate deterrent effect on individuals’ criminal behavior”.&lt;ref&gt;Baier, C. J.,&amp; Wright, B. R. (2001). “If you love me, keep my commandments”:A meta-analysis of the effect of religion on crime. Journal of Research in Crime and Delinquency,38,3–21.&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religion as a source of moral authority===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religion as a source of moral authority===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:380815403:newid:380815459 -->\n",
+    "from": 380815403
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Types */",
+  "timestamp": "2006-06-08T01:22:38Z",
+  "revid": 57456854,
+  "anon": "",
+  "user": "132.203.54.89",
+  "parentid": 57454731,
+  "diff": {
+    "to": 57456854,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Covenant love]] - an unconditional decision of the will to place the needs and benefits of another person before oneself.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Covenant love]] - an unconditional decision of the will to place the needs and benefits of another person before oneself.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*<del class=\"diffchange diffchange-inline\">Active</del> Love - A voluntary practice of \"knowing what someone truly is and caring for that to the exclusion of all else\". Linked in some respects to philosophy of [[Non-duality]] and certain types of [[magic]]. Cited by Deepak Chopra and Marelin Thornton as a more \"[[Wizard]]ly\" love, as compared to all other types.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*<ins class=\"diffchange diffchange-inline\">[[Unconditional]]</ins> Love - A voluntary practice of \"knowing what someone truly is and caring for that to the exclusion of all else\". Linked in some respects to philosophy of [[Non-duality]] and certain types of [[magic]]. Cited by Deepak Chopra and Marelin Thornton as a more \"[[Wizard]]ly\" love, as compared to all other types.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:57454731:newid:57456854 -->\n",
+    "from": 57454731
+  }
+}

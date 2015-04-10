@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Ai */ typo",
+  "timestamp": "2004-10-13T10:48:16Z",
+  "revid": 6568206,
+  "user": "Johnkarp",
+  "parentid": 6545749,
+  "diff": {
+    "to": 6568206,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 126:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 126:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Ai====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Ai====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In [[Japanese Buddhism]], [[ai]] is passionate caring love, and a <del class=\"diffchange diffchange-inline\">fundemental</del> desire. It can develop towards either selfishness or selflessness and enlightenment.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In [[Japanese Buddhism]], [[ai]] is passionate caring love, and a <ins class=\"diffchange diffchange-inline\">fundamental</ins> desire. It can develop towards either selfishness or selflessness and enlightenment.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Amae====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Amae====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:6545749:newid:6568206 -->\n",
+    "from": 6545749
+  },
+  "minor": ""
+}

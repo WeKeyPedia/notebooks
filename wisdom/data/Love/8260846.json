@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Ai */",
+  "timestamp": "2004-12-08T01:25:02Z",
+  "revid": 8260846,
+  "user": "Esprungo",
+  "parentid": 8225182,
+  "diff": {
+    "to": 8260846,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 127:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 127:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Ai====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Ai====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In [[Japanese Buddhism]], [[ai]] is passionate caring love, and a fundamental desire. It can develop towards either selfishness or selflessness and enlightenment.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In [[Japanese Buddhism]], [[ai]] <ins class=\"diffchange diffchange-inline\">(?)</ins>is passionate caring love, and a fundamental desire. It can develop towards either selfishness or selflessness and enlightenment.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Amae====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Amae====</div></td>\n</tr>\n",
+    "from": 8225182
+  }
+}

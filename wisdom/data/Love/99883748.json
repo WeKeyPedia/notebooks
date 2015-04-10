@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Definitional issues */",
+  "timestamp": "2007-01-11T00:28:56Z",
+  "revid": 99883748,
+  "anon": "",
+  "user": "66.245.35.12",
+  "parentid": 99837665,
+  "diff": {
+    "to": 99883748,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 75:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 75:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[family]]''' - people related via common ancestry(ie:Platonic love)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[family]]''' - people related via common ancestry(ie:Platonic love)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[Human bonding|bond]]''' - the inner connection when another person is a part of your identity.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[Human bonding|bond]]''' - the inner connection when another person is a part of your identity.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>#'''[[Love]]''' - as in Jason loves olivia more than she will ever know or be able to match.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Thomas Jay Oord]] defines love as acting intentionally, in sympathetic response to others (including God), to promote overall well-being.  Oord means for his definition to be adequate for religion, philosophy, and the sciences.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Thomas Jay Oord]] defines love as acting intentionally, in sympathetic response to others (including God), to promote overall well-being.  Oord means for his definition to be adequate for religion, philosophy, and the sciences.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:99837665:newid:99883748 -->\n",
+    "from": 99837665
+  }
+}

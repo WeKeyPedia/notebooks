@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2007-02-16T12:23:23Z",
+  "revid": 108589183,
+  "anon": "",
+  "user": "163.1.111.33",
+  "parentid": 108579918,
+  "diff": {
+    "to": 108589183,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 166:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 166:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.galilean-library.org/int11.html An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.galilean-library.org/int11.html An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.geeta-kavita.com/article.asp?article=tatva_chintan_4 What is right? What is wrong?] An article in Hindi about the evolution of the concept of right and wrong, at geeta-kavita.com.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.geeta-kavita.com/article.asp?article=tatva_chintan_4 What is right? What is wrong?] An article in Hindi about the evolution of the concept of right and wrong, at geeta-kavita.com.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.animalethics.org.uk Brute Ethics: the animal ethics encyclopedia]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Stanford Encyclopedia of Philosophy</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Stanford Encyclopedia of Philosophy</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-ancient/ Ancient Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-ancient/ Ancient Ethics]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:108579918:newid:108589183 -->\n",
+    "from": 108579918
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "I don't agree with this \"definition\"",
+  "timestamp": "2005-08-17T13:11:44Z",
+  "revid": 21214680,
+  "user": "Paul August",
+  "parentid": 21209836,
+  "diff": {
+    "to": 21214680,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining love==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining love==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Love is the [[emotion]] produced when the brain perceives something that satisfies its needs. See [[perception]] and [[hierarchy of human needs]]. </div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Just as there are many types of lovers, there are many kinds of love. Love is inherent in all human cultures. It is precisely these cultural differences that make any universal definition of love difficult to establish. See the [[Sapir-Whorf hypothesis]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Just as there are many types of lovers, there are many kinds of love. Love is inherent in all human cultures. It is precisely these cultural differences that make any universal definition of love difficult to establish. See the [[Sapir-Whorf hypothesis]].</div></td>\n</tr>\n",
+    "from": 21209836
+  }
+}

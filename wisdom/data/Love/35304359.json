@@ -1,0 +1,13 @@
+﻿{
+  "comment": "fix capitalization from last edit",
+  "timestamp": "2006-01-15T20:03:39Z",
+  "revid": 35304359,
+  "anon": "",
+  "user": "62.45.69.209",
+  "parentid": 35248579,
+  "diff": {
+    "to": 35304359,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- We know, it's amazing to love and be loved, but please express your love by helping Wikipedia to improve, not by telling all the world here in this article how much you love your significant other. The edit will be removed in seconds anyway. Have a happy life! --&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- We know, it's amazing to love and be loved, but please express your love by helping Wikipedia to improve, not by telling all the world here in this article how much you love your significant other. The edit will be removed in seconds anyway. Have a happy life! --&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{mergefrom|True <del class=\"diffchange diffchange-inline\">Love</del>}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{mergefrom|True <ins class=\"diffchange diffchange-inline\">love</ins>}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|200px|thumb|right|The [[Heart (Symbolism and Metaphor)|heart]], a frequent modern symbol of love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|200px|thumb|right|The [[Heart (Symbolism and Metaphor)|heart]], a frequent modern symbol of love]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:35248579:newid:35304359 -->\n",
+    "from": 35248579
+  }
+}

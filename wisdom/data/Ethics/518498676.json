@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */ inappropriate",
+  "timestamp": "2012-10-18T12:02:43Z",
+  "revid": 518498676,
+  "anon": "",
+  "user": "69.126.178.206",
+  "parentid": 518497617,
+  "diff": {
+    "to": 518498676,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 200:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 200:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral psychology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral psychology]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Outline of ethics]] ''(list of ethics-related articles, arranged by sub-topic)''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Outline of ethics]] ''(list of ethics-related articles, arranged by sub-topic)''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Hippocratic Oath]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:518497617:newid:518498676 -->\n",
+    "from": 518497617
+  }
+}

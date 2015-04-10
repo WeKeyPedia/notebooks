@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edit(s) by [[Special:Contributions/216.46.204.186|216.46.204.186]] identified as test/vandalism using [[WP:STiki|STiki]]",
+  "timestamp": "2012-12-19T21:14:39Z",
+  "revid": 528857037,
+  "user": "Kevin12xd",
+  "parentid": 528850904,
+  "diff": {
+    "to": 528857037,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 15:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 15:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Main|Meta-<del class=\"diffchange diffchange-inline\">WHAT??</del>}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Main|Meta-<ins class=\"diffchange diffchange-inline\">ethics</ins>}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Meta-ethics is a field within ethics that seeks to understand the nature of [[normative ethics]]. The focus of meta-ethics is on how we understand, know about, and what we mean when we talk about what is right and what is wrong.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Meta-ethics is a field within ethics that seeks to understand the nature of [[normative ethics]]. The focus of meta-ethics is on how we understand, know about, and what we mean when we talk about what is right and what is wrong.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:528850904:newid:528857037 -->\n",
+    "from": 528850904
+  },
+  "minor": ""
+}

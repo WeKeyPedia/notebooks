@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Defining love */",
+  "timestamp": "2005-09-11T20:06:00Z",
+  "revid": 23056068,
+  "anon": "",
+  "user": "64.231.1.159",
+  "parentid": 23055951,
+  "diff": {
+    "to": 23056068,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining love==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining love==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>  </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>  <ins class=\"diffchange diffchange-inline\">Love is fucking someone over and over again. FUCK YOU ALL! DIE FUCK YOU FUCK YOU FUCK YOU!!!!!!!!!</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Just as there are POOS THAT FUCK! many types of lovers, there are many kinds of love. Love is inherent in all human cultures. It is precisely these cultural differences that make any universal definition of love difficult to establish. See the [[Sapir-Whorf hypothesis]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Just as there are POOS THAT FUCK! many types of lovers, there are many kinds of love. Love is inherent in all human cultures. It is precisely these cultural differences that make any universal definition of love difficult to establish. See the [[Sapir-Whorf hypothesis]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:23055951:newid:23056068 -->\n",
+    "from": 23055951
+  }
+}

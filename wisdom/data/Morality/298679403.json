@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/75.36.148.201|75.36.148.201]] to last revision by B1111111 ([[WP:HG|HG]])",
+  "timestamp": "2009-06-26T03:12:21Z",
+  "revid": 298679403,
+  "user": "LeaveSleaves",
+  "parentid": 298679341,
+  "diff": {
+    "to": 298679403,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 15:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 15:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>==Philosophical perspectives==<del class=\"diffchange diffchange-inline\">gay</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>==Philosophical perspectives==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Clarifying the term \"morality\"===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Clarifying the term \"morality\"===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The fact that there are at least three different usages of the term \"morality\" (see above) has led to much confusion when that word is used in discussions.  Because of that confusion, many thinkers are forced to spend a certain amount of time dealing with that confusion before they even begin to use the term “morality” in their discussions. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The fact that there are at least three different usages of the term \"morality\" (see above) has led to much confusion when that word is used in discussions.  Because of that confusion, many thinkers are forced to spend a certain amount of time dealing with that confusion before they even begin to use the term “morality” in their discussions. </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:298679341:newid:298679403 -->\n",
+    "from": 298679341
+  },
+  "minor": ""
+}

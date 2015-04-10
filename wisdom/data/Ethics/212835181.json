@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Greek philosophy */",
+  "timestamp": "2008-05-16T14:10:57Z",
+  "revid": 212835181,
+  "anon": "",
+  "user": "71.83.158.156",
+  "parentid": 212777418,
+  "diff": {
+    "to": 212835181,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 47:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 47:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- ===Friedrich Nietzsche=== --&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- ===Friedrich Nietzsche=== --&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- --&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- --&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&lt;!-- ==Anglo-American philosophy==</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>&lt;!-- ==Anglo-American philosophy==<ins class=\"diffchange diffchange-inline\">gytyiueryihu5yhurihueryihue5yihur5yr5yiotry</ins></div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>rjetrijotryijotyijhoetryijoetryijpoeryi0potry</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- ===Utilitarianism===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- ===Utilitarianism===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- ===Josiah Royce===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- ===Josiah Royce===</div></td>\n</tr>\n",
+    "from": 212777418
+  }
+}

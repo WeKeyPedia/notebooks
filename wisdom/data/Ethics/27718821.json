@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* The first social science */",
+  "timestamp": "2005-11-08T13:00:22Z",
+  "revid": 27718821,
+  "anon": "",
+  "user": "194.82.16.252",
+  "parentid": 27638024,
+  "diff": {
+    "to": 27718821,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[analytic philosophy]], ethics is traditionally divided into three fields: [[Meta-ethics]], [[Normative ethics]] (including [[value theory]] and the [[theory of conduct]]) and [[applied ethics]] &amp;ndash; which is seen to be derived, top-down, from normative and thus meta-ethics.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[analytic philosophy]], ethics is traditionally divided into three fields: [[Meta-ethics]], [[Normative ethics]] (including [[value theory]] and the [[theory of conduct]]) and [[applied ethics]] &amp;ndash; which is seen to be derived, top-down, from normative and thus meta-ethics.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>ethics is half way in between thuthix and wethix</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Meta-ethics ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Meta-ethics ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:27638024:newid:27718821 -->\n",
+    "from": 27638024
+  }
+}

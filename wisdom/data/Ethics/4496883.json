@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* The first social science */ '''m'''",
+  "timestamp": "2004-07-07T18:02:05Z",
+  "revid": 4496883,
+  "anon": "",
+  "user": "132.229.31.126",
+  "parentid": 4493476,
+  "diff": {
+    "to": 4496883,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 32:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 32:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>As these fields become more complex, and deal with more situations, ethics too tends to become complex.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>As these fields become more complex, and deal with more situations, ethics too tends to become complex.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>But Schopenhauer stated that the first ethical principle was extremely simple <del class=\"diffchange diffchange-inline\">an</del> convincing: \"Neminem laede; imo omnes, quantum potes, juva.\" (Do no harm to anyone, but give a helping hand to as many people as you can.)<del class=\"diffchange diffchange-inline\">  </del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>But Schopenhauer stated that the first ethical principle was extremely simple <ins class=\"diffchange diffchange-inline\">and</ins> convincing: \"Neminem laede; imo omnes, quantum potes, juva.\" (Do no harm to anyone, but give a helping hand to as many people as you can.)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Ethics vs. politics vs. religion vs. practice ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Ethics vs. politics vs. religion vs. practice ===</div></td>\n</tr>\n",
+    "from": 4493476
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Added hatnote",
+  "timestamp": "2013-04-19T15:06:18Z",
+  "revid": 551142880,
+  "user": "Neelix",
+  "parentid": 551142689,
+  "diff": {
+    "to": 551142880,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{for|the 2009 novella by Stephen King|Morality (novella)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect|Appropriate||Appropriation (disambiguation)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect|Appropriate||Appropriation (disambiguation)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect2|Immoralist|Impropriety|the novel by André Gide|The Immoralist|the improvised performance company|Impropriety (company)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect2|Immoralist|Impropriety|the novel by André Gide|The Immoralist|the improvised performance company|Impropriety (company)}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:551142689:newid:551142880 -->\n",
+    "from": 551142689
+  }
+}

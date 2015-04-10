@@ -1,0 +1,13 @@
+﻿{
+  "comment": "WP:♥",
+  "timestamp": "2015-03-15T01:59:54Z",
+  "revid": 651419751,
+  "user": "Some Gadget Geek",
+  "parentid": 650270638,
+  "diff": {
+    "to": 651419751,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Use dmy dates|date=November 2014}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Use dmy dates|date=November 2014}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{About}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{About<ins class=\"diffchange diffchange-inline\">|the general concept of \"love\"</ins>}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{for|information about showing love on Wikipedia|WP:LOVE|WP:♥}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{pp-semi-indef}}{{pp-move-indef}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{pp-semi-indef}}{{pp-move-indef}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[File:DickseeRomeoandJuliet.jpg|thumb|Archetypal lovers [[Romeo and Juliet]] portrayed by [[Frank Bernard Dicksee|Frank Dicksee]]]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[File:DickseeRomeoandJuliet.jpg|thumb|Archetypal lovers [[Romeo and Juliet]] portrayed by [[Frank Bernard Dicksee|Frank Dicksee]]]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:650270638:newid:651419751 -->\n",
+    "from": 650270638
+  },
+  "minor": ""
+}

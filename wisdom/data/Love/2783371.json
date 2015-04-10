@@ -1,0 +1,12 @@
+﻿{
+  "comment": "rv",
+  "timestamp": "2004-03-15T23:36:50Z",
+  "revid": 2783371,
+  "user": "Andres",
+  "parentid": 2783326,
+  "diff": {
+    "to": 2783371,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>: ''For the 1960s band, see [[Love (band)]]. The term is also used in [[Tennis#History of tennis|tennis]].''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>: ''For the 1960s band, see [[Love (band)]]. The term is also used in [[Tennis#History of tennis|tennis]].''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Nick+Micheala </div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' is a special [[affection]] for someone or something, a [[feeling]] or [[emotion]]. Various different types of love  exist, which are more or less related:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' is a special [[affection]] for someone or something, a [[feeling]] or [[emotion]]. Various different types of love  exist, which are more or less related:</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:2783326:newid:2783371 -->\n",
+    "from": 2783326
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2013-11-04T20:37:06Z",
+  "revid": 580206539,
+  "anon": "",
+  "user": "64.85.242.253",
+  "parentid": 579956058,
+  "diff": {
+    "to": 580206539,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{lead too short|date=June 2012}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{lead too short|date=June 2012}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{for|the 2009 novella by Stephen King|Morality (novella)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{for|the 2009 novella by Stephen King|Morality (novella)}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{too many templates}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect2|Appropriate|inappropriate|the rating of activities and media according to age groups|age-appropriate|other uses|Appropriation (disambiguation)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect2|Appropriate|inappropriate|the rating of activities and media according to age groups|age-appropriate|other uses|Appropriation (disambiguation)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{hatnote|\"Properly\", \"properness\", \"improper\", and \"impropriety\" redirect here. For the improvised performance company, see [[Impropriety (company)]]. For other uses, see [[Proper (disambiguation)]]}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{hatnote|\"Properly\", \"properness\", \"improper\", and \"impropriety\" redirect here. For the improvised performance company, see [[Impropriety (company)]]. For other uses, see [[Proper (disambiguation)]]}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:579956058:newid:580206539 -->\n",
+    "from": 579956058
+  }
+}

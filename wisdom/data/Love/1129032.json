@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2003-07-09T10:14:52Z",
+  "revid": 1129032,
+  "anon": "",
+  "user": "134.184.121.56",
+  "parentid": 1128961,
+  "diff": {
+    "to": 1129032,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 9:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 9:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving something abstract or inanimate</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving something abstract or inanimate</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving one's nation or [[homeland]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving one's nation or [[homeland]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div># loving Lamia Shour</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>What is common to all the types of love, is a conscious or subconscious desire towards someone or something or realisation of their goals.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>What is common to all the types of love, is a conscious or subconscious desire towards someone or something or realisation of their goals.</div></td>\n</tr>\n",
+    "from": 1128961
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Definitional issues */  Who is F V Louvel? Google search results: 0",
+  "timestamp": "2006-07-01T14:55:26Z",
+  "revid": 61547799,
+  "user": "Vanished user 983rjlsefihjruhe5yi",
+  "parentid": 61541672,
+  "diff": {
+    "to": 61547799,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 62:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 62:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[family]]''' - people related via common ancestry.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[family]]''' - people related via common ancestry.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[Psychological bond|bond]]'''.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[Psychological bond|bond]]'''.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Love was defined in 2006 by F.V. Louvel as \"Self-understanding of each other's desire\". This is applicable, obviously, only in the context of a bipart relationship composed of hetero- or homo-sexual individuals.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n",
+    "from": 61541672
+  }
+}

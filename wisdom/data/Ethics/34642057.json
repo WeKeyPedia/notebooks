@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-01-10T18:47:34Z",
+  "revid": 34642057,
+  "anon": "",
+  "user": "216.20.238.225",
+  "parentid": 34641926,
+  "diff": {
+    "to": 34642057,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 203:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 203:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/ross/right.html W. D. Ross, ''The Right and the Good'' (1930)]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/ross/right.html W. D. Ross, ''The Right and the Good'' (1930)]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.globalpublic.org Ethics &amp; Democracy]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.globalpublic.org Ethics &amp; Democracy]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://www.www.josephsoninstitute.org The Josephson Institute of Ethics]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.www.josephsoninstitute.org The Josephson Institute of Ethics]<ins class=\"diffchange diffchange-inline\">An organization aimed to improve the ethical quality of society by changing personal and organizational decision making and behavior.</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.galilean-library.org/int11.html An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.galilean-library.org/int11.html An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Stanford Encyclopedia of Philosophy</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Stanford Encyclopedia of Philosophy</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:34641926:newid:34642057 -->\n",
+    "from": 34641926
+  }
+}

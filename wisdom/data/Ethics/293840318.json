@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Military ethics */",
+  "timestamp": "2009-06-02T00:28:28Z",
+  "revid": 293840318,
+  "anon": "",
+  "user": "203.33.181.133",
+  "parentid": 293840182,
+  "diff": {
+    "to": 293840318,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 95:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 95:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># race (loss of capability due to race bias or abuse)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># race (loss of capability due to race bias or abuse)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># gender equality (loss of capability due to gender bias or abuse)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># gender equality (loss of capability due to gender bias or abuse)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div># age discrimination (authority based upon age instead of accomplishment or productivity)</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div># age discrimination<ins class=\"diffchange diffchange-inline\"> is allowed in australia</ins> (authority based upon age instead of accomplishment or productivity)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># nepotism (unfair control by family members; also known as \"empire building\")</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># nepotism (unfair control by family members; also known as \"empire building\")</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div># <del class=\"diffchange diffchange-inline\">political</del> <del class=\"diffchange diffchange-inline\">influence</del> (military members having a political position or political influence)</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div># <ins class=\"diffchange diffchange-inline\">black</ins> <ins class=\"diffchange diffchange-inline\">man ... potatoe chips hahahaha</ins> (military members having a political position or political influence)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>And others.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>And others.</div></td>\n</tr>\n",
+    "from": 293840182
+  }
+}

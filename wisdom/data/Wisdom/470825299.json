@@ -1,0 +1,12 @@
+﻿{
+  "comment": "added [[Category:Concepts in epistemology]] using [[WP:HC|HotCat]]",
+  "timestamp": "2012-01-11T17:51:15Z",
+  "revid": 470825299,
+  "user": "Gregbard",
+  "parentid": 470722004,
+  "diff": {
+    "to": 470825299,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 181:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 181:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Knowledge]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Knowledge]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Virtue]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Virtue]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Category:Concepts in epistemology]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ar:حكمة]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ar:حكمة]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:470722004:newid:470825299 -->\n",
+    "from": 470722004
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Improved wording",
+  "timestamp": "2006-08-07T20:42:17Z",
+  "revid": 68260825,
+  "user": "Ecksemmess",
+  "parentid": 68124510,
+  "diff": {
+    "to": 68260825,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 16:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 16:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Types==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Types==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Courtly love]] – a late medieval conventionalized code prescribing certain conduct and emotions for ladies and their lovers</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Courtly love]] – a late medieval conventionalized code prescribing certain conduct and emotions for ladies and their lovers</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Erotic love]] – <del class=\"diffchange diffchange-inline\">desire</del> characterized by sexual desires</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Erotic love]] – <ins class=\"diffchange diffchange-inline\">affection</ins> characterized by sexual desires</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Familial love]] – affection brokered through kinship connections, intertwined with concepts of attachment and bonding</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Familial love]] – affection brokered through kinship connections, intertwined with concepts of attachment and bonding</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Free love]] – sexual relations according to choice and unrestricted by marriage</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Free love]] – sexual relations according to choice and unrestricted by marriage</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:68124510:newid:68260825 -->\n",
+    "from": 68124510
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/61.95.116.178|61.95.116.178]] ([[User talk:61.95.116.178|talk]]) to last version by Discospinster",
+  "timestamp": "2006-02-28T08:32:42Z",
+  "revid": 41585165,
+  "user": "Wayward",
+  "parentid": 41585137,
+  "diff": {
+    "to": 41585165,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Jade is GAY</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- We know, it's amazing to love and be loved, but please express your love by helping Wikipedia to improve, not by telling all the world here in this article how much you love your significant other or others. The edit will be removed in seconds anyway. Have a happy life! --&gt;{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- We know, it's amazing to love and be loved, but please express your love by helping Wikipedia to improve, not by telling all the world here in this article how much you love your significant other or others. The edit will be removed in seconds anyway. Have a happy life! --&gt;{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|200px|thumb|right|The [[Heart (symbol)|heart]], a frequent modern symbol of love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|200px|thumb|right|The [[Heart (symbol)|heart]], a frequent modern symbol of love]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:41585137:newid:41585165 -->\n",
+    "from": 41585137
+  },
+  "minor": ""
+}

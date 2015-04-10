@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */  stanford enc.",
+  "timestamp": "2005-05-04T02:15:44Z",
+  "revid": 13411577,
+  "user": "Kzollman",
+  "parentid": 13202618,
+  "diff": {
+    "to": 13411577,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 208:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 208:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-ancient/ Ancient Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-ancient/ Ancient Ethics]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-environmental/ Environmental Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-environmental/ Environmental Ethics]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>** [http://plato.stanford.edu/entries/feminism-ethics/ Feminist Ethics]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/natural-law-ethics/ Natural Law Tradition in Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/natural-law-ethics/ Natural Law Tradition in Ethics]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-virtue/ Virtue Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-virtue/ Virtue Ethics]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:13202618:newid:13411577 -->\n",
+    "from": 13202618
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2009-01-13T16:03:13Z",
+  "revid": 263825088,
+  "anon": "",
+  "user": "65.115.191.5",
+  "parentid": 263824891,
+  "diff": {
+    "to": 263825088,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">{{otheruses}}</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Ethics}}</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' is a major branch of [[philosophy]], encompassing right conduct and good life. It is significantly broader than the common conception of analyzing right and wrong. A central aspect of ethics is \"the good life\", the life worth living or life that is simply satisfying, which is held by many philosophers to be more important than [[Morality|moral]] conduct.&lt;ref&gt;Singer, P. (1993) ''Practical Ethics'', 2nd edition (p.10), Cambrdige: Cambridge University Press&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' is a major branch of [[philosophy]], encompassing right conduct and good life. It is significantly broader than the common conception of analyzing right and wrong. A central aspect of ethics is \"the good life\", the life worth living or life that is simply satisfying, which is held by many philosophers to be more important than [[Morality|moral]] conduct.&lt;ref&gt;Singer, P. (1993) ''Practical Ethics'', 2nd edition (p.10), Cambrdige: Cambridge University Press&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:263824891:newid:263825088 -->\n",
+    "from": 263824891
+  }
+}

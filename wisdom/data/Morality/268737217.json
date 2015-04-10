@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/81.109.19.114|81.109.19.114]] ([[User talk:81.109.19.114|talk]]) to last version by ClueBot",
+  "timestamp": "2009-02-05T18:45:09Z",
+  "revid": 268737217,
+  "user": "Dougweller",
+  "parentid": 268736406,
+  "diff": {
+    "to": 268737217,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 248:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 248:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מוסר]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מוסר]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:道德]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:道德]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Hello!</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n",
+    "from": 268736406
+  },
+  "minor": ""
+}

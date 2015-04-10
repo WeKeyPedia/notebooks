@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Types */  dashes unified",
+  "timestamp": "2006-08-09T13:37:52Z",
+  "revid": 68606479,
+  "user": "Dulciana",
+  "parentid": 68605811,
+  "diff": {
+    "to": 68606479,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 27:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 27:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Religious love]] – devotion to one's deity or theology</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Religious love]] – devotion to one's deity or theology</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional intimacy and sexual desire</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional intimacy and sexual desire</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[agape|True love]] <del class=\"diffchange diffchange-inline\">-</del> love without condition, motive or attachment. Loving someone just because they are themselves, not their actions or beliefs in particular</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[agape|True love]] <ins class=\"diffchange diffchange-inline\">–</ins> love without condition, motive or attachment. Loving someone just because they are themselves, not their actions or beliefs in particular</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:68605811:newid:68606479 -->\n",
+    "from": 68605811
+  },
+  "minor": ""
+}

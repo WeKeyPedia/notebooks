@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Cultural views */",
+  "timestamp": "2007-07-06T16:47:00Z",
+  "revid": 142924613,
+  "user": "Anilverma",
+  "parentid": 142804108,
+  "diff": {
+    "to": 142924613,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 277:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 277:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Portuguese - Eu te amo</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Portuguese - Eu te amo</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Punjabi - Main tainu pyar karda ha (jatt tere te marda hai)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Romanian - Te iubesc Awexu </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Romanian - Te iubesc Awexu </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:142804108:newid:142924613 -->\n",
+    "from": 142804108
+  }
+}

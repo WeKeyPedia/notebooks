@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-04-22T19:03:47Z",
+  "revid": 12855797,
+  "user": "Influence",
+  "parentid": 12673115,
+  "diff": {
+    "to": 12855797,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Wisdom''' is often meant as the ability and desire to make [[choice]]s that can gain approval in a long-term examination by many people.  In this sense, to label a choice \"wise\" implies that the action or inaction was [[strategic]]ally correct when judged by widely-held [[value theory|values]].<del class=\"diffchange diffchange-inline\">  </del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Wisdom''' is often meant as the ability and desire to make [[choice]]s that can gain approval in a long-term examination by many people.  In this sense, to label a choice \"wise\" implies that the action or inaction was [[strategic]]ally correct when judged by widely-held [[value theory|values]].</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>To acknowledge the existence of wisdom assumes order and absolutes.  Wisdom is recognizing the difference between good and evil and choosing what is good.  To acknowledge wisdom is also to acknowledge consequences to unwise or foolish choices.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A wise person is often called a \"sage.\"  The technical philosophical term for the opposite of wisdom is \"[[folly]].\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A wise person is often called a \"sage.\"  The technical philosophical term for the opposite of wisdom is \"[[folly]].\"</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:12673115:newid:12855797 -->\n",
+    "from": 12673115
+  }
+}

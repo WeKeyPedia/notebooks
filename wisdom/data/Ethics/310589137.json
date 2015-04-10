@@ -1,0 +1,13 @@
+﻿{
+  "comment": "[[WP:UNDO|Undid]] revision 310588166 by [[Special:Contributions/74.231.186.224|74.231.186.224]] ([[User talk:74.231.186.224|talk]]) for vandalism",
+  "timestamp": "2009-08-28T19:06:00Z",
+  "revid": 310589137,
+  "user": "Dramageek",
+  "parentid": 310588166,
+  "diff": {
+    "to": 310589137,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Otheruses}}<del class=\"diffchange diffchange-inline\">Dont nun of yall folks know what you talking bout so stop posting dis mess in da internet and stop tryna use all dese big words cuz dont nobody know what this mess mean put a real definition on here dat we can relate to...ya digga???</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:310588166:newid:310589137 -->\n",
+    "from": 310588166
+  },
+  "minor": ""
+}

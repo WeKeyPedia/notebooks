@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2008-09-21T16:37:16Z",
+  "revid": 240026633,
+  "user": "Raphael26",
+  "parentid": 239123306,
+  "diff": {
+    "to": 240026633,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 133:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 133:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://ourworld.compuserve.com/homepages/jsuebersax/Lexicon.htm Wisdom Lexicon Project]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://ourworld.compuserve.com/homepages/jsuebersax/Lexicon.htm Wisdom Lexicon Project]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.kabbalah5.com Authentic Kabbalah] Rabbi Raphael Afilalo</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.poetrybytroy.com/living_wisdom.html Living Wisdom — A Research Paper about Wisdom]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.poetrybytroy.com/living_wisdom.html Living Wisdom — A Research Paper about Wisdom]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.path-work.info Atlas of Wisdom: Wisdom in Psychology and Spirituality]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.path-work.info Atlas of Wisdom: Wisdom in Psychology and Spirituality]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:239123306:newid:240026633 -->\n",
+    "from": 239123306
+  }
+}

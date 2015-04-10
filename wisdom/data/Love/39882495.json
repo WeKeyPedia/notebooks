@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Scientific models */ sp",
+  "timestamp": "2006-02-16T15:11:06Z",
+  "revid": 39882495,
+  "user": "Ec5618",
+  "parentid": 39858414,
+  "diff": {
+    "to": 39882495,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 15:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 15:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Scientific models ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Scientific models ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Image:SwansHeart.jpg|thumb|300px|right|Swans forming a heart<del class=\"diffchange diffchange-inline\"> shape</del>,<del class=\"diffchange diffchange-inline\"> the shape</del> a common symbol for love.]]Biological models of love tend to see it as a mammalian drive, just like [[hunger]] or [[thirst]]. Psychology sees love as more of a social and cultural phenomenon. There are probably elements of truth in both views &amp;mdash; certainly love is influenced by [[hormone]]s (such as [[oxytocin]]) and [[pheromone]]s, and how people think and behave in love is influenced by their conceptions of love.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Image:SwansHeart.jpg|thumb|300px|right|Swans forming a heart, a common symbol for love<ins class=\"diffchange diffchange-inline\">, together</ins>.]]Biological models of love tend to see it as a mammalian drive, just like [[hunger]] or [[thirst]]. Psychology sees love as more of a social and cultural phenomenon. There are probably elements of truth in both views &amp;mdash; certainly love is influenced by [[hormone]]s (such as [[oxytocin]]) and [[pheromone]]s, and how people think and behave in love is influenced by their conceptions of love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Attraction and attachment===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Attraction and attachment===</div></td>\n</tr>\n",
+    "from": 39858414
+  }
+}

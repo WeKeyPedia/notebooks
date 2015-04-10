@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Business ethics */",
+  "timestamp": "2013-06-11T09:50:16Z",
+  "revid": 559364722,
+  "anon": "",
+  "user": "62.24.99.143",
+  "parentid": 559016578,
+  "diff": {
+    "to": 559364722,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 168:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 168:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In addition, the necessity of considering appropriate protocols, scientific integrity issues and a code of good practice - regarding the study of the abiotic world - is covered by this discipline. Studies on planetary geology (sensu lato) and astrobiology also require a geoethical approach.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In addition, the necessity of considering appropriate protocols, scientific integrity issues and a code of good practice - regarding the study of the abiotic world - is covered by this discipline. Studies on planetary geology (sensu lato) and astrobiology also require a geoethical approach.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>====Business ethics====</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">&lt;ref&gt;&lt;ref&gt;&lt;/ref&gt;&lt;/ref&gt;</ins>====Business ethics====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Business ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Business ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:559016578:newid:559364722 -->\n",
+    "from": 559016578
+  }
+}

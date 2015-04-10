@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Other Interpretations */",
+  "timestamp": "2009-05-20T16:13:40Z",
+  "revid": 291202043,
+  "user": "Definingwisdom",
+  "parentid": 291080843,
+  "diff": {
+    "to": 291202043,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 88:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 88:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Other Interpretations==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Other Interpretations==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Defining Wisdom]] is a project by Arete Initiative of the University of Chicago that provides 23 grantees from different universities with funding and resources to accomplish original research on wisdom<del class=\"diffchange diffchange-inline\"> from various perspectives</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Defining Wisdom]] is a project by Arete Initiative of the <ins class=\"diffchange diffchange-inline\">[[</ins>University of Chicago<ins class=\"diffchange diffchange-inline\">]]</ins> that provides 23 grantees from different universities with funding and resources to accomplish original<ins class=\"diffchange diffchange-inline\"> [[interdisciplinary</ins> research<ins class=\"diffchange diffchange-inline\">]]</ins> on wisdom.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:291080843:newid:291202043 -->\n",
+    "from": 291080843
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */ added link",
+  "timestamp": "2011-02-16T19:32:18Z",
+  "revid": 414292961,
+  "user": "Othersideon",
+  "parentid": 413918904,
+  "diff": {
+    "to": 414292961,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 220:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 220:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Philosophy of love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Philosophy of love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Polyamory]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Polyamory]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Vulnerability and care theory of love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{div col end}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{div col end}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:413918904:newid:414292961 -->\n",
+    "from": 413918904
+  },
+  "minor": ""
+}

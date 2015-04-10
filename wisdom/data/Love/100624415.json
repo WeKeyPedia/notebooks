@@ -1,0 +1,13 @@
+﻿{
+  "comment": "wordy ;; war to end all wars ;; vandalism to end all vandalisms ;; how many kingdoms for a horse with no name",
+  "timestamp": "2007-01-14T08:42:35Z",
+  "revid": 100624415,
+  "user": "Dreftymac",
+  "parentid": 100620037,
+  "diff": {
+    "to": 100624415,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>It's amazing to love and be loved, but please express your love by helping Wikipedia<del class=\"diffchange diffchange-inline\"> to improve</del>, not by <del class=\"diffchange diffchange-inline\">telling</del> <del class=\"diffchange diffchange-inline\">all</del> <del class=\"diffchange diffchange-inline\">the world here</del> in this article<del class=\"diffchange diffchange-inline\"> how much you love your significant other</del>. Love notes and other vandalism will be quickly removed. Thanks!</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>It's amazing to love and be loved, but please express your love by helping<ins class=\"diffchange diffchange-inline\"> improve</ins> Wikipedia, not by <ins class=\"diffchange diffchange-inline\">proclaiming</ins> <ins class=\"diffchange diffchange-inline\">your</ins> <ins class=\"diffchange diffchange-inline\">love</ins> in this article. Love notes and other vandalism will be quickly removed. Thanks!</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:100620037:newid:100624415 -->\n",
+    "from": 100620037
+  },
+  "minor": ""
+}

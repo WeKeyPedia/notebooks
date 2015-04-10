@@ -1,0 +1,13 @@
+﻿{
+  "comment": "inter-linked \"care\" to care page stub",
+  "timestamp": "2006-03-28T02:28:47Z",
+  "revid": 45795841,
+  "user": "Sadi Carnot",
+  "parentid": 45790220,
+  "diff": {
+    "to": 45795841,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[life]]''' - someone or something for which you would give your life.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[life]]''' - someone or something for which you would give your life.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>#'''care''' - someone or something about which you care more than yourself.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>#'''<ins class=\"diffchange diffchange-inline\">[[</ins>care<ins class=\"diffchange diffchange-inline\">]]</ins>''' - someone or something about which you care more than yourself.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[friendship]]''' - favored interpersonal associations or relationships.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[friendship]]''' - favored interpersonal associations or relationships.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[human bonding|union]]''' - a synergistic connection, as in the perfect union of two souls.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[human bonding|union]]''' - a synergistic connection, as in the perfect union of two souls.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:45790220:newid:45795841 -->\n",
+    "from": 45790220
+  },
+  "minor": ""
+}

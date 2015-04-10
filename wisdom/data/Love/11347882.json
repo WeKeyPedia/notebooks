@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Christian */",
+  "timestamp": "2005-03-20T08:18:45Z",
+  "revid": 11347882,
+  "user": "Andycjp",
+  "parentid": 11315024,
+  "diff": {
+    "to": 11347882,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 162:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 162:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Christian===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Christian===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Christianity|Christians]] believe that love to God and to other people (God's creation, as they see it) are the two most important things in life (the greatest commandment of God, according to [[Jesus]]. See The [[Gospel of Mark]] chapter 12, verses 28-34 in the [[Bible]]). [[Saint Augustine]] summarised this when he wrote \"Love God, and do as thou wilt\". Christians also beleive in the love of [[God]] for man so much that he would sacrifice  his son for them. Many Christian <del class=\"diffchange diffchange-inline\">also</del>[[Theology|<del class=\"diffchange diffchange-inline\">theologists</del>]] see God as the source of love which is mirrored in humans and their relationships.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Christianity|Christians]] believe that love to God and to other people (God's creation, as they see it) are the two most important things in life (the greatest commandment of God, according to [[Jesus]]. See The [[Gospel of Mark]] chapter 12, verses 28-34 in the [[Bible]]). [[Saint Augustine]] summarised this when he wrote \"Love God, and do as thou wilt\". Christians also beleive in the love of [[God]] for man so much that he would sacrifice  his son for them. Many Christian [[Theology|<ins class=\"diffchange diffchange-inline\">theologians</ins>]] see God as the source of love which is mirrored in humans and their relationships.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Agap&amp;#275;====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Agap&amp;#275;====</div></td>\n</tr>\n",
+    "from": 11315024
+  },
+  "minor": ""
+}

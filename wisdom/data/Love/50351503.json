@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Types */",
+  "timestamp": "2006-04-27T01:22:55Z",
+  "revid": 50351503,
+  "user": "JojoNZ",
+  "parentid": 50351340,
+  "diff": {
+    "to": 50351503,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 25:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 25:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Types ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Types ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Artie and Joanna love]] - two lovers<del class=\"diffchange diffchange-inline\"> named</del> Artie and Joanna who live in seperate countries<del class=\"diffchange diffchange-inline\">,</del> waiting the day til they met.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Artie and Joanna love]] - two lovers<ins class=\"diffchange diffchange-inline\">;</ins> Artie and Joanna<ins class=\"diffchange diffchange-inline\">,</ins> who live in seperate countries waiting the day til they met.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Courtly love]] – a late medieval conventionalized code prescribing certain conduct and emotions for ladies and their lovers.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Courtly love]] – a late medieval conventionalized code prescribing certain conduct and emotions for ladies and their lovers.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Erotic love]] – an aesthetic focused on sexual desires.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Erotic love]] – an aesthetic focused on sexual desires.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:50351340:newid:50351503 -->\n",
+    "from": 50351340
+  }
+}

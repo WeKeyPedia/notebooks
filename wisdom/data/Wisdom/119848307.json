@@ -1,0 +1,12 @@
+﻿{
+  "comment": "[[WP:UNDO|Undid]] revision 119846658 by [[Special:Contributions/74.104.226.49|74.104.226.49]] ([[User talk:74.104.226.49|talk]]) remove link to blog",
+  "timestamp": "2007-04-03T00:00:05Z",
+  "revid": 119848307,
+  "user": "Oberst",
+  "parentid": 119846658,
+  "diff": {
+    "to": 119848307,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 139:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 139:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.foundationsmag.com/wisdom2.html Wisdom: The Interval Between the Notes]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.foundationsmag.com/wisdom2.html Wisdom: The Interval Between the Notes]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.nick-maxwell.demon.co.uk From Knowledge to Wisdom]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.nick-maxwell.demon.co.uk From Knowledge to Wisdom]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.islamfrominside.com/Pages/Articles/ClimbingTheAscendingPathways.html Interpretation of the wise man on the mountain-top]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:119846658:newid:119848307 -->\n",
+    "from": 119846658
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Attraction and Attachment */",
+  "timestamp": "2004-11-26T23:51:28Z",
+  "revid": 7885029,
+  "anon": "",
+  "user": "207.213.215.247",
+  "parentid": 7884988,
+  "diff": {
+    "to": 7885029,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 43:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 43:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Attraction and Attachment===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Attraction and Attachment===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The conventional view in [[Biology]] is that there are two major drives in love &amp;mdash; [[sexual attraction]] and <del class=\"diffchange diffchange-inline\">[[</del>attachment<del class=\"diffchange diffchange-inline\">]]</del>. Attachment between adults is presumed to work on the same principles that lead an infant to become attached to their mother.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The conventional view in [[Biology]] is that there are two major drives in love &amp;mdash; [[sexual attraction]] and attachment. Attachment between adults is presumed to work on the same principles that lead an infant to become attached to their mother.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Companionate vs. Passionate ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Companionate vs. Passionate ===</div></td>\n</tr>\n",
+    "from": 7884988
+  }
+}

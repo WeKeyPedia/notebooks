@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Morality in judicial systems */",
+  "timestamp": "2007-03-26T16:24:25Z",
+  "revid": 118028363,
+  "anon": "",
+  "user": "212.117.127.210",
+  "parentid": 117854647,
+  "diff": {
+    "to": 118028363,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 40:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 40:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Morality in judicial systems==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Morality in judicial systems==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The law is considered a living governing system constructed by present and historical debate and moral consensus among juries, and more generally, all citizens under the system. This system is used to maintain order, righteousness, and justice in everyday life. Individual actions or events can be summoned to court for review, investigation, and prosecution if it is believed that there has been a breach of morality (meaning, a violation of the law) or if a law's moral implication is questioned. A verdict is a lawful determination of guilt, and a guilty party is one that has committed an immoral act.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In most systems, the lack of morality of the individual can also be a sufficient cause for punishment, or can be an element for the grading of the punishment.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In most systems, the lack of morality of the individual can also be a sufficient cause for punishment, or can be an element for the grading of the punishment.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:117854647:newid:118028363 -->\n",
+    "from": 117854647
+  }
+}

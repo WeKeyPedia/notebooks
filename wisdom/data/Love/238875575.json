@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2008-09-16T20:12:47Z",
+  "revid": 238875575,
+  "user": "SnapSnap",
+  "parentid": 238643024,
+  "diff": {
+    "to": 238875575,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">:''For other uses, see [[Love (disambiguation)]].''</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">{{otheruses4}}</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Crystal Clear app package favourite.png|thumb|A drawn [[heart]] is an international icon of love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Crystal Clear app package favourite.png|thumb|A drawn [[heart]] is an international icon of love]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:238643024:newid:238875575 -->\n",
+    "from": 238643024
+  },
+  "minor": ""
+}

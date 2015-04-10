@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/77.103.228.82|77.103.228.82]] ([[User talk:77.103.228.82|talk]]) to last revision by [[User:Pfhorrest|Pfhorrest]] ([[WP:HG|HG]])",
+  "timestamp": "2010-05-09T16:40:57Z",
+  "revid": 361106347,
+  "user": "Tommy2010",
+  "parentid": 361105041,
+  "diff": {
+    "to": 361106347,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 52:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 52:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Christian Hedonism]] is a controversial [[Christian theology|Christian doctrine]] current in some [[Evangelicalism|evangelical]] circles, particularly those of the [[Reformed theology|Reformed]] tradition. The term was coined by [[Reformed Baptist]] pastor [[John Piper (theologian)|John Piper]] in his 1986 book ''Desiring God''. Piper summarizes this philosophy of the Christian life as \"God is most glorified in us when we are most satisfied in Him.\"&lt;ref&gt;[http://www.desiringgod.org/ResourceLibrary/TopicIndex/85_Christian_Hedonism/1538_Christian_Hedonism/ Desiringgod.org]&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Christian Hedonism]] is a controversial [[Christian theology|Christian doctrine]] current in some [[Evangelicalism|evangelical]] circles, particularly those of the [[Reformed theology|Reformed]] tradition. The term was coined by [[Reformed Baptist]] pastor [[John Piper (theologian)|John Piper]] in his 1986 book ''Desiring God''. Piper summarizes this philosophy of the Christian life as \"God is most glorified in us when we are most satisfied in Him.\"&lt;ref&gt;[http://www.desiringgod.org/ResourceLibrary/TopicIndex/85_Christian_Hedonism/1538_Christian_Hedonism/ Desiringgod.org]&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div> haha</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Stoicism====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Stoicism====</div></td>\n</tr>\n",
+    "from": 361105041
+  },
+  "minor": ""
+}

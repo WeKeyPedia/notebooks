@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2012-01-25T23:58:02Z",
+  "revid": 473246072,
+  "anon": "",
+  "user": "67.176.127.32",
+  "parentid": 472357141,
+  "diff": {
+    "to": 473246072,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 170:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 170:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Resources ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Resources ===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://library.mpib-berlin.mpg.de/ft/pb/PB_Wisdom_2004.pdf Book on Wisdom from psychologist Paul Baltes]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://library.mpib-berlin.mpg.de/ft/pb/PB_Wisdom_2004.pdf Book on Wisdom from psychologist Paul Baltes]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://www.poetrybytroy.com/living_wisdom.html Living Wisdom — A Research Paper about Wisdom]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.wisdompage.com The Wisdom Page]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.wisdompage.com The Wisdom Page]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.wisdomation.com Share Your Wisdom Here]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.wisdomation.com Share Your Wisdom Here]</div></td>\n</tr>\n",
+    "from": 472357141
+  }
+}

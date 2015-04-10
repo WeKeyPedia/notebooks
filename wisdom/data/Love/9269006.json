@@ -1,0 +1,13 @@
+﻿{
+  "comment": "rv",
+  "timestamp": "2005-01-10T05:49:25Z",
+  "revid": 9269006,
+  "user": "Shanes",
+  "parentid": 9248376,
+  "diff": {
+    "to": 9269006,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 151:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 151:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Xenia====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Xenia====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In ancient Greece, the concept of [[xenia]] was extremely important. It was an almost ritualized</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In ancient Greece, the concept of [[xenia]] was extremely important. It was an almost ritualized<ins class=\"diffchange diffchange-inline\"> friendship formed between a host and their guest, who could previously be strangers. The host fed and provided quarters for the guest, who was only expected to repay with gratitude. The importance of this can be seen throughout Greek mythology, in particular Homer's [[Odyssey]].</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious Views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious Views==</div></td>\n</tr>\n",
+    "from": 9248376
+  },
+  "minor": ""
+}

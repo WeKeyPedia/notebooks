@@ -1,0 +1,12 @@
+﻿{
+  "comment": "+s",
+  "timestamp": "2007-02-26T04:15:20Z",
+  "revid": 110999793,
+  "user": "Arjun01",
+  "parentid": 110999717,
+  "diff": {
+    "to": 110999793,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{sprotect}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!--</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!--</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*********************************************************</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*********************************************************</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:110999717:newid:110999793 -->\n",
+    "from": 110999717
+  }
+}

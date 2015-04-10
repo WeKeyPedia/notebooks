@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Added hatnote",
+  "timestamp": "2013-04-19T14:53:14Z",
+  "revid": 551141370,
+  "user": "Neelix",
+  "parentid": 549828150,
+  "diff": {
+    "to": 551141370,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{redirect|Impropriety|the Liverpool-based improvised performance company|Impropriety (company)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Redirect2|Immoralist|Appropriate|the novel by André Gide|The Immoralist|other uses|Appropriation (disambiguation)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Redirect2|Immoralist|Appropriate|the novel by André Gide|The Immoralist|other uses|Appropriation (disambiguation)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Distinguish|Mortality (disambiguation){{!}}Mortality}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Distinguish|Mortality (disambiguation){{!}}Mortality}}</div></td>\n</tr>\n",
+    "from": 549828150
+  }
+}

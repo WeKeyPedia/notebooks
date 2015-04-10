@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/199.243.154.154|199.243.154.154]] ([[User_talk:199.243.154.154|talk]]) to version 57710347 by Derek Ross using [[User:AmiDaniel/VandalProof|VandalProof]]",
+  "timestamp": "2006-06-09T16:51:00Z",
+  "revid": 57727031,
+  "user": "Frymaster",
+  "parentid": 57726955,
+  "diff": {
+    "to": 57727031,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Types ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Types ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Courtly love]] – a late medieval conventionalized code prescribing certain conduct and emotions for ladies and their lovers.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Courtly love]] – a late medieval conventionalized code prescribing certain conduct and emotions for ladies and their lovers.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Erotic love]] – <del class=\"diffchange diffchange-inline\">doin'</del> <del class=\"diffchange diffchange-inline\">it</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Erotic love]] – <ins class=\"diffchange diffchange-inline\">desire</ins> <ins class=\"diffchange diffchange-inline\">characterized by a focus on sexual desires</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Familial love]] – affection brokered through kinship connections, intertwined with concepts of attachment and bonding.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Familial love]] – affection brokered through kinship connections, intertwined with concepts of attachment and bonding.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Free love]] – sexual relations according to choice and unrestricted by marriage.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Free love]] – sexual relations according to choice and unrestricted by marriage.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:57726955:newid:57727031 -->\n",
+    "from": 57726955
+  },
+  "minor": ""
+}

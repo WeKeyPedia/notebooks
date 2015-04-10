@@ -1,0 +1,13 @@
+﻿{
+  "comment": "grammatical correction",
+  "timestamp": "2006-05-04T20:44:39Z",
+  "revid": 51575952,
+  "anon": "",
+  "user": "65.54.98.162",
+  "parentid": 51230545,
+  "diff": {
+    "to": 51575952,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A standard [[philosophy|philosophical]] definition says that wisdom consists of making the best use of available [[propositional knowledge|knowledge]]. As with all decisions, a wise decision may be made with incomplete [[information]]. The technical philosophical term for the opposite of wisdom is [[folly]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A standard [[philosophy|philosophical]] definition says that wisdom consists of making the best use of available [[propositional knowledge|knowledge]]. As with all decisions, a wise decision may be made with incomplete [[information]]. The technical philosophical term for the opposite of wisdom is [[folly]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In his ''[[Metaphysics]]'', [[Aristotle]] defines wisdom as knowledge of causes: ''why'' things are <del class=\"diffchange diffchange-inline\">the</del> way<del class=\"diffchange diffchange-inline\"> they are</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In his ''[[Metaphysics]]'', [[Aristotle]] defines wisdom as knowledge of causes: ''why'' things are <ins class=\"diffchange diffchange-inline\">a certain</ins> way.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Sources of wisdom==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Sources of wisdom==</div></td>\n</tr>\n",
+    "from": 51230545
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Ancient Greek */",
+  "timestamp": "2015-01-01T16:37:47Z",
+  "revid": 640525867,
+  "user": "Manzzoku",
+  "parentid": 633698091,
+  "diff": {
+    "to": 640525867,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 114:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 114:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ancient Greek===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ancient Greek===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">See also [[</del>Greek words for love<del class=\"diffchange diffchange-inline\">]]</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">{{seealso|</ins>Greek words for love<ins class=\"diffchange diffchange-inline\">}}</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Greek language|Greek]] distinguishes [[Greek words for love|several different senses]] in which the word \"love\" is used. For example, Ancient Greek has the words ''philia'', ''eros'', ''agape'', ''storge'', and ''xenia''. However, with Greek (as with many other languages), it has been historically difficult to separate the meanings of these words totally. At the same time, the Ancient Greek text of the [[Bible]] has examples of the [[verb]] ''agapo'' having the same meaning as ''[[phileo]]''.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Greek language|Greek]] distinguishes [[Greek words for love|several different senses]] in which the word \"love\" is used. For example, Ancient Greek has the words ''philia'', ''eros'', ''agape'', ''storge'', and ''xenia''. However, with Greek (as with many other languages), it has been historically difficult to separate the meanings of these words totally. At the same time, the Ancient Greek text of the [[Bible]] has examples of the [[verb]] ''agapo'' having the same meaning as ''[[phileo]]''.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:633698091:newid:640525867 -->\n",
+    "from": 633698091
+  },
+  "minor": ""
+}

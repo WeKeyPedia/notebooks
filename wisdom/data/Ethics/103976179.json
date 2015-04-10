@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-01-29T01:31:47Z",
+  "revid": 103976179,
+  "user": "Vuong Ngan Ha",
+  "parentid": 103943301,
+  "diff": {
+    "to": 103976179,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 255:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 255:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tr:Etik]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tr:Etik]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[uk:Етика]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[uk:Етика]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[vi:Luân lý học]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:103943301:newid:103976179 -->\n",
+    "from": 103943301
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2010-10-19T06:52:23Z",
+  "revid": 391596830,
+  "anon": "",
+  "user": "78.39.225.112",
+  "parentid": 386077550,
+  "diff": {
+    "to": 391596830,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 192:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 192:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[simple:Wisdom]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[simple:Wisdom]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[so:Xikmad]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[so:Xikmad]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[ckb:<del class=\"diffchange diffchange-inline\">دانایی</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[ckb:<ins class=\"diffchange diffchange-inline\">چازانی</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sr:Мудрост]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sr:Мудрост]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Viisaus]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Viisaus]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:386077550:newid:391596830 -->\n",
+    "from": 386077550
+  }
+}

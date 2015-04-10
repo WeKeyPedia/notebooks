@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-05-14T21:11:26Z",
+  "revid": 53205017,
+  "anon": "",
+  "user": "88.154.107.5",
+  "parentid": 53110815,
+  "diff": {
+    "to": 53205017,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{merge|philosophy}} </div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Wisdom is that state that enables us to look at a decision, a thought, or an act, in the same way across time, moods, and other factors.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Wisdom is that state that enables us to look at a decision, a thought, or an act, in the same way across time, moods, and other factors.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:53110815:newid:53205017 -->\n",
+    "from": 53110815
+  }
+}

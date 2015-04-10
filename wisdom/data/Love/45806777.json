@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Revert to revision dated 02:41, 28 March 2006 by Sadi_Carnot, oldid 45797228 using [[:en:Wikipedia:Tools/Navigation_popups|popups]]",
+  "timestamp": "2006-03-28T04:04:49Z",
+  "revid": 45806777,
+  "user": "Shenme",
+  "parentid": 45806233,
+  "diff": {
+    "to": 45806777,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 130:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 130:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>''Italic text''love is overly used and know one knows what it really means. Its just meaningless bullshit</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:45806233:newid:45806777 -->\n",
+    "from": 45806233
+  }
+}

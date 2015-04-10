@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2009-01-16T16:59:04Z",
+  "revid": 264490556,
+  "anon": "",
+  "user": "163.6.198.10",
+  "parentid": 264275646,
+  "diff": {
+    "to": 264490556,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' is a major branch of [[philosophy]], encompassing right conduct and good life. It is significantly broader than the common conception of analyzing right and wrong. A central aspect of ethics is \"the good life\", the life worth living or life that is simply satisfying, which is held by many philosophers to be more important than [[Morality|moral]] conduct.&lt;ref&gt;Singer, P. (1993) ''Practical Ethics'', 2nd edition (p.10), Cambrdige: Cambridge University Press&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics'''<ins class=\"diffchange diffchange-inline\">hello</ins> is a major branch of [[philosophy]], encompassing right conduct and good life. It is significantly broader than the common conception of analyzing right and wrong. A central aspect of ethics is \"the good life\", the life worth living or life that is simply satisfying, which is held by many philosophers to be more important than [[Morality|moral]] conduct.&lt;ref&gt;Singer, P. (1993) ''Practical Ethics'', 2nd edition (p.10), Cambrdige: Cambridge University Press&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Greek philosophy==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Greek philosophy==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:264275646:newid:264490556 -->\n",
+    "from": 264275646
+  }
+}

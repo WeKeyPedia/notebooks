@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-09-15T02:05:12Z",
+  "revid": 23256404,
+  "anon": "",
+  "user": "69.128.152.38",
+  "parentid": 23219211,
+  "diff": {
+    "to": 23256404,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>: ''For the 1960s band, see [[Love (band)]].  The term is also used in [[Tennis#History|tennis]]. ''</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>: ''For the 1960s band, see [[Love (band)<ins class=\"diffchange diffchange-inline\">|Love</ins>]].  The term is also used in [[Tennis#History|tennis]]. ''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|thumb|right|The [[Heart (Symbolism and Metaphor)|heart]], a symbol of love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|thumb|right|The [[Heart (Symbolism and Metaphor)|heart]], a symbol of love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 23219211
+  }
+}

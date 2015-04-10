@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-11-01T22:53:58Z",
+  "revid": 85134939,
+  "user": "Grandia01",
+  "parentid": 85134366,
+  "diff": {
+    "to": 85134939,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 29:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 29:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Thoreau]] believed that “it is a characteristic of wisdom not to do desperate things.” </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Thoreau]] believed that “it is a characteristic of wisdom not to do desperate things.” </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* <del class=\"diffchange diffchange-inline\">PRACTICAL</del> Wisdom may be described as: Knowing what to say and when to say it.--TAO</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* <ins class=\"diffchange diffchange-inline\">''Practical''</ins> Wisdom may be described as: Knowing what to say and when to say it.--TAO</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Prophet [[Muhammad]] said that: \"Fearing [[God]] in your actions and intentions, and knowing that almighty [[God]] is watching you wherever and whenever you are is the peak of wisdom\". Link in [[arabic]][http://www.alnadawi.com/islam/hadeeth.php?action=show&amp;cat=7&amp;nid=13]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Prophet [[Muhammad]] said that: \"Fearing [[God]] in your actions and intentions, and knowing that almighty [[God]] is watching you wherever and whenever you are is the peak of wisdom\". Link in [[arabic]][http://www.alnadawi.com/islam/hadeeth.php?action=show&amp;cat=7&amp;nid=13]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:85134366:newid:85134939 -->\n",
+    "from": 85134366
+  }
+}

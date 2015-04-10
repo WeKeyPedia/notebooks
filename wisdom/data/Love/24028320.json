@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Japanese */ capitalization",
+  "timestamp": "2005-09-25T22:03:16Z",
+  "revid": 24028320,
+  "user": "Galaxiaad",
+  "parentid": 24028109,
+  "diff": {
+    "to": 24028320,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 131:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 131:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[Japanese Buddhism]], [[ai]] (&amp;#24859;) is passionate caring love, and a fundamental desire. It can develop towards either selfishness or selflessness and enlightenment.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[Japanese Buddhism]], [[ai]] (&amp;#24859;) is passionate caring love, and a fundamental desire. It can develop towards either selfishness or selflessness and enlightenment.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Amae]] (&amp;#29976;&amp;#12360;), a Japanese word meaning \"indulgent dependence\" is part of the child rearing culture of Japan. Japanese mothers are expected to hug and indulge their children, and children are expected to reward their mothers by clinging and serving. Some [[<del class=\"diffchange diffchange-inline\">Sociologist</del>]]s have suggested that Japanese social interactions in later life are modelled on the mother-child amae.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Amae]] (&amp;#29976;&amp;#12360;), a Japanese word meaning \"indulgent dependence\" is part of the child rearing culture of Japan. Japanese mothers are expected to hug and indulge their children, and children are expected to reward their mothers by clinging and serving. Some [[<ins class=\"diffchange diffchange-inline\">sociologist</ins>]]s have suggested that Japanese social interactions in later life are modelled on the mother-child amae.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ancient Greek===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ancient Greek===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:24028109:newid:24028320 -->\n",
+    "from": 24028109
+  },
+  "minor": ""
+}

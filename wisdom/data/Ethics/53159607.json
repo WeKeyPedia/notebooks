@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Applied ethics */",
+  "timestamp": "2006-05-14T15:34:32Z",
+  "revid": 53159607,
+  "user": "Furrykef",
+  "parentid": 53089404,
+  "diff": {
+    "to": 53159607,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 59:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 59:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Utilitarian bioethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Utilitarian bioethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Ethics has been applied to [[economics]], [[politics]] and [[political science]], leading to several distinct and unrelated fields of applied ethics, including [[<del class=\"diffchange diffchange-inline\">Business</del> ethics]] and [[Marxism]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Ethics has been applied to [[economics]], [[politics]] and [[political science]], leading to several distinct and unrelated fields of applied ethics, including [[<ins class=\"diffchange diffchange-inline\">business</ins> ethics]] and [[Marxism]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Ethics has been applied to family structure, sexuality, and how society views the roles of individuals; leading to several distinct and unrelated fields of applied ethics, including [[feminism]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Ethics has been applied to family structure, sexuality, and how society views the roles of individuals; leading to several distinct and unrelated fields of applied ethics, including [[feminism]].</div></td>\n</tr>\n",
+    "from": 53089404
+  },
+  "minor": ""
+}

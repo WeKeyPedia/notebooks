@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Dating maintenance tags: {{Merge from}}",
+  "timestamp": "2014-02-13T01:39:05Z",
+  "revid": 595230594,
+  "user": "AnomieBOT",
+  "parentid": 595228259,
+  "diff": {
+    "to": 595230594,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{merge from|Immorality|discuss=Talk:Immorality#Merge_to_Morality.3F}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{merge from|Immorality|discuss=Talk:Immorality#Merge_to_Morality.3F<ins class=\"diffchange diffchange-inline\">|date=February 2014</ins>}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{POV|date=May 2013}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{POV|date=May 2013}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{lead too short|date=June 2012}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{lead too short|date=June 2012}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:595228259:newid:595230594 -->\n",
+    "from": 595228259
+  },
+  "minor": ""
+}

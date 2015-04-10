@@ -1,0 +1,12 @@
+﻿{
+  "comment": "removed 66.137.180.68's external link",
+  "timestamp": "2006-01-19T06:37:01Z",
+  "revid": 35784393,
+  "user": "Wittylama",
+  "parentid": 35783906,
+  "diff": {
+    "to": 35784393,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 267:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 267:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.quotesandpoem.com/poems/SelectedPoetryTopic/Love_&amp;_Romance Collection of Poems and Quotes on Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.quotesandpoem.com/poems/SelectedPoetryTopic/Love_&amp;_Romance Collection of Poems and Quotes on Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.humanthermodynamics.com/RP2-Love.html Top 150 Definitions of Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.humanthermodynamics.com/RP2-Love.html Top 150 Definitions of Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.welcomehere.org/ Un-Official Rainbow Family of Living Light Home Page]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.chabad.org/article.asp?AID=42538 Love in Judaism]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.chabad.org/article.asp?AID=42538 Love in Judaism]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[:zh:早恋|''Zaolian'' (早恋) on Chinese Wikipedia]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[:zh:早恋|''Zaolian'' (早恋) on Chinese Wikipedia]]</div></td>\n</tr>\n",
+    "from": 35783906
+  }
+}

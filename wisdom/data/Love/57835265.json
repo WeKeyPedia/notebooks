@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-06-10T06:23:49Z",
+  "revid": 57835265,
+  "user": "Lenhan",
+  "parentid": 57741737,
+  "diff": {
+    "to": 57835265,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 120:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 120:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.true-love-relationship-advice.com/true-love.html Foundation of True Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.true-love-relationship-advice.com/true-love.html Foundation of True Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.brazilpostcard.com.br Daphnis and Chloe - An ancient Greek love story] Vintage Postcards</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.brazilpostcard.com.br Daphnis and Chloe - An ancient Greek love story] Vintage Postcards</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.vatican.va/holy_father/benedict_xvi/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est_en.html Deus Caritas Est]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:57741737:newid:57835265 -->\n",
+    "from": 57741737
+  }
+}

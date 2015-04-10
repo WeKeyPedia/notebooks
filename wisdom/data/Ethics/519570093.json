@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2012-10-24T13:48:05Z",
+  "revid": 519570093,
+  "anon": "",
+  "user": "84.93.49.112",
+  "parentid": 519415330,
+  "diff": {
+    "to": 519570093,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 3:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 3:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{lead too short|date=October 2012}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{lead too short|date=October 2012}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''', also known as '''moral philosophy''', is a branch of [[philosophy]] that involves systematizing, defending, and recommending concepts of right and wrong conduct.&lt;ref name=\"iep.utm.edu\"&gt;http://www.iep.utm.edu/ethics/&lt;/ref&gt; It comes from the Greek word [[ethos]], which means \"character\".</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''', also known as '''moral philosophy''', is a branch of [[philosophy]] that involves systematizing, defending, and recommending concepts of right and wrong conduct.&lt;ref name=\"iep.utm.edu\"&gt;http://www.iep.utm.edu/ethics/&lt;/ref&gt; It comes from the Greek word [[ethos]], which means \"character<ins class=\"diffchange diffchange-inline\">\". It has been postulated that ethics will bring about the \"end of times</ins>\".</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major areas of study in ethics may be divided into 4 operational areas:&lt;ref name=\"iep.utm.edu\"/&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major areas of study in ethics may be divided into 4 operational areas:&lt;ref name=\"iep.utm.edu\"/&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Meta-ethics]], about the theoretical meaning and reference of moral propositions and how their [[truth value]]s (if any) may be determined;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Meta-ethics]], about the theoretical meaning and reference of moral propositions and how their [[truth value]]s (if any) may be determined;</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:519415330:newid:519570093 -->\n",
+    "from": 519415330
+  }
+}

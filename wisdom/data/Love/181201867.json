@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* References */ Can Happiness Inevitably Prevail?",
+  "timestamp": "2007-12-31T15:52:00Z",
+  "revid": 181201867,
+  "user": "Indubitably",
+  "parentid": 181201106,
+  "diff": {
+    "to": 181201867,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 252:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 252:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{reflist|2}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* R. J. Sternberg. ''A triangular theory of love''. 1986. Psychological Review, 93, 119&amp;ndash;135</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* R. J. Sternberg. ''A triangular theory of love''. 1986. Psychological Review, 93, 119&amp;ndash;135</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* R. J. Sternberg. ''Liking versus loving: A comparative evaluation of theories''. 1987. Psychological Bulletin, 102, 331&amp;ndash;345</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* R. J. Sternberg. ''Liking versus loving: A comparative evaluation of theories''. 1987. Psychological Bulletin, 102, 331&amp;ndash;345</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:181201106:newid:181201867 -->\n",
+    "from": 181201106
+  }
+}

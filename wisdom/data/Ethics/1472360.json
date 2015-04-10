@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2003-09-23T22:39:40Z",
+  "revid": 1472360,
+  "anon": "",
+  "user": "130.91.37.71",
+  "parentid": 1472348,
+  "diff": {
+    "to": 1472360,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Etyka]][[simple:Ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Etyka]][[simple:Ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' is the general term for attempts to state or determine what is [[good]], both for the individual and for the society as a whole. It is often termed the [[science]] of morality. </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' is the general term for attempts to state or determine what is [[good]], both for the individual and for the society as a whole. It is often termed the [[science]] of <ins class=\"diffchange diffchange-inline\">[[</ins>morality<ins class=\"diffchange diffchange-inline\">]]</ins>. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[philosophy]], '''ethics''' is one of the three major traditional areas of investigation, alongside [[metaphysics]] and [[logic]]. See particularly [[meta-ethics]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[philosophy]], '''ethics''' is one of the three major traditional areas of investigation, alongside [[metaphysics]] and [[logic]]. See particularly [[meta-ethics]].</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:1472348:newid:1472360 -->\n",
+    "from": 1472348
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Eros */",
+  "timestamp": "2004-12-12T06:58:53Z",
+  "revid": 8357756,
+  "anon": "",
+  "user": "66.138.123.101",
+  "parentid": 8357700,
+  "diff": {
+    "to": 8357756,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 141:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 141:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Eros]] is passionate love, with sensual desire and longing. The Greek word 'erota' means 'in love'</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Eros]] is passionate love, with sensual desire and longing. The Greek word 'erota' means 'in love'</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Plato]] refined his own definition. Although eros is initially felt for a person, with contemplation it becomes an appreciation of the beauty within that person, or even <del class=\"diffchange diffchange-inline\">become</del> appreciation of beauty itself. Eros helps the soul recall knowledge of beauty, and contributes to an understanding of spiritual truth. Lovers, artists, and philosophers are all inspired to seek truth by eros.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Plato]] refined his own definition. Although eros is initially felt for a person, with contemplation it becomes an appreciation of the beauty within that person, or even <ins class=\"diffchange diffchange-inline\">becomes</ins> appreciation of beauty itself. Eros helps the soul recall knowledge of beauty, and contributes to an understanding of spiritual truth. Lovers, artists, and philosophers are all inspired to seek truth by eros.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Philia====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Philia====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:8357700:newid:8357756 -->\n",
+    "from": 8357700
+  }
+}

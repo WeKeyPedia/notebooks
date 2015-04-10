@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2005-10-31T18:07:59Z",
+  "revid": 26991654,
+  "anon": "",
+  "user": "4.158.78.125",
+  "parentid": 26972501,
+  "diff": {
+    "to": 26991654,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 261:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 261:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Wiktionary:I love you|\"I love you\" in various languages]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Wiktionary:I love you|\"I love you\" in various languages]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://iserver.saddleback.cc.ca.us/faculty/jfritsen/articles.html The Science of Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://iserver.saddleback.cc.ca.us/faculty/jfritsen/articles.html The Science of Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.humanthermodynamics.com/RP2-<del class=\"diffchange diffchange-inline\">Results</del>.html Top 150 Definitions of Love]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.humanthermodynamics.com/RP2-<ins class=\"diffchange diffchange-inline\">Love</ins>.html Top 150 Definitions of Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[:zh:早恋|''Zaolian'' (早恋) on Chinese Wikipedia]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[:zh:早恋|''Zaolian'' (早恋) on Chinese Wikipedia]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:26972501:newid:26991654 -->\n",
+    "from": 26972501
+  }
+}

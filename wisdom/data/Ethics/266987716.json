@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */ added national reference center",
+  "timestamp": "2009-01-28T16:10:25Z",
+  "revid": 266987716,
+  "anon": "",
+  "user": "69.143.182.57",
+  "parentid": 266975414,
+  "diff": {
+    "to": 266987716,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 152:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 152:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/ross/right.html 'The Right and the Good''] (1930) by [[W. D. Ross]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/ross/right.html 'The Right and the Good''] (1930) by [[W. D. Ross]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.sandiego.edu/LMH/E2/Glossary.asp University of San Diego - Ethics glossary] Useful terms in ethics discussions</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.sandiego.edu/LMH/E2/Glossary.asp University of San Diego - Ethics glossary] Useful terms in ethics discussions</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://bioethics.georgetown.edu/nrc/ National Reference Center for Bioethics Literature] World's largest library for ethical issues in medicine and biomedical research</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy topics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy topics}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:266975414:newid:266987716 -->\n",
+    "from": 266975414
+  }
+}

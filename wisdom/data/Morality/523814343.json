@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2012-11-19T08:29:45Z",
+  "revid": 523814343,
+  "anon": "",
+  "user": "75.68.76.26",
+  "parentid": 522969056,
+  "diff": {
+    "to": 523814343,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{db-nonsense}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Redirect|Appropriate||Appropriation (disambiguation)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Redirect|Appropriate||Appropriation (disambiguation)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Distinguish|Mortality (disambiguation)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Distinguish|Mortality (disambiguation)}}</div></td>\n</tr>\n",
+    "from": 522969056
+  }
+}

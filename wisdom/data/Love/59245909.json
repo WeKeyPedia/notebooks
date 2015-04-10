@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Human love */",
+  "timestamp": "2006-06-18T08:26:25Z",
+  "revid": 59245909,
+  "user": "Irrefutable",
+  "parentid": 59228158,
+  "diff": {
+    "to": 59245909,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 75:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 75:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Altruism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Altruism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Crush]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Crush]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Dialectic of Domination and Subordination]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Emotion]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Emotion]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Erich Fromm]]'s view of human love</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Erich Fromm]]'s view of human love</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:59228158:newid:59245909 -->\n",
+    "from": 59228158
+  }
+}

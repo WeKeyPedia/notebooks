@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverting possible vandalism by [[Special:Contributions/169.203.6.145|169.203.6.145]] to version by 82.28.53.177. False positive? [[User:ClueBot/FalsePositives|Report it]]. Thanks, [[User:ClueBot|ClueBot]]. (662760) (Bot)",
+  "timestamp": "2010-09-13T19:27:11Z",
+  "revid": 384636900,
+  "user": "ClueBot",
+  "parentid": 384636883,
+  "diff": {
+    "to": 384636900,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 60:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 60:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- ===Confucius===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- ===Confucius===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- --&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- --&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>We don't lose!!!</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Modern ethics===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Modern ethics===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:384636883:newid:384636900 -->\n",
+    "from": 384636883
+  },
+  "minor": ""
+}

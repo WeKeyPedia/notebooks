@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Ethics in psychology */",
+  "timestamp": "2005-11-21T00:58:23Z",
+  "revid": 28869722,
+  "anon": "",
+  "user": "67.102.34.122",
+  "parentid": 28768505,
+  "diff": {
+    "to": 28869722,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 105:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 105:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>There has been concern about the behavior of these psychologists </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>There has been concern about the behavior of these psychologists </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>on Usenet (in newsgroups).  Some of these concerns are voiced through </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>on Usenet (in newsgroups).  Some of these concerns are voiced through </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>the domain http://<del class=\"diffchange diffchange-inline\">unethical-psychologists</del>.<del class=\"diffchange diffchange-inline\">info</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>the domain http://<ins class=\"diffchange diffchange-inline\">cyberper</ins>.<ins class=\"diffchange diffchange-inline\">cnc.net/a_spp_faq.htm</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Ethics in politics ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Ethics in politics ===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:28768505:newid:28869722 -->\n",
+    "from": 28768505
+  }
+}

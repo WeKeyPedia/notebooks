@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted 1 edit by [[Special:Contributions/74.184.110.61|74.184.110.61]] identified as [[WP:VAND|vandalism]] to last revision by [[User:ST47|ST47]].",
+  "timestamp": "2007-10-02T20:30:13Z",
+  "revid": 161865678,
+  "user": "Caltas",
+  "parentid": 161865611,
+  "diff": {
+    "to": 161865678,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&lt;<del class=\"diffchange diffchange-inline\">math&gt;girls hearts falls in love+ boys heart dosent=someone getting hurt.&lt;/math&gt;</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>&lt;<ins class=\"diffchange diffchange-inline\">!--</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>love is almost like magic im not quite sure about the way you feel but i feel like a mountain can tumble down any second because my feelings are so storng like a bird could just not fly where it belongs in the sky cause my hearts all in the way!!!!!</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>i love you Bby.TM</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>--[[User:74.184.110.61|74.184.110.61]] 20:29, 2 October 2007 (UTC)rachel--[[User:74.184.110.61|74.184.110.61]] 20:29, 2 October 2007 (UTC)</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>****************************************************************</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>****************************************************************</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:161865611:newid:161865678 -->\n",
+    "from": 161865611
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Companionate vs. passionate */",
+  "timestamp": "2005-07-23T02:11:16Z",
+  "revid": 19415249,
+  "anon": "",
+  "user": "24.66.94.140",
+  "parentid": 19415234,
+  "diff": {
+    "to": 19415249,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 15:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 15:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The conventional view in [[biology]] is that there are two major drives in love &amp;mdash; [[sexual attraction]] and [[attachment theory|attachment]]. Attachment between adults is presumed to work on the same principles that lead an infant to become attached to their mother.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The conventional view in [[biology]] is that there are two major drives in love &amp;mdash; [[sexual attraction]] and [[attachment theory|attachment]]. Attachment between adults is presumed to work on the same principles that lead an infant to become attached to their mother.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">=== Companionate vs. passionate ===</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">pokemon</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The traditional psychological view sees love as being a combination of [[companionate love]] and [[passionate love]]. [[Passionate love]] is intense longing, and is often accompanied by [[physiological arousal]] (shortness of breath, rapid heart rate). [[Companionate love]] is affection and a feeling of intimacy not accompanied by physiological arousal.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Sternberg's Triangular Theory of Love ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Sternberg's Triangular Theory of Love ===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:19415234:newid:19415249 -->\n",
+    "from": 19415234
+  }
+}

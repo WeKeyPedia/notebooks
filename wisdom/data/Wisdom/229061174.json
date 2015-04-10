@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Further reading */",
+  "timestamp": "2008-07-31T18:05:32Z",
+  "revid": 229061174,
+  "user": "Frederic Beil",
+  "parentid": 228986008,
+  "diff": {
+    "to": 229061174,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 110:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 110:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Further reading ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Further reading ==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*Allen, James Sloan, ''Worldly Wisdom: Great Books and the Meanings of Life,'' [[Frederic C. Beil,]] 2008. [[ISBN 978-1-929490-35-6]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*Miller, James, L., \"Measures of Wisdom: The Cosmic Dance in Classical and Christian Antiquity\", University of Toronto Press, 1986. ISBN 0802025536</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*Miller, James, L., \"Measures of Wisdom: The Cosmic Dance in Classical and Christian Antiquity\", University of Toronto Press, 1986. ISBN 0802025536</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:228986008:newid:229061174 -->\n",
+    "from": 228986008
+  }
+}

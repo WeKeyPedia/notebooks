@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Buddhist */ disambig",
+  "timestamp": "2005-09-07T05:18:31Z",
+  "revid": 22752212,
+  "user": "NickelShoe",
+  "parentid": 22751886,
+  "diff": {
+    "to": 22752212,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 177:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 177:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Buddhist===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Buddhist===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In [[Buddhism]], [[K&amp;#257;ma]] is sensous, sexual love. It is an obstacle on the path to [[enlightenment]], since it is selfish.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In [[Buddhism]], [[K&amp;#257;ma]] is sensous, sexual love. It is an obstacle on the path to [[<ins class=\"diffchange diffchange-inline\">enlightenment (Buddhism)|</ins>enlightenment]], since it is selfish.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Karu&amp;#7751;&amp;#257;]] is compassion and mercy which reduces the suffering of others. It is complementary to wisdom, and is necessary for enlightenment.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Karu&amp;#7751;&amp;#257;]] is compassion and mercy which reduces the suffering of others. It is complementary to wisdom, and is necessary for enlightenment.</div></td>\n</tr>\n",
+    "from": 22751886
+  },
+  "minor": ""
+}

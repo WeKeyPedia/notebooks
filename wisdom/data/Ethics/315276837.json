@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Further reading */",
+  "timestamp": "2009-09-21T11:49:02Z",
+  "revid": 315276837,
+  "anon": "",
+  "user": "123.237.4.87",
+  "parentid": 315276670,
+  "diff": {
+    "to": 315276837,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 160:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 160:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Jacques Derrida|Derrida, J]] 1995, ''The Gift of Death'', translated by David Wills, [[University of Chicago Press]], Chicago.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Jacques Derrida|Derrida, J]] 1995, ''The Gift of Death'', translated by David Wills, [[University of Chicago Press]], Chicago.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Emmanuel Levinas|Levinas, E]]  1969, ''Totality and infinity, an essay on exteriority'', translated by Alphonso Lingis, [[Duquesne University Press]], Pittsburgh.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Emmanuel Levinas|Levinas, E]]  1969, ''Totality and infinity, an essay on exteriority'', translated by Alphonso Lingis, [[Duquesne University Press]], Pittsburgh.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [Anil, Surat] 2009, 'Ethics Informations &amp; Links' [http://www.ethics.dhameliya.com Ethics Informations &amp; Links]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:315276670:newid:315276837 -->\n",
+    "from": 315276670
+  }
+}

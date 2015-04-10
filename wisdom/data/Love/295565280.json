@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Christianity */",
+  "timestamp": "2009-06-10T12:07:57Z",
+  "revid": 295565280,
+  "user": "Dedalus",
+  "parentid": 295565167,
+  "diff": {
+    "to": 295565280,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 192:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 192:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Christianity====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Christianity====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The Christian understanding is that love comes from God. The love of man and woman—''eros'' in Greek—and the unselfish love of others (''agape''), are often contrasted as \"ascending\" and \"descending\" love, respectively, but are ultimately the same thing.&lt;ref name=\"vatican1\"&gt;{{cite <del class=\"diffchange diffchange-inline\">wibe</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The Christian understanding is that love comes from God. The love of man and woman—''eros'' in Greek—and the unselfish love of others (''agape''), are often contrasted as \"ascending\" and \"descending\" love, respectively, but are ultimately the same thing.&lt;ref name=\"vatican1\"&gt;{{cite <ins class=\"diffchange diffchange-inline\">web</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|url=http://www.vatican.va/holy_father/benedict_xvi/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est_en.html </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|url=http://www.vatican.va/holy_father/benedict_xvi/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est_en.html </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|author=Pope Benedict XVI</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|author=Pope Benedict XVI</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:295565167:newid:295565280 -->\n",
+    "from": 295565167
+  },
+  "minor": ""
+}

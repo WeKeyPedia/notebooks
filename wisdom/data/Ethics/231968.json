@@ -1,0 +1,14 @@
+﻿{
+  "comment": "",
+  "timestamp": "2002-08-21T03:06:02Z",
+  "revid": 231968,
+  "anon": "",
+  "user": "80.108.19.76",
+  "parentid": 165961,
+  "diff": {
+    "to": 231968,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>But not &lt;i&gt;all&lt;/i&gt; questions studied in applied ethics concern public policy.  For example: What is [[lying]] and is lying always wrong?  If not, when is lying permissible? </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>But not &lt;i&gt;all&lt;/i&gt; questions studied in applied ethics concern public policy.  For example: What is [[lying]] and is lying always wrong?  If not, when is lying permissible? </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>There are many branches of applied ethics examining the ethical problems of different professions, for example: [[business ethics]], [[medical ethics]], and [[legal ethics]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>There are many branches of applied ethics examining the ethical problems of different professions, for example: [[business ethics]], [[medical ethics]], and [[legal ethics]]<ins class=\"diffchange diffchange-inline\">, while [[technology assessment]] studies the effects and implications of new technologies on nature and society</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;i&gt;[[Casuistry]]&lt;/i&gt; is an approach to applied ethics.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;i&gt;[[Casuistry]]&lt;/i&gt; is an approach to applied ethics.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:165961:newid:231968 -->\n",
+    "from": 165961
+  },
+  "minor": ""
+}

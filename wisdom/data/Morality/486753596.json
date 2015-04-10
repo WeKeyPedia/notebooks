@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Philosophy */",
+  "timestamp": "2012-04-11T04:24:49Z",
+  "revid": 486753596,
+  "anon": "",
+  "user": "121.1.53.22",
+  "parentid": 486753435,
+  "diff": {
+    "to": 486753596,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Theories which claim that morality is derived from reasoning about implied imperatives ([[universal prescriptivism]]), the edicts of a god ([[divine command theory]]), or the hypothetical decrees of a perfectly rational being ([[ideal observer theory]]), are considered anti-realist in the robust sense used here, but are considered realist in the sense synonymous with [[moral universalism]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Theories which claim that morality is derived from reasoning about implied imperatives ([[universal prescriptivism]]), the edicts of a god ([[divine command theory]]), or the hypothetical decrees of a perfectly rational being ([[ideal observer theory]]), are considered anti-realist in the robust sense used here, but are considered realist in the sense synonymous with [[moral universalism]].</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>tutut :))</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Anthropology==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Anthropology==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:486753435:newid:486753596 -->\n",
+    "from": 486753435
+  }
+}

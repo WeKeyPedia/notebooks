@@ -1,0 +1,12 @@
+﻿{
+  "comment": "cat update",
+  "timestamp": "2005-09-16T11:04:43Z",
+  "revid": 23335869,
+  "user": "Karol Langner",
+  "parentid": 23277665,
+  "diff": {
+    "to": 23335869,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 24:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 24:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Book of Wisdom]]  (Biblical book, also called ''Wisdom of Solomon'')</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Book of Wisdom]]  (Biblical book, also called ''Wisdom of Solomon'')</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Category:Knowledge]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Category:<del class=\"diffchange diffchange-inline\">Philosophy</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Category:<ins class=\"diffchange diffchange-inline\">Philosophical terminology</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[cs:Moudrost]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[cs:Moudrost]]</div></td>\n</tr>\n",
+    "from": 23277665
+  }
+}

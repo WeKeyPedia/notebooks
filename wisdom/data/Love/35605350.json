@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Scientific models */",
+  "timestamp": "2006-01-17T23:29:53Z",
+  "revid": 35605350,
+  "anon": "",
+  "user": "168.10.64.155",
+  "parentid": 35588650,
+  "diff": {
+    "to": 35605350,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 19:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 19:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Scientific models ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Scientific models ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Image:SwansHeart.jpg|thumb|300px|right|Swans forming a heart shape, signifying love.]]Biological models of love tend to see it as a mammalian drive, just like [[hunger]] or [[thirst]]. Psychology sees love as more of a social and cultural phenomenon. There are probably elements of truth in both views &amp;mdash; certainly love is influenced by [[hormone]]s (such as [[oxytocin]]) and [[pheromone]]s, and how people think and behave in love is influenced by their conceptions of love.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Image:SwansHeart.jpg|thumb|300px|right|Swans forming a heart shape, signifying love.]]Biological models of love tend to see it as a mammalian drive, just like [[hunger]] or [[thirst]]. Psychology sees love as more of a social and cultural phenomenon. There are probably elements of truth in both views &amp;mdash; certainly love is influenced by [[hormone]]s (such as [[oxytocin]]) and [[pheromone]]s, and how people think and behave in love is influenced by their conceptions of love.<ins class=\"diffchange diffchange-inline\"> Love can be pointeless especially if the person or object you love hurts you over and over and over again. Although they keep doing this, I'm sure that they can change and will do anything for their love not to be broken. Blake please forgive me!</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Attraction and attachment===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Attraction and attachment===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:35588650:newid:35605350 -->\n",
+    "from": 35588650
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverting to latest version by Maveric149",
+  "timestamp": "2003-02-21T03:06:54Z",
+  "revid": 687019,
+  "anon": "",
+  "user": "205.188.209.5",
+  "parentid": 687000,
+  "diff": {
+    "to": 687019,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[What is love ?]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;b&gt;Love&lt;/b&gt; is a special [[affection]] for someone or something, a [[feeling]] or [[emotion]]. Some describe it as a chemical reaction in the human [[brain]].  Various different types of love exist, which are more or less related:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;b&gt;Love&lt;/b&gt; is a special [[affection]] for someone or something, a [[feeling]] or [[emotion]]. Some describe it as a chemical reaction in the human [[brain]].  Various different types of love exist, which are more or less related:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love between family members: parent's love of children, etc.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love between family members: parent's love of children, etc.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:687000:newid:687019 -->\n",
+    "from": 687000
+  }
+}

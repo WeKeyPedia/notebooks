@@ -1,0 +1,12 @@
+﻿{
+  "comment": "\"Unacceptable\" also redirects here.",
+  "timestamp": "2013-10-16T01:26:57Z",
+  "revid": 577367280,
+  "user": "Jarble",
+  "parentid": 577367194,
+  "diff": {
+    "to": 577367280,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect2|Immoralist|Impropriety|the novel by André Gide|The Immoralist|the improvised performance company|Impropriety (company)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect2|Immoralist|Impropriety|the novel by André Gide|The Immoralist|the improvised performance company|Impropriety (company)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Redirect2|Properly|properness|other uses|Proper (disambiguation){{!}}Proper}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Redirect2|Properly|properness|other uses|Proper (disambiguation){{!}}Proper}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{hatnote|\"Acceptable\" redirects here. For other uses, see {{intitle|acceptable}} and {{intitle|allowable}}.}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{hatnote|\"Acceptable<ins class=\"diffchange diffchange-inline\">\" and \"unacceptable</ins>\" redirects here. For other uses, see {{intitle|acceptable}} and {{intitle|allowable}}.}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Distinguish|Mortality (disambiguation){{!}}Mortality}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Distinguish|Mortality (disambiguation){{!}}Mortality}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:577367194:newid:577367280 -->\n",
+    "from": 577367194
+  }
+}

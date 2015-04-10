@@ -1,0 +1,12 @@
+﻿{
+  "comment": "rv v",
+  "timestamp": "2006-04-10T23:50:58Z",
+  "revid": 47874702,
+  "user": "Mwanner",
+  "parentid": 47871243,
+  "diff": {
+    "to": 47874702,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 17:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 17:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- We know, it's amazing to love and be loved, but please express your love by helping Wikipedia to improve, not by telling all the world here in this article how much you love your significant other or others. The edit will be removed in seconds anyway. Have a happy life! --&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- We know, it's amazing to love and be loved, but please express your love by helping Wikipedia to improve, not by telling all the world here in this article how much you love your significant other or others. The edit will be removed in seconds anyway. Have a happy life! --&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love might best be defined as acting intentionally, in sympathetic response to others to promote overall well-being. Or to put it simply, \"love responds intentionally to promote well-being\" ([[Thomas Jay Oord]]).  Love promotes overall flourishing, but often focuses on those close at hand.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love might best be defined as acting intentionally, in sympathetic response to others to promote overall well-being. Or to put it simply, \"love responds intentionally to promote well-being\" ([[Thomas Jay Oord]]).  Love promotes overall flourishing, but often focuses on those close at hand.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&lt;font size+\"18\"&gt;love is a lie&lt;/font size&gt;</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 47871243
+  }
+}

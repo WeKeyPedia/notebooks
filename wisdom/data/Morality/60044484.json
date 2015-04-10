@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Moral codes */",
+  "timestamp": "2006-06-22T19:18:09Z",
+  "revid": 60044484,
+  "user": "Alexjohnc3",
+  "parentid": 60044221,
+  "diff": {
+    "to": 60044484,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 56:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 56:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A [[value system]], which is the prioritization of the [[Value (personal and cultural)|values]] held by an individual or group, can also be used to form the basis of a moral code. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A [[value system]], which is the prioritization of the [[Value (personal and cultural)|values]] held by an individual or group, can also be used to form the basis of a moral code. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In some cultures, the relationship between moral and legal codes are often absolute<del class=\"diffchange diffchange-inline\"> - </del>they're one and the same. Moral codes help drive [[personal conduct]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In some cultures, the relationship between moral and legal codes are often absolute<ins class=\"diffchange diffchange-inline\">&amp;mdash;</ins>they're one and the same. Moral codes help drive [[personal conduct]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Examples of moral codes include the [[Golden Rule|golden rule]]; [[Wiccan Rede]], the [[Noble Eightfold Path]] of [[Buddhism]]; the [[Ten Commandments|ten commandments]] of [[Judaism]], [[Christianity]], and [[Islam]]; the [[yamas]] and [[niyama]] of the Hindu scriptures; and the [[Ten Indian commandments|ten Indian commandments]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Examples of moral codes include the [[Golden Rule|golden rule]]; [[Wiccan Rede]], the [[Noble Eightfold Path]] of [[Buddhism]]; the [[Ten Commandments|ten commandments]] of [[Judaism]], [[Christianity]], and [[Islam]]; the [[yamas]] and [[niyama]] of the Hindu scriptures; and the [[Ten Indian commandments|ten Indian commandments]].</div></td>\n</tr>\n",
+    "from": 60044221
+  },
+  "minor": ""
+}

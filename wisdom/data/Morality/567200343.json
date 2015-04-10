@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Adding an additional meaning of this term that is not yet discussed",
+  "timestamp": "2013-08-05T02:40:25Z",
+  "revid": 567200343,
+  "user": "Jarble",
+  "parentid": 567054600,
+  "diff": {
+    "to": 567200343,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{lead too short|date=June 2012}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{lead too short|date=June 2012}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{for|the 2009 novella by Stephen King|Morality (novella)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{for|the 2009 novella by Stephen King|Morality (novella)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{redirect|Appropriate||Appropriation (disambiguation)}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{redirect|Appropriate|<ins class=\"diffchange diffchange-inline\">the rating of activities and media according to age groups|age-appropriate|other uses</ins>|Appropriation (disambiguation)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect2|Immoralist|Impropriety|the novel by André Gide|The Immoralist|the improvised performance company|Impropriety (company)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect2|Immoralist|Impropriety|the novel by André Gide|The Immoralist|the improvised performance company|Impropriety (company)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Distinguish|Mortality (disambiguation){{!}}Mortality}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Distinguish|Mortality (disambiguation){{!}}Mortality}}</div></td>\n</tr>\n",
+    "from": 567054600
+  }
+}

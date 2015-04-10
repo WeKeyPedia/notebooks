@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Moral Codes */",
+  "timestamp": "2005-11-15T17:04:51Z",
+  "revid": 28412586,
+  "anon": "",
+  "user": "151.188.16.16",
+  "parentid": 28412506,
+  "diff": {
+    "to": 28412586,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 38:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 38:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Moral Codes ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Moral Codes ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{mergefrom|Moral_code}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{mergefrom|Moral_code}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>stinkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== See also ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== See also ==</div></td>\n</tr>\n",
+    "from": 28412506
+  }
+}

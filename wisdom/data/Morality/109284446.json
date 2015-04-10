@@ -1,0 +1,12 @@
+﻿{
+  "comment": "removed merge tag",
+  "timestamp": "2007-02-19T11:44:56Z",
+  "revid": 109284446,
+  "user": "Clicketyclack",
+  "parentid": 109153589,
+  "diff": {
+    "to": 109284446,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Mergefrom|Moral reflex|date=December 2006}}</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''' refers to the concept of human [[ethics]] which pertains to matters of [[good and evil]] &amp;mdash; also referred to as \"right or wrong\" &amp;mdash; used within three contexts: individual [[conscience]]; systems of [[principle]]s and [[judgment]]s &amp;mdash; sometimes called [[moral value]]s &amp;mdash;shared within a [[cultural]], [[religion|religious]], [[secular]], [[secular humanism|Humanist]], or [[philosophical]] community; and codes of behavior or [[Code of conduct|conduct morality]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''' refers to the concept of human [[ethics]] which pertains to matters of [[good and evil]] &amp;mdash; also referred to as \"right or wrong\" &amp;mdash; used within three contexts: individual [[conscience]]; systems of [[principle]]s and [[judgment]]s &amp;mdash; sometimes called [[moral value]]s &amp;mdash;shared within a [[cultural]], [[religion|religious]], [[secular]], [[secular humanism|Humanist]], or [[philosophical]] community; and codes of behavior or [[Code of conduct|conduct morality]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 109153589
+  }
+}

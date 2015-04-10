@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Sources of Wisdom */  disambig proverbs",
+  "timestamp": "2006-01-28T11:36:42Z",
+  "revid": 37069881,
+  "user": "EthanL",
+  "parentid": 36655980,
+  "diff": {
+    "to": 37069881,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In the Christian Bible, for example, there are three wise men sent by God to give the newly born Jesus three gifts.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In the Christian Bible, for example, there are three wise men sent by God to give the newly born Jesus three gifts.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* The [[Jew]]ish book of [[Proverbs]] in the [[Old Testament]] states \"Fear of God is the beginning of Wisdom\".</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* The [[Jew]]ish book of [[<ins class=\"diffchange diffchange-inline\">Book of Proverbs|</ins>Proverbs]] in the [[Old Testament]] states \"Fear of God is the beginning of Wisdom\".</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Confucius]] stated that wisdom can be learned by three methods: reflection (The noblest), imitation (The easiest) and experience (The bitterest).</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Confucius]] stated that wisdom can be learned by three methods: reflection (The noblest), imitation (The easiest) and experience (The bitterest).</div></td>\n</tr>\n",
+    "from": 36655980
+  }
+}

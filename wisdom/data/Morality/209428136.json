@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2008-05-01T10:28:24Z",
+  "revid": 209428136,
+  "user": "McNoddy",
+  "parentid": 209415815,
+  "diff": {
+    "to": 209428136,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 160:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 160:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">{{wikiquote}}</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.in-mind.org/artikelen/fairness-judgments-genuine-morality-or-disguised-egocentrism.html Fairness Judgments: Genuine Morality or Disguised Egoism?] Psychological Article on Fairness (registration required)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.in-mind.org/artikelen/fairness-judgments-genuine-morality-or-disguised-egocentrism.html Fairness Judgments: Genuine Morality or Disguised Egoism?] Psychological Article on Fairness (registration required)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://plato.stanford.edu/entries/morality-definition/ The Stanford Encyclopedia of Philosophy on the Definition of Morality]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://plato.stanford.edu/entries/morality-definition/ The Stanford Encyclopedia of Philosophy on the Definition of Morality]</div></td>\n</tr>\n",
+    "from": 209415815
+  },
+  "minor": ""
+}

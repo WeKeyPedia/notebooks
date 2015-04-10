@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted word deletion by 203.252.21.144",
+  "timestamp": "2004-09-10T05:24:35Z",
+  "revid": 5819249,
+  "user": "SimonEast",
+  "parentid": 5777039,
+  "diff": {
+    "to": 5819249,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 23:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 23:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Psychological views ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Psychological views ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">In an attempt to explain the commonalities and differences of the many types of love, Robert Sternberg has suggested a view of love involving three elements: ''[[intimacy]]'', ''[[passion]]'' and ''[[commitment]]''.   Different stages and types of love can be explained as different combinations of the three elements.  The combinations are listed in the table.</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>attempt to explain the commonalities and differences of the many types of love, Robert Sternberg has suggested a view of love involving three elements: ''[[intimacy]]'', ''[[passion]]'' and ''[[commitment]]''.   Different stages and types of love can be explained as different combinations of the three elements.  The combinations are listed in the table.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{| border=1 cellpadding=3 cellspacing=0 style=\"float: right; margin-left: 0.5em;\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{| border=1 cellpadding=3 cellspacing=0 style=\"float: right; margin-left: 0.5em;\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|+Combinations of intimacy, passion, and commitment</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|+Combinations of intimacy, passion, and commitment</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:5777039:newid:5819249 -->\n",
+    "from": 5777039
+  },
+  "minor": ""
+}

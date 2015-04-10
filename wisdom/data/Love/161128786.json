@@ -1,0 +1,13 @@
+﻿{
+  "comment": "rv v",
+  "timestamp": "2007-09-29T15:25:06Z",
+  "revid": 161128786,
+  "user": "Herald Alberich",
+  "parentid": 161124970,
+  "diff": {
+    "to": 161128786,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 56:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 56:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some Western authorities  disaggregate into two main components, the altruistic and the narcissistic. This view is represented in the works of [[Scott Peck]], whose works in the field of applied psychology explored the definitions of love and evil. Peck maintains that love is a combination of the \"concern for the spiritual growth of another\", and simple narcissism.&lt;ref name=\"peck\"&gt;{{cite book | title=The Road Less Traveled | id=ISBN 0-671-25067-1 | last=Peck | first=Scott | publisher=Simon &amp; Schuster | year=1978 | page=169}}&lt;/ref&gt; In combination, love is an ''activity'', not simply a feeling.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some Western authorities  disaggregate into two main components, the altruistic and the narcissistic. This view is represented in the works of [[Scott Peck]], whose works in the field of applied psychology explored the definitions of love and evil. Peck maintains that love is a combination of the \"concern for the spiritual growth of another\", and simple narcissism.&lt;ref name=\"peck\"&gt;{{cite book | title=The Road Less Traveled | id=ISBN 0-671-25067-1 | last=Peck | first=Scott | publisher=Simon &amp; Schuster | year=1978 | page=169}}&lt;/ref&gt; In combination, love is an ''activity'', not simply a feeling.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>******* AND ****** I DO NOT LIKE ****!!!</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Philosophical views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Philosophical views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:161124970:newid:161128786 -->\n",
+    "from": 161124970
+  },
+  "minor": ""
+}

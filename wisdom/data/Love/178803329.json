@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2007-12-18T21:25:13Z",
+  "revid": 178803329,
+  "user": "Samuk1000",
+  "parentid": 178803200,
+  "diff": {
+    "to": 178803329,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 363:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 363:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bat-smg:Meilė]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bat-smg:Meilė]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">&lt;a href=</del>http://www.gratitudebook.com<del class=\"diffchange diffchange-inline\">&gt;</del>How To Get More Love<del class=\"diffchange diffchange-inline\">&lt;/a&gt;</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">*[</ins>http://www.gratitudebook.com<ins class=\"diffchange diffchange-inline\"> </ins>How To Get More Love<ins class=\"diffchange diffchange-inline\">]</ins></div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:178803200:newid:178803329 -->\n",
+    "from": 178803200
+  }
+}

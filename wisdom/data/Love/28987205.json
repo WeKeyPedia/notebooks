@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Impersonal love */",
+  "timestamp": "2005-11-22T15:46:27Z",
+  "revid": 28987205,
+  "user": "Sunfire98",
+  "parentid": 28987081,
+  "diff": {
+    "to": 28987205,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 12:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 12:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Impersonal love==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Impersonal love==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>== <del class=\"diffchange diffchange-inline\">Je t'aime cocotte =='''''</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>== </div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>== '''''Je t'aime cocotte''''' ==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div> =='''''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|thumb|left|The [[Heart (Symbolism and Metaphor)|heart]], a frequent modern symbol of love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|thumb|left|The [[Heart (Symbolism and Metaphor)|heart]], a frequent modern symbol of love]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:28987081:newid:28987205 -->\n",
+    "from": 28987081
+  }
+}

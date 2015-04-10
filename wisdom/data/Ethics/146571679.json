@@ -1,0 +1,13 @@
+﻿{
+  "comment": "oopsy daisy",
+  "timestamp": "2007-07-23T17:45:42Z",
+  "revid": 146571679,
+  "anon": "",
+  "user": "64.229.26.194",
+  "parentid": 146571605,
+  "diff": {
+    "to": 146571679,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>I very very very very very strongly believe it is unethical to be editting the webmaster's pages. I am going to lead a teenage rebellion and kill the motherfuck out of <del class=\"diffchange diffchange-inline\">this</del> <del class=\"diffchange diffchange-inline\">place</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>I very very very very very strongly believe it is unethical to be editting the webmaster's pages. I am going to lead a teenage rebellion and kill the motherfuck out of <ins class=\"diffchange diffchange-inline\">the</ins> <ins class=\"diffchange diffchange-inline\">hackers</ins>.</div></td>\n</tr>\n",
+    "from": 146571605
+  }
+}

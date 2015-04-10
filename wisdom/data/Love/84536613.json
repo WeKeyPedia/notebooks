@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-10-30T01:58:19Z",
+  "revid": 84536613,
+  "user": "Thorns among our leaves",
+  "parentid": 84536295,
+  "diff": {
+    "to": 84536613,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 46:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 46:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  it would be utterly scorned.\" [8:6-7, NIV] </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  it would be utterly scorned.\" [8:6-7, NIV] </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The passage ''dodi li v'ani lo'' (\"my beloved is mine and I am <del class=\"diffchange diffchange-inline\">his</del>,\" Song of Songs 2:16) is often engraved on wedding bands. {{fact}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The passage ''dodi li v'ani lo'' (\"my beloved is mine and I am <ins class=\"diffchange diffchange-inline\">my beloved</ins>,\" Song of Songs 2:16) is often engraved on wedding bands. {{fact}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n</tr>\n",
+    "from": 84536295
+  },
+  "minor": ""
+}

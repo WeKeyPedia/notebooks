@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Major doctrines of ethics */",
+  "timestamp": "2005-01-13T04:47:16Z",
+  "revid": 9338438,
+  "anon": "",
+  "user": "206.125.61.140",
+  "parentid": 9330679,
+  "diff": {
+    "to": 9338438,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 195:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 195:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*The Utilitarian Kantian Principle (Cornman, Lehrer)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*The Utilitarian Kantian Principle (Cornman, Lehrer)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Universal prescriptivism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Universal prescriptivism]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*W.D.Ross's Prima Facie ethics</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Related topics in philosophy==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Related topics in philosophy==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:9330679:newid:9338438 -->\n",
+    "from": 9330679
+  }
+}

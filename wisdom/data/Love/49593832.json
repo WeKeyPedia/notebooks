@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Types */",
+  "timestamp": "2006-04-22T14:00:14Z",
+  "revid": 49593832,
+  "user": "Meg black",
+  "parentid": 49587696,
+  "diff": {
+    "to": 49593832,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Free love]] – sexual relations according to choice and unrestricted by marriage.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Free love]] – sexual relations according to choice and unrestricted by marriage.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Platonic love]] – a close relationship in which sexual desire is nonexistent or has been suppressed or sublimated.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Platonic love]] – a close relationship in which sexual desire is nonexistent or has been suppressed or sublimated.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Puppy love]] – romantic affection felt between or as though between adolescents.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Puppy love]] – romantic affection felt between or as though between adolescents.<ins class=\"diffchange diffchange-inline\">(an example of this is of Emily. S and Ethan. R, they love each other but it is a shame neither of them can admit it.)</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Religious love]] – devotion to one’s deity or theology.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Religious love]] – devotion to one’s deity or theology.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional and sexual desire.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional and sexual desire.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:49587696:newid:49593832 -->\n",
+    "from": 49587696
+  }
+}

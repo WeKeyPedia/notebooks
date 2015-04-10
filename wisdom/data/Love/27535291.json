@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* External links */ Remove external link to not that notable person's lecture",
+  "timestamp": "2005-11-06T14:51:01Z",
+  "revid": 27535291,
+  "user": "Average Earthman",
+  "parentid": 27535220,
+  "diff": {
+    "to": 27535291,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 244:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 244:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.humanthermodynamics.com/RP2-Love.html Top 150 Definitions of Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.humanthermodynamics.com/RP2-Love.html Top 150 Definitions of Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[:zh:早恋|''Zaolian'' (早恋) on Chinese Wikipedia]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[:zh:早恋|''Zaolian'' (早恋) on Chinese Wikipedia]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.kabbalah.info/engkab/translated_lessons_(texts)/lectures_at_the_educational_center_nekuda_shebalev/12232004_unconditional_love.htm Unconditional Love] —a lecture given by Rav Michael Laitman</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love]]</div></td>\n</tr>\n",
+    "from": 27535220
+  }
+}

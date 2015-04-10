@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Book sources */ formatting",
+  "timestamp": "2007-05-16T04:19:24Z",
+  "revid": 131219386,
+  "user": "Shiznick",
+  "parentid": 130505823,
+  "diff": {
+    "to": 131219386,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 105:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 105:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Book sources==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Book sources==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\"> </del>* Walker, Martin G. ''LIFE! Why We Exist...And What We Must Do to Survive'' ([http://en.wikipedia.org/wiki/LIFE_Why_We_Exist...] Wiki Book Page) ([http://www.meaninginmylife.com] Web Site), Dog Ear Publishing, 2006, ISBN 1-59858-243-7</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* Walker, Martin G. ''LIFE! Why We Exist...And What We Must Do to Survive'' ([http://en.wikipedia.org/wiki/LIFE_Why_We_Exist...] Wiki Book Page) ([http://www.meaninginmylife.com] Web Site), Dog Ear Publishing, 2006, ISBN 1-59858-243-7</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Trompenaars, Fons. ''Did the Pedestrian Die?'' ISBN 1-84112-436-2</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Trompenaars, Fons. ''Did the Pedestrian Die?'' ISBN 1-84112-436-2</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:130505823:newid:131219386 -->\n",
+    "from": 130505823
+  },
+  "minor": ""
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Taoism */ space",
+  "timestamp": "2014-03-01T01:47:32Z",
+  "revid": 597606477,
+  "user": "Editor2020",
+  "parentid": 597606392,
+  "diff": {
+    "to": 597606477,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 116:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 116:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>::mastering yourself is true power.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>::mastering yourself is true power.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>([[Tao Te Ching]], 33, tr. S. Mitchell)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>([[Tao Te Ching]], 33, tr. S. Mitchell)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Others===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Others===</div></td>\n</tr>\n",
+    "from": 597606392
+  }
+}

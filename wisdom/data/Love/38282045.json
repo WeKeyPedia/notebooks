@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Indonesian */",
+  "timestamp": "2006-02-05T08:09:45Z",
+  "revid": 38282045,
+  "anon": "",
+  "user": "60.49.93.5",
+  "parentid": 38281833,
+  "diff": {
+    "to": 38282045,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 157:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 157:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''[[Caritas]]'' is used in Latin translations of the Christian Bible to mean 'charitable love'.  This meaning, however, is not found in Classical pagan Roman literature.  As it arises from a conflation with a Greek word, there is no corresponding verb.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''[[Caritas]]'' is used in Latin translations of the Christian Bible to mean 'charitable love'.  This meaning, however, is not found in Classical pagan Roman literature.  As it arises from a conflation with a Greek word, there is no corresponding verb.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>===Indonesian and <del class=\"diffchange diffchange-inline\">Malaysia</del>===</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>===Indonesian and <ins class=\"diffchange diffchange-inline\">Malaysian</ins>===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[Indonesia]]n and Malaysian linguistics perspective, love can be defined in several ways:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[Indonesia]]n and Malaysian linguistics perspective, love can be defined in several ways:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:38281833:newid:38282045 -->\n",
+    "from": 38281833
+  }
+}

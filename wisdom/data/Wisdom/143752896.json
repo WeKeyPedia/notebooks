@@ -1,0 +1,12 @@
+﻿{
+  "comment": "rv spammed quotes",
+  "timestamp": "2007-07-10T16:07:53Z",
+  "revid": 143752896,
+  "user": "Tmtoulouse",
+  "parentid": 143278053,
+  "diff": {
+    "to": 143752896,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 79:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 79:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"Wise men talk because they have something to say; fools, because they have to say something.\" ― [[Plato]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"Wise men talk because they have something to say; fools, because they have to say something.\" ― [[Plato]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>\"Wisdom feeds purity of thought and cannot ever be used for evil intent, for if it is attempted, it cease to be wisdom.\"_Michael Levy.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"Knowledge comes, but wisdom lingers.\" ― [[Alfred Lord Tennyson]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"Knowledge comes, but wisdom lingers.\" ― [[Alfred Lord Tennyson]]</div></td>\n</tr>\n",
+    "from": 143278053
+  }
+}

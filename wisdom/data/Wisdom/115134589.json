@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Scientific perspectives */",
+  "timestamp": "2007-03-14T19:44:45Z",
+  "revid": 115134589,
+  "user": "Stevenson-Perez",
+  "parentid": 115134531,
+  "diff": {
+    "to": 115134589,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 45:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 45:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>2. The acquisition of scientific [[purpose]]; </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>2. The acquisition of scientific [[purpose]]; </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>3.  The acquisition of skills for improving the [[knowledge]]-assets, the [[learning]]-assets, and the [[scientific<del class=\"diffchange diffchange-inline\">-</del>value]]-creation-assets of one’s scientific [[community of practice]]; and </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>3.  The acquisition of skills for improving the [[knowledge]]-assets, the [[learning]]-assets, and the [[scientific<ins class=\"diffchange diffchange-inline\"> </ins>value]]-creation-assets of one’s scientific [[community of practice]]; and </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>4.  The ability to create timely scientific solutions that are pleasing to Man, while not being in violation of the timeless laws of [[Nature]]. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>4.  The ability to create timely scientific solutions that are pleasing to Man, while not being in violation of the timeless laws of [[Nature]]. </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:115134531:newid:115134589 -->\n",
+    "from": 115134531
+  },
+  "minor": ""
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Types */",
+  "timestamp": "2006-06-10T16:38:35Z",
+  "revid": 57893092,
+  "user": "Mabel j",
+  "parentid": 57835265,
+  "diff": {
+    "to": 57893092,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Puppy love]] – romantic affection felt between or as though between adolescents.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Puppy love]] – romantic affection felt between or as though between adolescents.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Religious love]] – devotion to one’s deity or theology.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Religious love]] – devotion to one’s deity or theology.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Romantic love]] – affection characterized by a mix of emotional and sexual desire. Traditionally portrayed in the West as tragicomic, sad, joyful, and complex.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Romantic love]] – affection characterized by a mix of emotional and sexual desire. Traditionally portrayed in the West as tragicomic, sad, joyful, and complex<ins class=\"diffchange diffchange-inline\"> (e.g. I love Mabel)</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Covenant love]] - an unconditional decision of the will to place the needs and benefits of another person before oneself.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Covenant love]] - an unconditional decision of the will to place the needs and benefits of another person before oneself.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:57835265:newid:57893092 -->\n",
+    "from": 57835265
+  }
+}

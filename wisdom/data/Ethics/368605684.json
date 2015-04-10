@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Evolutionary ethics */",
+  "timestamp": "2010-06-17T16:05:01Z",
+  "revid": 368605684,
+  "anon": "",
+  "user": "115.147.203.72",
+  "parentid": 368287205,
+  "diff": {
+    "to": 368605684,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 143:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 143:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Evolutionary ethics===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Evolutionary ethics===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{See also|Evolutionary ethics|Evolution of morality}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{See also|Evolutionary ethics|Evolution of morality}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Evolutionary ethics concerns approaches to ethics (morality) based on the role of evolution in shaping human psychology and behavior. Such approaches may be based in scientific fields such as [[evolutionary psychology]] or [[sociobiology]], with a focus on understanding and explaining observed ethical preferences and choices.&lt;ref&gt;{{cite web |url= http://www.iep.utm.edu/evol-eth/ |title= Evolutionary Ethics |author= Doris Schroeder |accessdate= 2010-01-05}}&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Evolutionary ethics concerns approaches to ethics (morality) based on the role of evolution in shaping human psychology and behavior. Such approaches may be based in scientific fields such as [[evolutionary psychology]] or [[sociobiology]], with a focus on understanding and explaining observed ethical preferences and choices.&lt;ref&gt;{{cite web |url= http://www.iep.utm.edu/evol-eth/ |title= Evolutionary Ethics |author= Doris Schroeder |accessdate= 2010-01-05}}&lt;/ref&gt;<ins class=\"diffchange diffchange-inline\"> and arts</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Descriptive ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Descriptive ethics==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:368287205:newid:368605684 -->\n",
+    "from": 368287205
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/163.41.136.51|163.41.136.51]] ([[User talk:163.41.136.51|talk]]) to last revision by PrincessofLlyr ([[WP:HG|HG]])",
+  "timestamp": "2010-10-21T00:56:42Z",
+  "revid": 391945766,
+  "user": "Tide rolls",
+  "parentid": 391944471,
+  "diff": {
+    "to": 391945766,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 124:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 124:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Another related concept is the moral core which is assumed to be innate in each individual, to those who accept that differences between individuals are more important than posited Creators or their rules. This, in some religious systems and beliefs (e.g. [[Taoism]] and [[Gnosticism]]), is assumed to be the basis of all [[aesthetics]] and thus moral choice. Moral codes as such are therefore seen as coercive—part of human sex [[politics]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Another related concept is the moral core which is assumed to be innate in each individual, to those who accept that differences between individuals are more important than posited Creators or their rules. This, in some religious systems and beliefs (e.g. [[Taoism]] and [[Gnosticism]]), is assumed to be the basis of all [[aesthetics]] and thus moral choice. Moral codes as such are therefore seen as coercive—part of human sex [[politics]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Masin Scott also believes that pelvic massages can relieve stressful situations reguarding morality</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:391944471:newid:391945766 -->\n",
+    "from": 391944471
+  },
+  "minor": ""
+}

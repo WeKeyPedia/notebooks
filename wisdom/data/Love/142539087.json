@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Cultural views */",
+  "timestamp": "2007-07-04T21:31:45Z",
+  "revid": 142539087,
+  "user": "Armani4u",
+  "parentid": 142538878,
+  "diff": {
+    "to": 142539087,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 105:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 105:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Albanian - Te dua</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Albanian - Te dua</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Anabelle Rama - Hay Nako Roffa! Hewalayan mo na si Elmas! Umbagan kita day!</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Antipolo - Sa'kin ka lang!!!</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Antipolo - Sa'kin ka lang!!!</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:142538878:newid:142539087 -->\n",
+    "from": 142538878
+  }
+}

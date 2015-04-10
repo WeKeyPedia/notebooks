@@ -1,0 +1,13 @@
+﻿{
+  "comment": "citation",
+  "timestamp": "2008-03-26T23:55:13Z",
+  "revid": 201190538,
+  "user": "Wafulz",
+  "parentid": 201059836,
+  "diff": {
+    "to": 201190538,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Quote box</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Quote box</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|quote=via [[Latin]] ''{{lang|la|ethica}}'' from the [[Ancient Greek]] {{lang|grc|ἠθική [φιλοσοφία]}} \"moral philosophy\", from the [[adjective]] of {{lang|grc|[[ἤθος]]}} ''ēthos'' \"custom, [[Habit (psychology)|habit]]\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|quote=via [[Latin]] ''{{lang|la|ethica}}'' from the [[Ancient Greek]] {{lang|grc|ἠθική [φιλοσοφία]}} \"moral philosophy\", from the [[adjective]] of {{lang|grc|[[ἤθος]]}} ''ēthos'' \"custom, [[Habit (psychology)|habit]]\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>|source={{<del class=\"diffchange diffchange-inline\">Fact</del>|<del class=\"diffchange diffchange-inline\">date</del>=<del class=\"diffchange diffchange-inline\">March</del> 2008}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>|source=<ins class=\"diffchange diffchange-inline\">&lt;ref&gt;</ins>{{<ins class=\"diffchange diffchange-inline\">cite web </ins>|<ins class=\"diffchange diffchange-inline\"> url = http://dictionary.reference.com/search?q=ethics | title = ethics | publisher = Lexico Publishing Group | accessdate </ins>= 2008<ins class=\"diffchange diffchange-inline\">-03-27</ins>}}<ins class=\"diffchange diffchange-inline\">&lt;/ref&gt;</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|width=33%</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|width=33%</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:201059836:newid:201190538 -->\n",
+    "from": 201059836
+  },
+  "minor": ""
+}

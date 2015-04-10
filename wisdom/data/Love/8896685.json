@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Agap&#275; */ Possessive its has no apostrophe",
+  "timestamp": "2004-12-28T16:54:24Z",
+  "revid": 8896685,
+  "user": "Fvw",
+  "parentid": 8890851,
+  "diff": {
+    "to": 8896685,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 159:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 159:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Agap&amp;#275;====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Agap&amp;#275;====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In the [[New Testament]], [[Agape|Agap&amp;#275;]], is charitable, selfless, altruistic, and unconditional. <del class=\"diffchange diffchange-inline\">It's</del> fatherly love seen as creating goodness in the world, and is reciprocal between believers and God.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In the [[New Testament]], [[Agape|Agap&amp;#275;]], is charitable, selfless, altruistic, and unconditional. <ins class=\"diffchange diffchange-inline\">Its</ins> fatherly love seen as creating goodness in the world, and is reciprocal between believers and God.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Nomos====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Nomos====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:8890851:newid:8896685 -->\n",
+    "from": 8890851
+  },
+  "minor": ""
+}

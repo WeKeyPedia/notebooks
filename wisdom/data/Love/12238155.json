@@ -1,0 +1,12 @@
+﻿{
+  "comment": "rv vandalism - ''From Tung to Hoang i love you w/all my heart !!!''",
+  "timestamp": "2005-04-11T01:47:24Z",
+  "revid": 12238155,
+  "user": "Oo64eva",
+  "parentid": 12145395,
+  "diff": {
+    "to": 12238155,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 278:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 278:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Kärlek]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Kärlek]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Rakkaus]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Rakkaus]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>From Tung to Hoang i love you w/all my heart !!!</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n",
+    "from": 12145395
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Headline text */",
+  "timestamp": "2006-10-18T15:45:56Z",
+  "revid": 82227645,
+  "user": "Sonofecthelion",
+  "parentid": 82227610,
+  "diff": {
+    "to": 82227645,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Headline text ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Headline text ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* \"<del class=\"diffchange diffchange-inline\">sarah</del> is my friend.\"</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* \"<ins class=\"diffchange diffchange-inline\">Sarah</ins> is my friend.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Someone took the stereo out of my car.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Someone took the stereo out of my car.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"O.J. Simpson was acquitted at his trial.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"O.J. Simpson was acquitted at his trial.\"</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:82227610:newid:82227645 -->\n",
+    "from": 82227610
+  }
+}

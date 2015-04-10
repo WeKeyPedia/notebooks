@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Meta-kigwa */",
+  "timestamp": "2012-01-25T09:00:42Z",
+  "revid": 473127717,
+  "anon": "",
+  "user": "124.83.48.125",
+  "parentid": 473127613,
+  "diff": {
+    "to": 473127717,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Main|Meta-<del class=\"diffchange diffchange-inline\">ethics</del>}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Main|Meta-<ins class=\"diffchange diffchange-inline\">kigwa</ins>}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Meta-ethics is a field within ethics that seeks to understand the nature of [[normative ethics]]. The focus of meta-ethics is on how we understand, know about, and what we mean when we talk about what is right and what is wrong. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Meta-ethics is a field within ethics that seeks to understand the nature of [[normative ethics]]. The focus of meta-ethics is on how we understand, know about, and what we mean when we talk about what is right and what is wrong. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:473127613:newid:473127717 -->\n",
+    "from": 473127613
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* See also */ Relating to [[Wikiversity]] in an [[Ethics|ethical way]]",
+  "timestamp": "2006-11-01T23:37:32Z",
+  "revid": 85143423,
+  "user": "CQ",
+  "parentid": 84834539,
+  "diff": {
+    "to": 85143423,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 129:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 129:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Wikiversity}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Comparative ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Comparative ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Comparative religious ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Comparative religious ethics]]</div></td>\n</tr>\n",
+    "from": 84834539
+  }
+}

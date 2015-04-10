@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Reverted edit by [[Special:Contributions/67.71.79.16|67.71.79.16]] identified as vandalism using [[Wikipedia:STiki||STiki]]",
+  "timestamp": "2010-10-18T00:53:25Z",
+  "revid": 391341583,
+  "user": "KGasso",
+  "parentid": 391340804,
+  "diff": {
+    "to": 391341583,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Descriptive ethics]], about what moral values people actually abide by.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Descriptive ethics]], about what moral values people actually abide by.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">Ethics</del> <del class=\"diffchange diffchange-inline\">was</del> <del class=\"diffchange diffchange-inline\">gay</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">Within</ins> <ins class=\"diffchange diffchange-inline\">each</ins> <ins class=\"diffchange diffchange-inline\">of these branches are many different schools of thought and still further sub-fields of study</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n</tr>\n",
+    "from": 391340804
+  }
+}

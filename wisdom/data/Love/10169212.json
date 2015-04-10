@@ -1,0 +1,12 @@
+﻿{
+  "comment": "remove a duplicate link to quotes",
+  "timestamp": "2005-02-10T17:31:29Z",
+  "revid": 10169212,
+  "user": "Paranoid",
+  "parentid": 10134654,
+  "diff": {
+    "to": 10169212,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 217:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 217:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Wikiquote:Love|Quotes from Wikiquote]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Human love===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Human love===</div></td>\n</tr>\n",
+    "from": 10134654
+  }
+}

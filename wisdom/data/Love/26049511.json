@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-10-20T23:18:15Z",
+  "revid": 26049511,
+  "anon": "",
+  "user": "12.219.73.35",
+  "parentid": 26045459,
+  "diff": {
+    "to": 26049511,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|thumb|right|The [[Heart (Symbolism and Metaphor)|heart]], a frequent modern symbol of love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|thumb|right|The [[Heart (Symbolism and Metaphor)|heart]], a frequent modern symbol of love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Love''' has many meanings in [[English language|English]], from something that gives a little pleasure (\"I loved that meal\") to something one would die for ([[patriotism]], pairbonding). It can describe an intense feeling of [[affection]], an [[emotion]] or an emotional state. In ordinary use, it usually refers to interpersonal love. Probably due to its psychological relevance, love is one of the most common themes in art.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Love''' has many<ins class=\"diffchange diffchange-inline\"> different</ins> meanings in [[English language|English]], from something that gives a little pleasure (\"I loved that meal\") to something one would die for ([[patriotism]], pairbonding). It can describe an intense feeling of [[affection]], an [[emotion]] or an emotional state. In ordinary use, it usually refers to interpersonal love. Probably due to its psychological relevance, love is one of the most common themes in art.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining love==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining love==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:26045459:newid:26049511 -->\n",
+    "from": 26045459
+  }
+}

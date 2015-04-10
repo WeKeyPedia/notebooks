@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/213.145.154.57|213.145.154.57]] to last version by Jfdwolff",
+  "timestamp": "2005-04-29T11:31:56Z",
+  "revid": 13032992,
+  "user": "Ahoerstemeier",
+  "parentid": 12970331,
+  "diff": {
+    "to": 13032992,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 245:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 245:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://www.lovelandia.com Love Poems]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.onlylovequotes.com Love Quotes]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.onlylovequotes.com Love Quotes]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.kevinkwak.com/whatididforlove/ Life and Love Stories]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.kevinkwak.com/whatididforlove/ Life and Love Stories]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:12970331:newid:13032992 -->\n",
+    "from": 12970331
+  },
+  "minor": ""
+}

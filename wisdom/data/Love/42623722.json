@@ -1,0 +1,12 @@
+﻿{
+  "comment": "revert linkspam",
+  "timestamp": "2006-03-07T10:29:52Z",
+  "revid": 42623722,
+  "user": "Stumps",
+  "parentid": 42619062,
+  "diff": {
+    "to": 42623722,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 329:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 329:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.withfriendship.com/quotes/love-quotes.php?type=allinone 26 Famous Quotes on Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.withfriendship.com/quotes/love-quotes.php?type=allinone 26 Famous Quotes on Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.zaadz.com/quotes/topics/love Quotes about Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.zaadz.com/quotes/topics/love Quotes about Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.communityOfLove.com CommunityOfLove - Daily Illustrated Love poems]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love| ]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love| ]]</div></td>\n</tr>\n",
+    "from": 42619062
+  }
+}

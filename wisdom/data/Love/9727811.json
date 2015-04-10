@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Last version was better",
+  "timestamp": "2005-01-28T03:52:28Z",
+  "revid": 9727811,
+  "user": "Derek Ross",
+  "parentid": 9724612,
+  "diff": {
+    "to": 9727811,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 32:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 32:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Passion, or sexual energy, is probably the most important element in determining how a relationship is seen. This is because passion is often considered undesirable or unhealthy in love. In many religions and systems of ethics, it is wrong to have passionate love for immediate family, or outside of a committed relationship.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Passion, or sexual energy, is probably the most important element in determining how a relationship is seen. This is because passion is often considered undesirable or unhealthy in love. In many religions and systems of ethics, it is wrong to have passionate love for immediate family, or outside of a committed relationship.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">True</del> love<del class=\"diffchange diffchange-inline\"> is forgiving and patient, always willing to compromise, never counting mistakes or wrong doings.</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">===Impersonal</ins> love<ins class=\"diffchange diffchange-inline\">===</ins></div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>A person can be said to love a country, principle, or goal if they value it greatly and are deeply committed to it. People can also 'love' material objects, animals, or activities if they like them a great deal. In these cases, if sexual passion is actually felt, it is typically considered abnormal or unhealthy, and called [[paraphilia]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religious love===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religious love===</div></td>\n</tr>\n",
+    "from": 9724612
+  },
+  "minor": ""
+}

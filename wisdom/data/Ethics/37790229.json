@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Meta-ethics */",
+  "timestamp": "2006-02-02T03:53:26Z",
+  "revid": 37790229,
+  "anon": "",
+  "user": "68.99.3.23",
+  "parentid": 37780393,
+  "diff": {
+    "to": 37790229,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 19:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 19:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Meta-ethics also investigates where our ethical principles come from, and what they mean. Are they merely social inventions? Do they involve more than expressions of our individual emotions? Meta-ethical answers to these questions focus on the issues of universal truths, the will of God, the role of reason in ethical judgments, and the meaning of ethical terms themselves.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Meta-ethics also investigates where our ethical principles come from, and what they mean. Are they merely social inventions? Do they involve more than expressions of our individual emotions? Meta-ethical answers to these questions focus on the issues of universal truths, the will of God, the role of reason in ethical judgments, and the meaning of ethical terms themselves.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''killingspree was here'''</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Normative ethics ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Normative ethics ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:37780393:newid:37790229 -->\n",
+    "from": 37780393
+  }
+}

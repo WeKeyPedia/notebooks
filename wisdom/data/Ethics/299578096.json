@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Postmodern ethics is not its own branch of ethics ala metaethics, normative ethics, descriptive ethics, etc. It belongs in one of those categories.",
+  "timestamp": "2009-06-30T20:58:04Z",
+  "revid": 299578096,
+  "user": "Pfhorrest",
+  "parentid": 299465218,
+  "diff": {
+    "to": 299578096,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 49:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 49:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- --&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- --&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>==Postmodern ethics==</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">=</ins>==Postmodern ethics<ins class=\"diffchange diffchange-inline\">=</ins>==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Postmodern ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Postmodern ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The 20th century saw a remarkable expansion of critical theory and its evolution. The earlier [[Marxism|Marxist Theory]] created a paradigm for understanding the individual, society and their interaction. The [[Polymath|Renaissance Enlightened Man]] had persisted up until the [[Industrial Revolution]] when the romantic vision of noble action began to fade. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The 20th century saw a remarkable expansion of critical theory and its evolution. The earlier [[Marxism|Marxist Theory]] created a paradigm for understanding the individual, society and their interaction. The [[Polymath|Renaissance Enlightened Man]] had persisted up until the [[Industrial Revolution]] when the romantic vision of noble action began to fade. </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:299465218:newid:299578096 -->\n",
+    "from": 299465218
+  }
+}

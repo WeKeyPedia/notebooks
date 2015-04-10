@@ -1,0 +1,12 @@
+﻿{
+  "comment": "De-POVing",
+  "timestamp": "2004-05-14T18:38:11Z",
+  "revid": 3586963,
+  "user": "Przepla",
+  "parentid": 3579376,
+  "diff": {
+    "to": 3586963,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love of [[friend]]s</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love of [[friend]]s</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># [[romantic love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># [[romantic love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div># [[sexual love]], also called [[lust]],<del class=\"diffchange diffchange-inline\"> is very healthy.</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div># [[sexual love]], also called [[lust]],</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving one another in general, helping the homeless, or a wounded animal</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving one another in general, helping the homeless, or a wounded animal</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving something abstract or inanimate, like an idea or goal</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving something abstract or inanimate, like an idea or goal</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:3579376:newid:3586963 -->\n",
+    "from": 3579376
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2008-10-09T11:57:54Z",
+  "revid": 244111695,
+  "anon": "",
+  "user": "66.103.50.152",
+  "parentid": 244089940,
+  "diff": {
+    "to": 244111695,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">{{Ethics}}</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Morality<del class=\"diffchange diffchange-inline\">''' (from the [[Latin]] ''{{lang|la|moralitas}}'' \"manner, character</del>, proper behavior\") has three principal meanings.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Morality, proper behavior\") has three principal meanings.<ins class=\"diffchange diffchange-inline\"> mehahaha!!!!!!</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In its first, descriptive usage, morality means a code of conduct held to be authoritative in matters of right and wrong. Morals are created by and define society, philosophy, religion, or individual conscience.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In its first, descriptive usage, morality means a code of conduct held to be authoritative in matters of right and wrong. Morals are created by and define society, philosophy, religion, or individual conscience.</div></td>\n</tr>\n",
+    "from": 244089940
+  }
+}

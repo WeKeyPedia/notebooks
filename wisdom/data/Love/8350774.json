@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Adve&#7779;a, Maitr&#299; */",
+  "timestamp": "2004-12-12T00:45:13Z",
+  "revid": 8350774,
+  "anon": "",
+  "user": "4.159.137.64",
+  "parentid": 8348108,
+  "diff": {
+    "to": 8350774,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 172:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 172:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Adve&amp;#7779;a, Maitr&amp;#299;====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Adve&amp;#7779;a, Maitr&amp;#299;====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Adve&amp;#7779;a]] and [[metta|maitr&amp;#299;]] are benevolent love. This love is unconditional and requires <del class=\"diffchange diffchange-inline\">a lot of</del> self-acceptance. This is quite different from the ordinary love, which is usually about attachment and sex, which rarely occur without self-interest. Instead, in Buddhism it refers to detachment and unselfish interest in others' welfare.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Adve&amp;#7779;a]] and [[metta|maitr&amp;#299;]] are benevolent love. This love is unconditional and requires <ins class=\"diffchange diffchange-inline\">considerable</ins> self-acceptance. This is quite different from the ordinary love, which is usually about attachment and sex, which rarely occur without self-interest. Instead, in Buddhism it refers to detachment and unselfish interest in others' welfare.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Hindu===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Hindu===</div></td>\n</tr>\n",
+    "from": 8348108
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* External links */ +{{Commonscat}}",
+  "timestamp": "2013-06-04T22:16:18Z",
+  "revid": 558354905,
+  "user": "Eleassar",
+  "parentid": 557427408,
+  "diff": {
+    "to": 558354905,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 255:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 255:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Commonscat}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wiktionary}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wiktionary}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wikiversity}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wikiversity}}</div></td>\n</tr>\n",
+    "from": 557427408
+  }
+}

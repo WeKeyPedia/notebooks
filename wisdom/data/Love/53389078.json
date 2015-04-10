@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edit of [[User:169.204.230.206|169.204.230.206]] ([[User_talk:169.204.230.206|talk]]), changed back to last version by [[User:Musical Linguist|Musical Linguist]]",
+  "timestamp": "2006-05-15T21:16:47Z",
+  "revid": 53389078,
+  "user": "Buchanan-Hermit",
+  "parentid": 53388809,
+  "diff": {
+    "to": 53389078,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 138:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 138:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tr:Aşk]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tr:Aşk]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>----</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>== i love you cote==</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>i love you too nick'''</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:53388809:newid:53389078 -->\n",
+    "from": 53388809
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "fix two links",
+  "timestamp": "2003-12-10T01:59:52Z",
+  "revid": 1971008,
+  "anon": "",
+  "user": "152.163.253.70",
+  "parentid": 1919180,
+  "diff": {
+    "to": 1971008,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fr:morale]] [[pl:Moralno&amp;#347;&amp;#263;]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fr:morale]] [[pl:Moralno&amp;#347;&amp;#263;]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>A '''morality''' is a complex of concepts and beliefs by which an individual determines whether his or her actions are [[right]] or [[wrong]].  Oftentimes, these concepts and beliefs are generalized and codified in a culture or group, and thus serve to regulate the behaviour of its members.  Conformity to such codification is also called ''morality'', and [[civilization]] depends upon widespread morality for its very existence.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>A '''morality''' is a complex of concepts and beliefs by which an individual determines whether his or her actions are [[<ins class=\"diffchange diffchange-inline\">good|</ins>right]] or [[<ins class=\"diffchange diffchange-inline\">evil|</ins>wrong]].  Oftentimes, these concepts and beliefs are generalized and codified in a culture or group, and thus serve to regulate the behaviour of its members.  Conformity to such codification is also called ''morality'', and [[civilization]] depends upon widespread morality for its very existence.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==In general==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==In general==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:1919180:newid:1971008 -->\n",
+    "from": 1919180
+  }
+}

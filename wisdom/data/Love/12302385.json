@@ -1,0 +1,13 @@
+﻿{
+  "comment": "corrected tennis link",
+  "timestamp": "2005-04-14T11:27:33Z",
+  "revid": 12302385,
+  "user": "CustardJack",
+  "parentid": 12294593,
+  "diff": {
+    "to": 12302385,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>: ''For the 1960s band, see [[Love (band)]].  The term is also used in [[Tennis#History<del class=\"diffchange diffchange-inline\"> of tennis</del>|tennis]]. ''</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>: ''For the 1960s band, see [[Love (band)]].  The term is also used in [[Tennis#History|tennis]]. ''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:12294593:newid:12302385 -->\n",
+    "from": 12294593
+  },
+  "minor": ""
+}

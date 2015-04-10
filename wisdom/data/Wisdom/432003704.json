@@ -1,0 +1,13 @@
+﻿{
+  "comment": "fix link",
+  "timestamp": "2011-06-01T14:15:24Z",
+  "revid": 432003704,
+  "user": "Ancheta Wis",
+  "parentid": 432003288,
+  "diff": {
+    "to": 432003704,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[File:Moses San Pietro in Vincoli.jpg|thumb|Horns on the head of [[Moses (Michelangelo)]] are a [[ #Hebrew <del class=\"diffchange diffchange-inline\">bible</del>|graphic symbol]] of Wisdom]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[File:Moses San Pietro in Vincoli.jpg|thumb|Horns on the head of [[Moses (Michelangelo)]] are a [[ #Hebrew <ins class=\"diffchange diffchange-inline\">Bible</ins>|graphic symbol]] of Wisdom]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Efez Celsus Library 3 RB.jpg|thumb|200px|[[Personification]] of wisdom (in [[Greek language|Greek]], \"''Σοφία''\" or \"''[[Sophia (wisdom)|Sophia]]''\") at the [[Celsus Library]] in [[Ephesus]], [[Turkey]].]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Efez Celsus Library 3 RB.jpg|thumb|200px|[[Personification]] of wisdom (in [[Greek language|Greek]], \"''Σοφία''\" or \"''[[Sophia (wisdom)|Sophia]]''\") at the [[Celsus Library]] in [[Ephesus]], [[Turkey]].]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:432003288:newid:432003704 -->\n",
+    "from": 432003288
+  },
+  "minor": ""
+}

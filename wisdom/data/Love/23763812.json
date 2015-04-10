@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/217.42.87.2|217.42.87.2]] to last version by Trevor macinnis",
+  "timestamp": "2005-09-22T17:02:14Z",
+  "revid": 23763812,
+  "user": "Ixfd64",
+  "parentid": 23763783,
+  "diff": {
+    "to": 23763812,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|thumb|right|The [[Heart (Symbolism and Metaphor)|heart]], a symbol of love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|thumb|right|The [[Heart (Symbolism and Metaphor)|heart]], a symbol of love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Love''' has many meanings in [[English language|English]], from something that gives a little pleasure (\"I loved that meal\") to something one would die for ([[patriotism]], pairbonding). It can describe an intense feeling of [[affection]]<del class=\"diffchange diffchange-inline\">(such as Kate and Craig)</del>, an [[emotion]] or an emotional state. In ordinary use, it usually refers to interpersonal love. Probably due to its psychological relevance, love is one of the most common themes in art.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Love''' has many meanings in [[English language|English]], from something that gives a little pleasure (\"I loved that meal\") to something one would die for ([[patriotism]], pairbonding). It can describe an intense feeling of [[affection]], an [[emotion]] or an emotional state. In ordinary use, it usually refers to interpersonal love. Probably due to its psychological relevance, love is one of the most common themes in art.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:23763783:newid:23763812 -->\n",
+    "from": 23763783
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */ amorality",
+  "timestamp": "2007-11-19T23:09:28Z",
+  "revid": 172583359,
+  "anon": "",
+  "user": "128.113.147.91",
+  "parentid": 172416394,
+  "diff": {
+    "to": 172583359,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 120:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 120:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[The ends justify the means]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[The ends justify the means]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral Zeitgeist]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral Zeitgeist]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Amorality]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Footnotes==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Footnotes==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:172416394:newid:172583359 -->\n",
+    "from": 172416394
+  }
+}

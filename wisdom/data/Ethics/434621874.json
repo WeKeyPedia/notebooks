@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2011-06-16T17:57:00Z",
+  "revid": 434621874,
+  "user": "Deborahallen13",
+  "parentid": 434617164,
+  "diff": {
+    "to": 434621874,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics,''' also known as '''moral philosophy''', is a branch of [[philosophy]] <del class=\"diffchange diffchange-inline\">that</del> <del class=\"diffchange diffchange-inline\">addresses</del> <del class=\"diffchange diffchange-inline\">questions about [[morality]]—that is,</del> concepts such as [[good and evil]], right and wrong,  [[virtue]] and [[vice]], [[justice]], etc.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics,''' also known as '''moral philosophy''', is a branch of [[philosophy]] <ins class=\"diffchange diffchange-inline\">—address</ins> <ins class=\"diffchange diffchange-inline\">issues</ins> <ins class=\"diffchange diffchange-inline\">and</ins> concepts such as [[good and evil]], right and wrong,  [[virtue]] and [[vice]], [[justice]], etc.<ins class=\"diffchange diffchange-inline\">[[morality means the same as ethics]]</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n</tr>\n",
+    "from": 434617164
+  }
+}

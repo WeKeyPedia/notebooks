@@ -1,0 +1,12 @@
+﻿{
+  "comment": "rv minor unconstructive changes to lede",
+  "timestamp": "2010-10-01T04:55:05Z",
+  "revid": 388045396,
+  "user": "Pfhorrest",
+  "parentid": 388027192,
+  "diff": {
+    "to": 388045396,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' (<del class=\"diffchange diffchange-inline\">sometimes</del> known as '''moral philosophy''') is a branch of [[philosophy]] that addresses questions <del class=\"diffchange diffchange-inline\">concerning</del> <del class=\"diffchange diffchange-inline\">the</del>  concepts <del class=\"diffchange diffchange-inline\">of</del> [[good and bad]], right and wrong, [[justice]], [[virtue]], etc.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' (<ins class=\"diffchange diffchange-inline\">also</ins> known as '''moral philosophy''') is a branch of [[philosophy]] that addresses questions <ins class=\"diffchange diffchange-inline\">about</ins> <ins class=\"diffchange diffchange-inline\">[[morality]]</ins> <ins class=\"diffchange diffchange-inline\">— that is,</ins> concepts <ins class=\"diffchange diffchange-inline\">such as</ins> [[good and bad]], right and wrong, [[justice]], [[virtue]], etc.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n</tr>\n",
+    "from": 388027192
+  }
+}

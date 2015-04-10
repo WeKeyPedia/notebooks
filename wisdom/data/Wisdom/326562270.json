@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Positive psychology */",
+  "timestamp": "2009-11-18T16:56:30Z",
+  "revid": 326562270,
+  "anon": "",
+  "user": "43.244.33.49",
+  "parentid": 326555356,
+  "diff": {
+    "to": 326562270,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 23:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 23:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | page = 106</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | page = 106</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | isbn = 0-19-516701-5}}&lt;/ref&gt; With this definition, wisdom can supposedly be measured using the following criteria.&lt;ref name=\"CSVperspective\" /&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | isbn = 0-19-516701-5}}&lt;/ref&gt; With this definition, wisdom can supposedly be measured using the following criteria.&lt;ref name=\"CSVperspective\" /&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* A wise person can have sex with real girls</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* A wise person has [[self-knowledge]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* A wise person has [[self-knowledge]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* A wise person seems [[Sincerity|sincere]] and direct with others.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* A wise person seems [[Sincerity|sincere]] and direct with others.</div></td>\n</tr>\n",
+    "from": 326555356
+  }
+}

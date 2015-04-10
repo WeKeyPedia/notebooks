@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-05-02T19:33:53Z",
+  "revid": 13167006,
+  "anon": "",
+  "user": "66.158.56.67",
+  "parentid": 13142832,
+  "diff": {
+    "to": 13167006,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 127:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 127:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In contrast, a ''non''-ethical sentence would be a sentence that does ''not'' serve to (morally) evaluate something. Examples would include:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In contrast, a ''non''-ethical sentence would be a sentence that does ''not'' serve to (morally) evaluate something. Examples would include:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* \"Sally is a tall person.\"</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Someone took the stereo out of my car.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Someone took the stereo out of my car.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Simpson was acquitted at his trial.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Simpson was acquitted at his trial.\"</div></td>\n</tr>\n",
+    "from": 13142832
+  }
+}

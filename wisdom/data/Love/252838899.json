@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2008-11-19T19:50:13Z",
+  "revid": 252838899,
+  "user": "Ronaldomundo",
+  "parentid": 252838722,
+  "diff": {
+    "to": 252838899,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 196:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 196:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wiktionarypar|I love you}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wiktionarypar|I love you}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://iserver.saddleback.cc.ca.us/faculty/jfritsen/articles.html The Science of Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://iserver.saddleback.cc.ca.us/faculty/jfritsen/articles.html The Science of Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.in-mind.org/issue-6/the-anatomy-of-love.html A whimsical overview of scientific research on love, with <del class=\"diffchange diffchange-inline\">reference</del>]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.in-mind.org/issue-6/the-anatomy-of-love.html A whimsical overview of scientific research on love, with <ins class=\"diffchange diffchange-inline\">references</ins>]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{emotion-footer}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{emotion-footer}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:252838722:newid:252838899 -->\n",
+    "from": 252838722
+  },
+  "minor": ""
+}

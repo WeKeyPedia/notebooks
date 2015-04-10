@@ -1,0 +1,13 @@
+﻿{
+  "comment": "robot  Adding: [[hi:नैतिकता]]",
+  "timestamp": "2007-03-27T21:11:20Z",
+  "revid": 118356451,
+  "user": "TXiKiBoT",
+  "parentid": 118318715,
+  "diff": {
+    "to": 118356451,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 206:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 206:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[gl:Ética]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[gl:Ética]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[hy:Էթիկա]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[hy:Էթիկա]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[hi:नैतिकता]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[hr:Etika]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[hr:Etika]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[id:Etika]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[id:Etika]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:118318715:newid:118356451 -->\n",
+    "from": 118318715
+  },
+  "minor": ""
+}

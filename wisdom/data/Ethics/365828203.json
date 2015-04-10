@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2010-06-03T13:36:13Z",
+  "revid": 365828203,
+  "anon": "",
+  "user": "86.155.234.164",
+  "parentid": 365828157,
+  "diff": {
+    "to": 365828203,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 305:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 305:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מידות]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מידות]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>lol</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:365828157:newid:365828203 -->\n",
+    "from": 365828157
+  }
+}

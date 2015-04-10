@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Other types of love (philias) */",
+  "timestamp": "2005-08-20T05:38:05Z",
+  "revid": 21414425,
+  "anon": "",
+  "user": "68.112.108.18",
+  "parentid": 21321374,
+  "diff": {
+    "to": 21414425,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 228:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 228:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">===Other types of love (philias)===</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Bibliophilia]] &amp;mdash; the love of books</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[biophilia|Biophilia]] &amp;mdash; the love of nature</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[List of philias]] &amp;mdash; list of words with ''philia'' or ''phile'' suffix</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Wiktionary===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Wiktionary===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:21321374:newid:21414425 -->\n",
+    "from": 21321374
+  }
+}

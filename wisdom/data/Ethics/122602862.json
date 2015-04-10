@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-04-13T22:02:30Z",
+  "revid": 122602862,
+  "user": "KSchutte",
+  "parentid": 121762803,
+  "diff": {
+    "to": 122602862,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 146:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 146:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethic of reciprocity|The Golden Rule]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethic of reciprocity|The Golden Rule]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Principlism|Principlism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Principlism|Principlism]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>==Further Reading==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* The [http://www.ucl.ac.uk/philosophy/LPSG/ London Philosophy Study Guide] offers many suggestions on what to read, depending on the student's familiarity with the subject:  [http://www.ucl.ac.uk/philosophy/LPSG/Ethics.htm Ethics]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:121762803:newid:122602862 -->\n",
+    "from": 121762803
+  }
+}

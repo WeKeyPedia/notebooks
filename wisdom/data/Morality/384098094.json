@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Religion as a source of moral authority */",
+  "timestamp": "2010-09-10T22:12:37Z",
+  "revid": 384098094,
+  "user": "Pfhorrest",
+  "parentid": 384073477,
+  "diff": {
+    "to": 384098094,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 118:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 118:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religion as a source of moral authority===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religion as a source of moral authority===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Expand section|date=June 2008}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Expand section|date=June 2008}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{main|divine command theory}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Many religions provide moral guidelines for their followers. They believe that the divine has instructed them with a way to live; following these rules will lead to a good life, good social structure, and closer communion with the divine.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Many religions provide moral guidelines for their followers. They believe that the divine has instructed them with a way to live; following these rules will lead to a good life, good social structure, and closer communion with the divine.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:384073477:newid:384098094 -->\n",
+    "from": 384073477
+  }
+}

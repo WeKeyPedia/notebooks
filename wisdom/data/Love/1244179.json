@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted to last edit by Eloquence",
+  "timestamp": "2003-08-05T10:23:01Z",
+  "revid": 1244179,
+  "user": "Tarquin",
+  "parentid": 1244172,
+  "diff": {
+    "to": 1244179,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[da:Kærlighed]] [[de:Liebe]] [[ja:&amp;#24859;]] [[nl:Liefde]] [[pl:Mi%C5%82o%C5%9B%C4%87]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[da:Kærlighed]] [[de:Liebe]] [[ja:&amp;#24859;]] [[nl:Liefde]] [[pl:Mi%C5%82o%C5%9B%C4%87]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Love''' is a special [[<del class=\"diffchange diffchange-inline\">disaster</del>]] for someone or something, a [[feeling]] or [[emotion]]. Some describe it as a chemical reaction in the human [[brain]].  Various different types of love exist, which are<del class=\"diffchange diffchange-inline\"> all</del> more or less <del class=\"diffchange diffchange-inline\">[[flawed]]</del>:</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Love''' is a special [[<ins class=\"diffchange diffchange-inline\">affection</ins>]] for someone or something, a [[feeling]] or [[emotion]]. Some describe it as a chemical reaction in the human [[brain]].  Various different types of love exist, which are more or less <ins class=\"diffchange diffchange-inline\">related</ins>:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love between [[family]] members: parent's love of children, etc.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love between [[family]] members: parent's love of children, etc.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love of [[friend]]s</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love of [[friend]]s</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:1244172:newid:1244179 -->\n",
+    "from": 1244172
+  },
+  "minor": ""
+}

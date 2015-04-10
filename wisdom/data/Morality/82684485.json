@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/205.188.116.14|205.188.116.14]] ([[User talk:205.188.116.14|talk]]) to last version by Rama's Arrow",
+  "timestamp": "2006-10-20T20:01:13Z",
+  "revid": 82684485,
+  "user": "PinchasC",
+  "parentid": 82665428,
+  "diff": {
+    "to": 82684485,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 93:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 93:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://plato.stanford.edu/entries/morality-definition/ The Stanford Encyclopedia of Philosophy on the Definition of Morality]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://plato.stanford.edu/entries/morality-definition/ The Stanford Encyclopedia of Philosophy on the Definition of Morality]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.examinethetruth.com/page_morale_01.htm Christian and Muslim debates on Morality]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.examinethetruth.com/page_morale_01.htm Christian and Muslim debates on Morality]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.chabad.org/search/keyword.asp?kid=1222 Morality and Judaism] chabad.org</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.geeta-kavita.com/article.asp?article=biology_morals_dharma An article that focuses on the Biological basis of morality is available at Geeta-kavita.com]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.geeta-kavita.com/article.asp?article=biology_morals_dharma An article that focuses on the Biological basis of morality is available at Geeta-kavita.com]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.worldmoralmovement.org Wiki site for discussing and taking action on shared morals (WorldMoralMovement.org)]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.worldmoralmovement.org Wiki site for discussing and taking action on shared morals (WorldMoralMovement.org)]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:82665428:newid:82684485 -->\n",
+    "from": 82665428
+  },
+  "minor": ""
+}

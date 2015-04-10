@@ -1,0 +1,12 @@
+﻿{
+  "comment": "rm linkspam; points to a book ad",
+  "timestamp": "2007-07-21T12:35:00Z",
+  "revid": 146113924,
+  "user": "ThAtSo",
+  "parentid": 146110949,
+  "diff": {
+    "to": 146113924,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 126:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 126:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://selfhelpinspiration.com/article/morals_in_society.html Morals and Conscience in Society] </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://selfhelpinspiration.com/article/morals_in_society.html Morals and Conscience in Society] </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://plato.stanford.edu/entries/morality-definition/ The Stanford Encyclopedia of Philosophy on the Definition of Morality]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://plato.stanford.edu/entries/morality-definition/ The Stanford Encyclopedia of Philosophy on the Definition of Morality]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://www.meaninginmylife.com Rational Philosophical Basis for Moral Feeling]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.examinethetruth.com/page_morale_01.htm Christian and Muslim debates on Morality]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.examinethetruth.com/page_morale_01.htm Christian and Muslim debates on Morality]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.chabad.org/search/keyword.asp?kid=1222 Morality and Judaism] chabad.org</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.chabad.org/search/keyword.asp?kid=1222 Morality and Judaism] chabad.org</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:146110949:newid:146113924 -->\n",
+    "from": 146110949
+  }
+}

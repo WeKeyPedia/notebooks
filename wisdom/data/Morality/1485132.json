@@ -1,0 +1,12 @@
+﻿{
+  "comment": "[[moral hazard]]",
+  "timestamp": "2003-09-26T16:55:26Z",
+  "revid": 1485132,
+  "user": "The Anome",
+  "parentid": 1484631,
+  "diff": {
+    "to": 1485132,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>---- </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>---- </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>See: [[blue law]]s, [[sexual morality]], [[moral relativism]], [[moral absolutism]], [[moral universalism]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>See: [[blue law]]s, [[sexual morality]], [[moral relativism]], [[moral absolutism]], [[moral universalism<ins class=\"diffchange diffchange-inline\">]], [[moral hazard</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Compare: [[ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Compare: [[ethics]]</div></td>\n</tr>\n",
+    "from": 1484631
+  }
+}

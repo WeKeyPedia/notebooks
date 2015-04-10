@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Persian */ Disambiguated [[Sa'di]]",
+  "timestamp": "2008-11-06T19:20:23Z",
+  "revid": 250081601,
+  "user": "Zigger",
+  "parentid": 250021745,
+  "diff": {
+    "to": 250081601,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 60:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 60:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:::: - ''It lights the whole Sky.'' (Hafiz)&lt;br /&gt;   </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:::: - ''It lights the whole Sky.'' (Hafiz)&lt;br /&gt;   </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>       </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>       </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Rumi]], [[Hafez]] and [[Sa'di]] are icons of the passion and love that the Persian culture and language present. The Persian word for love is ''eshgh'', deriving from the Arabic ''ishq''.  In the Persian culture, everything is encompassed by love and all is for love, starting from loving friends and family, husbands and wives, and eventually reaching the divine love that is the ultimate goal in life. Over seven centuries ago, Sa'di wrote:   </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Rumi]], [[Hafez]] and [[<ins class=\"diffchange diffchange-inline\">Saadi (poet)|</ins>Sa'di]] are icons of the passion and love that the Persian culture and language present. The Persian word for love is ''eshgh'', deriving from the Arabic ''ishq''.  In the Persian culture, everything is encompassed by love and all is for love, starting from loving friends and family, husbands and wives, and eventually reaching the divine love that is the ultimate goal in life. Over seven centuries ago, Sa'di wrote:   </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>   </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>   </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>::::''The children of Adam are limbs of one body''  </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>::::''The children of Adam are limbs of one body''  </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:250021745:newid:250081601 -->\n",
+    "from": 250021745
+  },
+  "minor": ""
+}

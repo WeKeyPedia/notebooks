@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Many ethicists work in medicine, bio ethicists, and added a catagory under this.",
+  "timestamp": "2004-10-13T21:06:25Z",
+  "revid": 6570207,
+  "user": "ShaunMacPherson",
+  "parentid": 6559897,
+  "diff": {
+    "to": 6570207,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 154:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 154:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>There are articles on [[Ethics in religion]] and [[Ethics in the Bible]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>There are articles on [[Ethics in religion]] and [[Ethics in the Bible]].</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>==Ethics in medicine==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>One if the major areas where ethics and ethicists practice is in the field of medicine.  Example issues are [[euthanasia]], medical experiements, [[genetic]] modification of organisms and humans, [[vaccine trials]], [[triage]] and others.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Psychology===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Psychology===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:6559897:newid:6570207 -->\n",
+    "from": 6559897
+  },
+  "minor": ""
+}

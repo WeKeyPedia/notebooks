@@ -1,0 +1,13 @@
+﻿{
+  "comment": "fix",
+  "timestamp": "2012-02-12T21:37:22Z",
+  "revid": 476519047,
+  "user": "Brokenhiiii",
+  "parentid": 476518887,
+  "diff": {
+    "to": 476519047,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 139:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 139:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/ref&gt;; the [[Five Precepts]] and the [[Noble Eightfold Path]] of [[Buddhism]] (''see'' [[Śīla]]); the ancient Egyptian code of [[Ma'at]]; the [[Ten Commandments]] of [[Judaism]] and [[Christianity]]; the [[Quran]] of Islam; Judaism's [[Noahide Law]]; and the [[yamas]] and [[niyama]] of the [[Hindu scriptures]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/ref&gt;; the [[Five Precepts]] and the [[Noble Eightfold Path]] of [[Buddhism]] (''see'' [[Śīla]]); the ancient Egyptian code of [[Ma'at]]; the [[Ten Commandments]] of [[Judaism]] and [[Christianity]]; the [[Quran]] of Islam; Judaism's [[Noahide Law]]; and the [[yamas]] and [[niyama]] of the [[Hindu scriptures]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Another related concept is the ''moral core'' of an individual, which is assumed to be innate. This, in some religious systems and beliefs ([[Gnosticism]]), is assumed to be the basis of all [[aesthetics]] and thus moral choice. Moral codes as such are therefore seen as coercive—part of human [[politics]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Another related concept is the ''moral core'' of an individual, which is assumed to be innate. This, in some religious systems and beliefs (<ins class=\"diffchange diffchange-inline\">e.g. </ins>[[Gnosticism]]), is assumed to be the basis of all [[aesthetics]] and thus moral choice. Moral codes as such are therefore seen as coercive—part of human [[politics]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n",
+    "from": 476518887
+  },
+  "minor": ""
+}

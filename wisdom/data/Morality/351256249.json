@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Undid revision 350685531 by [[Special:Contributions/173.70.4.129|173.70.4.129]] ([[User talk:173.70.4.129|talk]])",
+  "timestamp": "2010-03-21T23:34:07Z",
+  "revid": 351256249,
+  "user": "Ranger2006",
+  "parentid": 351255942,
+  "diff": {
+    "to": 351256249,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 64:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 64:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Neuroimaging===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Neuroimaging===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The explicit making of moral right and wrong judgments<del class=\"diffchange diffchange-inline\"> benchood</del> links to activation in the [[ventromedial prefrontal cortex]] while as the</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The explicit making of moral right and wrong judgments links to activation in the [[ventromedial prefrontal cortex]] while as the</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>intuitive reactions to situations containing implicit moral issues activates the [[temporoparietal junction]] area.&lt;ref&gt;Harenski CL, Antonenko O, Shane MS, Kiehl KA. (2010). A functional imaging investigation of moral deliberation and moral intuition. Neuroimage. 49: 2707–2716. {{doi|10.1016/j.neuroimage.2009.10.062}} PMID 19878727&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>intuitive reactions to situations containing implicit moral issues activates the [[temporoparietal junction]] area.&lt;ref&gt;Harenski CL, Antonenko O, Shane MS, Kiehl KA. (2010). A functional imaging investigation of moral deliberation and moral intuition. Neuroimage. 49: 2707–2716. {{doi|10.1016/j.neuroimage.2009.10.062}} PMID 19878727&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:351255942:newid:351256249 -->\n",
+    "from": 351255942
+  }
+}

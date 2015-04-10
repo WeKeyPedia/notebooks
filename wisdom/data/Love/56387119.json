@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-06-01T21:13:42Z",
+  "revid": 56387119,
+  "anon": "",
+  "user": "69.138.190.228",
+  "parentid": 56387087,
+  "diff": {
+    "to": 56387119,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''''Aamir Ajmeri just can't resist loving Batul Abbas, Yoojin Shim, Rita Wu, and Maanasi Mistry. He is in so dire crush that he is in pain, a pain caused by love!'''''</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">'</ins>'''''Aamir Ajmeri just can't resist loving Batul Abbas, Yoojin Shim, Rita Wu, and Maanasi Mistry. He is in so dire crush that he is in pain, a pain caused by love!<ins class=\"diffchange diffchange-inline\">'</ins>'''''</div></td>\n</tr>\n",
+    "from": 56387087
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Specific questions */",
+  "timestamp": "2007-02-12T18:06:38Z",
+  "revid": 107607780,
+  "anon": "",
+  "user": "66.204.149.190",
+  "parentid": 107193116,
+  "diff": {
+    "to": 107607780,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 51:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 51:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>But not all questions studied in applied ethics concern public policy.  For example, making ethical judgments regarding questions such as, \"Is [[lying]] always wrong?\" and, \"If not, when is it permissible?\" is prior to any etiquette.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>But not all questions studied in applied ethics concern public policy.  For example, making ethical judgments regarding questions such as, \"Is [[lying]] always wrong?\" and, \"If not, when is it permissible?\" is prior to any etiquette.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Carlos Andreas Renix is a pimp</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ethics in politics and economics===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ethics in politics and economics===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:107193116:newid:107607780 -->\n",
+    "from": 107193116
+  }
+}

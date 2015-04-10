@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-06-25T17:31:21Z",
+  "revid": 60512587,
+  "user": "Stevertigo",
+  "parentid": 60512465,
+  "diff": {
+    "to": 60512587,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' (from Greek ''[[ethos|ἦθος]]'' meaning \"custom\") is the branch of [[axiology]], one of the four major branches of [[philosophy]], which attempts to understand the nature of [[morality]]; to distinguish that which is [[right]] from that which is [[wrong]].  The [[Western philosophy|Western tradition]] of ethics is sometimes called '''moral philosophy'''.  Ethics in plain words means studying and analyzing right from wrong; good from bad.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' (from Greek ''[[ethos|ἦθος]]''<ins class=\"diffchange diffchange-inline\"> \"[[ethos]]\"</ins> meaning \"custom\") is the branch of [[axiology]], one of the four major branches of [[philosophy]], which attempts to understand the nature of [[morality]]; to distinguish that which is [[right]] from that which is [[wrong]].  The [[Western philosophy|Western tradition]] of ethics is sometimes called '''moral philosophy'''.  Ethics in plain words means studying and analyzing right from wrong; good from bad.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Meta-ethics ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Meta-ethics ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:60512465:newid:60512587 -->\n",
+    "from": 60512465
+  },
+  "minor": ""
+}

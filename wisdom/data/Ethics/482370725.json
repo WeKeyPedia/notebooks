@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Modern ethics */",
+  "timestamp": "2012-03-17T14:11:29Z",
+  "revid": 482370725,
+  "anon": "",
+  "user": "96.234.43.135",
+  "parentid": 481803572,
+  "diff": {
+    "to": 482370725,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 59:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 59:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Modern ethics===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Modern ethics===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In the [[modern philosophy|modern]] era, ethical theories were<del class=\"diffchange diffchange-inline\"> not</del> generally divided between the consequentialist theories of utilitarian philosophers such as [[Jeremy Bentham]] and [[John Stuart Mill]], and [[deontological ethics]] as epitomized by the work of [[Immanuel Kant]]. This is also the era associated with the origin of [[pragmatic ethics]], especially in the work of [[John Dewey]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In the [[modern philosophy|modern]] era, ethical theories were generally divided between the consequentialist theories of utilitarian philosophers such as [[Jeremy Bentham]] and [[John Stuart Mill]], and [[deontological ethics]] as epitomized by the work of [[Immanuel Kant]]. This is also the era associated with the origin of [[pragmatic ethics]], especially in the work of [[John Dewey]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Modern consequentialism====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Modern consequentialism====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:481803572:newid:482370725 -->\n",
+    "from": 481803572
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/85.141.136.216|85.141.136.216]] ([[User talk:85.141.136.216|talk]]) to last version by Booyabazooka",
+  "timestamp": "2006-08-10T14:51:33Z",
+  "revid": 68824123,
+  "user": "Musical Linguist",
+  "parentid": 68824065,
+  "diff": {
+    "to": 68824123,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 137:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 137:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.true-love-relationship-advice.com/true-love.html True Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.true-love-relationship-advice.com/true-love.html True Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.ahintofseduction.com Love forum &amp; resource]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.ahintofseduction.com Love forum &amp; resource]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* http://dmoz.org/Society/Relationships/Romance/</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:68824065:newid:68824123 -->\n",
+    "from": 68824065
+  },
+  "minor": ""
+}

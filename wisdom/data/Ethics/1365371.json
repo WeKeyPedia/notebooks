@@ -1,0 +1,13 @@
+﻿{
+  "comment": "NPOV dispute notice added",
+  "timestamp": "2003-08-30T00:03:08Z",
+  "revid": 1365371,
+  "user": "Angela",
+  "parentid": 1364695,
+  "diff": {
+    "to": 1365371,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 3:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 3:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fr:Éthique]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fr:Éthique]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Etyka]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Etyka]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>''The neutrality of this article is [[Wikipedia:NPOV dispute|disputed]].''</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' studies questions pertaining to [[rights|right]] and [[wrong]], [[goodness|good]] and [[evil|bad]].  There is some tension between the notion of ethics as ''seeing'', and ethics as ''doing'' or solving disputes between those who are doing different things that aren't compatible.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' studies questions pertaining to [[rights|right]] and [[wrong]], [[goodness|good]] and [[evil|bad]].  There is some tension between the notion of ethics as ''seeing'', and ethics as ''doing'' or solving disputes between those who are doing different things that aren't compatible.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:1364695:newid:1365371 -->\n",
+    "from": 1364695
+  },
+  "minor": ""
+}

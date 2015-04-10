@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Undid revision 385807870 by [[Special:Contributions/69.196.188.68|69.196.188.68]] ([[User talk:69.196.188.68|talk]]) rv unexplained blanking",
+  "timestamp": "2010-09-19T23:00:39Z",
+  "revid": 385808024,
+  "user": "Barek",
+  "parentid": 385807870,
+  "diff": {
+    "to": 385808024,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Other uses}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' (also known as '''moral philosophy''') is a branch of [[philosophy]] that addresses questions about [[morality]] — that is, concepts such as [[good and evil]], right and wrong, [[justice]], [[virtue]], etc.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Meta-ethics]], about the theoretical meaning and reference of moral propositions and how their [[truth-value]]s (if any) may be determined;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Meta-ethics]], about the theoretical meaning and reference of moral propositions and how their [[truth-value]]s (if any) may be determined;</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:385807870:newid:385808024 -->\n",
+    "from": 385807870
+  }
+}

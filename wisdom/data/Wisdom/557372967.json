@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Hinduism */ removed leading space",
+  "timestamp": "2013-05-29T16:38:03Z",
+  "revid": 557372967,
+  "anon": "",
+  "user": "92.251.109.67",
+  "parentid": 556693258,
+  "diff": {
+    "to": 557372967,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 99:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 99:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Hinduism===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Hinduism===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\"> </del>The major knowledge source in Hinduism is the vast knowledge achieved by the sages over thousands of years and stored in form of 4 vedas, 8 siddhis, 9 Niddhis and Major religious books, for example Ramayana and Mahabharata.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The major knowledge source in Hinduism is the vast knowledge achieved by the sages over thousands of years and stored in form of 4 vedas, 8 siddhis, 9 Niddhis and Major religious books, for example Ramayana and Mahabharata.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Wisdom in Hinduism is considered a state of mind and soul where a person achieves liberation or salvation.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Wisdom in Hinduism is considered a state of mind and soul where a person achieves liberation or salvation.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:556693258:newid:557372967 -->\n",
+    "from": 556693258
+  }
+}

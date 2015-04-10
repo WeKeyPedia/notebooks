@@ -1,0 +1,12 @@
+﻿{
+  "comment": "removed [[Category:Love]]; added [[Category:I Love Lucy]] using [[WP:HC|HotCat]]",
+  "timestamp": "2013-04-23T16:58:32Z",
+  "revid": 551822958,
+  "user": "GraceSmileyface",
+  "parentid": 551385637,
+  "diff": {
+    "to": 551822958,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 268:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 268:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{emotion-footer}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{emotion-footer}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Category:Love| ]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Category:<ins class=\"diffchange diffchange-inline\">I </ins>Love<ins class=\"diffchange diffchange-inline\"> Lucy</ins>| ]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Emotions]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Emotions]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Ethical principles]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Ethical principles]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:551385637:newid:551822958 -->\n",
+    "from": 551385637
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "* Stephen S. Hall, ''Wisdom: From Philosophy to Neuroscience'', Knopf (2010) ISBN 978-0307269102",
+  "timestamp": "2011-12-29T05:07:10Z",
+  "revid": 468215430,
+  "anon": "",
+  "user": "99.181.153.29",
+  "parentid": 466311793,
+  "diff": {
+    "to": 468215430,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 153:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 153:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[E. F. Schumacher]], \"Small is Beautiful\", [[Harper and Row]], New York, New York, 1989.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[E. F. Schumacher]], \"Small is Beautiful\", [[Harper and Row]], New York, New York, 1989.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Sternberg, Robert J.]], ''Wisdom: Its Nature, Origins, and Development'' (1990). [[Cambridge University Press]]. ISBN 978-0521367189 {{importance-inline|date=December 2010}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Sternberg, Robert J.]], ''Wisdom: Its Nature, Origins, and Development'' (1990). [[Cambridge University Press]]. ISBN 978-0521367189 {{importance-inline|date=December 2010}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* Stephen S. Hall, ''Wisdom: From Philosophy to Neuroscience'', Knopf (2010) ISBN 978-0307269102</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:466311793:newid:468215430 -->\n",
+    "from": 466311793
+  }
+}

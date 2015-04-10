@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-02-27T07:02:18Z",
+  "revid": 111280769,
+  "anon": "",
+  "user": "72.185.203.169",
+  "parentid": 111090532,
+  "diff": {
+    "to": 111280769,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 135:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 135:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:道德]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:道德]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מוסר]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מוסר]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>bismi llah arrahmani arrahim</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:111090532:newid:111280769 -->\n",
+    "from": 111090532
+  }
+}

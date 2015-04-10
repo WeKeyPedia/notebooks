@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Philosophical perspectives */",
+  "timestamp": "2009-05-20T23:09:51Z",
+  "revid": 291281829,
+  "anon": "",
+  "user": "72.196.97.3",
+  "parentid": 290761661,
+  "diff": {
+    "to": 291281829,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 33:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 33:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>There are many other examples.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>There are many other examples.<ins class=\"diffchange diffchange-inline\"> such as: BRUCE LIKES COCK!!!!</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Anthropological perspectives ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Anthropological perspectives ==</div></td>\n</tr>\n",
+    "from": 290761661
+  }
+}

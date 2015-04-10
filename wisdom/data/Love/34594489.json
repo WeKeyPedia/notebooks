@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-01-10T07:54:48Z",
+  "revid": 34594489,
+  "anon": "",
+  "user": "66.75.4.117",
+  "parentid": 34575178,
+  "diff": {
+    "to": 34594489,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 305:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 305:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tl:Pag-ibig]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tl:Pag-ibig]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Tiffany Gabrielle Chan Loves Eugene Nikolay Galipchak'''</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:34575178:newid:34594489 -->\n",
+    "from": 34575178
+  }
+}

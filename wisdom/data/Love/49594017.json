@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Types */",
+  "timestamp": "2006-04-22T14:01:40Z",
+  "revid": 49594017,
+  "anon": "",
+  "user": "86.134.117.106",
+  "parentid": 49593832,
+  "diff": {
+    "to": 49594017,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Free love]] – sexual relations according to choice and unrestricted by marriage.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Free love]] – sexual relations according to choice and unrestricted by marriage.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Platonic love]] – a close relationship in which sexual desire is nonexistent or has been suppressed or sublimated.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Platonic love]] – a close relationship in which sexual desire is nonexistent or has been suppressed or sublimated.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Puppy love]] – romantic affection felt between or as though between adolescents.(an example of this is of <del class=\"diffchange diffchange-inline\">Emily</del>.<del class=\"diffchange diffchange-inline\"> </del>S and <del class=\"diffchange diffchange-inline\">Ethan</del>.<del class=\"diffchange diffchange-inline\"> </del>R, they love each other but it is a shame neither of them can admit it.)</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Puppy love]] – romantic affection felt between or as though between adolescents.(an example of this is of <ins class=\"diffchange diffchange-inline\">E</ins>.S and <ins class=\"diffchange diffchange-inline\">E</ins>.R, they love each other but it is a shame neither of them can admit it.)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Religious love]] – devotion to one’s deity or theology.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Religious love]] – devotion to one’s deity or theology.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional and sexual desire.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional and sexual desire.</div></td>\n</tr>\n",
+    "from": 49593832
+  }
+}

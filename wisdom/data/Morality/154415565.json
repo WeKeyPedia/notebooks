@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Relavism Vs Absolutism */",
+  "timestamp": "2007-08-29T17:14:14Z",
+  "revid": 154415565,
+  "user": "Richard holt",
+  "parentid": 154414798,
+  "diff": {
+    "to": 154415565,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Relavism Vs Absolutism ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Relavism Vs Absolutism ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{sect-stub}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{sect-stub}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Some thinkers hold that there is no correct definition of right behavior, that morality can only be judged with respect to the standards of a particular belief system, historical context or culture.  This position is known as [[moral relativism]].  The opposite view, that there are universal, eternal moral truths is known as [[moral absolutism]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Some thinkers hold that there is no correct definition of right behavior, that morality can only be judged with respect to the standards of a particular belief system, historical context or culture.  This position is known as [[moral relativism]].<ins class=\"diffchange diffchange-inline\">&lt;ref&gt;http://plato.stanford.edu/entries/moral-relativism/&lt;/ref&gt;</ins>  The opposite view, that there are universal, eternal moral truths is known as [[moral absolutism]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== New Section ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== New Section ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:154414798:newid:154415565 -->\n",
+    "from": 154414798
+  },
+  "minor": ""
+}

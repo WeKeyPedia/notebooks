@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2002-10-12T07:01:50Z",
+  "revid": 565118,
+  "user": "Bryan Derksen",
+  "parentid": 352469,
+  "diff": {
+    "to": 565118,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">The</del> ability and inclination to make choices that stand</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">'''Wisdom''' is the</ins> ability and inclination to make choices that stand</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>the test of time.  To say that a choice was wise implies that the action or inaction was strategically correct when judged by some set of values.  Another formulation is \"Making the best use of available [[knowledge]].\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>the test of time.  To say that a choice was wise implies that the action or inaction was strategically correct when judged by some set of values.  Another formulation is \"Making the best use of available [[knowledge]].\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 352469
+  },
+  "minor": ""
+}

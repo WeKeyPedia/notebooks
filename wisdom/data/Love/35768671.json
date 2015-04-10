@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Revert to Jossi",
+  "timestamp": "2006-01-19T03:29:24Z",
+  "revid": 35768671,
+  "user": "JHMM13",
+  "parentid": 35768570,
+  "diff": {
+    "to": 35768671,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Attraction and attachment===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Attraction and attachment===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The conventional view in [[biology]] is that there are two major drives in love &amp;mdash; [[sexual attraction]] and [[attachment theory|attachment]]. Attachment between adults is presumed to work on the same principles that lead an infant to become attached to his or her mother or father<del class=\"diffchange diffchange-inline\">.  Love is displayed in the form of two swans because swans pair up for life.  They are each other's lifetime partners</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The conventional view in [[biology]] is that there are two major drives in love &amp;mdash; [[sexual attraction]] and [[attachment theory|attachment]]. Attachment between adults is presumed to work on the same principles that lead an infant to become attached to his or her mother or father.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Companionate vs. passionate ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Companionate vs. passionate ===</div></td>\n</tr>\n",
+    "from": 35768570
+  },
+  "minor": ""
+}

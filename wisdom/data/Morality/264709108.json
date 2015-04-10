@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted 1 edit by [[Special:Contributions/98.118.248.100|98.118.248.100]] identified as [[WP:VAND|vandalism]] to last revision by [[User:Dougweller|Dougweller]]. ([[WP:TW|TW]])",
+  "timestamp": "2009-01-17T18:29:31Z",
+  "revid": 264709108,
+  "user": "Dchall1",
+  "parentid": 264705195,
+  "diff": {
+    "to": 264709108,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 248:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 248:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מוסר]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מוסר]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:道德]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:道德]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div> and guess what they can such my dick bitch;; bitches on it like a glue stick:)</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:264705195:newid:264709108 -->\n",
+    "from": 264705195
+  },
+  "minor": ""
+}

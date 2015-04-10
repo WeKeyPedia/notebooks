@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Moral codes */ restore bracket",
+  "timestamp": "2014-01-09T03:43:01Z",
+  "revid": 589872483,
+  "user": "Editor2020",
+  "parentid": 589871364,
+  "diff": {
+    "to": 589872483,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 127:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 127:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Moral codes==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Moral codes==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Examples of moral codes include the [Golden Rule]] (or \"ethic of reciprocity\");&lt;ref&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Examples of moral codes include the <ins class=\"diffchange diffchange-inline\">[</ins>[Golden Rule]] (or \"ethic of reciprocity\");&lt;ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Walter Terence Stace]] argued that the Golden Rule is much more than simply an [[ethics|ethical code]]. Instead, he posits, it \"express[es] the essence of a universal morality.\" The rationale for this crucial distinction occupies much of his book ''The Concept of Morals'' (1937): –</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Walter Terence Stace]] argued that the Golden Rule is much more than simply an [[ethics|ethical code]]. Instead, he posits, it \"express[es] the essence of a universal morality.\" The rationale for this crucial distinction occupies much of his book ''The Concept of Morals'' (1937): –</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> {{cite book</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> {{cite book</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:589871364:newid:589872483 -->\n",
+    "from": 589871364
+  }
+}

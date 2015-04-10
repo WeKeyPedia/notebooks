@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Meta-ethics */",
+  "timestamp": "2006-02-14T17:45:34Z",
+  "revid": 39612759,
+  "anon": "",
+  "user": "66.97.29.92",
+  "parentid": 39612518,
+  "diff": {
+    "to": 39612759,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 12:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 12:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Meta-ethics ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Meta-ethics ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{main|Meta-ethics}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{main|Meta-ethics}}<ins class=\"diffchange diffchange-inline\">DINO CRISIS IS THE BEST GAME FOR PS1</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Meta-ethics''' is the investigation of the nature of ethical statements. It involves such questions as: Are ethical claims truth-apt, i.e., capable of being true or false, or are they, for example, expressions of emotion (see [[cognitivism (ethics)|cognitivism]] and [[non-cognitivism]])? If they are truth-apt, are they ever true? If they are ever true, what is the nature of the facts that they express? And are they ever true absolutely (see [[moral absolutism]]), or always only relative to some individual, society, or culture? (See [[moral relativism]], [[cultural relativism]].)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Meta-ethics''' is the investigation of the nature of ethical statements. It involves such questions as: Are ethical claims truth-apt, i.e., capable of being true or false, or are they, for example, expressions of emotion (see [[cognitivism (ethics)|cognitivism]] and [[non-cognitivism]])? If they are truth-apt, are they ever true? If they are ever true, what is the nature of the facts that they express? And are they ever true absolutely (see [[moral absolutism]]), or always only relative to some individual, society, or culture? (See [[moral relativism]], [[cultural relativism]].)</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:39612518:newid:39612759 -->\n",
+    "from": 39612518
+  }
+}

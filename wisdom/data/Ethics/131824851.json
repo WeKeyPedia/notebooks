@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Legal ethics= */ one too many =",
+  "timestamp": "2007-05-18T18:05:14Z",
+  "revid": 131824851,
+  "user": "Cymbalta",
+  "parentid": 131502998,
+  "diff": {
+    "to": 131824851,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 94:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 94:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/blockquote&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/blockquote&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>===Legal ethics<del class=\"diffchange diffchange-inline\">=</del>===</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>===Legal ethics===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Legal ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Legal ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Ethics has been applied to [[criminology]] leading to the field of [[criminal justice]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Ethics has been applied to [[criminology]] leading to the field of [[criminal justice]].</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:131502998:newid:131824851 -->\n",
+    "from": 131502998
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "ja:",
+  "timestamp": "2005-07-03T14:56:40Z",
+  "revid": 18071398,
+  "anon": "",
+  "user": "222.150.35.114",
+  "parentid": 17936216,
+  "diff": {
+    "to": 18071398,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 58:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 58:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Ethics]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[ja:道徳]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:17936216:newid:18071398 -->\n",
+    "from": 17936216
+  }
+}

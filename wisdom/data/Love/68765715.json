@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */  actually, what the heck... wiktionary doesn't even have an entry on Broken heart",
+  "timestamp": "2006-08-10T05:48:41Z",
+  "revid": 68765715,
+  "user": "Booyabazooka",
+  "parentid": 68765610,
+  "diff": {
+    "to": 68765715,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 68:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 68:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Aspects of love</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Aspects of love</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [[wikt:Admiration|Admiration]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [[wikt:Admiration|Admiration]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>** [[wikt:Broken Heart|Broken Heart]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [[wikt:Care|Care]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [[wikt:Care|Care]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** Desire to [[Sexual reproduction|procreate]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** Desire to [[Sexual reproduction|procreate]]</div></td>\n</tr>\n",
+    "from": 68765610
+  },
+  "minor": ""
+}

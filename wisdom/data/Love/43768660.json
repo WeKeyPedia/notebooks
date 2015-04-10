@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/86.132.27.219|86.132.27.219]] ([[User talk:86.132.27.219|talk]]) to last version by Randwicked",
+  "timestamp": "2006-03-14T19:26:26Z",
+  "revid": 43768660,
+  "user": "Derek Ross",
+  "parentid": 43750309,
+  "diff": {
+    "to": 43768660,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 123:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 123:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Type in manJambo if you want to look at cool racer track pics, and web space!!!!</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:43750309:newid:43768660 -->\n",
+    "from": 43750309
+  },
+  "minor": ""
+}

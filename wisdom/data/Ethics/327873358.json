@@ -1,0 +1,13 @@
+﻿{
+  "comment": "robot Modifying: [[hy:Բարոյագիտություն]]",
+  "timestamp": "2009-11-25T15:24:26Z",
+  "revid": 327873358,
+  "user": "D'ohBot",
+  "parentid": 327735101,
+  "diff": {
+    "to": 327873358,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 214:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 214:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[gan:倫理學]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[gan:倫理學]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ko:윤리학]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ko:윤리학]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[hy:<del class=\"diffchange diffchange-inline\">Էթիկա</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[hy:<ins class=\"diffchange diffchange-inline\">Բարոյագիտություն</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[hi:आचारशास्त्र]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[hi:आचारशास्त्र]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[hr:Etika]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[hr:Etika]]</div></td>\n</tr>\n",
+    "from": 327735101
+  },
+  "minor": ""
+}

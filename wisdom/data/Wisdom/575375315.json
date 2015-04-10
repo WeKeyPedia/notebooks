@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Resources */removing category per [[Wikipedia:Categories for discussion/Log/2013 September 19]], removed: Category:Core issues in ethics using [[Project:AWB|AWB]]",
+  "timestamp": "2013-10-02T01:51:56Z",
+  "revid": 575375315,
+  "user": "ArmbrustBot",
+  "parentid": 573776148,
+  "diff": {
+    "to": 575375315,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 202:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 202:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Ethical principles]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Ethical principles]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Category:Core issues in ethics]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Spirituality]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Spirituality]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Positive psychology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Positive psychology]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:573776148:newid:575375315 -->\n",
+    "from": 573776148
+  },
+  "minor": ""
+}

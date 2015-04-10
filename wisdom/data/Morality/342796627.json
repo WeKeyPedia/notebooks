@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* ASSSSS */",
+  "timestamp": "2010-02-08T22:42:09Z",
+  "revid": 342796627,
+  "anon": "",
+  "user": "174.113.128.174",
+  "parentid": 342796500,
+  "diff": {
+    "to": 342796627,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Fons Trompenaars]], author of ''[[Did the Pedestrian Die?]]'', tested members of different cultures with various [[moral dilemma]]s. One of these was whether the driver of a car would have his friend, a passenger riding in the car, lie in order to protect the driver from the consequences of driving too fast and hitting a pedestrian. Trompenaars found that different cultures had quite different expectations (from none to almost certain)&lt;!-- , and in some cultures it mattered whether the pedestrian had died to how much assistance would be expected --&gt;.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Fons Trompenaars]], author of ''[[Did the Pedestrian Die?]]'', tested members of different cultures with various [[moral dilemma]]s. One of these was whether the driver of a car would have his friend, a passenger riding in the car, lie in order to protect the driver from the consequences of driving too fast and hitting a pedestrian. Trompenaars found that different cultures had quite different expectations (from none to almost certain)&lt;!-- , and in some cultures it mattered whether the pedestrian had died to how much assistance would be expected --&gt;.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>== ASSSSS ==</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Evolutionary perspectives ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Evolutionary perspectives ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:342796500:newid:342796627 -->\n",
+    "from": 342796500
+  }
+}

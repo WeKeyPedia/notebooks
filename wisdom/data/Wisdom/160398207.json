@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Quotations about wisdom */",
+  "timestamp": "2007-09-26T03:33:52Z",
+  "revid": 160398207,
+  "anon": "",
+  "user": "74.116.219.226",
+  "parentid": 160397965,
+  "diff": {
+    "to": 160398207,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 93:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 93:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.\" ― [[Walter Lippmann]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.\" ― [[Walter Lippmann]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>\"All I know is that I know nothihg.\" <del class=\"diffchange diffchange-inline\">-</del> [[Socrates]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>\"All I know is that I know nothihg.\" <ins class=\"diffchange diffchange-inline\">―</ins> [[Socrates]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:160397965:newid:160398207 -->\n",
+    "from": 160397965
+  }
+}

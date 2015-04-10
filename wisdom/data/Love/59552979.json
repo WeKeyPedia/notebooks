@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Nietzsche",
+  "timestamp": "2006-06-20T02:27:07Z",
+  "revid": 59552979,
+  "anon": "",
+  "user": "149.169.167.149",
+  "parentid": 59544909,
+  "diff": {
+    "to": 59552979,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 6:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 6:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>An unfinished debate about the authenticity of love as other-regard began with Friedrich Nietzsche's charge that love is merely an ideology constructed by the weak to mask  \"resentment\" about their lack of power. Critics of Nietzsche's view find gratuitous his assumptions that self-interest and the \"will to power\" overshadow all other concerns.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>An unfinished debate about the authenticity of love as other-regard began with Friedrich Nietzsche's charge that love is merely an ideology constructed by the weak to mask  \"resentment\" about their lack of power. Critics of Nietzsche's view find gratuitous his assumptions that self-interest and the \"will to power\" overshadow all other concerns.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">IS MEGHAN</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Types ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Types ==</div></td>\n</tr>\n",
+    "from": 59544909
+  }
+}

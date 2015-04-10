@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Undo further reading edits by 146.145.45.94",
+  "timestamp": "2008-06-21T12:06:57Z",
+  "revid": 220752718,
+  "user": "Jeandré du Toit",
+  "parentid": 220680812,
+  "diff": {
+    "to": 220752718,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 135:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 135:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Derrida, J   1995,  The gift of death,  translated by David Wills, University of Chicago Press, Chicago.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Derrida, J   1995,  The gift of death,  translated by David Wills, University of Chicago Press, Chicago.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Levinas, E  1969,  Totality and infinity, an essay on exteriority, translated by Alphonso Lingis, Duquesne University Press, Pittsburgh</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Levinas, E  1969,  Totality and infinity, an essay on exteriority, translated by Alphonso Lingis, Duquesne University Press, Pittsburgh</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://en.wikipedia.org/wiki/Murray_N._Rothbard Rothbard, Murray N.]  1982 [http://en.wikipedia.org/wiki/The_Ethics_of_LibertyThe Ethics of Liberty], defines the ethics of the personal and economic freedoms that occur with perfict liberty.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:220680812:newid:220752718 -->\n",
+    "from": 220680812
+  }
+}

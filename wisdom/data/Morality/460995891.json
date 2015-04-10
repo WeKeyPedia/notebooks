@@ -1,0 +1,13 @@
+﻿{
+  "comment": "r2.6.4) (Robot: Adding [[kk:Мораль]]",
+  "timestamp": "2011-11-16T19:49:29Z",
+  "revid": 460995891,
+  "user": "EmausBot",
+  "parentid": 460389723,
+  "diff": {
+    "to": 460995891,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 198:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 198:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[it:Morale]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[it:Morale]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[he:מוסר]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[he:מוסר]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[kk:Мораль]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sw:Maadili]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sw:Maadili]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[la:Moralitas]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[la:Moralitas]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:460389723:newid:460995891 -->\n",
+    "from": 460389723
+  },
+  "minor": ""
+}

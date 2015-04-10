@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Other types of love (philias) */  copyedit",
+  "timestamp": "2005-01-27T02:38:59Z",
+  "revid": 9717659,
+  "user": "Consequencefree",
+  "parentid": 9692018,
+  "diff": {
+    "to": 9717659,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 233:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 233:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Bibliophilia]] &amp;mdash; the love of books</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Bibliophilia]] &amp;mdash; the love of books</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[biophilia|Biophilia]] &amp;mdash; the love of nature</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[biophilia|Biophilia]] &amp;mdash; the love of nature</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[List of philias]] &amp;mdash; list of words with ''philia'' or ''phile'' <del class=\"diffchange diffchange-inline\">postfix</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[List of philias]] &amp;mdash; list of words with ''philia'' or ''phile'' <ins class=\"diffchange diffchange-inline\">suffix</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Wiktionary===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Wiktionary===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:9692018:newid:9717659 -->\n",
+    "from": 9692018
+  },
+  "minor": ""
+}

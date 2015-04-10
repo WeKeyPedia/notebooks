@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/68.211.70.43|68.211.70.43]] to last version by 71.202.65.243 ([[WP:HG|HG]])",
+  "timestamp": "2008-12-09T21:58:57Z",
+  "revid": 256917288,
+  "user": "Epbr123",
+  "parentid": 256917176,
+  "diff": {
+    "to": 256917288,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' is a major branch of <del class=\"diffchange diffchange-inline\">sex and sex is good so get laid</del>, encompassing right conduct and good life. It is significantly broader than the common conception of analyzing right and wrong. A central aspect of ethics is \"the good life\", the life worth living or life that is simply satisfying, which is held by many philosophers to be more important than [[Morality|moral]] conduct.&lt;ref&gt;Singer, P. (1993) ''Practical Ethics'', 2nd edition (p.10), Cambrdige: Cambridge University Press&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' is a major branch of <ins class=\"diffchange diffchange-inline\">[[philosophy]]</ins>, encompassing right conduct and good life. It is significantly broader than the common conception of analyzing right and wrong. A central aspect of ethics is \"the good life\", the life worth living or life that is simply satisfying, which is held by many philosophers to be more important than [[Morality|moral]] conduct.&lt;ref&gt;Singer, P. (1993) ''Practical Ethics'', 2nd edition (p.10), Cambrdige: Cambridge University Press&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Greek philosophy==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Greek philosophy==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:256917176:newid:256917288 -->\n",
+    "from": 256917176
+  },
+  "minor": ""
+}

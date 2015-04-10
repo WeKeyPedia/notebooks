@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2012-12-05T17:04:03Z",
+  "revid": 526547831,
+  "anon": "",
+  "user": "117.213.169.221",
+  "parentid": 526289098,
+  "diff": {
+    "to": 526547831,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>== Heading text ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Redirect2|Immoralist|Appropriate|the novel by André Gide|The Immoralist|other uses|Appropriation (disambiguation)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Redirect2|Immoralist|Appropriate|the novel by André Gide|The Immoralist|other uses|Appropriation (disambiguation)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Distinguish|Mortality (disambiguation)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Distinguish|Mortality (disambiguation)}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:526289098:newid:526547831 -->\n",
+    "from": 526289098
+  }
+}

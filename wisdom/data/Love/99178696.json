@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Notes */ cmmt out link PENDING REMOVAL ;; anyone care to explain what this link has to do with the article?",
+  "timestamp": "2007-01-07T21:44:05Z",
+  "revid": 99178696,
+  "user": "Dreftymac",
+  "parentid": 99177854,
+  "diff": {
+    "to": 99178696,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 135:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 135:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;references /&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;references /&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/div&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/div&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.pariolini.net Pariolini.net] La comunità dei giovani capitolini del quartiere parioli e non frequentata migliai di 'amanti del bello' di tutta italia.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">&lt;!--(PENDING_REMOVAL what is this doing in here? I don't speak italian but it appears to be an advert for some general interest website? )</ins>*[http://www.pariolini.net Pariolini.net] La comunità dei giovani capitolini del quartiere parioli e non frequentata migliai di 'amanti del bello' di tutta italia.<ins class=\"diffchange diffchange-inline\">--&gt;</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:99177854:newid:99178696 -->\n",
+    "from": 99177854
+  },
+  "minor": ""
+}

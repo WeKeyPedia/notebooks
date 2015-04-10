@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Quotations about wisdom */ moving Wikiquote",
+  "timestamp": "2008-04-09T04:57:24Z",
+  "revid": 204387560,
+  "user": "Dr.enh",
+  "parentid": 204387490,
+  "diff": {
+    "to": 204387560,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 91:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 91:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Quotations about wisdom==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Quotations about wisdom==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{wikiquote}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"For the Lord giveth wisdom: out of his mouth cometh knowledge and understanding.\" ― [[Solomon]] in [[Book of Proverbs|Proverbs]] 2:6</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"For the Lord giveth wisdom: out of his mouth cometh knowledge and understanding.\" ― [[Solomon]] in [[Book of Proverbs|Proverbs]] 2:6</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 204387490
+  }
+}

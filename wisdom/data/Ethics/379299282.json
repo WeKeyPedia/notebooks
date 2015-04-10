@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2010-08-16T22:50:17Z",
+  "revid": 379299282,
+  "user": "Stevertigo",
+  "parentid": 379299166,
+  "diff": {
+    "to": 379299282,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' (also known as '''moral philosophy''') is a branch of [[philosophy]] that addresses questions about [[morality]]—that is, concepts such as [[good and evil|good vs. bad]], noble vs. ignoble, right vs. wrong, and matters of [[justice]], [[love]], [[peace]], and [[virtue]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' (also known as '''moral philosophy''') is a branch of [[philosophy]] that addresses questions about [[morality]]—that is, concepts such as [[good and evil|good vs. bad]], <ins class=\"diffchange diffchange-inline\">[[nobility|</ins>noble vs. ignoble<ins class=\"diffchange diffchange-inline\">]]</ins>, <ins class=\"diffchange diffchange-inline\">[[correctness|</ins>right vs. wrong<ins class=\"diffchange diffchange-inline\">]]</ins>, and matters of [[justice]], [[love]], [[peace]], and [[virtue]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n</tr>\n",
+    "from": 379299166
+  },
+  "minor": ""
+}

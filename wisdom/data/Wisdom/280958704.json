@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2009-03-31T22:38:19Z",
+  "revid": 280958704,
+  "user": "Theymos",
+  "parentid": 280231401,
+  "diff": {
+    "to": 280958704,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The word Melissa could sometimes represent wisdom.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Efez Celsus Library 3 RB.jpg|thumb|200px|[[Personification]] of wisdom (in [[Greek language|Greek]], \"''Σοφία''\" or \"''[[Sophia (wisdom)|Sophia]]''\") at the [[Celsus Library]] in [[Ephesus]], [[Turkey]].]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Efez Celsus Library 3 RB.jpg|thumb|200px|[[Personification]] of wisdom (in [[Greek language|Greek]], \"''Σοφία''\" or \"''[[Sophia (wisdom)|Sophia]]''\") at the [[Celsus Library]] in [[Ephesus]], [[Turkey]].]]</div></td>\n</tr>\n",
+    "from": 280231401
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Christian Hedonism */",
+  "timestamp": "2010-10-13T02:02:09Z",
+  "revid": 390421216,
+  "anon": "",
+  "user": "67.167.242.212",
+  "parentid": 389898119,
+  "diff": {
+    "to": 390421216,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 50:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 50:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=====Christian Hedonism=====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=====Christian Hedonism=====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Christian Hedonism]] is a<del class=\"diffchange diffchange-inline\"> controversial</del> [[Christian theology|Christian doctrine]] current in some [[Evangelicalism|evangelical]] circles, particularly those of the [[Reformed theology|Reformed]] tradition. The term was coined by [[Reformed Baptist]] pastor [[John Piper (theologian)|John Piper]] in his 1986 book ''Desiring God''. Piper summarizes this philosophy of the Christian life as \"God is most glorified in us when we are most satisfied in Him.\"&lt;ref&gt;[http://www.desiringgod.org/ResourceLibrary/TopicIndex/85_Christian_Hedonism/1538_Christian_Hedonism/ Desiringgod.org]&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Christian Hedonism]] is a [[Christian theology|Christian doctrine]] current in some [[Evangelicalism|evangelical]] circles, particularly those of the [[Reformed theology|Reformed]] tradition. The term was coined by [[Reformed Baptist]] pastor [[John Piper (theologian)|John Piper]] in his 1986 book ''Desiring God''. Piper summarizes this philosophy of the Christian life as \"God is most glorified in us when we are most satisfied in Him.\"&lt;ref&gt;[http://www.desiringgod.org/ResourceLibrary/TopicIndex/85_Christian_Hedonism/1538_Christian_Hedonism/ Desiringgod.org]&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Stoicism====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Stoicism====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:389898119:newid:390421216 -->\n",
+    "from": 389898119
+  }
+}

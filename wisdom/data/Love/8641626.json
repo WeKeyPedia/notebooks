@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-12-20T11:37:30Z",
+  "revid": 8641626,
+  "anon": "",
+  "user": "84.27.221.36",
+  "parentid": 8641339,
+  "diff": {
+    "to": 8641626,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is one of the most common themes in art. The majority of modern movies have a love story and most pop music is about love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is one of the most common themes in art. The majority of modern movies have a love story and most pop music is about love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Also see the concept of love as defined by Erich Fromm. From a humanistic philosophy. [http://www.nl.wikipedia.org/wiki/Erich_Fromm<del class=\"diffchange diffchange-inline\">.com</del> <del class=\"diffchange diffchange-inline\">link</del> <del class=\"diffchange diffchange-inline\">title</del>]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Also see the concept of love as defined by Erich Fromm. From a humanistic philosophy. [http://www.nl.wikipedia.org/wiki/Erich_Fromm <ins class=\"diffchange diffchange-inline\">Erich</ins> <ins class=\"diffchange diffchange-inline\">Fromm</ins>]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining love==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining love==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:8641339:newid:8641626 -->\n",
+    "from": 8641339
+  }
+}

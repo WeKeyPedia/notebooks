@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Morals */",
+  "timestamp": "2008-01-12T12:56:33Z",
+  "revid": 183828879,
+  "anon": "",
+  "user": "212.118.28.202",
+  "parentid": 183425269,
+  "diff": {
+    "to": 183828879,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Ethics is not limited to specific acts and defined moral codes, but encompasses the whole of moral ideals and behaviors, a person's philosophy of life (or ''[[Weltanschauung]]'').&lt;ref&gt;Sahakian, William S. &amp; Sahakian, Mabel Lewis. ''Ideas of the Great Philosophers''. pp 31-32. Barnes and Noble Books (1993). ISBN 9781566192712.&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Ethics is not limited to specific acts and defined moral codes, but encompasses the whole of moral ideals and behaviors, a person's philosophy of life (or ''[[Weltanschauung]]'').&lt;ref&gt;Sahakian, William S. &amp; Sahakian, Mabel Lewis. ''Ideas of the Great Philosophers''. pp 31-32. Barnes and Noble Books (1993). ISBN 9781566192712.&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>llllllll</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Greek philosophy==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Greek philosophy==</div></td>\n</tr>\n",
+    "from": 183425269
+  }
+}

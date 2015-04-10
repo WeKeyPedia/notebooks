@@ -1,0 +1,12 @@
+﻿{
+  "comment": "[[Category:emotion]]",
+  "timestamp": "2004-05-30T17:55:34Z",
+  "revid": 3786894,
+  "user": "The Anome",
+  "parentid": 3785752,
+  "diff": {
+    "to": 3786894,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 113:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 113:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Mi%C5%82o%C5%9B%C4%87]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Mi%C5%82o%C5%9B%C4%87]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Kärlek]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Kärlek]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Category:emotion]]</div></td>\n</tr>\n",
+    "from": 3785752
+  }
+}

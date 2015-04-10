@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Scientific models */",
+  "timestamp": "2006-03-06T20:07:33Z",
+  "revid": 42526192,
+  "anon": "",
+  "user": "70.186.207.244",
+  "parentid": 42525185,
+  "diff": {
+    "to": 42526192,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 9:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 9:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific models==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific models==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>&lt;center&gt;&lt;font size=4&gt;&lt;font face=georgia&gt;I love kegan Venable!&lt;/font&gt;&lt;/font&gt;&lt;/center&gt;From katie olson</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Throughout history, predominately, [[philosophy]] and [[religion]] have speculated the most into the phenomena of love.  In the last century, the science of [[psychology]] has written a great deal on the subject.  Recently, however, the sciences of [[evolutionary psychology]], [[evolutionary biology]], [[anthropology]], [[neuroscience]], and [[biology]] have begun to take center stage in discussion as to the nature and function of love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Throughout history, predominately, [[philosophy]] and [[religion]] have speculated the most into the phenomena of love.  In the last century, the science of [[psychology]] has written a great deal on the subject.  Recently, however, the sciences of [[evolutionary psychology]], [[evolutionary biology]], [[anthropology]], [[neuroscience]], and [[biology]] have begun to take center stage in discussion as to the nature and function of love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:42525185:newid:42526192 -->\n",
+    "from": 42525185
+  }
+}

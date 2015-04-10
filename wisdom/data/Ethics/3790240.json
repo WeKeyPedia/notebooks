@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-05-29T01:40:45Z",
+  "revid": 3790240,
+  "anon": "",
+  "user": "68.51.19.56",
+  "parentid": 3767180,
+  "diff": {
+    "to": 3790240,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 241:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 241:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>See the [[list of ethics topics]] for more specialized and applied topics.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>See the [[list of ethics topics]] for more specialized and applied topics.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>See the [[list of ethicists]] for theorists who have contributed to the above<del class=\"diffchange diffchange-inline\"> ideas</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>See the [[list of ethicists]] for theorists who have contributed to the above.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:3767180:newid:3790240 -->\n",
+    "from": 3767180
+  }
+}

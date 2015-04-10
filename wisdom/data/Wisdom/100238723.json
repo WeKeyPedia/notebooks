@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Wisdom and Philosophy */",
+  "timestamp": "2007-01-12T16:05:35Z",
+  "revid": 100238723,
+  "anon": "",
+  "user": "216.223.236.9",
+  "parentid": 100113981,
+  "diff": {
+    "to": 100238723,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In his ''[[Metaphysics]]'', [[Aristotle]] defines wisdom as knowledge of causes: ''why'' things exist in a particular fashion.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In his ''[[Metaphysics]]'', [[Aristotle]] defines wisdom as knowledge of causes: ''why'' things exist in a particular fashion.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>hfgujvhgvygjfr6ytufg6y7</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Secular Sources of Wisdom==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Secular Sources of Wisdom==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:100113981:newid:100238723 -->\n",
+    "from": 100113981
+  }
+}

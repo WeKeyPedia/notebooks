@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* References */",
+  "timestamp": "2012-04-22T15:21:11Z",
+  "revid": 488660971,
+  "user": "Rcavallari",
+  "parentid": 488660869,
+  "diff": {
+    "to": 488660971,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 149:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 149:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== References ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== References ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{reflist}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{reflist}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>&lt;ref&gt;^ Kleinman, A. (2011). A search for wisdom, Lancet. Retrieved from http://thelancet.com/journals/lancet/article/PIIS0140-6736(11)61688-7/fulltext&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Further reading ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Further reading ==</div></td>\n</tr>\n",
+    "from": 488660869
+  }
+}

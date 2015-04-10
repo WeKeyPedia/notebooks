@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Impersonal love */",
+  "timestamp": "2006-01-02T22:25:33Z",
+  "revid": 33647155,
+  "anon": "",
+  "user": "82.31.189.172",
+  "parentid": 33637847,
+  "diff": {
+    "to": 33647155,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{emotion}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{emotion}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">==Impersonal</del> <del class=\"diffchange diffchange-inline\">love==</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">'''Lewis</ins> <ins class=\"diffchange diffchange-inline\">Loves Sarah'''</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Image:Eros - Pompeiian statue - Naples Archeological Museum.jpg|thumb|left|150px|[[Eros_%28mythology%29|Eros]]&lt;br&gt;God and symbol of love]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>A person can be said to love a country, principle, or goal if they value it greatly and are deeply committed to it. Similarly, compassionate outreach and volunteer workers' 'love' of their cause may be borne not of [[interpersonal love]], but impersonal love coupled with [[altruism]] and strong political convictions. People can also 'love' material objects, animals, or activities if they invest themselves in bonding their identity with that item. In some cases there may be an erotic component to such feeling of love. If that desire reaches the point of being acted out, it may be considered unhealthy, and fall under the category of [[paraphilia]].</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious love==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious love==</div></td>\n</tr>\n",
+    "from": 33637847
+  }
+}

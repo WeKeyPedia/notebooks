@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2012-09-13T18:42:50Z",
+  "revid": 512226559,
+  "anon": "",
+  "user": "71.95.221.26",
+  "parentid": 512222608,
+  "diff": {
+    "to": 512226559,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 227:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 227:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.philosophyarchive.com/index.php?title=Philosophy_of_Ethics The Philosophy of Ethics] on Philosophy Archive</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.philosophyarchive.com/index.php?title=Philosophy_of_Ethics The Philosophy of Ethics] on Philosophy Archive</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.klice.co.uk/ Kirby Laing Institute for Christian Ethics] Resources, events, and research on a range of ethical subjects from a Christian perspective.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.klice.co.uk/ Kirby Laing Institute for Christian Ethics] Resources, events, and research on a range of ethical subjects from a Christian perspective.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://tierra.rediris.es/IAGETH/ International Association for Geoethics (IAGETH)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy topics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy topics}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:512222608:newid:512226559 -->\n",
+    "from": 512222608
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Applied ethics */  Medical Ethics needs to be added in here",
+  "timestamp": "2011-12-07T13:46:37Z",
+  "revid": 464566688,
+  "user": "Felixthehamster",
+  "parentid": 463512624,
+  "diff": {
+    "to": 464566688,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 121:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 121:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Applied ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Applied ethics==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Applied ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Applied ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Applied ethics is a discipline of philosophy that attempts to apply ethical theory to real-life situations.  The discipline has many specialized fields, such as [[Engineering Ethics]], [[bioethics]], [[public service ethics]] and [[business ethics]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Applied ethics is a discipline of philosophy that attempts to apply ethical theory to real-life situations.  The discipline has many specialized fields, such as [[Engineering Ethics]], [[bioethics<ins class=\"diffchange diffchange-inline\">]], [[Medical Ethics</ins>]], [[public service ethics]] and [[business ethics]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Specific questions===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Specific questions===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:463512624:newid:464566688 -->\n",
+    "from": 463512624
+  }
+}

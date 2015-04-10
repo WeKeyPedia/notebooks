@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2008-06-29T13:06:37Z",
+  "revid": 222458768,
+  "anon": "",
+  "user": "125.60.240.219",
+  "parentid": 222110133,
+  "diff": {
+    "to": 222458768,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics'''<del class=\"diffchange diffchange-inline\"> is</del> a major branch of [[philosophy]], encompassing right conduct and good life. It is significantly broader than the common conception of analyzing right and wrong. A central aspect of ethics is \"the good life\", the life worth living or life that is simply not satisfying, which is held by many philosophers to be more important than moral conduct{{Fact|date=May 2008}}.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' a major branch of [[philosophy]], encompassing right conduct and good life. It is significantly broader than the common conception of analyzing right and wrong. A central aspect of ethics is \"the good life\", the life worth living or life that is simply not satisfying, which is held by many philosophers to be more important than moral conduct{{Fact|date=May 2008}}.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Quote box</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Quote box</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|quote=via [[Latin]] ''{{lang|la|ethica}}'' from the [[Ancient Greek]] {{lang|grc|ἠθική [φιλοσοφία]}} \"moral philosophy\", from the [[adjective]] of {{lang|grc|[[ἤθος]]}} ''ēthos'' \"custom, [[Habit (psychology)|habit]]\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|quote=via [[Latin]] ''{{lang|la|ethica}}'' from the [[Ancient Greek]] {{lang|grc|ἠθική [φιλοσοφία]}} \"moral philosophy\", from the [[adjective]] of {{lang|grc|[[ἤθος]]}} ''ēthos'' \"custom, [[Habit (psychology)|habit]]\"</div></td>\n</tr>\n",
+    "from": 222110133
+  }
+}

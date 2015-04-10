@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Persian */",
+  "timestamp": "2008-07-05T12:17:55Z",
+  "revid": 223715757,
+  "user": "Redheylin",
+  "parentid": 223715694,
+  "diff": {
+    "to": 223715757,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 58:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 58:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>::::''The sun never says to the earth \"you owe me\"''.&lt;/br&gt;     </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>::::''The sun never says to the earth \"you owe me\"''.&lt;/br&gt;     </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>::::''Look what happens with a Love like that!''&lt;/br&gt;    </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>::::''Look what happens with a Love like that!''&lt;/br&gt;    </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>:::: - ''It lights the whole Sky.''&lt;/br&gt;   </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>:::: - ''It lights the whole Sky.''<ins class=\"diffchange diffchange-inline\"> (Hafiz)</ins>&lt;/br&gt;   </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">::::(Hafiz)&lt;/br&gt;</del>   </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">    </ins>   </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>-    </div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Rumi]], [[Hafez]] and [[Omar Khayyam]] are icons of the passion and love that the Persian culture and language presents.    </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Rumi]], [[Hafez]] and [[Omar Khayyam]] are icons of the passion and love that the Persian culture and language presents.    </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>   </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>   </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:223715694:newid:223715757 -->\n",
+    "from": 223715694
+  }
+}

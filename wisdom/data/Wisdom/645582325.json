@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Resources */",
+  "timestamp": "2015-02-04T10:10:32Z",
+  "revid": 645582325,
+  "user": "Irene.emerita",
+  "parentid": 645582094,
+  "diff": {
+    "to": 645582325,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 175:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 175:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.wisdomation.com Share Your Wisdom Here]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.wisdomation.com Share Your Wisdom Here]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.wisdomresearch.org The Defining Wisdom Project of the University of Chicago]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.wisdomresearch.org The Defining Wisdom Project of the University of Chicago]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [<del class=\"diffchange diffchange-inline\">[[</del>User:Irene.emerita<del class=\"diffchange diffchange-inline\">|</del>Wisdom Ladder <del class=\"diffchange diffchange-inline\">(Irene</del> <del class=\"diffchange diffchange-inline\">Emerita)]] Irene</del> <del class=\"diffchange diffchange-inline\">Emerita</del>]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [<ins class=\"diffchange diffchange-inline\">https://en.wikipedia.org/wiki/</ins>User:Irene.emerita<ins class=\"diffchange diffchange-inline\"> </ins>Wisdom Ladder <ins class=\"diffchange diffchange-inline\">for</ins> <ins class=\"diffchange diffchange-inline\">the</ins> <ins class=\"diffchange diffchange-inline\">Community</ins>]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Use dmy dates|date=June 2011}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Use dmy dates|date=June 2011}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 645582094
+  },
+  "minor": ""
+}

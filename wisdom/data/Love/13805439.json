@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverting edits by [[User:156.63.242.3]] to last version",
+  "timestamp": "2005-05-16T17:34:48Z",
+  "revid": 13805439,
+  "user": "Ecb29",
+  "parentid": 13792003,
+  "diff": {
+    "to": 13805439,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 25:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 25:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:SwansHeart.jpg|Thumb|right|200px]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:SwansHeart.jpg|Thumb|right|200px]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Impersonal love===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Impersonal love===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>A person can be said to love a country, principle, goal if they value it greatly and are deeply committed to it. People can also 'love' material objects, animals, or activities if they invest themselves in bonding their identity with that item. In these cases, if sexual passion is actually felt, it is typically considered abnormal or unhealthy, and called [[paraphilia]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>A person can be said to love a country, principle,<ins class=\"diffchange diffchange-inline\"> or</ins> goal if they value it greatly and are deeply committed to it. People can also 'love' material objects, animals, or activities if they invest themselves in bonding their identity with that item. In these cases, if sexual passion is actually felt, it is typically considered abnormal or unhealthy, and called [[paraphilia]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religious love===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religious love===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:13792003:newid:13805439 -->\n",
+    "from": 13792003
+  },
+  "minor": ""
+}

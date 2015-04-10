@@ -1,0 +1,13 @@
+﻿{
+  "comment": "robot  Adding: la",
+  "timestamp": "2005-08-25T10:21:44Z",
+  "revid": 21794501,
+  "user": "FlaBot",
+  "parentid": 21780190,
+  "diff": {
+    "to": 21794501,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 265:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 265:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[it:Amore]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[it:Amore]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[he:אהבה]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[he:אהבה]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[la:Amor]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[nl:Liefde]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[nl:Liefde]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ja:愛]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ja:愛]]</div></td>\n</tr>\n",
+    "from": 21780190
+  },
+  "minor": ""
+}

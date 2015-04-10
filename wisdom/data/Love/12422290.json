@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Impersonal love */",
+  "timestamp": "2005-04-17T06:52:35Z",
+  "revid": 12422290,
+  "anon": "",
+  "user": "63.245.36.122",
+  "parentid": 12422277,
+  "diff": {
+    "to": 12422290,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 15:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 15:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>fuck love</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>fuck love</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">===Impersonal </del>love<del class=\"diffchange diffchange-inline\">===</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>love<ins class=\"diffchange diffchange-inline\"> sucks ass</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>A person can be said to love a country, principle, or goal if they value it greatly and are deeply committed to it. People can also 'love' material objects, animals, or activities if they invest themselves in bonding their identity with that item. In these cases, if sexual passion is actually felt, it is typically considered abnormal or unhealthy, and called [[paraphilia]].</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religious love===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religious love===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:12422277:newid:12422290 -->\n",
+    "from": 12422277
+  }
+}

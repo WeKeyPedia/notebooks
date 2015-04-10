@@ -1,0 +1,13 @@
+﻿{
+  "comment": "rv definition, since this article already does a good job of explaining it",
+  "timestamp": "2005-09-01T19:21:56Z",
+  "revid": 22346652,
+  "user": "Brighterorange",
+  "parentid": 22346585,
+  "diff": {
+    "to": 22346652,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Love is human nature of going to another person for support and companionship.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>: ''For the 1960s band, see [[Love (band)]].  The term is also used in [[Tennis#History|tennis]]. ''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>: ''For the 1960s band, see [[Love (band)]].  The term is also used in [[Tennis#History|tennis]]. ''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|thumb|right|The [[Heart (Symbolism and Metaphor)|heart]], a symbol of love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|thumb|right|The [[Heart (Symbolism and Metaphor)|heart]], a symbol of love]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:22346585:newid:22346652 -->\n",
+    "from": 22346585
+  },
+  "minor": ""
+}

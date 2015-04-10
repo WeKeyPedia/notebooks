@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/210.213.179.249|210.213.179.249]] to last version by Craigy144",
+  "timestamp": "2005-08-29T08:01:37Z",
+  "revid": 22085314,
+  "user": "Jfdwolff",
+  "parentid": 22078131,
+  "diff": {
+    "to": 22085314,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Interpersonal love===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Interpersonal love===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">LOVE IS AN UNDESCRIBABLE FEELING </del>Interpersonal love refers to the love between human beings. It is a more potent sentiment than a simple ''liking'' for another. [[Unrequited love]] refers to those feelings of love which are not reciprocated. Interpersonal love is most closely associated with [[interpersonal relationships]]. Such love might exist between family members, friends, and couples. There are also a number of psychological disorders related to love, such as [[erotomania]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Interpersonal love refers to the love between human beings. It is a more potent sentiment than a simple ''liking'' for another. [[Unrequited love]] refers to those feelings of love which are not reciprocated. Interpersonal love is most closely associated with [[interpersonal relationships]]. Such love might exist between family members, friends, and couples. There are also a number of psychological disorders related to love, such as [[erotomania]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some elements that are often present in interpersonal love:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some elements that are often present in interpersonal love:</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:22078131:newid:22085314 -->\n",
+    "from": 22078131
+  },
+  "minor": ""
+}

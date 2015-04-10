@@ -1,0 +1,12 @@
+﻿{
+  "comment": "cut improper [[WP:HN|hatnotes]] to disambig",
+  "timestamp": "2006-06-25T17:30:08Z",
+  "revid": 60512465,
+  "user": "Stevertigo",
+  "parentid": 59708210,
+  "diff": {
+    "to": 60512465,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">:''For the book of the same name, see [[Ethics (book)]]; for the [[Star Trek: The Next Generation]] episode, see [[Ethics (TNG episode)|Ethics (TNG Episode)]].''</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">{{otheruses}}</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' (from Greek ''[[ethos|ἦθος]]'' meaning \"custom\") is the branch of [[axiology]], one of the four major branches of [[philosophy]], which attempts to understand the nature of [[morality]]; to distinguish that which is [[right]] from that which is [[wrong]].  The [[Western philosophy|Western tradition]] of ethics is sometimes called '''moral philosophy'''.  Ethics in plain words means studying and analyzing right from wrong; good from bad.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' (from Greek ''[[ethos|ἦθος]]'' meaning \"custom\") is the branch of [[axiology]], one of the four major branches of [[philosophy]], which attempts to understand the nature of [[morality]]; to distinguish that which is [[right]] from that which is [[wrong]].  The [[Western philosophy|Western tradition]] of ethics is sometimes called '''moral philosophy'''.  Ethics in plain words means studying and analyzing right from wrong; good from bad.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 59708210
+  }
+}

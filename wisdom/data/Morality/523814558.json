@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/75.68.76.26|75.68.76.26]] ([[User talk:75.68.76.26|talk]]): Doesn't meet criteria for spedy deletion. ([[WP:TW|TW]])",
+  "timestamp": "2012-11-19T08:32:20Z",
+  "revid": 523814558,
+  "user": "Denisarona",
+  "parentid": 523814343,
+  "diff": {
+    "to": 523814558,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{db-nonsense}}</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Redirect|Appropriate||Appropriation (disambiguation)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Redirect|Appropriate||Appropriation (disambiguation)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Distinguish|Mortality (disambiguation)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Distinguish|Mortality (disambiguation)}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:523814343:newid:523814558 -->\n",
+    "from": 523814343
+  }
+}

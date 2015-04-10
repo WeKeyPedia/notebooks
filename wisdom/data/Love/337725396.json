@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* See also */ lets see if this works as a place to put the Close relationships infobox",
+  "timestamp": "2010-01-14T02:49:15Z",
+  "revid": 337725396,
+  "user": "OnBeyondZebrax",
+  "parentid": 337725269,
+  "diff": {
+    "to": 337725396,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 242:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 242:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">{{Close Relationships}}</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{col-begin}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{col-begin}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{col-break|width=30%}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{col-break|width=30%}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:337725269:newid:337725396 -->\n",
+    "from": 337725269
+  }
+}

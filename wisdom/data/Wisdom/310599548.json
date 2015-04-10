@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2009-08-28T20:15:59Z",
+  "revid": 310599548,
+  "user": "Dataweaver",
+  "parentid": 310599289,
+  "diff": {
+    "to": 310599548,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 33:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 33:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | last = Harter</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | last = Harter</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | first = Andrew C.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | first = Andrew C.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>  | title = [[Character Strengths and Virtues (<del class=\"diffchange diffchange-inline\">Book</del>)|Character strengths and virtues: A handbook and classification]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>  | title = [[Character Strengths and Virtues (<ins class=\"diffchange diffchange-inline\">book</ins>)|Character strengths and virtues: A handbook and classification]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | editor = Peterson, Christopher and [[Martin Seligman|Seligman, Martin E. P.]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | editor = Peterson, Christopher and [[Martin Seligman|Seligman, Martin E. P.]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | publisher = [[Oxford University Press]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | publisher = [[Oxford University Press]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:310599289:newid:310599548 -->\n",
+    "from": 310599289
+  },
+  "minor": ""
+}

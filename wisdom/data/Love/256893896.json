@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2008-12-09T20:01:40Z",
+  "revid": 256893896,
+  "user": "Timir2",
+  "parentid": 256814865,
+  "diff": {
+    "to": 256893896,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 253:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 253:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[qu:Khuyay]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[qu:Khuyay]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ru:Любовь]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ru:Любовь]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[sah:Таптал]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sq:Dashuria]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sq:Dashuria]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[scn:Amuri]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[scn:Amuri]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:256814865:newid:256893896 -->\n",
+    "from": 256814865
+  }
+}

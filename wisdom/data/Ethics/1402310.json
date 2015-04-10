@@ -1,0 +1,13 @@
+﻿{
+  "comment": "partial unrevert - readdition of paragraph by 12.88.85.244",
+  "timestamp": "2003-09-06T19:27:34Z",
+  "revid": 1402310,
+  "user": "Angela",
+  "parentid": 1401228,
+  "diff": {
+    "to": 1402310,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 42:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 42:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Ethics has been applied to war, leading to the fields of  [[pacifism]] and [[nonviolence]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Ethics has been applied to war, leading to the fields of  [[pacifism]] and [[nonviolence]].</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Ethics has been applied to analyze human use of Earth's limited resources. The material limits of [[Earth]], its [[carrying capacity]] in particular, affects what people decide is right and wrong. This has led to the study of [[environmental ethics]], [[social ecology]], and the [[green movement]]. [[Deep ecology]] is a philosophy which holds that humans must do what is good for the Earth's biosphere, and not what is good for humans. Only by doing so can people survive.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== The first social science ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== The first social science ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:1401228:newid:1402310 -->\n",
+    "from": 1401228
+  },
+  "minor": ""
+}

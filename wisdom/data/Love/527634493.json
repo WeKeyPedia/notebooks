@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Interwiki",
+  "timestamp": "2012-12-12T01:43:57Z",
+  "revid": 527634493,
+  "user": "Satdeep Gill",
+  "parentid": 527362611,
+  "diff": {
+    "to": 527634493,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 352:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 352:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[or:ପ୍ରେମ]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[or:ପ୍ରେମ]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[uz:Sevgi]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[uz:Sevgi]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[pa:ਪਿਆਰ]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pnb:پیار]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pnb:پیار]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Miłość]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Miłość]]</div></td>\n</tr>\n",
+    "from": 527362611
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Interpersonal love */",
+  "timestamp": "2005-10-24T05:41:34Z",
+  "revid": 26336765,
+  "anon": "",
+  "user": "128.194.6.122",
+  "parentid": 26325770,
+  "diff": {
+    "to": 26336765,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Friendship]]: the spirit between friends</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Friendship]]: the spirit between friends</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Kinship]]: family bonds</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Kinship]]: family bonds</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Passion (emotion)|Passion]]: <del class=\"diffchange diffchange-inline\">sexual</del> desire</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Passion (emotion)|Passion]]: <ins class=\"diffchange diffchange-inline\">whole-hearted</ins> desire</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Physical intimacy]]: sharing of intimate personal space</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Physical intimacy]]: sharing of intimate personal space</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Self-interest]]: desiring rewards</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Self-interest]]: desiring rewards</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:26325770:newid:26336765 -->\n",
+    "from": 26325770
+  }
+}

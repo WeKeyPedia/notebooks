@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Changing protection template from {{sprotect}} to {{pp-semi-protected}}",
+  "timestamp": "2007-03-30T17:49:48Z",
+  "revid": 119083914,
+  "user": "AzaToth",
+  "parentid": 118478298,
+  "diff": {
+    "to": 119083914,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{<del class=\"diffchange diffchange-inline\">sprotect</del>}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{<ins class=\"diffchange diffchange-inline\">pp-semi-protected</ins>}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!--</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!--</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*********************************************************</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*********************************************************</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:118478298:newid:119083914 -->\n",
+    "from": 118478298
+  },
+  "minor": ""
+}

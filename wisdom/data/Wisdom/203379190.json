@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* External links */ Category:Positive psychology",
+  "timestamp": "2008-04-04T21:23:27Z",
+  "revid": 203379190,
+  "user": "Dr.enh",
+  "parentid": 203237507,
+  "diff": {
+    "to": 203379190,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 129:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 129:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Spirituality]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Spirituality]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Virtues]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Virtues]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Category:Positive psychology]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Knowledge]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Knowledge]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:203237507:newid:203379190 -->\n",
+    "from": 203237507
+  }
+}

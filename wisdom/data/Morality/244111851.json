@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2008-10-09T11:59:02Z",
+  "revid": 244111851,
+  "anon": "",
+  "user": "66.103.50.152",
+  "parentid": 244111695,
+  "diff": {
+    "to": 244111851,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality, proper behavior\") has three principal meanings. mehahaha!!!!!!</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality, proper behavior\") has three principal meanings. mehahaha!!!!!!</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 150:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 149:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html?ei=5090&amp;en=23ff00b4cd4b1e91&amp;ex=1357880400&amp;partner=rssuserland&amp;emc=rss&amp;pagewanted=print Stephen Pinker on the Psychology and Evolutionary Biology of Morality]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html?ei=5090&amp;en=23ff00b4cd4b1e91&amp;ex=1357880400&amp;partner=rssuserland&amp;emc=rss&amp;pagewanted=print Stephen Pinker on the Psychology and Evolutionary Biology of Morality]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Philosophy topics}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Philosophy topics}}<ins class=\"diffchange diffchange-inline\"> are the different of morality</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Morality]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Morality]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:244111695:newid:244111851 -->\n",
+    "from": 244111695
+  }
+}

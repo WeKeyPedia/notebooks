@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Revert to revision 65188992 dated 2006-07-22 10:25:07 by Blessing2006 using [[:en:Wikipedia:Tools/Navigation_popups|popups]]",
+  "timestamp": "2006-07-24T18:39:06Z",
+  "revid": 65599931,
+  "user": "Gimmetrow",
+  "parentid": 65598511,
+  "diff": {
+    "to": 65599931,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.siceditorial.com/obra.asp?codigo=171]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}{{Close Relationships}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}{{Close Relationships}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{|style=\"float: right;\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{|style=\"float: right;\"</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:65598511:newid:65599931 -->\n",
+    "from": 65598511
+  }
+}

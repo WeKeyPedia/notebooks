@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-03-06T18:56:33Z",
+  "revid": 10873509,
+  "anon": "",
+  "user": "61.246.102.146",
+  "parentid": 10869195,
+  "diff": {
+    "to": 10873509,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 276:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 276:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Kärlek]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Kärlek]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Rakkaus]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Rakkaus]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>darshan d jain and sheetal are made for each other</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:10869195:newid:10873509 -->\n",
+    "from": 10869195
+  }
+}

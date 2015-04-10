@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/134.210.179.98|134.210.179.98]] ([[User talk:134.210.179.98|talk]]) to last revision by NotAnonymous0 ([[WP:HG|HG]])",
+  "timestamp": "2011-04-23T20:36:11Z",
+  "revid": 425551880,
+  "user": "NotAnonymous0",
+  "parentid": 425551696,
+  "diff": {
+    "to": 425551880,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 306:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 306:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tl:Etika]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tl:Etika]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ta:நன்னெறி]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ta:நன்னெறி]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[th:<del class=\"diffchange diffchange-inline\">จริธรรม</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[th:<ins class=\"diffchange diffchange-inline\">จริยธรรม</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tg:Одоб]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tg:Одоб]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tr:Etik]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tr:Etik]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:425551696:newid:425551880 -->\n",
+    "from": 425551696
+  },
+  "minor": ""
+}

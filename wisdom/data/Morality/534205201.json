@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Reverting [[WP:AGF|good faith]] or non constructive edit(s) by [[Special:Contributions/71.187.249.18|71.187.249.18]] using [[WP:STiki|STiki]].  Wrong? [[User_talk:Titodutta|Inform me]]",
+  "timestamp": "2013-01-21T19:28:52Z",
+  "revid": 534205201,
+  "user": "Titodutta",
+  "parentid": 534200915,
+  "diff": {
+    "to": 534205201,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Redirect2|Immoralist|Appropriate|the novel by André Gide|The Immoralist|other uses|Appropriation (disambiguation)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Redirect2|Immoralist|Appropriate|the novel by André Gide|The Immoralist|other uses|Appropriation (disambiguation)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Distinguish|Mortality}}<del class=\"diffchange diffchange-inline\">hi Kevin</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Distinguish|Mortality}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{mergefrom|Decency|date=November 2012}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{mergefrom|Decency|date=November 2012}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{lead too short|date=June 2012}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{lead too short|date=June 2012}}</div></td>\n</tr>\n",
+    "from": 534200915
+  }
+}

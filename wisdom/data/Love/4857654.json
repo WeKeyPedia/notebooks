@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* References */ fix ISBN link",
+  "timestamp": "2004-07-26T15:40:21Z",
+  "revid": 4857654,
+  "user": "Bodnotbod",
+  "parentid": 4854506,
+  "diff": {
+    "to": 4857654,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 85:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 85:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* R. J. Sternberg. ''A triangular theory of love''. 1986. Psychological Review, 93, 119&amp;ndash;135</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* R. J. Sternberg. ''A triangular theory of love''. 1986. Psychological Review, 93, 119&amp;ndash;135</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* Dorothy Tennov. ''Love and Limerence: the Experience of Being in Love''. New York: Stein and Day, 1979. ISBN <del class=\"diffchange diffchange-inline\">0&amp;ndash;8128&amp;ndash;6134&amp;ndash;5</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* Dorothy Tennov. ''Love and Limerence: the Experience of Being in Love''. New York: Stein and Day, 1979. ISBN <ins class=\"diffchange diffchange-inline\">0812861345</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Helen Fisher. ''Why We Love: the Nature and Chemistry of Romantic Love''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Helen Fisher. ''Why We Love: the Nature and Chemistry of Romantic Love''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:4854506:newid:4857654 -->\n",
+    "from": 4854506
+  },
+  "minor": ""
+}

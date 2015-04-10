@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Virtue ethics */",
+  "timestamp": "2012-06-14T09:26:27Z",
+  "revid": 497525497,
+  "anon": "",
+  "user": "121.58.230.127",
+  "parentid": 497261804,
+  "diff": {
+    "to": 497525497,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 47:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 47:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=====Cyrenaic hedonism=====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=====Cyrenaic hedonism=====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Founded by [[Aristippus]] of Cyrene, [[Cyrenaics]] supported immediate gratification or pleasure. \"Eat, drink and be merry, for tomorrow we die.\" Even fleeting desires should be indulged, for fear the opportunity should be forever lost. There was little to no concern with the future, the present dominating in the pursuit for immediate pleasure. Cyrenaic hedonism encouraged the pursuit of enjoyment and indulgence without hesitation, believing pleasure to be the only good.&lt;ref name = \"epsxlu\"/&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Founded by [[Aristippus]] of Cyrene, [[Cyrenaics]] supported immediate gratification or pleasure. \"Eat, drink and be merry, for tomorrow we die.\" Even fleeting desires should be indulged, for fear the opportunity should be forever lost. There was little to no concern with the future, the present dominating in the pursuit for immediate pleasure. Cyrenaic hedonism encouraged the pursuit of enjoyment and indulgence without hesitation, believing pleasure to be the only good<ins class=\"diffchange diffchange-inline\"> bad</ins>.&lt;ref name = \"epsxlu\"/&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Consequentialism===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Consequentialism===</div></td>\n</tr>\n",
+    "from": 497261804
+  }
+}

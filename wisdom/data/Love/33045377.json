@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Love styles */",
+  "timestamp": "2005-12-28T22:14:02Z",
+  "revid": 33045377,
+  "anon": "",
+  "user": "216.253.195.82",
+  "parentid": 32973952,
+  "diff": {
+    "to": 33045377,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 91:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 91:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Agapē]] &amp;mdash; selfless altruistic love; spiritual</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Agapē]] &amp;mdash; selfless altruistic love; spiritual</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">Hendrick</del> <del class=\"diffchange diffchange-inline\">and Hendrick</del> found men tend to be more ludic and manic, whereas women tend to be storgic and pragmatic. Relationships based on similar love styles were found to last longer.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">The</ins> <ins class=\"diffchange diffchange-inline\">Hendricks</ins> found men tend to be more ludic and manic, whereas women tend to be storgic and pragmatic. Relationships based on similar love styles were found to last longer.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Phases===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Phases===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:32973952:newid:33045377 -->\n",
+    "from": 32973952
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Old Testament */",
+  "timestamp": "2010-03-28T10:33:26Z",
+  "revid": 352509464,
+  "anon": "",
+  "user": "86.135.25.160",
+  "parentid": 352509401,
+  "diff": {
+    "to": 352509464,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 73:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 73:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In this context, once can clearly see the same misinterpretation in the following examples:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In this context, once can clearly see the same misinterpretation in the following examples:</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''From Wisdom's (Pride/Defiance/an animal horn)/Authority is born''.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''From Wisdom's (Pride/Defiance/an animal horn)/Authority is born''.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''His Wisdom shone ('''qaran''') unto them like (Pride/Defiance/an animal horn) ('''qeren''') of light''.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''His Wisdom shone ('''qaran''') unto them like (Pride/Defiance/an animal horn) ('''qeren''') of light''.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:352509401:newid:352509464 -->\n",
+    "from": 352509401
+  }
+}

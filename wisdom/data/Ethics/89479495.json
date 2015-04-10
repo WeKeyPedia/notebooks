@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-11-22T17:24:00Z",
+  "revid": 89479495,
+  "anon": "",
+  "user": "165.138.67.253",
+  "parentid": 88705489,
+  "diff": {
+    "to": 89479495,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 258:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 258:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[uk:Етика]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[uk:Етика]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>i am lovely.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:88705489:newid:89479495 -->\n",
+    "from": 88705489
+  }
+}

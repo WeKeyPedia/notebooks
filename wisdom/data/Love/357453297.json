@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Chinese and other Sinic cultures */ added {{chinesetext}}",
+  "timestamp": "2010-04-21T18:37:12Z",
+  "revid": 357453297,
+  "user": "Hmccasla",
+  "parentid": 354066902,
+  "diff": {
+    "to": 357453297,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 115:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 115:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Chinese and other Sinic cultures===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Chinese and other Sinic cultures===</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{ChineseText}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love zh.svg|thumb|150px|\"Ai,\" the traditional [[Chinese character]] for love (愛) consists of a [[heart]] (middle) inside of \"accept,\" \"feel,\" or \"perceive,\" which shows a graceful emotion. It can also be interpreted as a hand offering ones heart to another hand.]] </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love zh.svg|thumb|150px|\"Ai,\" the traditional [[Chinese character]] for love (愛) consists of a [[heart]] (middle) inside of \"accept,\" \"feel,\" or \"perceive,\" which shows a graceful emotion. It can also be interpreted as a hand offering ones heart to another hand.]] </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:354066902:newid:357453297 -->\n",
+    "from": 354066902
+  },
+  "minor": ""
+}

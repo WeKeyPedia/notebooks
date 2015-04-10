@@ -1,0 +1,13 @@
+﻿{
+  "comment": "robot  Modifying: su",
+  "timestamp": "2005-10-11T20:39:19Z",
+  "revid": 25302132,
+  "user": "KocjoBot",
+  "parentid": 25281763,
+  "diff": {
+    "to": 25302132,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 229:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 229:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sl:Etika]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sl:Etika]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sr:Етика]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sr:Етика]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[su:<del class=\"diffchange diffchange-inline\">Ethics</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[su:<ins class=\"diffchange diffchange-inline\">Étika</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Etiikka]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Etiikka]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Etik]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Etik]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:25281763:newid:25302132 -->\n",
+    "from": 25281763
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2007-11-15T07:04:46Z",
+  "revid": 171616263,
+  "anon": "",
+  "user": "125.24.133.163",
+  "parentid": 171559471,
+  "diff": {
+    "to": 171616263,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 120:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 120:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wiktionary}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wiktionary}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.tawandhamma.og Tawandhamma Foundation]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://ourworld.compuserve.com/homepages/jsuebersax/Lexicon.htm Wisdom Lexicon Project]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://ourworld.compuserve.com/homepages/jsuebersax/Lexicon.htm Wisdom Lexicon Project]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.poetrybytroy.com/living_wisdom.html Living Wisdom — A Research Paper about Wisdom]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.poetrybytroy.com/living_wisdom.html Living Wisdom — A Research Paper about Wisdom]</div></td>\n</tr>\n",
+    "from": 171559471
+  }
+}

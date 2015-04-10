@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-03-21T04:31:17Z",
+  "revid": 11347911,
+  "anon": "",
+  "user": "24.43.205.168",
+  "parentid": 11347888,
+  "diff": {
+    "to": 11347911,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>: ''For the 1960s band, see [[Love (band)]].  The term is also used in [[Tennis#History of tennis|tennis]]. ''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>: ''For the 1960s band, see [[Love (band)]].  The term is also used in [[Tennis#History of tennis|tennis]]. ''</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>I love you, Wikipedia. &lt;3</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>I love you, Wikipedia. &lt;3</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:11347888:newid:11347911 -->\n",
+    "from": 11347888
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-04-10T22:28:32Z",
+  "revid": 47863600,
+  "anon": "",
+  "user": "81.79.91.56",
+  "parentid": 47802382,
+  "diff": {
+    "to": 47863600,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 17:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 17:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- We know, it's amazing to love and be loved, but please express your love by helping Wikipedia to improve, not by telling all the world here in this article how much you love your significant other or others. The edit will be removed in seconds anyway. Have a happy life! --&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- We know, it's amazing to love and be loved, but please express your love by helping Wikipedia to improve, not by telling all the world here in this article how much you love your significant other or others. The edit will be removed in seconds anyway. Have a happy life! --&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love might best be defined as acting intentionally, in sympathetic response to others to promote overall well-being. Or to put it simply, \"love responds intentionally to promote well-being\" ([[Thomas Jay Oord]]).  Love promotes overall flourishing, but often focuses on those close at hand.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love might best be defined as acting intentionally, in sympathetic response to others to promote overall well-being. Or to put it simply, \"love responds intentionally to promote well-being\" ([[Thomas Jay Oord]]).  Love promotes overall flourishing, but often focuses on those close at hand.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In 2005 it was proven that 99.8% of the worlds population love abergavenny born Michael Card.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:47802382:newid:47863600 -->\n",
+    "from": 47802382
+  }
+}

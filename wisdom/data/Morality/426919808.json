@@ -1,0 +1,13 @@
+﻿{
+  "comment": "[[:en:WP:CLEANER|WPCleaner]] (v1.05) Interwiki duplication (Detection by [[Wikipedia:WCW]])",
+  "timestamp": "2011-05-01T17:42:11Z",
+  "revid": 426919808,
+  "user": "Ben Ben",
+  "parentid": 426156599,
+  "diff": {
+    "to": 426919808,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 211:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 211:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sr:Морал]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sr:Морал]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sh:Moral]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sh:Moral]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[fi:Moraali]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Moral]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Moral]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ta:ஒழுக்கநெறி]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ta:ஒழுக்கநெறி]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:426156599:newid:426919808 -->\n",
+    "from": 426156599
+  },
+  "minor": ""
+}

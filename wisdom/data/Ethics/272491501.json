@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/78.149.201.170|78.149.201.170]] to last revision by 123.152.62.241 ([[WP:HG|HG]])",
+  "timestamp": "2009-02-22T13:36:51Z",
+  "revid": 272491501,
+  "user": "Magic.Wiki",
+  "parentid": 272491468,
+  "diff": {
+    "to": 272491501,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 221:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 221:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מידות]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מידות]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[hc:poobum]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:272491468:newid:272491501 -->\n",
+    "from": 272491468
+  },
+  "minor": ""
+}

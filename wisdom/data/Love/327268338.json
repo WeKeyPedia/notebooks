@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2009-11-22T10:43:07Z",
+  "revid": 327268338,
+  "user": "Marawe",
+  "parentid": 327194498,
+  "diff": {
+    "to": 327268338,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>| style=\"background:#BBDDFF; padding: 3px 5px 3px 5px;\" align=\"center\" | '''Part of a series on Love''' </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>| style=\"background:#BBDDFF; padding: 3px 5px 3px 5px;\" align=\"center\" | '''Part of a series on Love''' </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|- </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|- </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>| style=\"padding: 1px 5px 3px 5px;\" align=\"center\" | [[Image:Emblem-favorites.svg|150px|center|]]&lt;br&gt;The stylized [[heart (symbol)]] is a traditional&lt;br&gt;European icon representing love.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>| style=\"padding: 1px 5px 3px 5px;\" align=\"center\" | [[Image:Emblem-favorites.svg|150px|center|]]&lt;br&gt;The stylized [[heart (symbol)<ins class=\"diffchange diffchange-inline\">|heart</ins>]] is a traditional&lt;br&gt;European icon representing love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|-</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|-</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>! style=\"background:#b0c4de; font-size: 95%; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; padding: 0 5px 0 5px;\" | Basic Aspects</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>! style=\"background:#b0c4de; font-size: 95%; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; padding: 0 5px 0 5px;\" | Basic Aspects</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:327194498:newid:327268338 -->\n",
+    "from": 327194498
+  }
+}

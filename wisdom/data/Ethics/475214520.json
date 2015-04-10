@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverting possible vandalism by [[Special:Contributions/66.227.179.121|66.227.179.121]] to version by Macedonian. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (862473) (Bot)",
+  "timestamp": "2012-02-05T13:05:48Z",
+  "revid": 475214520,
+  "user": "ClueBot NG",
+  "parentid": 475214513,
+  "diff": {
+    "to": 475214520,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''', also known as '''moral philosophy''', is a branch of [[philosophy]] that involves systematizing, defending, and recommending concepts of<del class=\"diffchange diffchange-inline\"> what you should do, commonly mistaken for doing what is</del> right and wrong.&lt;ref&gt;http://www.iep.utm.edu/ethics/&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''', also known as '''moral philosophy''', is a branch of [[philosophy]] that involves systematizing, defending, and recommending concepts of right and wrong<ins class=\"diffchange diffchange-inline\"> behavior</ins>.&lt;ref&gt;http://www.iep.utm.edu/ethics/&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major areas of study in ethics include:&lt;ref&gt;http://www.iep.utm.edu/ethics/&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major areas of study in ethics include:&lt;ref&gt;http://www.iep.utm.edu/ethics/&lt;/ref&gt;</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:475214513:newid:475214520 -->\n",
+    "from": 475214513
+  },
+  "minor": ""
+}

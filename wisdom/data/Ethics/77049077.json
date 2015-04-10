@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-09-21T21:03:12Z",
+  "revid": 77049077,
+  "anon": "",
+  "user": "71.90.235.63",
+  "parentid": 77000771,
+  "diff": {
+    "to": 77049077,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 213:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 213:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://intertheory.org/kritikos Kritikos: journal of postmodern cultural sound, text and image]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.normativeethics.com Normative Ethics: 5 Questions] interviews with some of the most influential scholars in ethics.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.normativeethics.com Normative Ethics: 5 Questions] interviews with some of the most influential scholars in ethics.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.sandiego.edu/ Ethics Updates] mega-list of ethics resources maintained by Lawrence Hinman of the University of San Diego.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.sandiego.edu/ Ethics Updates] mega-list of ethics resources maintained by Lawrence Hinman of the University of San Diego.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:77000771:newid:77049077 -->\n",
+    "from": 77000771
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-06-10T20:17:22Z",
+  "revid": 15093642,
+  "user": "Flo98",
+  "parentid": 14992403,
+  "diff": {
+    "to": 15093642,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 50:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 50:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The government of [[South Africa]] is attempting to create a Moral Regeneration movement. Part of this is a proposed [[Bill of Morals]], which will bring a biblical-based \"moral code\" into the realm of law. This strange move by a nominally secular democracy has attracted relatively little criticism.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The government of [[South Africa]] is attempting to create a Moral Regeneration movement. Part of this is a proposed [[Bill of Morals]], which will bring a biblical-based \"moral code\" into the realm of law. This strange move by a nominally secular democracy has attracted relatively little criticism.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>== Related Topics ==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Nonhuman animals ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:14992403:newid:15093642 -->\n",
+    "from": 14992403
+  }
+}

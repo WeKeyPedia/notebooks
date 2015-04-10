@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* References */",
+  "timestamp": "2009-11-18T10:34:08Z",
+  "revid": 326512774,
+  "anon": "",
+  "user": "98.215.117.89",
+  "parentid": 326512487,
+  "diff": {
+    "to": 326512774,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 154:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 154:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Lyon, D  1999,  Postmodernity, 2nd ed, [[Open University Press]], Buckingham.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Lyon, D  1999,  Postmodernity, 2nd ed, [[Open University Press]], Buckingham.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Singer, P  2000, Writings on an ethical life, [[Harper Collins Publishers]], London.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Singer, P  2000, Writings on an ethical life, [[Harper Collins Publishers]], London.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>ethics is so cool. :)</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Further reading==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Further reading==</div></td>\n</tr>\n",
+    "from": 326512487
+  }
+}

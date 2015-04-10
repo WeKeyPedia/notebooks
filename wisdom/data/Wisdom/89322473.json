@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Disambiguate [[St. Augustine]] to [[Augustine of Hippo]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]",
+  "timestamp": "2006-11-21T22:43:22Z",
+  "revid": 89322473,
+  "user": "VirtualDelight",
+  "parentid": 89193565,
+  "diff": {
+    "to": 89322473,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 72:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 72:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be.\" -- [[Thomas jefferson]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be.\" -- [[Thomas jefferson]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>\"Patience is the companion of wisdom.\" -- [[St. Augustine]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>\"Patience is the companion of wisdom.\" -- [[<ins class=\"diffchange diffchange-inline\">Augustine of Hippo|</ins>St. Augustine]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"Wise men talk because they have something to say; fools, because they have to say something.\" -- [[Plato]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"Wise men talk because they have something to say; fools, because they have to say something.\" -- [[Plato]]</div></td>\n</tr>\n",
+    "from": 89193565
+  },
+  "minor": ""
+}

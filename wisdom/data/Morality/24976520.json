@@ -1,0 +1,12 @@
+﻿{
+  "comment": "rvv",
+  "timestamp": "2005-10-07T13:59:58Z",
+  "revid": 24976520,
+  "user": "Spondoolicks",
+  "parentid": 24976169,
+  "diff": {
+    "to": 24976520,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{nonsense}}</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''' in the strictest sense of the word, deals with that which is universally regarded as right or wrong.  However, the term is often used to refer to a system of principles and judgments shared by [[cultural]], [[religious]], and [[philosophical]] concepts and beliefs, by which humans determine whether given actions are [[Goodness_and_value_theory|right]] or [[evil|wrong]].  </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''' in the strictest sense of the word, deals with that which is universally regarded as right or wrong.  However, the term is often used to refer to a system of principles and judgments shared by [[cultural]], [[religious]], and [[philosophical]] concepts and beliefs, by which humans determine whether given actions are [[Goodness_and_value_theory|right]] or [[evil|wrong]].  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>These concepts and beliefs are often generalized and codified by a culture or group, and thus serve to regulate the behaviour of its members.  </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>These concepts and beliefs are often generalized and codified by a culture or group, and thus serve to regulate the behaviour of its members.  </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:24976169:newid:24976520 -->\n",
+    "from": 24976169
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2009-07-31T21:01:01Z",
+  "revid": 305338716,
+  "anon": "",
+  "user": "74.211.54.12",
+  "parentid": 305004725,
+  "diff": {
+    "to": 305338716,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 171:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 171:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://bioethics.georgetown.edu/nrc/ National Reference Center for Bioethics Literature] World's largest library for ethical issues in medicine and biomedical research</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://bioethics.georgetown.edu/nrc/ National Reference Center for Bioethics Literature] World's largest library for ethical issues in medicine and biomedical research</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ethical-democracy.org Ethics and Democracy]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ethical-democracy.org Ethics and Democracy]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.knowledgeresearchforum.org Knowledge Research Forum]- Discuss ideas related to this topic, ask questions, post original research, etc.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy topics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy topics}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:305004725:newid:305338716 -->\n",
+    "from": 305004725
+  }
+}

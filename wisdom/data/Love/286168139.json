@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Jewish */",
+  "timestamp": "2009-04-26T04:09:14Z",
+  "revid": 286168139,
+  "user": "Epson291",
+  "parentid": 286167963,
+  "diff": {
+    "to": 286168139,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 178:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 178:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Jewish===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Jewish===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Image:Ahava.jpg|thumb|Robert Indiana's 1977 \"[[LOVE sculpture]]\" spelling ''ahava'' in [[Israel]].]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Image:Ahava.jpg|thumb|<ins class=\"diffchange diffchange-inline\">[[</ins>Robert Indiana<ins class=\"diffchange diffchange-inline\">]]</ins>'s 1977 \"[[LOVE sculpture]]\" spelling ''ahava'' in [[Israel]].]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[Hebrew language|Hebrew]], ''[[Ahava]]'' is the most commonly used term for both interpersonal love and love of God.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[Hebrew language|Hebrew]], ''[[Ahava]]'' is the most commonly used term for both interpersonal love and love of God.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>    </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>    </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:286167963:newid:286168139 -->\n",
+    "from": 286167963
+  },
+  "minor": ""
+}

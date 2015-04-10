@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* External links */ removed SEP entry. I've e-mailed the editor to ask if it is ever coming back",
+  "timestamp": "2011-05-13T13:34:53Z",
+  "revid": 428922085,
+  "user": "Tom Morris",
+  "parentid": 428921684,
+  "diff": {
+    "to": 428922085,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 206:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 206:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wikisource portal}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wikisource portal}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.galilean-library.org/manuscript.php?postid=43789 An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.galilean-library.org/manuscript.php?postid=43789 An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* {{Sep entry|ethics|Ethics}}{{Dead link|date=July 2010}}</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/frankena/ethics.html ''Ethics]'', 2d ed., 1973. by [[William Frankena]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/frankena/ethics.html ''Ethics]'', 2d ed., 1973. by [[William Frankena]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.open2.net/ethicsbites/index.html Ethics Bites] Open University podcast series podcast exploring ethical dilemmas in everyday life.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.open2.net/ethicsbites/index.html Ethics Bites] Open University podcast series podcast exploring ethical dilemmas in everyday life.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:428921684:newid:428922085 -->\n",
+    "from": 428921684
+  }
+}

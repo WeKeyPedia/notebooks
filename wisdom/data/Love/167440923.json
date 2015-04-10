@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Love vs. Insanity? */ added shakespeare ref",
+  "timestamp": "2007-10-27T15:29:56Z",
+  "revid": 167440923,
+  "user": "Ojl",
+  "parentid": 167439987,
+  "diff": {
+    "to": 167440923,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 115:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 115:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Andrew Newberg|Dr. Andrew Newberg]], a neuroscientist, suggests that this reaction to love is so similar to that of drugs because without love, humanity would die out.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Andrew Newberg|Dr. Andrew Newberg]], a neuroscientist, suggests that this reaction to love is so similar to that of drugs because without love, humanity would die out.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[William Shakespeare]] wrote in [[A Midsummer Night's Dream]] that, \"The lunatic, the lover, and the poet/ Are of imagination all compact.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:baglione.jpg|right|thumb|200px|'Sacred Love versus Profane Love' by Giovanni Baglione]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:baglione.jpg|right|thumb|200px|'Sacred Love versus Profane Love' by Giovanni Baglione]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:167439987:newid:167440923 -->\n",
+    "from": 167439987
+  }
+}

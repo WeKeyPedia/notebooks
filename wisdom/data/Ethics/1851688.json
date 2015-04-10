@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2003-11-13T08:27:46Z",
+  "revid": 1851688,
+  "anon": "",
+  "user": "24.165.80.116",
+  "parentid": 1725634,
+  "diff": {
+    "to": 1851688,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 43:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 43:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Applied Ethics===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Applied Ethics===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Applied ethics]] applies normative ethics<del class=\"diffchange diffchange-inline\"> to</del> to specific controversial issues. Many of these ethical problems bear directly on public policy. For example, the following would be questions of applied ethics: \"Is getting an abortion ever moral?\"; \"Is euthanasia ever moral?\"; \"What are the ethical underpinnings of [[affirmative action]] policies?\"; \"Do animals have rights?\"  </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Applied ethics]] applies normative ethics to specific controversial issues. Many of these ethical problems bear directly on public policy. For example, the following would be questions of applied ethics: \"Is getting an abortion ever moral?\"; \"Is euthanasia ever moral?\"; \"What are the ethical underpinnings of [[affirmative action]] policies?\"; \"Do animals have rights?\"  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The ability to formulate the questions are prior to rights balancing.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The ability to formulate the questions are prior to rights balancing.</div></td>\n</tr>\n",
+    "from": 1725634
+  }
+}

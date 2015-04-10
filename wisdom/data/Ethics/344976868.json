@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Undid revision 344967899 by [[Special:Contributions/66.41.233.216|66.41.233.216]] ([[User talk:66.41.233.216|talk]])",
+  "timestamp": "2010-02-19T07:14:44Z",
+  "revid": 344976868,
+  "user": "Pfhorrest",
+  "parentid": 344967899,
+  "diff": {
+    "to": 344976868,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[descriptive ethics]], about what moral values people actually abide by. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[descriptive ethics]], about what moral values people actually abide by. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Within each of these branches are many different schools of thought and still further sub-fields of study.<del class=\"diffchange diffchange-inline\"> KARMA</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Within each of these branches are many different schools of thought and still further sub-fields of study.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:344967899:newid:344976868 -->\n",
+    "from": 344967899
+  }
+}

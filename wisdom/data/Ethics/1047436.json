@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2003-04-24T23:07:36Z",
+  "revid": 1047436,
+  "user": "Faré",
+  "parentid": 859218,
+  "diff": {
+    "to": 1047436,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 45:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 45:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The view that ethics is innate and tied to a personal [[moral core]] or [[aesthetics]] is harder to relate to the formal categories above other than as a meta-ethics in itself.  It is considered by some ethicists to be just a variant of [[mysticism]] or [[narcissism]], permitting those who avow aesthetic choices as being 'above ethics' to justify anything.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The view that ethics is innate and tied to a personal [[moral core]] or [[aesthetics]] is harder to relate to the formal categories above other than as a meta-ethics in itself.  It is considered by some ethicists to be just a variant of [[mysticism]] or [[narcissism]], permitting those who avow aesthetic choices as being 'above ethics' to justify anything.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>See also: [[morality]], [[epistemology]], [[ontology]], [[etiquette]], [[Mussar Movement|Mussar movement (Jewish ethical movement)]], [[ethical code]], [[moral code]], [[bioethics]], [[Utilitarian ethics]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>See also: [[morality]], [[epistemology]], [[ontology]], [[etiquette]], [[Mussar Movement|Mussar movement (Jewish ethical movement)]], [[ethical code]], [[moral code]], [[bioethics]], [[Utilitarian ethics]]<ins class=\"diffchange diffchange-inline\">, [[Henry Hazlitt]].</ins></div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:859218:newid:1047436 -->\n",
+    "from": 859218
+  }
+}

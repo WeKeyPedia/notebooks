@@ -1,0 +1,12 @@
+﻿{
+  "comment": "fi-Link was misleading",
+  "timestamp": "2011-02-24T11:15:58Z",
+  "revid": 415672159,
+  "user": "Sjmantyl",
+  "parentid": 413973522,
+  "diff": {
+    "to": 415672159,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 180:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 180:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[eo:Moralo]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[eo:Moralo]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fa:اخلاق]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fa:اخلاق]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[fi:<del class=\"diffchange diffchange-inline\">moraliteetti</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[fi:<ins class=\"diffchange diffchange-inline\">Moraali</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fr:Morale]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fr:Morale]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[gl:Moral]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[gl:Moral]]</div></td>\n</tr>\n",
+    "from": 413973522
+  }
+}

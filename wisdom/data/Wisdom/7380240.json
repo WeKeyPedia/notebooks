@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Capital letter",
+  "timestamp": "2004-11-10T23:08:12Z",
+  "revid": 7380240,
+  "user": "SpaceFrog",
+  "parentid": 7315138,
+  "diff": {
+    "to": 7380240,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''<del class=\"diffchange diffchange-inline\">wisdom</del>''' is often meant as the ability and desire to make [[choice]]s that can gain approval in a long-term examination by many people.  In this sense, to label a choice \"wise\" implies that the action or inaction was strategically correct when judged by widely-held [[value theory|values]].  </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''<ins class=\"diffchange diffchange-inline\">Wisdom</ins>''' is often meant as the ability and desire to make [[choice]]s that can gain approval in a long-term examination by many people.  In this sense, to label a choice \"wise\" implies that the action or inaction was strategically correct when judged by widely-held [[value theory|values]].  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A wise person is often called a \"sage.\"  The technical philosophical term for the opposite of wisdom is \"folly.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A wise person is often called a \"sage.\"  The technical philosophical term for the opposite of wisdom is \"folly.\"</div></td>\n</tr>\n",
+    "from": 7315138
+  },
+  "minor": ""
+}

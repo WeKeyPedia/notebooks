@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Cultural views */ Reverted unexplained removal",
+  "timestamp": "2007-07-26T20:00:26Z",
+  "revid": 147296568,
+  "user": "Bastique",
+  "parentid": 147263133,
+  "diff": {
+    "to": 147296568,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 95:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 95:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Love (cultural views)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Love (cultural views)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Although there exist numerous cross-cultural unified similarities as to the nature and definition of love, as in there being a thread of commitment, tenderness, and passion common to all human existence, there are differences. </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">[[Image:Love-zh.svg|180px|thumb|The traditional [[Chinese character]] for love (愛) consists of a [[heart]] (心, in the middle) inside of \"accept\", \"feel\", or \"perceive\", which shows a graceful emotion.]]</ins>Although there exist numerous cross-cultural unified similarities as to the nature and definition of love, as in there being a thread of commitment, tenderness, and passion common to all human existence, there are differences. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{stubsection}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{stubsection}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:147263133:newid:147296568 -->\n",
+    "from": 147263133
+  }
+}

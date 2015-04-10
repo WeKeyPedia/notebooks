@@ -1,0 +1,12 @@
+﻿{
+  "comment": "rvv",
+  "timestamp": "2006-06-06T15:47:34Z",
+  "revid": 57193741,
+  "user": "Yanksox",
+  "parentid": 57193191,
+  "diff": {
+    "to": 57193741,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">love is when a man wants to fck a girl</del>:''This is about emotions of attraction. For other uses, see [[Love (disambiguation)]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>:''This is about emotions of attraction. For other uses, see [[Love (disambiguation)]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love-zh.png|215px|thumb|right|The [[Chinese character]] for love &amp;mdash;its parts indicating (top to bottom): '''''That which gives [[breath]]''''' ''(ie. \"[[spirit]]\")'' '''''to the heart, with a graceful motion.''''' &lt;br /&gt;([[Rose Quong]] - ''Chinese Characters:Their Wit and Wisdom'')]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love-zh.png|215px|thumb|right|The [[Chinese character]] for love &amp;mdash;its parts indicating (top to bottom): '''''That which gives [[breath]]''''' ''(ie. \"[[spirit]]\")'' '''''to the heart, with a graceful motion.''''' &lt;br /&gt;([[Rose Quong]] - ''Chinese Characters:Their Wit and Wisdom'')]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:57193191:newid:57193741 -->\n",
+    "from": 57193191
+  }
+}

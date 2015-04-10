@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */ Wisdom Lexicon Project",
+  "timestamp": "2007-02-15T17:30:08Z",
+  "revid": 108367185,
+  "user": "Practical123",
+  "parentid": 107159481,
+  "diff": {
+    "to": 108367185,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 73:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 73:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">*[http://ourworld.compuserve.com/homepages/jsuebersax/Lexicon.htm Wisdom Lexicon Project]</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.poetrybytroy.com/living_wisdom.html Living Wisdom - A Research Paper about Wisdom]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.poetrybytroy.com/living_wisdom.html Living Wisdom - A Research Paper about Wisdom]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.path-work.info Atlas of Wisdom: Wisdom in Psychology and Spirituality]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.path-work.info Atlas of Wisdom: Wisdom in Psychology and Spirituality]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:107159481:newid:108367185 -->\n",
+    "from": 107159481
+  },
+  "minor": ""
+}

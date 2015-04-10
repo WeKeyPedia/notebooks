@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Reverted 1 edit by [[Special:Contributions/M. Ahsanul Haq|M. Ahsanul Haq]] ([[User talk:M. Ahsanul Haq|talk]]): Spam. ([[WP:TW|TW]])",
+  "timestamp": "2012-01-05T17:03:06Z",
+  "revid": 469742927,
+  "user": "Macedonian",
+  "parentid": 469742348,
+  "diff": {
+    "to": 469742927,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 121:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 121:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Applied ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Applied ethics==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Applied ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Applied ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Applied ethics is a discipline of philosophy that attempts to apply ethical theory to real-life situations.  The discipline has many specialized fields, such as<del class=\"diffchange diffchange-inline\"> ethics in</del> <del class=\"diffchange diffchange-inline\">[http://www.actuaries.org.uk the Actuarial Profession]</del>[[Engineering Ethics]], [[bioethics]], [[public service ethics]] and [[business ethics]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Applied ethics is a discipline of philosophy that attempts to apply ethical theory to real-life situations.  The discipline has many specialized fields, such as [[Engineering Ethics]], [[bioethics]], [[public service ethics]] and [[business ethics]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Specific questions===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Specific questions===</div></td>\n</tr>\n",
+    "from": 469742348
+  }
+}

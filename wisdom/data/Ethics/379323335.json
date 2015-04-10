@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2010-08-17T01:49:02Z",
+  "revid": 379323335,
+  "anon": "",
+  "user": "216.8.172.63",
+  "parentid": 379299282,
+  "diff": {
+    "to": 379323335,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Could it be coincidence that Ayn Rand is basically nowhere to mentioned here except for the footnote? She definitely classifies as modern ethics, as her ideas are not even a century old. Not even a paragraph added about her and objectivism?</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:379299282:newid:379323335 -->\n",
+    "from": 379299282
+  }
+}

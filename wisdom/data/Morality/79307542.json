@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted 10 edits by [[Special:Contributions/Cjwright79|Cjwright79]] ([[User talk:Cjwright79|talk]]) to last revision (78896254) by 80.195.219.49 using [[WP:VP2|VP2]]",
+  "timestamp": "2006-10-03T19:41:49Z",
+  "revid": 79307542,
+  "user": "Skenmy",
+  "parentid": 79307430,
+  "diff": {
+    "to": 79307542,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>While a [[morel]] is a type of mushroom, a 'moral' is a rather slippery specimen. Nearly everybody talks about morality as if they know something well, which may be an obscene lie, a humble admittance of fact, or neither.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>----</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''' refers to the concept of human [[ethics]] which pertains to matters of [[good and evil]] &amp;mdash;also referred to as \"[[right]] or [[wrong]]\", used within three contexts: individual [[conscience]]; systems of [[principle]]s and [[judgment]]s &amp;mdash; sometimes called [[moral value]]s &amp;mdash;shared within a [[cultural]], [[religion|religious]], [[secular]], [[secular humanism|Humanist]], or [[philosophical]] community; and codes of behavior or [[Code of conduct|conduct]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''' refers to the concept of human [[ethics]] which pertains to matters of [[good and evil]] &amp;mdash;also referred to as \"[[right]] or [[wrong]]\", used within three contexts: individual [[conscience]]; systems of [[principle]]s and [[judgment]]s &amp;mdash; sometimes called [[moral value]]s &amp;mdash;shared within a [[cultural]], [[religion|religious]], [[secular]], [[secular humanism|Humanist]], or [[philosophical]] community; and codes of behavior or [[Code of conduct|conduct]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:79307430:newid:79307542 -->\n",
+    "from": 79307430
+  },
+  "minor": ""
+}

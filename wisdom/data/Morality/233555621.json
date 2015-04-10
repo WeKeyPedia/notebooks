@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/90.219.146.89|90.219.146.89]] ([[User talk:90.219.146.89|talk]]) to last version by Eric13777",
+  "timestamp": "2008-08-22T15:45:15Z",
+  "revid": 233555621,
+  "user": "SiobhanHansa",
+  "parentid": 233538954,
+  "diff": {
+    "to": 233555621,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 132:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 132:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.in-mind.org/artikelen/fairness-judgments-genuine-morality-or-disguised-egocentrism.html Fairness Judgments: Genuine Morality or Disguised Egoism?] Psychological Article on Fairness (registration required)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.in-mind.org/artikelen/fairness-judgments-genuine-morality-or-disguised-egocentrism.html Fairness Judgments: Genuine Morality or Disguised Egoism?] Psychological Article on Fairness (registration required)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://plato.stanford.edu/entries/morality-definition/ The Stanford Encyclopedia of Philosophy on the Definition of Morality]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://plato.stanford.edu/entries/morality-definition/ The Stanford Encyclopedia of Philosophy on the Definition of Morality]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.request.org.uk/main/basics/rightandwrong/rightandwrong01.htm Christian Morality on RE:Quest]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.percepp.com/morality.htm Objective Morality An evolutionary approach]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.percepp.com/morality.htm Objective Morality An evolutionary approach]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.examinethetruth.com/page_morale_01.htm Christian and Muslim debates on Morality]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.examinethetruth.com/page_morale_01.htm Christian and Muslim debates on Morality]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:233538954:newid:233555621 -->\n",
+    "from": 233538954
+  },
+  "minor": ""
+}

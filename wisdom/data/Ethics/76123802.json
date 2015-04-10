@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Ethical propositions and truth-aptitude */ Nixon was not relevant, nor in line with the philosophy",
+  "timestamp": "2006-09-16T22:29:39Z",
+  "revid": 76123802,
+  "anon": "",
+  "user": "72.136.86.73",
+  "parentid": 75832126,
+  "diff": {
+    "to": 76123802,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 24:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 24:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"O.J. Simpson was acquitted at his trial.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"O.J. Simpson was acquitted at his trial.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Many people are honest.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Many people are honest.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* \"Richard Nixon is not a crook\"</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"I dislike it when people break the law.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"I dislike it when people break the law.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"He did things that were disapproved of.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"He did things that were disapproved of.\"</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:75832126:newid:76123802 -->\n",
+    "from": 75832126
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* See also */  Added Polyamory.",
+  "timestamp": "2006-08-29T12:21:05Z",
+  "revid": 72593388,
+  "user": "Nerdvana",
+  "parentid": 72438666,
+  "diff": {
+    "to": 72593388,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 112:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 112:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Physical attractiveness]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Physical attractiveness]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Platonic love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Platonic love]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Polyamory]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Romance novel]]s</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Romance novel]]s</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Romanticism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Romanticism]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:72438666:newid:72593388 -->\n",
+    "from": 72438666
+  }
+}

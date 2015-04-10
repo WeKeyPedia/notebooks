@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */",
+  "timestamp": "2006-12-04T18:59:36Z",
+  "revid": 92045541,
+  "anon": "",
+  "user": "65.254.6.162",
+  "parentid": 92044888,
+  "diff": {
+    "to": 92045541,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 153:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 153:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Perfection]] (''\"Moral perfection\"'')</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Perfection]] (''\"Moral perfection\"'')</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethic of reciprocity|The Golden Rule]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethic of reciprocity|The Golden Rule]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Andrew boppie smells like poopie nd i hate people that can't smell wen they smell like poopie</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References ==</div></td>\n</tr>\n",
+    "from": 92044888
+  }
+}

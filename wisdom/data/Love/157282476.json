@@ -1,0 +1,12 @@
+﻿{
+  "comment": "[[WP:UNDO|Undid]] revision 156605711 by [[Special:Contributions/Icarus3|Icarus3]] ([[User talk:Icarus3|talk]])...let's discuss this",
+  "timestamp": "2007-09-12T01:29:38Z",
+  "revid": 157282476,
+  "user": "Taquito1",
+  "parentid": 156605711,
+  "diff": {
+    "to": 157282476,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 143:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 143:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Romantic love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Romantic love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Seduction]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Seduction]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Surrendered wife]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Sex]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Sex]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Triangular theory of love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Triangular theory of love]]</div></td>\n</tr>\n",
+    "from": 156605711
+  }
+}

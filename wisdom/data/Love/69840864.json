@@ -1,0 +1,13 @@
+﻿{
+  "comment": "BOT - rv [[Special:Contributions/205.188.116.136|205.188.116.136]] ([[User talk:205.188.116.136|talk]]) to last version by Omicronpersei8",
+  "timestamp": "2006-08-15T17:17:03Z",
+  "revid": 69840864,
+  "user": "AntiVandalBot",
+  "parentid": 69840859,
+  "diff": {
+    "to": 69840864,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Overview==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Overview==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>I LOVE BRYCE ARMBRUSTER!!</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love has several different meanings in the English language, from something that gives a little pleasure to something for which one would die.  And in contrast to the definition at the top, frequently people use the verb \"love\" to indicate want or desire for themselves as opposed to for another. For example: \"I love that lamp\" does not refer to desiring wellness for the lamp, but rather to the desire for the lamp.  The word also frequently indicates elevated appreciation or admiration: \"I love that artist,\" an individual might state.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love has several different meanings in the English language, from something that gives a little pleasure to something for which one would die.  And in contrast to the definition at the top, frequently people use the verb \"love\" to indicate want or desire for themselves as opposed to for another. For example: \"I love that lamp\" does not refer to desiring wellness for the lamp, but rather to the desire for the lamp.  The word also frequently indicates elevated appreciation or admiration: \"I love that artist,\" an individual might state.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:69840859:newid:69840864 -->\n",
+    "from": 69840859
+  },
+  "minor": ""
+}

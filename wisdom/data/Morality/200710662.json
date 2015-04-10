@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/71.235.31.96|71.235.31.96]] ([[User talk:71.235.31.96|talk]]) to last version by Smokizzy",
+  "timestamp": "2008-03-25T03:15:23Z",
+  "revid": 200710662,
+  "user": "Smokizzy",
+  "parentid": 200710639,
+  "diff": {
+    "to": 200710662,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In its first descriptive usage, morality means a code of conduct held to be authoritative in matters of right and wrong, whether by society, philosophy, religion, or individual conscience.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In its first descriptive usage, morality means a code of conduct held to be authoritative in matters of right and wrong, whether by society, philosophy, religion, or individual conscience.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">morals look like your mom</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In its second, normative and universal sense, morality refers to an ideal code of conduct, one which would be espoused in preference to alternatives by all rational people, under specified conditions. To deny 'morality' in this sense is a position known as [[moral skepticism]].&lt;ref&gt;[http://plato.stanford.edu/entries/morality-definition/ The Definition of Morality (Stanford Encyclopedia of Philosophy)&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In its second, normative and universal sense, morality refers to an ideal code of conduct, one which would be espoused in preference to alternatives by all rational people, under specified conditions. To deny 'morality' in this sense is a position known as [[moral skepticism]].&lt;ref&gt;[http://plato.stanford.edu/entries/morality-definition/ The Definition of Morality (Stanford Encyclopedia of Philosophy)&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 200710639
+  },
+  "minor": ""
+}

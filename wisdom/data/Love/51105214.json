@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Overview */",
+  "timestamp": "2006-05-01T21:23:21Z",
+  "revid": 51105214,
+  "anon": "",
+  "user": "24.236.227.161",
+  "parentid": 51088506,
+  "diff": {
+    "to": 51105214,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 13:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 13:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Overview ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Overview ==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>KYLE LOVES JOCELYN MORE =]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love might best be defined as acting intentionally, in sympathetic response to others to promote overall well-being. Or to put it simply, \"love responds intentionally to promote well-being\" ([[Thomas Jay Oord]]). Love promotes overall flourishing, but often focuses on those close at hand.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love might best be defined as acting intentionally, in sympathetic response to others to promote overall well-being. Or to put it simply, \"love responds intentionally to promote well-being\" ([[Thomas Jay Oord]]). Love promotes overall flourishing, but often focuses on those close at hand.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:51088506:newid:51105214 -->\n",
+    "from": 51088506
+  }
+}

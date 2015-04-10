@@ -1,0 +1,13 @@
+﻿{
+  "comment": "r2.7.1) (robot Adding: [[ext:Amol]]",
+  "timestamp": "2011-02-05T00:14:14Z",
+  "revid": 412070730,
+  "user": "WikitanvirBot",
+  "parentid": 411505522,
+  "diff": {
+    "to": 412070730,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 276:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 276:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[es:Amor]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[es:Amor]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[eo:Amo]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[eo:Amo]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[ext:Amol]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[eu:Maitasun]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[eu:Maitasun]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fa:عشق]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fa:عشق]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:411505522:newid:412070730 -->\n",
+    "from": 411505522
+  },
+  "minor": ""
+}

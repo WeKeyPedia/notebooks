@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Psychological perspectives */",
+  "timestamp": "2010-03-05T19:51:56Z",
+  "revid": 347961168,
+  "anon": "",
+  "user": "24.42.93.4",
+  "parentid": 347961085,
+  "diff": {
+    "to": 347961168,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 32:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 32:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Researchers in the field of[[positive psychology]] have defined wisdom as the coordination of \"knowledge and experience\" and \"its deliberate use to improve well being.\"&lt;ref name=\"CSV106\"&gt;{{cite book</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Researchers in the field of<ins class=\"diffchange diffchange-inline\"> </ins>[[positive psychology]] have defined wisdom as the coordination of \"knowledge and experience\" and \"its deliberate use to improve well being.\"&lt;ref name=\"CSV106\"&gt;{{cite book</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | last = Peterson</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | last = Peterson</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | first = Christopher</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | first = Christopher</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:347961085:newid:347961168 -->\n",
+    "from": 347961085
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-06-06T12:36:53Z",
+  "revid": 57168705,
+  "user": "Huoho;uh",
+  "parentid": 57123206,
+  "diff": {
+    "to": 57168705,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 160:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 160:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tr:Aşk]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tr:Aşk]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>when some1 wants 2 fuck some1</div></td>\n</tr>\n",
+    "from": 57123206
+  }
+}

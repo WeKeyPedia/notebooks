@@ -1,0 +1,13 @@
+﻿{
+  "comment": "rv external link added by IP",
+  "timestamp": "2005-07-07T17:41:55Z",
+  "revid": 18339734,
+  "user": "Fenice",
+  "parentid": 18333611,
+  "diff": {
+    "to": 18339734,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 53:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 53:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Related topics ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Related topics ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Nonhuman animals ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Nonhuman animals ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.examinethetruth.com/page_morale_01.htm Debates on morality]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:18333611:newid:18339734 -->\n",
+    "from": 18333611
+  },
+  "minor": ""
+}

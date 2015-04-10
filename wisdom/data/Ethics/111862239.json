@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/216.234.53.243|216.234.53.243]] ([[User talk:216.234.53.243|talk]]) to last version by TXiKiBoT",
+  "timestamp": "2007-03-01T17:16:40Z",
+  "revid": 111862239,
+  "user": "Ligulem",
+  "parentid": 111861481,
+  "diff": {
+    "to": 111862239,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Another group of meta-ethical theories, which is called 'realism', by contrast, holds that moral value is somehow an intrinsic property of the world and that ethical principles are simply discovered or intuited. Under this view, ethical values held by people can at best reflect an independent Truth by which their validity must be judged. These theories may be derived from [[theology]] or [[Naturalism (philosophy)|naturalism]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Another group of meta-ethical theories, which is called 'realism', by contrast, holds that moral value is somehow an intrinsic property of the world and that ethical principles are simply discovered or intuited. Under this view, ethical values held by people can at best reflect an independent Truth by which their validity must be judged. These theories may be derived from [[theology]] or [[Naturalism (philosophy)|naturalism]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Connor is probably one of the best ethics you could ever imagine</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Normative ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Normative ethics==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:111861481:newid:111862239 -->\n",
+    "from": 111861481
+  },
+  "minor": ""
+}

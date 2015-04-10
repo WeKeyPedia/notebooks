@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Revert to revision 89339975 dated 2006-11-22 00:19:43 by Musical Linguist using [[:en:Wikipedia:Tools/Navigation_popups|popups]]",
+  "timestamp": "2006-11-22T02:41:28Z",
+  "revid": 89364308,
+  "user": "Royalguard11",
+  "parentid": 89364201,
+  "diff": {
+    "to": 89364308,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 201:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 201:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:ליבע/ליבע]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:ליבע/ליבע]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>paige is amazing d2 bitchesssss</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:89364201:newid:89364308 -->\n",
+    "from": 89364201
+  },
+  "minor": ""
+}

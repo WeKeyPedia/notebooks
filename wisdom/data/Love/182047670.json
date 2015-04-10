@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/JohnnyFranchize|JohnnyFranchize]] ([[User talk:JohnnyFranchize|talk]]) to last version by Tareeko",
+  "timestamp": "2008-01-04T05:24:52Z",
+  "revid": 182047670,
+  "user": "Ohnoitsjamie",
+  "parentid": 182045176,
+  "diff": {
+    "to": 182047670,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 24:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 24:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Kinship]]: family bonds</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Kinship]]: family bonds</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Passion (emotion)|Passion]]: whole-hearted desire</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Passion (emotion)|Passion]]: whole-hearted desire</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Physical intimacy]]: sharing of intimate personal space<del class=\"diffchange diffchange-inline\"> or outside Jon Wrigley's driveway &lt;3</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Physical intimacy]]: sharing of intimate personal space</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Self-interest]]: desiring rewards</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Self-interest]]: desiring rewards</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Public services|Service]]: desire to help</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Public services|Service]]: desire to help</div></td>\n</tr>\n",
+    "from": 182045176
+  },
+  "minor": ""
+}

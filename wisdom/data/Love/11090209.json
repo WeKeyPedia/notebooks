@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-03-13T04:28:21Z",
+  "revid": 11090209,
+  "anon": "",
+  "user": "216.150.115.5",
+  "parentid": 11082927,
+  "diff": {
+    "to": 11090209,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Love''' has many meanings <del class=\"diffchange diffchange-inline\">in</del> <del class=\"diffchange diffchange-inline\">[[English</del> <del class=\"diffchange diffchange-inline\">language|English]]</del>. It can mean an intense feeling of [[affection]], an [[emotion]] or emotional state. In ordinary use, it usually refers to interpersonal love.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Love''' has many meanings<ins class=\"diffchange diffchange-inline\">,</ins> <ins class=\"diffchange diffchange-inline\">but</ins> <ins class=\"diffchange diffchange-inline\">it</ins> <ins class=\"diffchange diffchange-inline\">mainly means RY and AL</ins>.<ins class=\"diffchange diffchange-inline\">..'Cause he loves her!</ins> It can mean an intense feeling of [[affection]], an [[emotion]] or emotional state. In ordinary use, it usually refers to interpersonal love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is one of the most common themes in art. The majority of modern movies have a love story and most pop music is about love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is one of the most common themes in art. The majority of modern movies have a love story and most pop music is about love.</div></td>\n</tr>\n",
+    "from": 11082927
+  }
+}

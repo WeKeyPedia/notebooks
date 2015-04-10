@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Philia */",
+  "timestamp": "2005-01-23T18:47:26Z",
+  "revid": 9634122,
+  "user": "Sirnickdon",
+  "parentid": 9589769,
+  "diff": {
+    "to": 9634122,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 145:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 145:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Philia====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Philia====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Philia]], a dispassionate virtuous love, was developed by [[Aristotle]]. It includes loyalty to friends, family, and community, and requires virtue, equality and familiarity. Philia is motivated by practical reasons; one or both of the parties benefit from the relationship.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">The conception of </ins>[[Philia]], a dispassionate virtuous love, was developed by [[Aristotle]]. It includes loyalty to friends, family, and community, and requires virtue, equality and familiarity. Philia is motivated by practical reasons; one or both of the parties benefit from the relationship.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Storge====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Storge====</div></td>\n</tr>\n",
+    "from": 9589769
+  },
+  "minor": ""
+}

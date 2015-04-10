@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Robot - Removing category Greek loanwords per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2013 January 15]].",
+  "timestamp": "2013-01-24T21:31:29Z",
+  "revid": 534717603,
+  "user": "Cydebot",
+  "parentid": 534546286,
+  "diff": {
+    "to": 534717603,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 274:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 274:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Social philosophy]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Social philosophy]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Branches of philosophy]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Branches of philosophy]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Category:Greek loanwords]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Philosophy of life]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Philosophy of life]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 534546286
+  },
+  "minor": ""
+}

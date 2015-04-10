@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/89.240.177.59|89.240.177.59]] ([[User talk:89.240.177.59|talk]]) to last version by Romanc19s",
+  "timestamp": "2007-02-01T20:07:00Z",
+  "revid": 104912310,
+  "user": "Durin",
+  "parentid": 104911760,
+  "diff": {
+    "to": 104912310,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 51:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 51:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Another related concept is the [[moral core]] which is assumed to be innate in each individual, to those who accept that differences between individuals are more important than Creators or their rules. This, in some religious systems (e.g. [[Taoism]] and [[Gnosticism]]), is assumed to be the basis of all [[aesthetics]] and thus moral choice. Moral codes as such are therefore seen as coercive — part of human [[politics]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Another related concept is the [[moral core]] which is assumed to be innate in each individual, to those who accept that differences between individuals are more important than Creators or their rules. This, in some religious systems (e.g. [[Taoism]] and [[Gnosticism]]), is assumed to be the basis of all [[aesthetics]] and thus moral choice. Moral codes as such are therefore seen as coercive — part of human [[politics]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>you are gay</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Moral core ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Moral core ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:104911760:newid:104912310 -->\n",
+    "from": 104911760
+  },
+  "minor": ""
+}

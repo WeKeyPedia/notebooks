@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Notes */",
+  "timestamp": "2010-11-29T02:50:13Z",
+  "revid": 399447742,
+  "anon": "",
+  "user": "174.24.59.242",
+  "parentid": 398142492,
+  "diff": {
+    "to": 399447742,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 114:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 114:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Notes ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Notes ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&lt;references/</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>&lt;references/<ins class=\"diffchange diffchange-inline\">&gt;</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Wisdom is increasingly important to the permanence of mankind as reflected by E.F. Schumacher: ''man is far too clever to be able to survive without wisdom''.   From \"Small is Beautiful\", Harper and Row, New York, New York, 1989, p33.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Wisdom is increasingly important to the permanence of mankind as reflected by E.F. Schumacher: ''man is far too clever to be able to survive without wisdom''.   From \"Small is Beautiful\", Harper and Row, New York, New York, 1989, p33.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:398142492:newid:399447742 -->\n",
+    "from": 398142492
+  }
+}

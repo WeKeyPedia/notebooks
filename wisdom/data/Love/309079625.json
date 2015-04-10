@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2009-08-20T15:19:58Z",
+  "revid": 309079625,
+  "user": "Beaukarpo",
+  "parentid": 308430431,
+  "diff": {
+    "to": 309079625,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 300:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 300:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[an:Aimor]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[an:Aimor]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[az:Sevgi]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[az:Sevgi]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[bo:བརྩེ་དུང་།]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bs:Ljubav]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bs:Ljubav]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bg:Любов]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bg:Любов]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:308430431:newid:309079625 -->\n",
+    "from": 308430431
+  }
+}

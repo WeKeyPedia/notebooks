@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */",
+  "timestamp": "2007-01-31T23:32:42Z",
+  "revid": 104707774,
+  "anon": "",
+  "user": "208.100.129.20",
+  "parentid": 104163689,
+  "diff": {
+    "to": 104707774,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 47:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 47:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Stephen Colbert]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Book of Wisdom]] (A [[Jewish]] book, part of some [[Christian]] Bibles)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Book of Wisdom]] (A [[Jewish]] book, part of some [[Christian]] Bibles)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ecological wisdom]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ecological wisdom]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:104163689:newid:104707774 -->\n",
+    "from": 104163689
+  }
+}

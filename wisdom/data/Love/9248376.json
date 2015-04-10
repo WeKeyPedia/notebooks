@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Xenia */",
+  "timestamp": "2005-01-10T05:48:14Z",
+  "revid": 9248376,
+  "anon": "",
+  "user": "24.169.124.90",
+  "parentid": 9248348,
+  "diff": {
+    "to": 9248376,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 151:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 151:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Xenia====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Xenia====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In ancient Greece, the concept of [[xenia]] was extremely important. It was an almost ritualized<del class=\"diffchange diffchange-inline\"> friendship formed between a host and their guest, who could previously be strangers. The host fed and provided quarters for the guest, who was only expected to repay with gratitude. The importance of this can be seen throughout Greek mythology, in particular Homer's [[Odyssey]].</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In ancient Greece, the concept of [[xenia]] was extremely important. It was an almost ritualized</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious Views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious Views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:9248348:newid:9248376 -->\n",
+    "from": 9248348
+  }
+}

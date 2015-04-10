@@ -1,0 +1,12 @@
+﻿{
+  "comment": "rvv to version 62012149 by Tawkerbot2 (rm spam links)",
+  "timestamp": "2006-07-04T14:50:21Z",
+  "revid": 62027147,
+  "user": "KrakatoaKatie",
+  "parentid": 62026764,
+  "diff": {
+    "to": 62027147,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 113:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 113:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.girlzfashion.com/girls-models.htm Youn Model Girls for Love, Bollywood Girls] See the latest pictures of Indian and Pakistani Girls</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.love-wiki.com Love Wiki, A growing Wiki based entirely on love.]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.love-wiki.com Love Wiki, A growing Wiki based entirely on love.]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:62026764:newid:62027147 -->\n",
+    "from": 62026764
+  }
+}

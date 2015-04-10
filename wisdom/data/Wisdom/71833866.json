@@ -1,0 +1,13 @@
+﻿{
+  "comment": "robot  Modifying: [[es:Sabiduría (filosofía)]]",
+  "timestamp": "2006-08-25T16:34:16Z",
+  "revid": 71833866,
+  "user": "YurikBot",
+  "parentid": 71802230,
+  "diff": {
+    "to": 71833866,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 68:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 68:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[da:Visdom]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[da:Visdom]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[de:Weisheit]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[de:Weisheit]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[es:Sabiduría]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[es:Sabiduría<ins class=\"diffchange diffchange-inline\"> (filosofía)</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fr:Sagesse]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fr:Sagesse]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ff:Ndimaagu]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ff:Ndimaagu]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:71802230:newid:71833866 -->\n",
+    "from": 71802230
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2009-08-28T20:13:58Z",
+  "revid": 310599289,
+  "user": "Dataweaver",
+  "parentid": 309931193,
+  "diff": {
+    "to": 310599289,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 19:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 19:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | first = Christopher</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | first = Christopher</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | coauthors = [[Martin Seligman|Seligman, Martin E. P.]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | coauthors = [[Martin Seligman|Seligman, Martin E. P.]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>  | title = [[Character Strengths and Virtues (<del class=\"diffchange diffchange-inline\">Book</del>)|Character strengths and virtues: A handbook and classification]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>  | title = [[Character Strengths and Virtues (<ins class=\"diffchange diffchange-inline\">book</ins>)|Character strengths and virtues: A handbook and classification]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | publisher = [[Oxford University Press]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | publisher = [[Oxford University Press]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | date = 2004</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | date = 2004</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:309931193:newid:310599289 -->\n",
+    "from": 309931193
+  },
+  "minor": ""
+}

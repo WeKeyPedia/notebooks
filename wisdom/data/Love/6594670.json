@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Ai */ revisions",
+  "timestamp": "2004-10-14T04:26:16Z",
+  "revid": 6594670,
+  "user": "Johnkarp",
+  "parentid": 6568206,
+  "diff": {
+    "to": 6594670,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 112:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 112:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Ai====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Ai====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The Chinese philosopher [[Mo Zi]] developed [[ai]] in reaction to [[jen]]. Ai is love towards all beings, not just towards friends or family, without regard to reciprocation. Extravagance and war are inimical to ai.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The Chinese philosopher [[Mo Zi]] developed [[ai]] in reaction to<ins class=\"diffchange diffchange-inline\"> Confucian</ins> [[jen]]. Ai is<ins class=\"diffchange diffchange-inline\"> universal</ins> love towards all beings, not just towards friends or family, without regard to reciprocation. Extravagance and<ins class=\"diffchange diffchange-inline\"> offensive</ins> war are inimical to ai<ins class=\"diffchange diffchange-inline\">. Although Mo Zi was influential, the Confucian jen is how most modern Chinese conceive of love</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====G&amp;#259;nqíng====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====G&amp;#259;nqíng====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:6568206:newid:6594670 -->\n",
+    "from": 6568206
+  }
+}

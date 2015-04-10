@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2010-01-22T02:01:32Z",
+  "revid": 339270269,
+  "anon": "",
+  "user": "71.108.126.29",
+  "parentid": 338562500,
+  "diff": {
+    "to": 339270269,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' (also known as '''moral philosophy''') is a branch of [[philosophy]] which seeks to address questions about [[morality]]; that is, about concepts like [[good]] and [[bad]], [[right]] and [[wrong]], [[justice]], [[virtue]], etc.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' (also known as '''moral philosophy''') is a branch of [[philosophy]] which seeks to address questions about [[morality]]; that is, about concepts like [[good]] and [[bad]], [[right]] and [[wrong]], [[justice]], [[virtue]], etc.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Major branches of ethics include:</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Major branches of ethics include<ins class=\"diffchange diffchange-inline\"> a large penis</ins>:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[meta-ethics]], about the theoretical meaning and reference of moral propositions and how their [[truth-value]]s (if any) may be determined; </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[meta-ethics]], about the theoretical meaning and reference of moral propositions and how their [[truth-value]]s (if any) may be determined; </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[normative ethics]], about the practical means of determining a moral course of action; </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[normative ethics]], about the practical means of determining a moral course of action; </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:338562500:newid:339270269 -->\n",
+    "from": 338562500
+  }
+}

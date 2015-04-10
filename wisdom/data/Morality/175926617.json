@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/81.149.91.107|81.149.91.107]] ([[User talk:81.149.91.107|talk]]) to last version by 203.122.72.107",
+  "timestamp": "2007-12-05T14:35:07Z",
+  "revid": 175926617,
+  "user": "El C",
+  "parentid": 175923256,
+  "diff": {
+    "to": 175926617,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 134:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 134:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://allphilosophers.com/nietzsche/nietzsche_chapter5.html The Natural History of Morals by Nietzsche]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.in-mind.org/artikelen/fairness-judgments-genuine-morality-or-disguised-egocentrism.html Fairness Judgments: Genuine Morality or Disguised Egoism?] Psychological Article on Fairness (registration required)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.in-mind.org/artikelen/fairness-judgments-genuine-morality-or-disguised-egocentrism.html Fairness Judgments: Genuine Morality or Disguised Egoism?] Psychological Article on Fairness (registration required)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://selfhelpinspiration.com/article/morals_in_society.html Morals and Conscience in Society] </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://selfhelpinspiration.com/article/morals_in_society.html Morals and Conscience in Society] </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:175923256:newid:175926617 -->\n",
+    "from": 175923256
+  },
+  "minor": ""
+}

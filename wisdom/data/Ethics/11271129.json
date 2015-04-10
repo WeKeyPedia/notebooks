@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/82.69.93.136|82.69.93.136]] to last version by Sparticus",
+  "timestamp": "2005-03-19T02:26:44Z",
+  "revid": 11271129,
+  "user": "Brian0918",
+  "parentid": 11271024,
+  "diff": {
+    "to": 11271129,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 146:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 146:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>And since agreement is possible, ethics is possible. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>And since agreement is possible, ethics is possible. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The term ''ethics'' is actually derived from the ancient Greek ''ethos'', meaning ''<del class=\"diffchange diffchange-inline\">habit</del>''.  ''Mores'', from which ''morality'' is derived, meant social rules or etiquette or inhibitions from the society.  In modern times, these meanings are often somewhat reversed, with ethics being the \"science\" and morals referring to one's conduct and character.  But it is significant that the origins of the words reflect the tension between an inner-driven (character) and an outer-driven (conduct) view of what constitutes morality.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The term ''ethics'' is actually derived from the ancient Greek ''ethos'', meaning ''<ins class=\"diffchange diffchange-inline\">[[moral character]]</ins>''.  ''Mores'', from which ''morality'' is derived, meant social rules or etiquette or inhibitions from the society.  In modern times, these meanings are often somewhat reversed, with ethics being the \"science\" and morals referring to one's conduct and character.  But it is significant that the origins of the words reflect the tension between an inner-driven (character) and an outer-driven (conduct) view of what constitutes morality.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Ethics in religion==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Ethics in religion==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:11271024:newid:11271129 -->\n",
+    "from": 11271024
+  },
+  "minor": ""
+}

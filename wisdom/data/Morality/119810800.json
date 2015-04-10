@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-04-02T21:10:35Z",
+  "revid": 119810800,
+  "user": "You knnow who",
+  "parentid": 119682809,
+  "diff": {
+    "to": 119810800,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Personal morality defines and distinguishes among right and wrong [[intention]]s, [[motivation]]s or [[Action (philosophy)|action]]s, as these have been learned, engendered, or otherwise developed within each individual.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Personal morality defines and distinguishes among right and wrong [[intention]]s, [[motivation]]s or [[Action (philosophy)|action]]s, as these have been learned, engendered, or otherwise developed within each individual.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Wikipedia is immoral.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Conscience, belief, and code ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Conscience, belief, and code ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:119682809:newid:119810800 -->\n",
+    "from": 119682809
+  }
+}

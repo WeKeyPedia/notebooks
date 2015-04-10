@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-01-28T23:22:55Z",
+  "revid": 2303953,
+  "anon": "",
+  "user": "81.178.226.84",
+  "parentid": 2251991,
+  "diff": {
+    "to": 2303953,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 36:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 36:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Quotes about love ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Quotes about love ==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>::''Love is a smoke made with the fume of sighs,&lt;br&gt;Being purged, a fire sparkling in lovers’ eyes,&lt;br&gt;Being vexed, a sea nourished with lovers’ tears.&lt;br&gt;What is it else? A madness most discreet,&lt;br&gt;A choking gall and a preserving sweet.''</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>:::- [[William Shakespeare]], [[Romeo and Juliet]], act 1, sc. 1. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>::''[[Much Ado About Nothing|Much ado about nothing]]''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>::''[[Much Ado About Nothing|Much ado about nothing]]''</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:2251991:newid:2303953 -->\n",
+    "from": 2251991
+  }
+}

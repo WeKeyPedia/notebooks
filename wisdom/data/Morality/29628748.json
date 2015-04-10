@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-11-29T21:49:48Z",
+  "revid": 29628748,
+  "anon": "",
+  "user": "150.216.81.13",
+  "parentid": 29628368,
+  "diff": {
+    "to": 29628748,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy portal}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy portal}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Morality''', in the strictest sense of the word, deals with that which is innately<del class=\"diffchange diffchange-inline\"> boooooo</del> regarded as right or wrong. The term is often used to refer to a system of principles and judgments shared by [[cultural]], [[religious]], and [[philosophical]] concepts and beliefs, by which humans subjectively determine whether given actions are [[Goodness_and_value_theory|right]] or [[evil|wrong]]. </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Morality''', in the strictest sense of the word, deals with that which is innately regarded as right or wrong. The term is often used to refer to a system of principles and judgments shared by [[cultural]], [[religious]], and [[philosophical]] concepts and beliefs, by which humans subjectively determine whether given actions are [[Goodness_and_value_theory|right]] or [[evil|wrong]]. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>These concepts and beliefs are often generalized and codified by a culture or group, and thus serve to regulate the behavior of its members. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>These concepts and beliefs are often generalized and codified by a culture or group, and thus serve to regulate the behavior of its members. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Conformity to such codification may also be called ''morality'', and the group may depend on widespread conformity to such codes for its continued existence. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Conformity to such codification may also be called ''morality'', and the group may depend on widespread conformity to such codes for its continued existence. </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:29628368:newid:29628748 -->\n",
+    "from": 29628368
+  }
+}

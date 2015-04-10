@@ -1,0 +1,13 @@
+﻿{
+  "comment": "fixed a few typos and links",
+  "timestamp": "2006-12-30T02:13:31Z",
+  "revid": 97256107,
+  "anon": "",
+  "user": "74.192.182.133",
+  "parentid": 96884406,
+  "diff": {
+    "to": 97256107,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Morality''' refers to the concept of human [[ethics]] which pertains to matters of [[good and evil]] &amp;mdash;also referred to as \"[[right]] or [[wrong]]\", used within three contexts: individual [[conscience]]; systems of [[principle]]s and [[judgment]]s &amp;mdash; sometimes called [[moral value]]s &amp;mdash;shared within a [[cultural]], [[religion|religious]], [[secular]], [[secular humanism|Humanist]], or [[philosophical]] community; and codes of behavior or [[Code of conduct|conduct]].<del class=\"diffchange diffchange-inline\">morality \" it is the ability pre-installed in humans to define on a personal level , what is right and what is wrong. \"</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Morality''' refers to the concept of human [[ethics]] which pertains to matters of [[good and evil]] &amp;mdash;also referred to as \"[[right]] or [[wrong]]\", used within three contexts: individual [[conscience]]; systems of [[principle]]s and [[judgment]]s &amp;mdash; sometimes called [[moral value]]s &amp;mdash;shared within a [[cultural]], [[religion|religious]], [[secular]], [[secular humanism|Humanist]], or [[philosophical]] community; and codes of behavior or [[Code of conduct|conduct<ins class=\"diffchange diffchange-inline\"> morality</ins>]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 96884406
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Sapience */ move",
+  "timestamp": "2014-03-01T01:39:02Z",
+  "revid": 597605603,
+  "user": "Editor2020",
+  "parentid": 597605354,
+  "diff": {
+    "to": 597605603,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 124:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 124:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Sapience==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Sapience==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{wikiquote}}</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect-distinguish|Sapience|Sentience}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect-distinguish|Sapience|Sentience}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{for|Sapience the software product|Sapience Analytics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{for|Sapience the software product|Sapience Analytics}}</div></td>\n</tr>\n",
+    "from": 597605354
+  }
+}

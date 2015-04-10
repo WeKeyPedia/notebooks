@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See Also */ .",
+  "timestamp": "2009-03-03T21:04:06Z",
+  "revid": 274765090,
+  "user": "Twas Now",
+  "parentid": 274765031,
+  "diff": {
+    "to": 274765090,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 149:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 149:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Religious belief systems usually include the idea of divine will and divine [[Last Judgment|judgment]] and usually correspond to a moral code of conduct, and many religions claim that religion and morality are intimately connected.  For example, the [[Roman Catholic Church]] maintains that although morality can be derived from unaided reason as it is simply the \"right ordering\" of man's actions, ultimately it derives from God because God created man and nature and that the ultimate sanction for immorality is the loss of a relationship with God.&lt;ref&gt;{{CathEncy|wstitle=Morality}}&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Religious belief systems usually include the idea of divine will and divine [[Last Judgment|judgment]] and usually correspond to a moral code of conduct, and many religions claim that religion and morality are intimately connected.  For example, the [[Roman Catholic Church]] maintains that although morality can be derived from unaided reason as it is simply the \"right ordering\" of man's actions, ultimately it derives from God because God created man and nature and that the ultimate sanction for immorality is the loss of a relationship with God.&lt;ref&gt;{{CathEncy|wstitle=Morality}}&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>==See <del class=\"diffchange diffchange-inline\">Also</del>==</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>==See <ins class=\"diffchange diffchange-inline\">also</ins>==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Value theory]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Value theory]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethics]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:274765031:newid:274765090 -->\n",
+    "from": 274765031
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "amended definition per source accuracy.",
+  "timestamp": "2006-03-18T17:03:55Z",
+  "revid": 44375594,
+  "user": "Sadi Carnot",
+  "parentid": 44303445,
+  "diff": {
+    "to": 44375594,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[care]]''' - someone or something you care about more than yourself.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[care]]''' - someone or something you care about more than yourself.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[friendship]]''' - favored interpersonal associations or relationships.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[friendship]]''' - favored interpersonal associations or relationships.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>#'''[[human bonding|union]]''' - a synergistic connection, <del class=\"diffchange diffchange-inline\">either</del> <del class=\"diffchange diffchange-inline\">physically,</del> <del class=\"diffchange diffchange-inline\">intellectually,</del> <del class=\"diffchange diffchange-inline\">or</del> <del class=\"diffchange diffchange-inline\">emotionally,</del> <del class=\"diffchange diffchange-inline\">etc</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>#'''[[human bonding|union]]''' - a synergistic connection, <ins class=\"diffchange diffchange-inline\">as</ins> <ins class=\"diffchange diffchange-inline\">in</ins> <ins class=\"diffchange diffchange-inline\">the</ins> <ins class=\"diffchange diffchange-inline\">perfect</ins> <ins class=\"diffchange diffchange-inline\">union</ins> <ins class=\"diffchange diffchange-inline\">of two souls</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[family]]''' - people related via common ancestry, religion, or race, etc.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[family]]''' - people related via common ancestry, religion, or race, etc.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 44303445
+  },
+  "minor": ""
+}

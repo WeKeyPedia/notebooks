@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2011-06-13T11:58:34Z",
+  "revid": 434042690,
+  "user": "Jimbobrimbaud",
+  "parentid": 434042415,
+  "diff": {
+    "to": 434042690,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 188:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 188:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love never fails. But where there are prophecies, they will cease; where there are tongues, they will be stilled; where there is knowledge, it will pass away. For we know in part and we prophesy in part, but when completeness comes, what is in part disappears. When I was a child, I spoke like a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things. For now we see through a glass, darkly; but then face to face: Now I know in part; then I shall know fully, even as I am fully known. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love never fails. But where there are prophecies, they will cease; where there are tongues, they will be stilled; where there is knowledge, it will pass away. For we know in part and we prophesy in part, but when completeness comes, what is in part disappears. When I was a child, I spoke like a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things. For now we see through a glass, darkly; but then face to face: Now I know in part; then I shall know fully, even as I am fully known. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>And now these three remain: faith, hope and love. But the greatest of these is love. </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>And now these three remain: faith, hope and love. But the greatest of these is love.<ins class=\"diffchange diffchange-inline\">\"''</ins> </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"'' ([[1 Corinthians|1 Cor.]] 13:1-13, [[NIV]])</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"'' ([[1 Corinthians|1 Cor.]] 13:1-13, [[NIV]])</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:434042415:newid:434042690 -->\n",
+    "from": 434042415
+  },
+  "minor": ""
+}

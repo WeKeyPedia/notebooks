@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/208.8.18.2|208.8.18.2]] to last version by Weyes",
+  "timestamp": "2005-05-25T19:39:37Z",
+  "revid": 14246484,
+  "user": "Jfdwolff",
+  "parentid": 14226266,
+  "diff": {
+    "to": 14246484,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>: ''For the 1960s band, see [[Love (band)]].  The term is also used in [[Tennis#History|tennis]]. ''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>: ''For the 1960s band, see [[Love (band)]].  The term is also used in [[Tennis#History|tennis]]. ''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\"> I LOVE ERIC (L)(L)(L)(L)(L)(L) Eric 4 ever</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>www.89.com </div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' has many meanings in [[English language|English]]. It can mean an intense feeling of [[affection]], an [[emotion]] or emotional state. In ordinary use, it usually refers to interpersonal love. Probably due to its large psychological relevance, love is one of the most common themes in art. The majority of modern [[movies]] have a love story and most [[pop music]] is about love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' has many meanings in [[English language|English]]. It can mean an intense feeling of [[affection]], an [[emotion]] or emotional state. In ordinary use, it usually refers to interpersonal love. Probably due to its large psychological relevance, love is one of the most common themes in art. The majority of modern [[movies]] have a love story and most [[pop music]] is about love.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:14226266:newid:14246484 -->\n",
+    "from": 14226266
+  },
+  "minor": ""
+}

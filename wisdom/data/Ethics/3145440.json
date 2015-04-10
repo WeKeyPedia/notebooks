@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-04-10T08:59:26Z",
+  "revid": 3145440,
+  "anon": "",
+  "user": "193.229.6.165",
+  "parentid": 3133569,
+  "diff": {
+    "to": 3145440,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 3:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 3:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[es:Ética]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[es:Ética]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fr:Éthique]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fr:Éthique]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[fi:Etiikka]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[he:&amp;#1508;&amp;#1497;&amp;#1500;&amp;#1493;&amp;#1505;&amp;#1493;&amp;#1508;&amp;#1497;&amp;#1492; &amp;#1513;&amp;#1500; &amp;#1492;&amp;#1502;&amp;#1493;&amp;#1505;&amp;#1512;]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[he:&amp;#1508;&amp;#1497;&amp;#1500;&amp;#1493;&amp;#1505;&amp;#1493;&amp;#1508;&amp;#1497;&amp;#1492; &amp;#1513;&amp;#1500; &amp;#1492;&amp;#1502;&amp;#1493;&amp;#1505;&amp;#1512;]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ja:&amp;#20523;&amp;#29702;]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ja:&amp;#20523;&amp;#29702;]]</div></td>\n</tr>\n",
+    "from": 3133569
+  }
+}

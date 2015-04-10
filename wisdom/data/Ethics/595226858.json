@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Personal Code of Ethical */",
+  "timestamp": "2014-02-13T01:05:57Z",
+  "revid": 595226858,
+  "user": "Itamarkalimi",
+  "parentid": 595226143,
+  "diff": {
+    "to": 595226858,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 219:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 219:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Personal Code of Ethical ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Personal Code of Ethical ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Personal Ethical codes helps understanding the difference between 'right' and 'wrong' and in applying that understanding our decisions.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Personal Ethical codes helps understanding the difference between 'right' and 'wrong' and in applying that understanding our decisions.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>&lt;/br&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A personal code of ethics will help us make a right choose and go in to the right way.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A personal code of ethics will help us make a right choose and go in to the right way.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 595226143
+  }
+}

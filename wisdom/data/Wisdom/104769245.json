@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* See also */ Yeah, I don't think so.",
+  "timestamp": "2007-02-01T04:30:28Z",
+  "revid": 104769245,
+  "user": "Vary",
+  "parentid": 104707774,
+  "diff": {
+    "to": 104769245,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 46:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 46:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Stephen Colbert]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Book of Wisdom]] (A [[Jewish]] book, part of some [[Christian]] Bibles)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Book of Wisdom]] (A [[Jewish]] book, part of some [[Christian]] Bibles)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ecological wisdom]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ecological wisdom]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:104707774:newid:104769245 -->\n",
+    "from": 104707774
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "rvv",
+  "timestamp": "2007-02-26T01:48:33Z",
+  "revid": 110971381,
+  "user": "Willie Stark",
+  "parentid": 110970127,
+  "diff": {
+    "to": 110971381,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 138:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 138:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;div class=\"references-small\"&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;div class=\"references-small\"&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&lt;references/&gt;<del class=\"diffchange diffchange-inline\"> Oord, Thomas Jay. The Love Rocket: Defining Love and Agape for the Love-and-Science Reseacrh Program. ''Zygon: Hournal of Religion and Science'' Dec 2005, Vol. 40 Issue 4, p 919- 938, 20 p </del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>&lt;references<ins class=\"diffchange diffchange-inline\"> </ins>/&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/div&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/div&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:110970127:newid:110971381 -->\n",
+    "from": 110970127
+  },
+  "minor": ""
+}

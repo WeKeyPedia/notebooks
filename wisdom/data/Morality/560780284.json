@@ -1,0 +1,13 @@
+﻿{
+  "comment": "STEVE LITWIN",
+  "timestamp": "2013-06-20T17:54:24Z",
+  "revid": 560780284,
+  "anon": "",
+  "user": "208.46.68.250",
+  "parentid": 560364864,
+  "diff": {
+    "to": 560780284,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[File:Steve%20Litwin|thumbnail|default|mR. INNAPROPRIATE]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{for|the 2009 novella by Stephen King|Morality (novella)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{for|the 2009 novella by Stephen King|Morality (novella)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect|Appropriate||Appropriation (disambiguation)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect|Appropriate||Appropriation (disambiguation)}}</div></td>\n</tr>\n",
+    "from": 560364864
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-08-25T11:52:01Z",
+  "revid": 71792712,
+  "user": "69696969",
+  "parentid": 71792493,
+  "diff": {
+    "to": 71792712,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 139:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 139:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Dorothy Tennov. ''Love and Limerence: the Experience of Being in Love''. New York: Stein and Day, 1979. ISBN 0812861345</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Dorothy Tennov. ''Love and Limerence: the Experience of Being in Love''. New York: Stein and Day, 1979. ISBN 0812861345</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Dorothy Tennov. ''A Scientist Looks at Romantic Love and Calls It \"Limerence\": The Collected Works of Dorothy Tennov''. Greenwich, CT: The Great American Publishing Society (GRAMPS), [http://www.gramps.org/limerence]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Dorothy Tennov. ''A Scientist Looks at Romantic Love and Calls It \"Limerence\": The Collected Works of Dorothy Tennov''. Greenwich, CT: The Great American Publishing Society (GRAMPS), [http://www.gramps.org/limerence]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* Wood, Wood and Boyd. ''The World of Psychology''. 5th edition. 2005. Pearson Education, 402&amp;ndash;403</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* Wood, Wood and Boyd. ''The World of Psychology''. 5th edition. 2005. Pearson Education, 402&amp;ndash;403<ins class=\"diffchange diffchange-inline\">'''SEXY LOVE WITH ARI N SHEA'''</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:71792493:newid:71792712 -->\n",
+    "from": 71792493
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Spelling error",
+  "timestamp": "2013-08-15T16:24:19Z",
+  "revid": 568674460,
+  "user": "JKMan0123",
+  "parentid": 568674274,
+  "diff": {
+    "to": 568674460,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Descriptive ethics]], also known as comparative ethics, is the study of people's beliefs about morality;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Descriptive ethics]], also known as comparative ethics, is the study of people's beliefs about morality;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Danciu <del class=\"diffchange diffchange-inline\">seeks</del> <del class=\"diffchange diffchange-inline\">to</del> <del class=\"diffchange diffchange-inline\">find</del> <del class=\"diffchange diffchange-inline\">his new box home like people in the ghetto—concepts</del> such as [[good and evil]], [[right and wrong]], [[virtue]] and [[vice]], [[justice]] and [[crime]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Danciu <ins class=\"diffchange diffchange-inline\">is</ins> <ins class=\"diffchange diffchange-inline\">a</ins> <ins class=\"diffchange diffchange-inline\">big</ins> <ins class=\"diffchange diffchange-inline\">baby—concepts</ins> such as [[good and evil]], [[right and wrong]], [[virtue]] and [[vice]], [[justice]] and [[crime]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Defining ethics ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Defining ethics ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:568674274:newid:568674460 -->\n",
+    "from": 568674274
+  }
+}

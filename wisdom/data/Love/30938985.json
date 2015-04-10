@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Phases */",
+  "timestamp": "2005-12-11T16:43:47Z",
+  "revid": 30938985,
+  "anon": "",
+  "user": "63.200.51.253",
+  "parentid": 30889429,
+  "diff": {
+    "to": 30938985,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 92:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 92:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Likewise, when a person has known a loved one for a long time, they develop a deeper attachment to their partner. According to current scientific understanding of love, this transition from the attraction to the ''attachment'' phase usually happens in about 30 months. After that time, the passion fades, changing love from consummate to companionate, or from romantic love to liking.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Likewise, when a person has known a loved one for a long time, they develop a deeper attachment to their partner. According to current scientific understanding of love, this transition from the attraction to the ''attachment'' phase usually happens in about 30 months. After that time, the passion fades, changing love from consummate to companionate, or from romantic love to liking.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>I LOVE SHIRLEY LIM!</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:baglione.jpg|right|thumb|200px|'Sacred Love versus Profane Love' by Giovanni Baglione]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:baglione.jpg|right|thumb|200px|'Sacred Love versus Profane Love' by Giovanni Baglione]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:30889429:newid:30938985 -->\n",
+    "from": 30889429
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */ Love Quotes",
+  "timestamp": "2006-06-11T11:07:57Z",
+  "revid": 58020205,
+  "anon": "",
+  "user": "213.240.14.106",
+  "parentid": 57964677,
+  "diff": {
+    "to": 58020205,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 123:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 123:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.brazilpostcard.com.br Daphnis and Chloe - An ancient Greek love story] Vintage Postcards</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.brazilpostcard.com.br Daphnis and Chloe - An ancient Greek love story] Vintage Postcards</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.vatican.va/holy_father/benedict_xvi/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est_en.html Deus Caritas Est]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.vatican.va/holy_father/benedict_xvi/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est_en.html Deus Caritas Est]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\"> </del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">*[http://www.aeriagloris.com/Resources/quotes/LoveQuotes.htm Love Quotes] </ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n</tr>\n",
+    "from": 57964677
+  }
+}

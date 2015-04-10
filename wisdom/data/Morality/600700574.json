@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* top */ removed duplicate tag",
+  "timestamp": "2014-03-22T06:39:35Z",
+  "revid": 600700574,
+  "user": "Airborne84",
+  "parentid": 600700468,
+  "diff": {
+    "to": 600700574,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{merge from|Immorality|discuss=Talk:Immorality#Merge_to_Morality.3F|date=February 2014}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{merge from|Immorality|discuss=Talk:Immorality#Merge_to_Morality.3F|date=February 2014}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Multiple issues|{{POV|date=May 2013}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Multiple issues|{{POV|date=May 2013}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{lead too short|date=June 2012}}{{essay-like|date=March 2014}}<del class=\"diffchange diffchange-inline\">{{bias|date=March 2014}} </del>}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{lead too short|date=June 2012}}{{essay-like|date=March 2014}}}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{for|the 2009 novella by Stephen King|Morality (novella)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{for|the 2009 novella by Stephen King|Morality (novella)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect2|Appropriate|inappropriate|the rating of activities and media according to age groups|age-appropriate|other uses|Appropriation (disambiguation)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect2|Appropriate|inappropriate|the rating of activities and media according to age groups|age-appropriate|other uses|Appropriation (disambiguation)}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:600700468:newid:600700574 -->\n",
+    "from": 600700468
+  }
+}

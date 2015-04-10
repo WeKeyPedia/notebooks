@@ -1,0 +1,13 @@
+﻿{
+  "comment": "typo",
+  "timestamp": "2003-05-17T09:57:04Z",
+  "revid": 929407,
+  "user": "Heron",
+  "parentid": 929394,
+  "diff": {
+    "to": 929407,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:::- [[John Ralston Saul]], ''The Doubter's Companion''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:::- [[John Ralston Saul]], ''The Doubter's Companion''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>::'''Love''': A temporary insanity curable by marriage or by the removal of the patient from the influences under which he incurred the disorder. This disease, like ''caries'' and many other ailments, is prevalent only among <del class=\"diffchange diffchange-inline\">civilzed</del> races living under artificial conditions; barbarous nations breathing pure air and eating simple food enjoy immunity from its ravages. It is sometimes fatal, but more frequently to the physician than to the patient.''</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>::'''Love''': A temporary insanity curable by marriage or by the removal of the patient from the influences under which he incurred the disorder. This disease, like ''caries'' and many other ailments, is prevalent only among <ins class=\"diffchange diffchange-inline\">civilized</ins> races living under artificial conditions; barbarous nations breathing pure air and eating simple food enjoy immunity from its ravages. It is sometimes fatal, but more frequently to the physician than to the patient.''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:::- ''The Devil's Dictionary'', [[Ambrose Bierce]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:::- ''The Devil's Dictionary'', [[Ambrose Bierce]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>----</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>----</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:929394:newid:929407 -->\n",
+    "from": 929394
+  },
+  "minor": ""
+}

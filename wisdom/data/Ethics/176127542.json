@@ -1,0 +1,13 @@
+﻿{
+  "comment": "clean up (-[[:Category:Code of conduct]] -- please restore if this is a mistake)  using [[Project:AutoWikiBrowser|AWB]]",
+  "timestamp": "2007-12-06T10:52:21Z",
+  "revid": 176127542,
+  "user": "Flex",
+  "parentid": 174960150,
+  "diff": {
+    "to": 176127542,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 122:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 122:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Social philosophy]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Social philosophy]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Branches of philosophy]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Branches of philosophy]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Category:Code of conduct]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[af:Etiek]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[af:Etiek]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:174960150:newid:176127542 -->\n",
+    "from": 174960150
+  },
+  "minor": ""
+}

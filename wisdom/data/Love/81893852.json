@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted 1 edits by [[Special:Contributions/68.78.46.227|68.78.46.227]] ([[User talk:68.78.46.227|talk]]) to last revision (81886044) by ReyBrujo using [[WP:VP2|VP2]]",
+  "timestamp": "2006-10-17T00:08:28Z",
+  "revid": 81893852,
+  "user": "Luk",
+  "parentid": 81893818,
+  "diff": {
+    "to": 81893852,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 218:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 218:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tr:Aşk]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tr:Aşk]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Bold text''''''Bold text''''''Bold text'''</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>I'm in </div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>== LOVE ==</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n",
+    "from": 81893818
+  },
+  "minor": ""
+}

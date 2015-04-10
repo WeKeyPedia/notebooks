@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Old Testament */",
+  "timestamp": "2010-03-28T10:56:05Z",
+  "revid": 352511993,
+  "anon": "",
+  "user": "86.135.25.160",
+  "parentid": 352511901,
+  "diff": {
+    "to": 352511993,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 78:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 78:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''From Wisdom's (\"Power\" or \"an animal horn\") Authority is born''.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''From Wisdom's (\"Power\" or \"an animal horn\") Authority is born''.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>''His Wisdom shone ('''qaran''') unto them like (\"power\" or \"an animal horn\") ('''qeren''') of light'' - (perhaps a more poetic translation would be 'his wisdom shone <del class=\"diffchange diffchange-inline\">line</del> a powerful beam of light').</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>''His Wisdom shone ('''qaran''') unto them like (\"power\" or \"an animal horn\") ('''qeren''') of light'' - (perhaps a more poetic translation would be 'his wisdom shone <ins class=\"diffchange diffchange-inline\">like</ins> a powerful beam of light').</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===New Testament===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===New Testament===</div></td>\n</tr>\n",
+    "from": 352511901
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-06-21T18:01:07Z",
+  "revid": 59848515,
+  "anon": "",
+  "user": "152.163.100.135",
+  "parentid": 59848263,
+  "diff": {
+    "to": 59848515,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> Babbyy</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> Babbyy</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>so this girl rachel is so unbelievable she is my best friend in the whole entire world and always will be ohmyjeezelaweeze i love her and you should too.[www.myspace.com/<del class=\"diffchange diffchange-inline\">peytonismybff14</del>] that is the most amazing girl in the worlds myspace. mhm</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>so this girl rachel is so unbelievable she is my best friend in the whole entire world and always will be ohmyjeezelaweeze i love her and you should too.[www.myspace.com/<ins class=\"diffchange diffchange-inline\">peytonsmybff14</ins>] that is the most amazing girl in the worlds myspace. mhm</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 59848263
+  }
+}

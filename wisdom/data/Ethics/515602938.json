@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Further reading */",
+  "timestamp": "2012-10-02T10:34:44Z",
+  "revid": 515602938,
+  "anon": "",
+  "user": "108.49.2.192",
+  "parentid": 515583423,
+  "diff": {
+    "to": 515602938,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 216:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 216:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*John Paul II, Encyclical Letter [http://www.vatican.va/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor_en.html ''Veritatis Splendor''], 6-8-1993.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*John Paul II, Encyclical Letter [http://www.vatican.va/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor_en.html ''Veritatis Splendor''], 6-8-1993.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* D'Urance, Michel, ''Jalons pour une éthique rebelle'', Aléthéia, Paris, 2005.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* D'Urance, Michel, ''Jalons pour une éthique rebelle'', Aléthéia, Paris, 2005.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* John Newton, Ph.D. ''Complete Conduct Principles for the 21st Century'', 2000. ISBN 0967370574.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:515583423:newid:515602938 -->\n",
+    "from": 515583423
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Types */",
+  "timestamp": "2006-07-08T08:02:54Z",
+  "revid": 62695031,
+  "anon": "",
+  "user": "69.65.67.188",
+  "parentid": 62694209,
+  "diff": {
+    "to": 62695031,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Types==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Types==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Courtly love]] – <del class=\"diffchange diffchange-inline\">a late medieval conventionalized code prescribing certain conduct</del> and <del class=\"diffchange diffchange-inline\">emotions for ladies and their lovers</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Courtly love]] – <ins class=\"diffchange diffchange-inline\">Jake</ins> and <ins class=\"diffchange diffchange-inline\">Kristen</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Erotic love]] – desire characterized by sexual desires</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Erotic love]] – desire characterized by sexual desires</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Familial love]] – affection brokered through kinship connections, intertwined with concepts of attachment and bonding</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Familial love]] – affection brokered through kinship connections, intertwined with concepts of attachment and bonding</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:62694209:newid:62695031 -->\n",
+    "from": 62694209
+  }
+}

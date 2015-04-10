@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Revert to revision 42295064 using [[:en:Wikipedia:Tools/Navigation_popups|popups]]",
+  "timestamp": "2006-03-05T05:10:55Z",
+  "revid": 42298722,
+  "user": "JDoorjam",
+  "parentid": 42298684,
+  "diff": {
+    "to": 42298722,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 346:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 346:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>you will always be loved &lt;3</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n",
+    "from": 42298684
+  }
+}

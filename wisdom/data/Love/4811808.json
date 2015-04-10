@@ -1,0 +1,12 @@
+﻿{
+  "comment": "references - Helen Fisher. ''Why We Love: the Nature and Chemistry of Romantic Love''",
+  "timestamp": "2004-07-23T23:25:38Z",
+  "revid": 4811808,
+  "user": "Paranoid",
+  "parentid": 4811568,
+  "diff": {
+    "to": 4811808,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 79:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 79:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* R. J. Sternberg. ''A triangular theory of love''. 1986. Psychological Review, 93, 119&amp;ndash;135</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* R. J. Sternberg. ''A triangular theory of love''. 1986. Psychological Review, 93, 119&amp;ndash;135</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Dorothy Tennov. ''Love and Limerence: the Experience of Being in Love''. New York: Stein and Day, 1979. ISBN 0&amp;ndash;8128&amp;ndash;6134&amp;ndash;5</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Dorothy Tennov. ''Love and Limerence: the Experience of Being in Love''. New York: Stein and Day, 1979. ISBN 0&amp;ndash;8128&amp;ndash;6134&amp;ndash;5</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* Helen Fisher. ''Why We Love: the Nature and Chemistry of Romantic Love''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[da:Kærlighed]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[da:Kærlighed]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:4811568:newid:4811808 -->\n",
+    "from": 4811568
+  }
+}

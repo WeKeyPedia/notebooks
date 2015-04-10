@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Ethics in politics and economics */",
+  "timestamp": "2006-08-20T20:24:50Z",
+  "revid": 70823690,
+  "anon": "",
+  "user": "75.31.209.45",
+  "parentid": 70650470,
+  "diff": {
+    "to": 70823690,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 40:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 40:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ethics in politics and economics===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ethics in politics and economics===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Ethics has been applied to [[economics]], [[politics]] and [[political science]], leading to several distinct and unrelated fields of applied ethics, including [[business ethics]] and [[Marxism]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Ethics has been applied to [[economics]], [[politics]] and [[political science]], leading to several distinct and unrelated fields of applied ethics, including [[business ethics]] and [[Marxism]]<ins class=\"diffchange diffchange-inline\">. American corporate scandals such as Enron and Global Crossings are illustrative of the interplay between ethics and business.  Ethical inquiries into the fraud perpetrated by corporate senior executive officers (e.g., Enron's Kenneth Lay) are a growing trend and the situational ethics of employees, no matter how junior, who follow their unreasonable and/or illegal directives has also come to the fore</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Ethics has been applied to family structure, sexuality, and how society views the roles of individuals; leading to several distinct and unrelated fields of applied ethics, including [[feminism]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Ethics has been applied to family structure, sexuality, and how society views the roles of individuals; leading to several distinct and unrelated fields of applied ethics, including [[feminism]].</div></td>\n</tr>\n",
+    "from": 70650470
+  }
+}

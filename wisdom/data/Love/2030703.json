@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2003-12-23T18:34:23Z",
+  "revid": 2030703,
+  "anon": "",
+  "user": "206.72.76.5",
+  "parentid": 2030697,
+  "diff": {
+    "to": 2030703,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving one another in general</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving one another in general</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving something abstract or inanimate</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving something abstract or inanimate</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div># loving one's nation or [[homeland]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div># loving one's nation or [[homeland<ins class=\"diffchange diffchange-inline\">|home country</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>What is common to all the types of love, is a conscious or subconscious desire towards someone or something or realisation of their goals.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>What is common to all the types of love, is a conscious or subconscious desire towards someone or something or realisation of their goals.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:2030697:newid:2030703 -->\n",
+    "from": 2030697
+  }
+}

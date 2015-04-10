@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* See also */ fix link",
+  "timestamp": "2011-07-09T19:22:54Z",
+  "revid": 438625266,
+  "user": "The Transhumanist",
+  "parentid": 438625137,
+  "diff": {
+    "to": 438625266,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 163:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 163:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Outline of ethics]] (list of ethics-related articles, arranged by sub-topic)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Outline of ethics]] (list of ethics-related articles, arranged by sub-topic)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Index of ethics articles<del class=\"diffchange diffchange-inline\">)</del> (alphabetical list of ethics-related articles)</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Index of ethics articles<ins class=\"diffchange diffchange-inline\">]]</ins> (alphabetical list of ethics-related articles)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n</tr>\n",
+    "from": 438625137
+  }
+}

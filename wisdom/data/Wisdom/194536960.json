@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Philosophical perspectives */",
+  "timestamp": "2008-02-27T23:49:38Z",
+  "revid": 194536960,
+  "anon": "",
+  "user": "69.4.99.242",
+  "parentid": 194536778,
+  "diff": {
+    "to": 194536960,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Nicholas Maxwell]], a modern philosopher, argued that the basic aim of academic inquiry ought to be to seek and promote wisdom — wisdom being construed to be the capacity to realize what is of value in life for oneself and others, wisdom thus including knowledge and technological know-how, but much else besides.&lt;ref name = \"Maxwell\"&gt;[http://www.nick-maxwell.demon.co.uk  MAXWELL, Nicholas].&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Nicholas Maxwell]], a modern philosopher, argued that the basic aim of academic inquiry ought to be to seek and promote wisdom — wisdom being construed to be the capacity to realize what is of value in life for oneself and others, wisdom thus including knowledge and technological know-how, but much else besides.&lt;ref name = \"Maxwell\"&gt;[http://www.nick-maxwell.demon.co.uk  MAXWELL, Nicholas].&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Wisdom is a tough word to stick a meaning to. Wisdom is seen as different things. Wisdom is the gaining of knowledge through life experience that is then applied to life situations. Most wisdom is in older people who have had the life experience, while younger kids lack in that area.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Psychological perspectives==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Psychological perspectives==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:194536778:newid:194536960 -->\n",
+    "from": 194536778
+  }
+}

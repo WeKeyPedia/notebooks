@@ -1,0 +1,13 @@
+﻿{
+  "comment": "robot  Adding: is",
+  "timestamp": "2006-03-19T23:38:10Z",
+  "revid": 44573741,
+  "user": "YurikBot",
+  "parentid": 44483562,
+  "diff": {
+    "to": 44573741,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 253:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 253:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[gl:Ética]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[gl:Ética]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[hr:Etika]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[hr:Etika]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[is:Siðfræði]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[it:Etica]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[it:Etica]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[he:פילוסופיה של המוסר]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[he:פילוסופיה של המוסר]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:44483562:newid:44573741 -->\n",
+    "from": 44483562
+  },
+  "minor": ""
+}

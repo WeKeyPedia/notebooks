@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2013-04-22T00:40:40Z",
+  "revid": 551549962,
+  "anon": "",
+  "user": "76.119.170.84",
+  "parentid": 551142880,
+  "diff": {
+    "to": 551549962,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 34:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 34:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Theories which claim that morality is derived from reasoning about implied imperatives ([[universal prescriptivism]]), the edicts of a god ([[divine command theory]]), or the hypothetical decrees of a perfectly rational being ([[ideal observer theory]]), are considered anti-realist in the robust sense used here, but are considered realist in the sense synonymous with [[moral universalism]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Theories which claim that morality is derived from reasoning about implied imperatives ([[universal prescriptivism]]), the edicts of a god ([[divine command theory]]), or the hypothetical decrees of a perfectly rational being ([[ideal observer theory]]), are considered anti-realist in the robust sense used here, but are considered realist in the sense synonymous with [[moral universalism]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>==Anthropology==</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>==Anthropology==<ins class=\"diffchange diffchange-inline\"> hi</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Tribal and territorial ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Tribal and territorial ===</div></td>\n</tr>\n",
+    "from": 551142880
+  }
+}

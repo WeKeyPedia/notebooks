@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Mythological */",
+  "timestamp": "2007-11-21T16:48:31Z",
+  "revid": 172932433,
+  "user": "Gantuya eng",
+  "parentid": 172932353,
+  "diff": {
+    "to": 172932433,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 230:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 230:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Mythological===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Mythological===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Different cultures have deified love, typically in both male and female form.  Here is a list of the gods and goddesses of love in different mythologies.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Different cultures have deified love, typically in both male and female form.  Here is a list of the gods and goddesses of love in different mythologies.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[<del class=\"diffchange diffchange-inline\">Siyama</del> Tara]]; identifies with maternal love and compassion in [[Buddhism]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[<ins class=\"diffchange diffchange-inline\">Green</ins> Tara]]; identifies with maternal love and compassion in [[Buddhism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Áine]]; goddess of fertility and passionate love in [[Irish mythology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Áine]]; goddess of fertility and passionate love in [[Irish mythology]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Amor]] or [[Cupid]] &amp;mdash; god of passionate love in [[Roman mythology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Amor]] or [[Cupid]] &amp;mdash; god of passionate love in [[Roman mythology]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:172932353:newid:172932433 -->\n",
+    "from": 172932353
+  }
+}

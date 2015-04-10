@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-12-05T20:14:51Z",
+  "revid": 30252766,
+  "anon": "",
+  "user": "213.167.96.195",
+  "parentid": 30251030,
+  "diff": {
+    "to": 30252766,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Eros - Pompeiian statue - Naples Archeological Museum.jpg|thumb|right|250px|Eros&lt;br&gt;God and symbol of love since antiquity]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Eros - Pompeiian statue - Naples Archeological Museum.jpg|thumb|right|250px|Eros&lt;br&gt;God and symbol of love since antiquity]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>JAMIE LOVES NICK SCHEMBRI!!!!!!</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' has several different meanings in [[English language|English]], from something that gives a little pleasure (\"I loved that meal\") to something one would die for ([[patriotism]], pairbonding). It can describe an intense feeling of [[affection]], an [[emotion]] or an emotional state. In ordinary use, it usually refers to interpersonal love. Probably due to its psychological relevance, love is one of the most common themes in art. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' has several different meanings in [[English language|English]], from something that gives a little pleasure (\"I loved that meal\") to something one would die for ([[patriotism]], pairbonding). It can describe an intense feeling of [[affection]], an [[emotion]] or an emotional state. In ordinary use, it usually refers to interpersonal love. Probably due to its psychological relevance, love is one of the most common themes in art. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:30251030:newid:30252766 -->\n",
+    "from": 30251030
+  }
+}

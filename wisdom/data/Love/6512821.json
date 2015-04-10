@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Human love */ remove dead link",
+  "timestamp": "2004-10-12T02:24:39Z",
+  "revid": 6512821,
+  "user": "Johnkarp",
+  "parentid": 6509676,
+  "diff": {
+    "to": 6512821,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 126:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 126:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Limerence]]  &amp;mdash; the \"in love\" state</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Limerence]]  &amp;mdash; the \"in love\" state</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[crush]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[crush]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Love fact]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love-Hate relationship]]s</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love-Hate relationship]]s</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love-shyness]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love-shyness]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:6509676:newid:6512821 -->\n",
+    "from": 6509676
+  },
+  "minor": ""
+}

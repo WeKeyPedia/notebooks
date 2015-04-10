@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Evolutionary perspectives */",
+  "timestamp": "2008-11-07T04:34:55Z",
+  "revid": 250174992,
+  "anon": "",
+  "user": "87.162.54.24",
+  "parentid": 249109959,
+  "diff": {
+    "to": 250174992,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 43:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 43:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>}}&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>}}&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>On this view, moral codes are ultimately founded on emotional instincts and intuitions that were selected for in the past because they aided survival and reproduction ([[inclusive fitness]]). The strength of the [[maternal bond]] is one example. Another is the [[Imprinting (psychology)#Westermarck effect|Westermarck effect]], seen as underpinning [[Incest taboo|taboos against incest]], which decreases the likelihood of [[<del class=\"diffchange diffchange-inline\">defective offspring|</del>inbreeding depression]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>On this view, moral codes are ultimately founded on emotional instincts and intuitions that were selected for in the past because they aided survival and reproduction ([[inclusive fitness]]). The strength of the [[maternal bond]] is one example. Another is the [[Imprinting (psychology)#Westermarck effect|Westermarck effect]], seen as underpinning [[Incest taboo|taboos against incest]], which decreases the likelihood of [[inbreeding depression]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- kinship altruism theory --&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- kinship altruism theory --&gt;</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:249109959:newid:250174992 -->\n",
+    "from": 249109959
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Political ethics */",
+  "timestamp": "2014-03-27T20:54:17Z",
+  "revid": 601559704,
+  "anon": "",
+  "user": "5.67.125.12",
+  "parentid": 600707942,
+  "diff": {
+    "to": 601559704,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 197:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 197:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Political ethics====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Political ethics====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Political ethics]] (also known as political morality or public ethics) is the practice of making moral judgements about political action and political agents.&lt;ref&gt;Thompson, Dennis F. \"Political Ethics.\" ''International Encyclopedia of Ethics'', ed. Hugh LaFollette (Blackwell Publishing, 2012).&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Political ethics]] (also known as political morality or public ethics) is the practice of making moral judgements about political action and political agents<ins class=\"diffchange diffchange-inline\"> Some political ethics may be seen as unethical this can be deceitful the Tories show though most of their political doings that they are deceitful and untrustworthy </ins>.&lt;ref&gt;Thompson, Dennis F. \"Political Ethics.\" ''International Encyclopedia of Ethics'', ed. Hugh LaFollette (Blackwell Publishing, 2012).&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Public sector ethics====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Public sector ethics====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:600707942:newid:601559704 -->\n",
+    "from": 600707942
+  }
+}

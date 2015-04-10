@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Undid revision 601559704 by [[Special:Contributions/5.67.125.12|5.67.125.12]] ([[User talk:5.67.125.12|talk]])",
+  "timestamp": "2014-03-27T21:12:15Z",
+  "revid": 601562258,
+  "user": "Elkman",
+  "parentid": 601559704,
+  "diff": {
+    "to": 601562258,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 197:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 197:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Political ethics====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Political ethics====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Political ethics]] (also known as political morality or public ethics) is the practice of making moral judgements about political action and political agents<del class=\"diffchange diffchange-inline\"> Some political ethics may be seen as unethical this can be deceitful the Tories show though most of their political doings that they are deceitful and untrustworthy </del>.&lt;ref&gt;Thompson, Dennis F. \"Political Ethics.\" ''International Encyclopedia of Ethics'', ed. Hugh LaFollette (Blackwell Publishing, 2012).&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Political ethics]] (also known as political morality or public ethics) is the practice of making moral judgements about political action and political agents.&lt;ref&gt;Thompson, Dennis F. \"Political Ethics.\" ''International Encyclopedia of Ethics'', ed. Hugh LaFollette (Blackwell Publishing, 2012).&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Public sector ethics====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Public sector ethics====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:601559704:newid:601562258 -->\n",
+    "from": 601559704
+  }
+}

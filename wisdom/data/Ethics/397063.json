@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2002-10-20T14:51:43Z",
+  "revid": 397063,
+  "anon": "",
+  "user": "217.230.63.218",
+  "parentid": 371968,
+  "diff": {
+    "to": 397063,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 25:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 25:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>An important application of ethics is the question of [[personhood]] - which entities should have rights under law, and which should be owned or controlled entirely by legal persons.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>An important application of ethics is the question of [[personhood]] - which entities should have rights under law, and which should be owned or controlled entirely by legal persons.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Sonst was saures...</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>But not &lt;i&gt;all&lt;/i&gt; questions studied in applied ethics concern public policy.  For example: What is [[lying]] and is lying always wrong?  If not, when is lying permissible? </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>But not &lt;i&gt;all&lt;/i&gt; questions studied in applied ethics concern public policy.  For example: What is [[lying]] and is lying always wrong?  If not, when is lying permissible? </div></td>\n</tr>\n",
+    "from": 371968
+  }
+}

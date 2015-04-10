@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2007-04-19T03:15:07Z",
+  "revid": 123993245,
+  "anon": "",
+  "user": "208.120.2.201",
+  "parentid": 123993064,
+  "diff": {
+    "to": 123993245,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 110:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 110:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://plato.stanford.edu/entries/morality-definition/ The Stanford Encyclopedia of Philosophy on the Definition of Morality]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://plato.stanford.edu/entries/morality-definition/ The Stanford Encyclopedia of Philosophy on the Definition of Morality]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.meaninginmylife.com/objective_morality_ethics_good.html Foundations of Moral Principles] - rational basis for moral feeling</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.examinethetruth.com/page_morale_01.htm Christian and Muslim debates on Morality]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.examinethetruth.com/page_morale_01.htm Christian and Muslim debates on Morality]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.chabad.org/search/keyword.asp?kid=1222 Morality and Judaism] chabad.org</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.chabad.org/search/keyword.asp?kid=1222 Morality and Judaism] chabad.org</div></td>\n</tr>\n",
+    "from": 123993064
+  }
+}

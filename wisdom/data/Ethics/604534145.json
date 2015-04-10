@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Undid revision 604530818 by [[Special:Contributions/Mike2085|Mike2085]] ([[User talk:Mike2085|talk]]) rm link to inappropriate POV fork",
+  "timestamp": "2014-04-17T02:25:17Z",
+  "revid": 604534145,
+  "user": "Pfhorrest",
+  "parentid": 604530818,
+  "diff": {
+    "to": 604534145,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 220:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 220:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Outline of ethics]] ''(list of ethics-related articles, arranged by sub-topic)''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Outline of ethics]] ''(list of ethics-related articles, arranged by sub-topic)''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Theory of justification]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Theory of justification]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Simplified meta-ethics]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:604530818:newid:604534145 -->\n",
+    "from": 604530818
+  }
+}

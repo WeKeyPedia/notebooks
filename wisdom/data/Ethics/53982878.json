@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-05-19T04:47:30Z",
+  "revid": 53982878,
+  "anon": "",
+  "user": "128.195.213.246",
+  "parentid": 53982720,
+  "diff": {
+    "to": 53982878,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 206:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 206:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.sandiego.edu/ Ethics Updates] mega-list of ethics resources maintained by Lawrence Hinman of the University of San Diego.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.sandiego.edu/ Ethics Updates] mega-list of ethics resources maintained by Lawrence Hinman of the University of San Diego.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://intelligenceispower.com/ Public service publication on moral philosophy research </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://intelligenceispower.com/<ins class=\"diffchange diffchange-inline\"> Moral Philosophy Research and Economics]</ins> Public service publication on moral philosophy research </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.rsrevision.com rsrevision.com] UK website with summaries and criticisms on:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.rsrevision.com rsrevision.com] UK website with summaries and criticisms on:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://www.rsrevision.com/Alevel/ethics/kant/ Kant]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://www.rsrevision.com/Alevel/ethics/kant/ Kant]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:53982720:newid:53982878 -->\n",
+    "from": 53982720
+  }
+}

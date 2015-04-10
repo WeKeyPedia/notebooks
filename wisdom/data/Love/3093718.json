@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-04-07T05:38:38Z",
+  "revid": 3093718,
+  "anon": "",
+  "user": "211.214.192.32",
+  "parentid": 3093710,
+  "diff": {
+    "to": 3093718,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 3:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 3:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>: ''For the 1960s band, see [[Love (band)]]. The term is also used in [[Tennis#History of tennis|tennis]].''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>: ''For the 1960s band, see [[Love (band)]]. The term is also used in [[Tennis#History of tennis|tennis]].''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''<del class=\"diffchange diffchange-inline\">Love</del>''' is a special [[affection]] for someone or something, a [[feeling]] or [[emotion]]. Various different types of love exist, which are generally agreed to have a commonality, but opinions vary on how they differ:</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''<ins class=\"diffchange diffchange-inline\">Hate</ins>''' is a special [[affection]] for someone or something, a [[feeling]] or [[emotion]]. Various different types of love exist, which are generally agreed to have a commonality, but opinions vary on how they differ:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love between [[family]] members: parent's love of children, etc.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love between [[family]] members: parent's love of children, etc.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love of [[friend]]s</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love of [[friend]]s</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:3093710:newid:3093718 -->\n",
+    "from": 3093710
+  }
+}

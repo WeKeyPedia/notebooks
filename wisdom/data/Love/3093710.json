@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-04-05T10:48:33Z",
+  "revid": 3093710,
+  "anon": "",
+  "user": "68.149.238.28",
+  "parentid": 3066149,
+  "diff": {
+    "to": 3093710,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 58:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 58:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:::- [[Eden Ahbez]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:::- [[Eden Ahbez]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>::'''Love''': A term <del class=\"diffchange diffchange-inline\">that</del> has no meaning if defined.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>::'''Love''': A term <ins class=\"diffchange diffchange-inline\">which</ins> has no meaning if defined.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:::- [[John Ralston Saul]], ''The Doubter's Companion''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:::- [[John Ralston Saul]], ''The Doubter's Companion''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:3066149:newid:3093710 -->\n",
+    "from": 3066149
+  }
+}

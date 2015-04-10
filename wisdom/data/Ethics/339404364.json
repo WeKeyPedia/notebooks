@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2010-01-22T20:13:56Z",
+  "revid": 339404364,
+  "anon": "",
+  "user": "198.60.165.108",
+  "parentid": 339275571,
+  "diff": {
+    "to": 339404364,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 297:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 297:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מידות]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מידות]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Dania was here</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:339275571:newid:339404364 -->\n",
+    "from": 339275571
+  }
+}

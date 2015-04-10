@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-09-25T15:55:10Z",
+  "revid": 160270871,
+  "user": "Bgiz63",
+  "parentid": 160199562,
+  "diff": {
+    "to": 160270871,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 236:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 236:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bat-smg:Meilė]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bat-smg:Meilė]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>here it is &lt;object width=\"425\" height=\"350\"&gt;&lt;param name=\"movie\" value=\"http://www.youtube.com/v/GgG5z9UHFAk\"&gt;&lt;/param&gt;&lt;embed src=\"http://www.youtube.com/v/GgG5z9UHFAk\" type=\"application/x-shockwave-flash\" width=\"425\" height=\"350\"&gt;&lt;/embed&gt;&lt;/object&gt;</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:160199562:newid:160270871 -->\n",
+    "from": 160199562
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2009-09-28T12:33:37Z",
+  "revid": 316669294,
+  "anon": "",
+  "user": "217.23.224.177",
+  "parentid": 316555099,
+  "diff": {
+    "to": 316669294,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 256:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 256:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[war:Etiko]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[war:Etiko]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מידות]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מידות]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[zh:伦理学]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[zh:伦理学]]<ins class=\"diffchange diffchange-inline\">hi</ins></div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:316555099:newid:316669294 -->\n",
+    "from": 316555099
+  }
+}

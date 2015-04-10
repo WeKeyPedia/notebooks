@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Religious views */",
+  "timestamp": "2006-04-18T20:10:39Z",
+  "revid": 49049023,
+  "user": "Butch23",
+  "parentid": 49015673,
+  "diff": {
+    "to": 49049023,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 46:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 46:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Within Christianity, however, love between spouses is defined as \"an emotional attachment and affection shared between two individuals (biblically: male and female); which a person saves for their specific significant other only, and for that emotion to remain for as long as both of their existences shall be.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Within Christianity, however, love between spouses is defined as \"an emotional attachment and affection shared between two individuals (biblically: male and female); which a person saves for their specific significant other only, and for that emotion to remain for as long as both of their existences shall be.\"</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Love is what happens when I am hungry and I see a plate of nachos.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n",
+    "from": 49015673
+  }
+}

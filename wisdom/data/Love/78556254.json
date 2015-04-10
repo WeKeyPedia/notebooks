@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Revert non-verifiable: The most profound love of all is the love that exists between Michael Bourgeois and Jill George.",
+  "timestamp": "2006-09-29T19:34:26Z",
+  "revid": 78556254,
+  "user": "Jim Douglas",
+  "parentid": 78550654,
+  "diff": {
+    "to": 78556254,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 32:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 32:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Love at first sight|Instantaneous love]] - Love that occours the instant that one person comes in contact with another and feels a deep connection or attraction to the other. Also known as \"love at first sight\" and refered to commonly in many fairy tales and folk lore and literature.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Love at first sight|Instantaneous love]] - Love that occours the instant that one person comes in contact with another and feels a deep connection or attraction to the other. Also known as \"love at first sight\" and refered to commonly in many fairy tales and folk lore and literature.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Sacrificial love]] - the act of sacrificing one's life, or something of great importance, solely on the basis of love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Sacrificial love]] - the act of sacrificing one's life, or something of great importance, solely on the basis of love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The most profound love of all is the love that exists between Michael Bourgeois and Jill George.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:78550654:newid:78556254 -->\n",
+    "from": 78550654
+  }
+}

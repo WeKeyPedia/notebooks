@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/85.132.14.38|85.132.14.38]] ([[User talk:85.132.14.38|talk]]) to last version by 65.167.232.210",
+  "timestamp": "2006-07-21T05:39:23Z",
+  "revid": 64986019,
+  "user": "Musical Linguist",
+  "parentid": 64985953,
+  "diff": {
+    "to": 64986019,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 141:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 141:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.how-to-kiss.us Kissing, Dating, Love and Marriage]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.how-to-kiss.us Kissing, Dating, Love and Marriage]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://lovestudio.blogspot.com/2006/06/great-ways-to-say-i-love-you.html Great ways to say I Love you]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n</tr>\n",
+    "from": 64985953
+  },
+  "minor": ""
+}

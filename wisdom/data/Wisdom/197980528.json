@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted 1 edit by [[Special:Contributions/Syed9562|Syed9562]]; Removed spam link. using [[WP:TWINKLE|TW]]",
+  "timestamp": "2008-03-13T15:48:28Z",
+  "revid": 197980528,
+  "user": "ArcAngel",
+  "parentid": 197977460,
+  "diff": {
+    "to": 197980528,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 127:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 127:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://library.mpib-berlin.mpg.de/ft/pb/PB_Wisdom_2004.pdf Book on Wisdom from psychologist Paul Baltes]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://library.mpib-berlin.mpg.de/ft/pb/PB_Wisdom_2004.pdf Book on Wisdom from psychologist Paul Baltes]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.excaliburbooks.com Wisdom in Perspective]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.excaliburbooks.com Wisdom in Perspective]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.islamicwisdom.net Fundamental Questions of Life: A Wisdom Perspective]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n</tr>\n",
+    "from": 197977460
+  },
+  "minor": ""
+}

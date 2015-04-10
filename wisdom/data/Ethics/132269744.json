@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */ add [[Category:Code of conduct]]",
+  "timestamp": "2007-05-20T19:07:15Z",
+  "revid": 132269744,
+  "anon": "",
+  "user": "68.123.72.65",
+  "parentid": 131824851,
+  "diff": {
+    "to": 132269744,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 189:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 189:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Social philosophy]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Social philosophy]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Branches of philosophy]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Branches of philosophy]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Category:Code of conduct]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ar:أخلاق]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ar:أخلاق]]</div></td>\n</tr>\n",
+    "from": 131824851
+  }
+}

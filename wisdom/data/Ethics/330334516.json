@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Christian Hedonism */",
+  "timestamp": "2009-12-07T23:04:21Z",
+  "revid": 330334516,
+  "anon": "",
+  "user": "65.111.197.100",
+  "parentid": 330333259,
+  "diff": {
+    "to": 330334516,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 41:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 41:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=====Christian Hedonism=====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=====Christian Hedonism=====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Visit www.desiringGod.org[http://www.desiringGod.org] for more information regarding \"Christian Hedonism\" as explained by Dr. John Piper.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Visit www.desiringGod.org[http://www.desiringGod.org] for more information regarding \"Christian Hedonism\" as explained by Dr. John Piper.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Also, see the following Wikipedia explanation. [http://en.wikipedia.org/wiki/Christian_Hedonism]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=====Epicureanism=====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=====Epicureanism=====</div></td>\n</tr>\n",
+    "from": 330333259
+  }
+}

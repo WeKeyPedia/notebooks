@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-03-03T16:57:51Z",
+  "revid": 2613417,
+  "anon": "",
+  "user": "217.84.169.172",
+  "parentid": 2613409,
+  "diff": {
+    "to": 2613417,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 21:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 21:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Classically, wisdom is considered to come with age. In some religions, wisdom is considered a gift granted by [[God]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Classically, wisdom is considered to come with age. In some religions, wisdom is considered a gift granted by [[God]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>A wise person is often called a \"sage<del class=\"diffchange diffchange-inline\">.</del>\"</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>A wise person is often called a \"sage\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>See also </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>See also </div></td>\n</tr>\n",
+    "from": 2613409
+  }
+}

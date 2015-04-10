@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/220.255.63.84|220.255.63.84]] ([[User talk:220.255.63.84|talk]]) to last version by JD UK",
+  "timestamp": "2006-08-09T04:54:56Z",
+  "revid": 68548126,
+  "user": "KnowledgeOfSelf",
+  "parentid": 68547958,
+  "diff": {
+    "to": 68548126,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 183:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 183:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tr:Aşk]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tr:Aşk]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Wei huang loves hui ping</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n",
+    "from": 68547958
+  },
+  "minor": ""
+}

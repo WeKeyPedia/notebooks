@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Modern virtue ethics */",
+  "timestamp": "2012-11-21T11:48:17Z",
+  "revid": 524177961,
+  "user": "Theconsequentialist",
+  "parentid": 524177912,
+  "diff": {
+    "to": 524177961,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 62:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 62:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Modern virtue ethics===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Modern virtue ethics===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Modern virtue ethics was popularized during the 1980s.&lt;ref name=\"Vries\"&gt;{{cite book|author1=Professor Michiel S. S. De De Vries|author2=Professor Pan Suk Kim|title=Value and Virtue in Public Administration: A Comparative Perspective|date=28 October 2011|publisher=Palgrave Macmillan|isbn=978-0-230-35709-9|page=42}}&lt;/ref&gt; [[Alasdair MacIntyre]], who wrote the book ''After Virtue'', was a key<del class=\"diffchange diffchange-inline\"> early</del> contributor and proponent of modern virtue ethics.&lt;ref name=\"Vries\"/&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Modern virtue ethics was popularized during the 1980s.&lt;ref name=\"Vries\"&gt;{{cite book|author1=Professor Michiel S. S. De De Vries|author2=Professor Pan Suk Kim|title=Value and Virtue in Public Administration: A Comparative Perspective|date=28 October 2011|publisher=Palgrave Macmillan|isbn=978-0-230-35709-9|page=42}}&lt;/ref&gt; [[Alasdair MacIntyre]], who wrote the book ''After Virtue'', was a key contributor and proponent of modern virtue ethics.&lt;ref name=\"Vries\"/&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Consequentialism===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Consequentialism===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:524177912:newid:524177961 -->\n",
+    "from": 524177912
+  },
+  "minor": ""
+}

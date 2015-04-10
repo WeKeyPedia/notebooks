@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2008-05-09T17:13:45Z",
+  "revid": 211293020,
+  "anon": "",
+  "user": "68.192.7.123",
+  "parentid": 211292760,
+  "diff": {
+    "to": 211293020,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>marc is <del class=\"diffchange diffchange-inline\">cool!!!</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>marc is <ins class=\"diffchange diffchange-inline\">a loserrrrrrrrrrr</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Divine command theory}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Divine command theory}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 211292760
+  }
+}

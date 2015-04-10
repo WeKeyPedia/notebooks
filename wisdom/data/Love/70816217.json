@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-08-20T19:45:52Z",
+  "revid": 70816217,
+  "anon": "",
+  "user": "86.142.222.185",
+  "parentid": 70815566,
+  "diff": {
+    "to": 70816217,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 25:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 25:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[agape|True love]] – love without condition, motive or attachment. Loving someone just because they are themselves, not their actions or beliefs in particular</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[agape|True love]] – love without condition, motive or attachment. Loving someone just because they are themselves, not their actions or beliefs in particular</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Lust-love]] - affection characterized by lust, caring about the desired one for a short amount of time, in other words, semi-true love</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[<ins class=\"diffchange diffchange-inline\">Lust|</ins>Lust-love]] - affection characterized by lust, caring about the desired one for a short amount of time, in other words, semi-true love</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:70815566:newid:70816217 -->\n",
+    "from": 70815566
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Intro */ other uses",
+  "timestamp": "2007-10-27T09:00:11Z",
+  "revid": 167396244,
+  "user": "Vassyana",
+  "parentid": 167395745,
+  "diff": {
+    "to": 167396244,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{otheruses<ins class=\"diffchange diffchange-inline\">|Ethics</ins>}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{portal|Ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{portal|Ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Citations missing|date=July 2007}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Citations missing|date=July 2007}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:167395745:newid:167396244 -->\n",
+    "from": 167395745
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Revert to revision 49587696 using [[:en:Wikipedia:Tools/Navigation_popups|popups]]",
+  "timestamp": "2006-04-22T14:15:52Z",
+  "revid": 49595601,
+  "user": "Randwicked",
+  "parentid": 49594017,
+  "diff": {
+    "to": 49595601,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Free love]] – sexual relations according to choice and unrestricted by marriage.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Free love]] – sexual relations according to choice and unrestricted by marriage.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Platonic love]] – a close relationship in which sexual desire is nonexistent or has been suppressed or sublimated.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Platonic love]] – a close relationship in which sexual desire is nonexistent or has been suppressed or sublimated.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Puppy love]] – romantic affection felt between or as though between adolescents.<del class=\"diffchange diffchange-inline\">(an example of this is of E.S and E.R, they love each other but it is a shame neither of them can admit it.)</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Puppy love]] – romantic affection felt between or as though between adolescents.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Religious love]] – devotion to one’s deity or theology.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Religious love]] – devotion to one’s deity or theology.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional and sexual desire.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional and sexual desire.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:49594017:newid:49595601 -->\n",
+    "from": 49594017
+  }
+}

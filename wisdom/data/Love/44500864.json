@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Human love */ removed link redirected to self ([[I love you]])",
+  "timestamp": "2006-03-19T13:35:20Z",
+  "revid": 44500864,
+  "user": "Blahma",
+  "parentid": 44439328,
+  "diff": {
+    "to": 44500864,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 54:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 54:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Greek words for love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Greek words for love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Historical pederastic couples]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Historical pederastic couples]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Human bonding]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{col-break}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{col-break}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[<del class=\"diffchange diffchange-inline\">I</del> <del class=\"diffchange diffchange-inline\">love you</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[<ins class=\"diffchange diffchange-inline\">Human</ins> <ins class=\"diffchange diffchange-inline\">bonding</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Limerence]] &amp;mdash; the state of being \"in love\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Limerence]] &amp;mdash; the state of being \"in love\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love-hate relationship]]s</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love-hate relationship]]s</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:44439328:newid:44500864 -->\n",
+    "from": 44439328
+  },
+  "minor": ""
+}

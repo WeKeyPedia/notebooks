@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-08-30T03:49:50Z",
+  "revid": 5544807,
+  "anon": "",
+  "user": "12.221.109.42",
+  "parentid": 5535007,
+  "diff": {
+    "to": 5544807,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' is a general term for what is often described as the \"[[science]] of [[morality]]\". In [[philosophy]], ethical [[behavior]] is that which is \"[[Goodness and value theory|good]]\".  The Western tradition of ethics is sometimes called '''moral philosophy'''. This is one of the three major branches of philosophy, alongside [[metaphysics]] and [[<del class=\"diffchange diffchange-inline\">logic</del>]]. </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' is a general term for what is often described as the \"[[science]] of [[morality]]\". In [[philosophy]], ethical [[behavior]] is that which is \"[[Goodness and value theory|good]]\".  The Western tradition of ethics is sometimes called '''moral philosophy'''. This is one of the three major branches of philosophy, alongside [[metaphysics]] and [[<ins class=\"diffchange diffchange-inline\">epistemology</ins>]]. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==The history of ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==The history of ethics==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:5535007:newid:5544807 -->\n",
+    "from": 5535007
+  }
+}

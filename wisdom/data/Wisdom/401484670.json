@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Books */ remove deleted article * [[The Wisdom Page]]",
+  "timestamp": "2010-12-09T18:29:36Z",
+  "revid": 401484670,
+  "user": "Fayenatic london",
+  "parentid": 399863330,
+  "diff": {
+    "to": 401484670,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 138:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 138:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Books ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Books ===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Book of Wisdom]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Book of Wisdom]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[The Wisdom of Crowds]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[The Wisdom of Crowds]]<ins class=\"diffchange diffchange-inline\">* [[Sternberg, Robert J.]], ''Wisdom: It's Nature, Origins, and Developmet'' (1990). [[Cambridge University Press]]. ISBN 0-521-36718-2</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[The Wisdom Page]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Sternberg, Robert J.]], ''Wisdom: It's Nature, Origins, and Developmet'' (1990). [[Cambridge University Press]]. ISBN 0-521-36718-2</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:399863330:newid:401484670 -->\n",
+    "from": 399863330
+  },
+  "minor": ""
+}

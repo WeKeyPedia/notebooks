@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Bot: Migrating langlinks to [[WP:Wikidata]] - [[d:q9465]]",
+  "timestamp": "2013-02-21T03:39:45Z",
+  "revid": 539355478,
+  "user": "Legobot",
+  "parentid": 539093380,
+  "diff": {
+    "to": 539355478,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 275:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 275:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Link GA|de}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Link GA|de}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[be-x-old:Этыка]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[fo:Siðafrøði]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n",
+    "from": 539093380
+  },
+  "minor": ""
+}

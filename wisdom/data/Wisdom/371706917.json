@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2010-07-04T14:52:33Z",
+  "revid": 371706917,
+  "user": "Earthandmoon",
+  "parentid": 369792581,
+  "diff": {
+    "to": 371706917,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 204:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 204:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[uk:Мудрість]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[uk:Мудрість]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ur:حکمت (دماغ)]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ur:حکمت (دماغ)]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[vi:Minh triết]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:קלוגשאפט]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:קלוגשאפט]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:智慧]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:智慧]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:369792581:newid:371706917 -->\n",
+    "from": 369792581
+  },
+  "minor": ""
+}

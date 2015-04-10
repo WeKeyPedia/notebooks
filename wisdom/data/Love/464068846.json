@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2011-12-04T17:46:26Z",
+  "revid": 464068846,
+  "user": "Willstephens23",
+  "parentid": 464068448,
+  "diff": {
+    "to": 464068846,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 43:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 43:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|title=Confessio philosophi</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|title=Confessio philosophi</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|publisher=Wikisource edition</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|publisher=Wikisource edition</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>|accessdate=Mar 25, 2009}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>|accessdate=Mar 25, 2009}}<ins class=\"diffchange diffchange-inline\">&lt;/ref&gt;</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is sometimes referred to as being the \"international language\", overriding cultural and linguistic divisions.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is sometimes referred to as being the \"international language\", overriding cultural and linguistic divisions.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:464068448:newid:464068846 -->\n",
+    "from": 464068448
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Choices vs. Consequences is worded as though it should be its own section, so I put it in its own section.",
+  "timestamp": "2007-02-08T01:55:58Z",
+  "revid": 106469141,
+  "anon": "",
+  "user": "18.208.0.113",
+  "parentid": 106467339,
+  "diff": {
+    "to": 106469141,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 92:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 92:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Ethics has been applied to [[criminology]] leading to the field of [[criminal justice]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Ethics has been applied to [[criminology]] leading to the field of [[criminal justice]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Choices Vs. Consequences</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">====</ins>Choices Vs. Consequences<ins class=\"diffchange diffchange-inline\">====</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Consequences of personal choices may impact on other people and any associated reponsiblities may extend into a wider society. They are major factors in life, as they determine one's relationships with him/herself and with others.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Consequences of personal choices may impact on other people and any associated reponsiblities may extend into a wider society. They are major factors in life, as they determine one's relationships with him/herself and with others.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:106467339:newid:106469141 -->\n",
+    "from": 106467339
+  }
+}

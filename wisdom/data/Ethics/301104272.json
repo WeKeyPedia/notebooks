@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2009-07-09T01:20:45Z",
+  "revid": 301104272,
+  "anon": "",
+  "user": "204.17.17.250",
+  "parentid": 299967019,
+  "diff": {
+    "to": 301104272,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 159:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 159:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Emmanuel Levinas|Levinas, E]]  1969, ''Totality and infinity, an essay on exteriority'', translated by Alphonso Lingis, [[Duquesne University Press]], Pittsburgh.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Emmanuel Levinas|Levinas, E]]  1969, ''Totality and infinity, an essay on exteriority'', translated by Alphonso Lingis, [[Duquesne University Press]], Pittsburgh.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">==External</del> <del class=\"diffchange diffchange-inline\">links==</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">HI</ins> <ins class=\"diffchange diffchange-inline\">ANNIE WHATS UP</ins></div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>=External links==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wikiversity}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wikiversity}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wikisource1911Enc|Ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wikisource1911Enc|Ethics}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:299967019:newid:301104272 -->\n",
+    "from": 299967019
+  }
+}

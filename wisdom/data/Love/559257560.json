@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Philosophical views */",
+  "timestamp": "2013-06-10T17:21:15Z",
+  "revid": 559257560,
+  "user": "J. Patrick Fischer",
+  "parentid": 558559497,
+  "diff": {
+    "to": 559257560,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 238:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 238:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Philosophical views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Philosophical views==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Philosophy of love}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Philosophy of love}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[File:Where is the love.jpg|thumb|[[Graffito]] in [[East Timor]]]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Philosophy of love is the field of [[social philosophy]] and [[ethics]] which attempts to [[explanation|explain]] the nature of love. The philosophical investigation of love includes the tasks of distinguishing between the various kinds of personal love; asking if and how love is/can be justified; asking what the [[value (ethics)|value]] of love is; and what impact love has on the [[autonomy]] of both the lover and the beloved.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Philosophy of love is the field of [[social philosophy]] and [[ethics]] which attempts to [[explanation|explain]] the nature of love. The philosophical investigation of love includes the tasks of distinguishing between the various kinds of personal love; asking if and how love is/can be justified; asking what the [[value (ethics)|value]] of love is; and what impact love has on the [[autonomy]] of both the lover and the beloved.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:558559497:newid:559257560 -->\n",
+    "from": 558559497
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2008-03-19T05:00:20Z",
+  "revid": 199275320,
+  "anon": "",
+  "user": "98.194.118.152",
+  "parentid": 198672291,
+  "diff": {
+    "to": 199275320,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Morality ''' (from the [[Latin]] ''{{lang|la|moralitaser}}'' \"manner, character, proper behavior\") has three principal meanings.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Morality ''' (from the [[Latin]] ''{{lang|la|moralitaser}}'' \"manner, character, proper behavior\") has three principal meanings<ins class=\"diffchange diffchange-inline\">. One of which involves sex with Xenu</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In its first descriptive usage, morality means a code of conduct held to be authoritative in matters of right and wrong, whether by society, philosophy, religion, or individual conscience.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In its first descriptive usage, morality means a code of conduct held to be authoritative in matters of right and wrong, whether by society, philosophy, religion, or individual conscience.</div></td>\n</tr>\n",
+    "from": 198672291
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Morality in Juridical Systems */",
+  "timestamp": "2005-04-25T02:05:34Z",
+  "revid": 12776149,
+  "user": "VKokielov",
+  "parentid": 12775240,
+  "diff": {
+    "to": 12776149,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 37:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 37:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Morality in Juridical Systems==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Morality in Juridical Systems==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Morality is not [[law]], even if law reflects or intends to reflect morality.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In some juridical systems, the word '''morality''' concretely means a requirement for the access to certain charges or careers, or for the obtaining of certain licenses or concessions, and generally consists of the absence of previous records on (e.g.) crimes, [[bankruptcy]], political or commercial irregularities.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In some juridical systems, the word '''morality''' concretely means a requirement for the access to certain charges or careers, or for the obtaining of certain licenses or concessions, and generally consists of the absence of previous records on (e.g.) crimes, [[bankruptcy]], political or commercial irregularities.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 12775240
+  }
+}

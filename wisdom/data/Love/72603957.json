@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Types */",
+  "timestamp": "2006-08-29T13:38:13Z",
+  "revid": 72603957,
+  "anon": "",
+  "user": "124.104.240.189",
+  "parentid": 72593388,
+  "diff": {
+    "to": 72603957,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 29:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 29:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Lust|Lust-love]] - affection characterized by lust, caring about the desired one for a short amount of time, in other words, semi-true love</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Lust|Lust-love]] - affection characterized by lust, caring about the desired one for a short amount of time, in other words, semi-true love</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Love at first sight|Instantaneous love]] - Love that occours the instant that one person comes in contact with another and feels a deep connection or attraction to the other. Also known as \"love at first sight\" and refered to commonly in many fairy tales and folk lore and literature.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Love at first sight|Instantaneous love]] - Love that occours the instant that one person comes in contact with another and feels a deep connection or attraction to the other. Also known as \"love at first sight\" and refered to commonly in many fairy tales and folk lore and literature.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Sacrificial love]] - the act of sacrificing one's life, or something of great importance, soley on the basis of love.<del class=\"diffchange diffchange-inline\"> </del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Sacrificial love]] - the act of sacrificing one's life, or something of great importance, soley on the basis of love.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>mahalkosibhela</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:72593388:newid:72603957 -->\n",
+    "from": 72593388
+  }
+}

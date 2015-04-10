@@ -1,0 +1,12 @@
+﻿{
+  "comment": "update hatnote",
+  "timestamp": "2012-11-26T16:23:23Z",
+  "revid": 524968710,
+  "user": "JHunterJ",
+  "parentid": 524916348,
+  "diff": {
+    "to": 524968710,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{<del class=\"diffchange diffchange-inline\">mergefrom</del>|<del class=\"diffchange diffchange-inline\">Decency</del>|<del class=\"diffchange diffchange-inline\">date=November</del> <del class=\"diffchange diffchange-inline\">2012</del>}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{<ins class=\"diffchange diffchange-inline\">Redirect2</ins>|<ins class=\"diffchange diffchange-inline\">Immoralist</ins>|<ins class=\"diffchange diffchange-inline\">Appropriate|the novel by André Gide|The Immoralist|other uses|Appropriation</ins> <ins class=\"diffchange diffchange-inline\">(disambiguation)</ins>}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Redirect|Appropriate||Appropriation (disambiguation)}}</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Distinguish|Mortality (disambiguation)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Distinguish|Mortality (disambiguation)}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{mergefrom|Decency|date=November 2012}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{lead too short|date=June 2012}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{lead too short|date=June 2012}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 524916348
+  }
+}

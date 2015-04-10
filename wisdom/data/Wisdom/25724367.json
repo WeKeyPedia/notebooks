@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/193.112.229.150|193.112.229.150]] to last version by SeventyThree",
+  "timestamp": "2005-10-17T08:46:22Z",
+  "revid": 25724367,
+  "user": "Pjacobi",
+  "parentid": 25723749,
+  "diff": {
+    "to": 25724367,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>wisdom is the amout of knowledge one person can hold. FACT!</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Wisdom''' is the ability to make correct judgments and decisions. It is an intangible quality gained through [[experience]]. Whether or not something is '''wise''' is determined in a pragmatic sense by its popularity, how long it has been around, and its ability to predict against future events. Wisdom is also accepted from [[cultural]], [[philosophical]] and [[religious]] sources.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Wisdom''' is the ability to make correct judgments and decisions. It is an intangible quality gained through [[experience]]. Whether or not something is '''wise''' is determined in a pragmatic sense by its popularity, how long it has been around, and its ability to predict against future events. Wisdom is also accepted from [[cultural]], [[philosophical]] and [[religious]] sources.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:25723749:newid:25724367 -->\n",
+    "from": 25723749
+  },
+  "minor": ""
+}

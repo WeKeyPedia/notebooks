@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Love */",
+  "timestamp": "2006-03-21T22:09:43Z",
+  "revid": 44858257,
+  "user": "Snowgrouse",
+  "parentid": 44857532,
+  "diff": {
+    "to": 44858257,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>==Love==</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>==<ins class=\"diffchange diffchange-inline\">Objects Of </ins>Love==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[life]]''' - someone or something for which you would give your life.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[life]]''' - someone or something for which you would give your life.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:44857532:newid:44858257 -->\n",
+    "from": 44857532
+  }
+}

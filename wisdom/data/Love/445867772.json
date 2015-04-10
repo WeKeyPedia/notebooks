@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Abrahamic religions */ capt",
+  "timestamp": "2011-08-20T19:25:13Z",
+  "revid": 445867772,
+  "user": "Ceoil",
+  "parentid": 445867672,
+  "diff": {
+    "to": 445867772,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 158:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 158:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Abrahamic religions===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Abrahamic religions===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Image:Ahava.jpg|thumb|[[Robert Indiana]]'s 1977 [[Love (sculpture)|''Love'' sculpture]] spelling ''ahava''<del class=\"diffchange diffchange-inline\"> in [[Israel]]</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Image:Ahava.jpg|thumb|[[Robert Indiana]]'s 1977 [[Love (sculpture)|''Love'' sculpture]] spelling ''ahava''<ins class=\"diffchange diffchange-inline\">.</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Judaism====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Judaism====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:445867672:newid:445867772 -->\n",
+    "from": 445867672
+  }
+}

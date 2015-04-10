@@ -1,0 +1,12 @@
+﻿{
+  "comment": "it is a hidious thing!",
+  "timestamp": "2007-04-16T13:45:58Z",
+  "revid": 123244637,
+  "user": "Joseph benson",
+  "parentid": 122892378,
+  "diff": {
+    "to": 123244637,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 6:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 6:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love notes and other vandalism will be quickly removed. Thanks!</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love notes and other vandalism will be quickly removed. Thanks!</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">someone who is in to some bitch for no fucking resaon! they just see the bastard them BAM there are havin stupid wierd fucking sex! love is a hidious, pointless, lousy, and disgusting piece of fuckin shit! its is caused for no god damn motherfucking bitchin good reason!</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>****************************************************************</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>****************************************************************</div></td>\n</tr>\n",
+    "from": 122892378
+  }
+}

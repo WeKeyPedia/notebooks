@@ -1,0 +1,13 @@
+﻿{
+  "comment": "+pl:",
+  "timestamp": "2003-07-07T22:33:08Z",
+  "revid": 1377064,
+  "user": "Youandme",
+  "parentid": 1123739,
+  "diff": {
+    "to": 1377064,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>•  serve life in some broad or deep way (not just narrow self-interest)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>•  serve life in some broad or deep way (not just narrow self-interest)</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[pl:M%C4%85dro%C5%9B%C4%87]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>•  be grounded in but not limited by the past (experience, history, etc.) and the future (likely consequences)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>•  be grounded in but not limited by the past (experience, history, etc.) and the future (likely consequences)</div></td>\n</tr>\n",
+    "from": 1123739
+  },
+  "minor": ""
+}

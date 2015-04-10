@@ -1,0 +1,13 @@
+﻿{
+  "comment": "link",
+  "timestamp": "2011-08-09T09:38:27Z",
+  "revid": 443841749,
+  "user": "Riccardo Riccioni",
+  "parentid": 441319064,
+  "diff": {
+    "to": 443841749,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 208:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 208:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Viisaus]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Viisaus]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Visdom]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Visdom]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[sw:Hekima]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tl:Karunungan]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tl:Karunungan]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[te:వివేకం]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[te:వివేకం]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:441319064:newid:443841749 -->\n",
+    "from": 441319064
+  },
+  "minor": ""
+}

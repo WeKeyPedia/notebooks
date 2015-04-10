@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Sources */",
+  "timestamp": "2008-10-29T14:16:08Z",
+  "revid": 248406360,
+  "user": "Dacshund2000",
+  "parentid": 247596318,
+  "diff": {
+    "to": 248406360,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 184:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 184:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Sources==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Sources==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* Henry Chadwick<del class=\"diffchange diffchange-inline\"> and Edzrin</del>. \"Saint Augustine Confessions\". Oxford University Press, 1998.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* Henry Chadwick. \"Saint Augustine Confessions\". Oxford University Press, 1998.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Helen Fisher. ''Why We Love: the Nature and Chemistry of Romantic Love''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Helen Fisher. ''Why We Love: the Nature and Chemistry of Romantic Love''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Irving Singer, ''The Nature of Love'', in three volumes, Random House (v.1, 1966), reprinted and later volumes from The University of Chicago Press, 1984. ISBN 0226760944</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Irving Singer, ''The Nature of Love'', in three volumes, Random House (v.1, 1966), reprinted and later volumes from The University of Chicago Press, 1984. ISBN 0226760944</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:247596318:newid:248406360 -->\n",
+    "from": 247596318
+  }
+}

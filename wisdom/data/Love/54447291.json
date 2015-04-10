@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/72.129.247.52|72.129.247.52]] ([[User talk:72.129.247.52|talk]]) to last version by Everyking",
+  "timestamp": "2006-05-22T01:09:15Z",
+  "revid": 54447291,
+  "user": "Nakon",
+  "parentid": 54447266,
+  "diff": {
+    "to": 54447291,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 13:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 13:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The concept of love, however, is subject to debate.  Some deny the existence of love, calling it a recently invented abstraction.  Moreover, approximately 13 percent of cultures reportedly have no word for love.&lt;ref&gt;{{cite book | author=Ackerman, Diane | title=A Natural History of Love | publisher=Vintage Books | year=1994 | id=ISBN 0679761837}}&lt;/ref&gt; Others maintain that love exists but is undefinable; being a quantity which is [[spirituality|spiritual]], [[metaphysical]], or [[philosophical]] in nature, etc.  Perhaps due to its emotional primacy, love is one of the most common themes in art.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The concept of love, however, is subject to debate.  Some deny the existence of love, calling it a recently invented abstraction.  Moreover, approximately 13 percent of cultures reportedly have no word for love.&lt;ref&gt;{{cite book | author=Ackerman, Diane | title=A Natural History of Love | publisher=Vintage Books | year=1994 | id=ISBN 0679761837}}&lt;/ref&gt; Others maintain that love exists but is undefinable; being a quantity which is [[spirituality|spiritual]], [[metaphysical]], or [[philosophical]] in nature, etc.  Perhaps due to its emotional primacy, love is one of the most common themes in art.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>love is claire</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Overview ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Overview ==</div></td>\n</tr>\n",
+    "from": 54447266
+  },
+  "minor": ""
+}

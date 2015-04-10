@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-02-25T05:23:14Z",
+  "revid": 110762665,
+  "anon": "",
+  "user": "216.161.69.174",
+  "parentid": 110749427,
+  "diff": {
+    "to": 110762665,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">&lt;!--</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">===LOVE KILLS===</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*********************************************************</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>SPECIAL NOTE:</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>It's amazing to love and be loved, but please express your love by helping improve Wikipedia, not by proclaiming your love in this article. Love notes and other vandalism will be quickly removed. Thanks!</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>It's amazing to love and be loved, but please express your love by helping improve Wikipedia, not by proclaiming your love in this article. Love notes and other vandalism will be quickly removed. Thanks!</div></td>\n</tr>\n",
+    "from": 110749427
+  }
+}

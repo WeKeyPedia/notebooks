@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* New Testament */",
+  "timestamp": "2010-12-26T18:59:09Z",
+  "revid": 404329918,
+  "anon": "",
+  "user": "69.143.21.165",
+  "parentid": 404329861,
+  "diff": {
+    "to": 404329918,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 83:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 83:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== New Testament ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== New Testament ===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{See|Sophia_(wisdom)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{See|Sophia_(wisdom)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">Furthermore, there</del> is an oppositional element in Christian thought between [[secular]] wisdom and Godly wisdom.  The [[apostle Paul]] states that worldly wisdom thinks the claims of [[Christ]] to be foolishness.  However, to those who are being saved Christ represents the wisdom of God.  ([[1 Corinthians]] 1:17-31) Also, Wisdom is one of the [[seven gifts of the Holy Spirit]] according to Anglican, Catholic, and Lutheran belief. 1 Corinthians 12:8-10 gives an alternate list of nine virtues, among which wisdom is one.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">There</ins> is an oppositional element in Christian thought between [[secular]] wisdom and Godly wisdom.  The [[apostle Paul]] states that worldly wisdom thinks the claims of [[Christ]] to be foolishness.  However, to those who are being saved Christ represents the wisdom of God.  ([[1 Corinthians]] 1:17-31) Also, Wisdom is one of the [[seven gifts of the Holy Spirit]] according to Anglican, Catholic, and Lutheran belief. 1 Corinthians 12:8-10 gives an alternate list of nine virtues, among which wisdom is one.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Qur'an ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Qur'an ===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:404329861:newid:404329918 -->\n",
+    "from": 404329861
+  }
+}

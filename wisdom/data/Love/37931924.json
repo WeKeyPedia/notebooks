@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Phases */",
+  "timestamp": "2006-02-03T01:22:05Z",
+  "revid": 37931924,
+  "user": "Therealoxy",
+  "parentid": 37880508,
+  "diff": {
+    "to": 37931924,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 102:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 102:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:baglione.jpg|right|thumb|200px|'Sacred Love versus Profane Love' by Giovanni Baglione]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:baglione.jpg|right|thumb|200px|'Sacred Love versus Profane Love' by Giovanni Baglione]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>get me horny bithces</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:37880508:newid:37931924 -->\n",
+    "from": 37880508
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted 2 edits by [[Special:Contributions/Saisatha|Saisatha]]. using [[WP:TWINKLE|TW]]",
+  "timestamp": "2007-12-21T21:43:02Z",
+  "revid": 179465610,
+  "user": "Versageek",
+  "parentid": 179463659,
+  "diff": {
+    "to": 179465610,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 364:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 364:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.gratitudebook.com How To Get More Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.gratitudebook.com How To Get More Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.fantasyandlove.com Fantasy and Love]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n",
+    "from": 179463659
+  },
+  "minor": ""
+}

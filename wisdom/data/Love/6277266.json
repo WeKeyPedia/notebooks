@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Psychological views */ Reword - empty is an unduly negative description",
+  "timestamp": "2004-10-01T19:36:49Z",
+  "revid": 6277266,
+  "user": "Derek Ross",
+  "parentid": 6277160,
+  "diff": {
+    "to": 6277266,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 37:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 37:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|-</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|-</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>|<del class=\"diffchange diffchange-inline\">Empty</del> love (Charity)</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>|<ins class=\"diffchange diffchange-inline\">Altruistic</ins> love (Charity)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:6277160:newid:6277266 -->\n",
+    "from": 6277160
+  },
+  "minor": ""
+}

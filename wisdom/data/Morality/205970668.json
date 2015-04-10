@@ -1,0 +1,12 @@
+﻿{
+  "comment": "removed section on Moralism pending development of associated article",
+  "timestamp": "2008-04-16T07:06:46Z",
+  "revid": 205970668,
+  "user": "Ilkali",
+  "parentid": 205957938,
+  "diff": {
+    "to": 205970668,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 18:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 18:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Anthropological perspectives ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Anthropological perspectives ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{section-stub}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{section-stub}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>=== Moralism ===</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Moralism]] is the belief that morals are instilled in humans whether by God or society and therefore should mandate a person's actions. Moralism further holds the belief that there is only what can be proven as it is not right, or [[immoral]] to lead one's self to blindly believe something. Therefore, while they do not deny God, they also do no believe in one. Like atheism however, Moralism stresses the study in science and appreciation of the earthly beauties help one accomplish a truly meaningful life.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Tribal and territorial moralities ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Tribal and territorial moralities ===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:205957938:newid:205970668 -->\n",
+    "from": 205957938
+  }
+}

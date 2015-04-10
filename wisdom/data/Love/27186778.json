@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-11-02T20:24:41Z",
+  "revid": 27186778,
+  "anon": "",
+  "user": "81.98.80.185",
+  "parentid": 27163184,
+  "diff": {
+    "to": 27186778,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 292:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 292:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Rakkaus]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Rakkaus]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Kärlek]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Kärlek]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>I am adding to this article to add some advice... do not try and define love, as you are destined to fail, love itself is specific to each person and so can and will never fir the generalisation that any attempt at an explanation would give it.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:27163184:newid:27186778 -->\n",
+    "from": 27163184
+  }
+}

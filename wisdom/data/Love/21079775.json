@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Interpersonal love */ added link to attachment",
+  "timestamp": "2005-08-15T18:24:58Z",
+  "revid": 21079775,
+  "anon": "",
+  "user": "209.128.98.90",
+  "parentid": 21075811,
+  "diff": {
+    "to": 21079775,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 15:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 15:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some elements that are often present in interpersonal love:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some elements that are often present in interpersonal love:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Affection]]: appreciation of another</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Affection]]: appreciation of another</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*Attachment: satisfying basic emotional needs</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*<ins class=\"diffchange diffchange-inline\">[[</ins>Attachment<ins class=\"diffchange diffchange-inline\">]]</ins>: satisfying basic emotional needs</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Altruism]]: selfless or unselfish concern for another</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Altruism]]: selfless or unselfish concern for another</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Reciprocation]]: if love is mutual</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Reciprocation]]: if love is mutual</div></td>\n</tr>\n",
+    "from": 21075811
+  }
+}

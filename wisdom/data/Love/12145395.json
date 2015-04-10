@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-04-11T01:40:21Z",
+  "revid": 12145395,
+  "anon": "",
+  "user": "68.212.107.58",
+  "parentid": 12145088,
+  "diff": {
+    "to": 12145395,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 278:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 278:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Kärlek]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Kärlek]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Rakkaus]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Rakkaus]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>From Tung to Hoang i love you w/all my heart !!!</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:12145088:newid:12145395 -->\n",
+    "from": 12145088
+  }
+}

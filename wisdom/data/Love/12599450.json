@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Agape ({{polytonic|&#x1f00;&#x03b3;&#x1f71;&#x03c0;&#x03b7;}} ''&#x61;&#x67;&#x00e1;&#x70;&#x0113;'') */",
+  "timestamp": "2005-04-19T05:50:01Z",
+  "revid": 12599450,
+  "anon": "",
+  "user": "68.147.44.72",
+  "parentid": 12508932,
+  "diff": {
+    "to": 12599450,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 152:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 152:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Agape ({{polytonic|&amp;#x1f00;&amp;#x03b3;&amp;#x1f71;&amp;#x03c0;&amp;#x03b7;}} ''&amp;#x61;&amp;#x67;&amp;#x00e1;&amp;#x70;&amp;#x0113;'')====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Agape ({{polytonic|&amp;#x1f00;&amp;#x03b3;&amp;#x1f71;&amp;#x03c0;&amp;#x03b7;}} ''&amp;#x61;&amp;#x67;&amp;#x00e1;&amp;#x70;&amp;#x0113;'')====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Agape means love in modern day Greek. The term S'Agapo means 'I love you' in Greek. The word Agapo is the verb, '<del class=\"diffchange diffchange-inline\">to</del> love'.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Agape means love in modern day Greek. The term S'Agapo means 'I love you' in Greek. The word Agapo is the verb<ins class=\"diffchange diffchange-inline\"> stem</ins>, '<ins class=\"diffchange diffchange-inline\">I</ins> love'.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Eros ({{polytonic|&amp;#x1f14;&amp;#x03c1;&amp;#x03c9;&amp;#x03c2;}} ''&amp;#x00e9;&amp;#x72;&amp;#x014d;&amp;#x73;'')====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Eros ({{polytonic|&amp;#x1f14;&amp;#x03c1;&amp;#x03c9;&amp;#x03c2;}} ''&amp;#x00e9;&amp;#x72;&amp;#x014d;&amp;#x73;'')====</div></td>\n</tr>\n",
+    "from": 12508932
+  }
+}

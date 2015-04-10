@@ -1,0 +1,13 @@
+﻿{
+  "comment": "The link has no citations. Seriously?",
+  "timestamp": "2008-03-17T01:18:25Z",
+  "revid": 198759385,
+  "anon": "",
+  "user": "68.45.95.67",
+  "parentid": 197934387,
+  "diff": {
+    "to": 198759385,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' is a major branch of [[philosophy]], encompasses right conduct and good life. It is significantly broader than the common conception of analyzing right and wrong. A central aspect of ethics is \"the good life\", the life worth living or life that is satisfying, which is held by many philosophers to be more important than moral conduct<del class=\"diffchange diffchange-inline\">. The major problem is the discovery of the ''[[summum bonum]]'', the greatest good</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' is a major branch of [[philosophy]], encompasses right conduct and good life. It is significantly broader than the common conception of analyzing right and wrong. A central aspect of ethics is \"the good life\", the life worth living or life that is satisfying, which is held by many philosophers to be more important than moral conduct.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Quote box</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Quote box</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|quote=via [[Latin]] ''{{lang|la|ethica}}'' from the [[Ancient Greek]] {{lang|grc|ἠθική [φιλοσοφία]}} \"moral philosophy\", from the [[adjective]] of {{lang|grc|[[ἤθος]]}} ''ēthos'' \"custom, [[Habit (psychology)|habit]]\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|quote=via [[Latin]] ''{{lang|la|ethica}}'' from the [[Ancient Greek]] {{lang|grc|ἠθική [φιλοσοφία]}} \"moral philosophy\", from the [[adjective]] of {{lang|grc|[[ἤθος]]}} ''ēthos'' \"custom, [[Habit (psychology)|habit]]\"</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:197934387:newid:198759385 -->\n",
+    "from": 197934387
+  }
+}

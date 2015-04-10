@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */",
+  "timestamp": "2012-10-19T17:32:42Z",
+  "revid": 518736807,
+  "anon": "",
+  "user": "207.98.173.140",
+  "parentid": 518593710,
+  "diff": {
+    "to": 518736807,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 199:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 199:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Index of ethics articles]] ''(alphabetical list of ethics-related articles)''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Index of ethics articles]] ''(alphabetical list of ethics-related articles)''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral psychology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral psychology]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Outline of ethics]] ''(list <del class=\"diffchange diffchange-inline\">of ethics</del>-related articles, arranged by sub-topic)''</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Outline of ethics]] ''(list <ins class=\"diffchange diffchange-inline\">ofsissjs</ins>-related articles, arranged by sub-topic)''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:518593710:newid:518736807 -->\n",
+    "from": 518593710
+  }
+}

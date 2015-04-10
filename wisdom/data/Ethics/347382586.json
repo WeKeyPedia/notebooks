@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Descriptive ethics */",
+  "timestamp": "2010-03-02T22:12:15Z",
+  "revid": 347382586,
+  "anon": "",
+  "user": "98.228.94.23",
+  "parentid": 347382360,
+  "diff": {
+    "to": 347382586,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 155:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 155:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Practices in [[arbitration]] and [[law]], e.g. the claim that ethics itself is a matter of balancing \"right versus right,\" i.e. putting priorities on two things that are both right, but which must be traded off carefully in each situation.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Practices in [[arbitration]] and [[law]], e.g. the claim that ethics itself is a matter of balancing \"right versus right,\" i.e. putting priorities on two things that are both right, but which must be traded off carefully in each situation.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[revealed preference|Observed choices]] made by ordinary people, without expert aid or advice, who [[vote]], [[buy]], and decide what is worth valuing. This is a major concern of [[sociology]], [[political science]], and [[economics]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[revealed preference|Observed choices]] made by ordinary people, without expert aid or advice, who [[vote]], [[buy]], and decide what is worth valuing. This is a major concern of [[sociology]], [[political science]], and [[economics]].</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Tiger Woods is not ethical.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:347382360:newid:347382586 -->\n",
+    "from": 347382360
+  }
+}

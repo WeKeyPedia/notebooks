@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Triangular Theory of Love */",
+  "timestamp": "2004-10-12T04:50:43Z",
+  "revid": 6513271,
+  "user": "Johnkarp",
+  "parentid": 6512977,
+  "diff": {
+    "to": 6513271,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 75:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 75:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|commitment</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|commitment</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|-</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|-</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>|[[Fatuous love]]<del class=\"diffchange diffchange-inline\"> (Whirlwind romance)</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>|[[Fatuous love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|&amp;nbsp;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|&amp;nbsp;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|passion</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|passion</div></td>\n</tr>\n",
+    "from": 6512977
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-06-03T07:09:07Z",
+  "revid": 14648465,
+  "anon": "",
+  "user": "64.166.16.213",
+  "parentid": 14628054,
+  "diff": {
+    "to": 14648465,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 264:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 264:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ca:Amor]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ca:Amor]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[cy:Cariad]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[da:Kærlighed]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[da:Kærlighed]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[de:Liebe]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[de:Liebe]]</div></td>\n</tr>\n",
+    "from": 14628054
+  }
+}

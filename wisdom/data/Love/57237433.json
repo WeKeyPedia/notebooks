@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Definitional issues */",
+  "timestamp": "2006-06-06T20:31:07Z",
+  "revid": 57237433,
+  "user": "Arbiter6",
+  "parentid": 57224866,
+  "diff": {
+    "to": 57237433,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 46:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 46:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Definitional issues ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Definitional issues ==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Love has been nicely defined in 2006 by F.V. LOUVEL as \"\"Self-understanding of each other's desire\". This is applicable, obviously, only in the context of a bipart relationship composed of hetero- or homo-sexual individuals.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Dictionaries tend to define ''love'' as deep affection or fondness.&lt;ref&gt;''Oxford Illustrated American Dictionary'' (1998) + ''Merriam-Webster Collegiate Dictionary'' (2000).&lt;/ref&gt;  In colloquial use, according to polled opinion, the most favoured definitions of ''love'' include the words:&lt;ref&gt;[http://www.humanthermodynamics.com/RP2-Love.html '04 Poll of 250 Chicagoans] – Institute of Human Thermodynamics (Chicago)&lt;/ref&gt; </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Dictionaries tend to define ''love'' as deep affection or fondness.&lt;ref&gt;''Oxford Illustrated American Dictionary'' (1998) + ''Merriam-Webster Collegiate Dictionary'' (2000).&lt;/ref&gt;  In colloquial use, according to polled opinion, the most favoured definitions of ''love'' include the words:&lt;ref&gt;[http://www.humanthermodynamics.com/RP2-Love.html '04 Poll of 250 Chicagoans] – Institute of Human Thermodynamics (Chicago)&lt;/ref&gt; </div></td>\n</tr>\n",
+    "from": 57224866
+  }
+}

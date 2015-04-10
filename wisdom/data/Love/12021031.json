@@ -1,0 +1,13 @@
+﻿{
+  "comment": "I included \"The Iliad\" as a part of xenia because the entire Trojan War was sparked by a violation of xenia (the theft of Helen), a much larger event than those written about in The Odyssey.",
+  "timestamp": "2005-04-06T23:09:53Z",
+  "revid": 12021031,
+  "anon": "",
+  "user": "128.198.78.158",
+  "parentid": 11974636,
+  "diff": {
+    "to": 12021031,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 153:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 153:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Xenia====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Xenia====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In ancient Greece, the concept of xenia was extremely important. It was an almost ritualized friendship formed between a host and their guest, who could previously be strangers. The host fed and provided quarters for the guest, who was only expected to repay with gratitude. The importance of this can be seen throughout Greek mythology, in particular Homer's [[Odyssey]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In ancient Greece, the concept of xenia was extremely important. It was an almost ritualized friendship formed between a host and their guest, who could previously be strangers. The host fed and provided quarters for the guest, who was only expected to repay with gratitude. The importance of this can be seen throughout Greek mythology, in particular Homer's<ins class=\"diffchange diffchange-inline\"> [[Iliad]] and</ins> [[Odyssey]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:11974636:newid:12021031 -->\n",
+    "from": 11974636
+  }
+}

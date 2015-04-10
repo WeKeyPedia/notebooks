@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/68.109.101.203|68.109.101.203]] ([[User talk:68.109.101.203|talk]]) to last version by Joshbuddy",
+  "timestamp": "2006-02-27T03:06:46Z",
+  "revid": 41407843,
+  "user": "Ilyanep",
+  "parentid": 41406470,
+  "diff": {
+    "to": 41407843,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 341:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 341:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Danie and Brady.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:41406470:newid:41407843 -->\n",
+    "from": 41406470
+  },
+  "minor": ""
+}

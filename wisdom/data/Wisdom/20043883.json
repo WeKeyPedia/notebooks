@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-08-01T11:57:10Z",
+  "revid": 20043883,
+  "user": "Nirvana2013",
+  "parentid": 19018183,
+  "diff": {
+    "to": 20043883,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 23:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 23:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Classically, wisdom is considered to come with [[age]]. Some [[religion]]s consider wisdom a gift granted by [[God]]. The [[Jew]]ish book of [[Proverbs]] in the [[Old Testament]] states `Fear of God is the beginning of Wisdom`. However, the Christian Bible as a whole recognises that wisdom can come both as a gift of God and through man's efforts ([http://www.knightnet.org.uk/christian/wisdom.htm study reference]).</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Classically, wisdom is considered to come with [[age]]. Some [[religion]]s consider wisdom a gift granted by [[God]]. The [[Jew]]ish book of [[Proverbs]] in the [[Old Testament]] states `Fear of God is the beginning of Wisdom`. However, the Christian Bible as a whole recognises that wisdom can come both as a gift of God and through man's efforts ([http://www.knightnet.org.uk/christian/wisdom.htm study reference]).</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>==Quotes==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* The only thing that we know is that we know nothing and that is the highest flight of human wisdom. - [[Leo Tolstoy]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:19018183:newid:20043883 -->\n",
+    "from": 19018183
+  }
+}

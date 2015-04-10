@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Applied ethics */ changed \"public service eithics\" to \"public sector ethics\" in intro to make section consistent.",
+  "timestamp": "2014-11-21T00:55:42Z",
+  "revid": 634768645,
+  "user": "Ghosthux",
+  "parentid": 634498420,
+  "diff": {
+    "to": 634768645,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 135:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 135:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Applied ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Applied ethics==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Applied ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Applied ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Applied ethics is a discipline of philosophy that attempts to apply ethical theory to real-life situations.  The discipline has many specialized fields, such as [[Engineering Ethics]], [[bioethics]], [[geoethics]], [[public <del class=\"diffchange diffchange-inline\">service</del> ethics]] and [[business ethics]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Applied ethics is a discipline of philosophy that attempts to apply ethical theory to real-life situations.  The discipline has many specialized fields, such as [[Engineering Ethics]], [[bioethics]], [[geoethics]], [[public <ins class=\"diffchange diffchange-inline\">sector</ins> ethics]] and [[business ethics]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Specific questions===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Specific questions===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:634498420:newid:634768645 -->\n",
+    "from": 634498420
+  },
+  "minor": ""
+}

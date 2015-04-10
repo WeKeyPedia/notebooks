@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Moral Core */ Cleanup after merge please",
+  "timestamp": "2006-01-31T18:03:59Z",
+  "revid": 37543614,
+  "user": "JustinWick",
+  "parentid": 37543540,
+  "diff": {
+    "to": 37543614,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 60:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 60:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Moral Core ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Moral Core ==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{cleanup-date|January 2006}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The '''moral core''' of an individual is the extent to which that person will apply his or her notions of morality. It is centered on the individual and can be extended to include other people or groups. The individual sees these others within the moral core as deserving to be treated in the same way the individual personally wants to be treated.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The '''moral core''' of an individual is the extent to which that person will apply his or her notions of morality. It is centered on the individual and can be extended to include other people or groups. The individual sees these others within the moral core as deserving to be treated in the same way the individual personally wants to be treated.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:37543540:newid:37543614 -->\n",
+    "from": 37543540
+  }
+}

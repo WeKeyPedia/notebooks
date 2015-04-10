@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* References */",
+  "timestamp": "2009-09-21T11:50:44Z",
+  "revid": 315277062,
+  "anon": "",
+  "user": "123.237.4.87",
+  "parentid": 315276964,
+  "diff": {
+    "to": 315277062,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 152:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 152:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Lyon, D  1999,  Postmodernity, 2nd ed, [[Open University Press]], Buckingham.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Lyon, D  1999,  Postmodernity, 2nd ed, [[Open University Press]], Buckingham.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Singer, P  2000, Writings on an ethical life, [[Harper Collins Publishers]], London.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Singer, P  2000, Writings on an ethical life, [[Harper Collins Publishers]], London.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* Anil, V 2009, 'Ethics Informations &amp; Links' [http://www.ethics.dhameliya.com Ethics Informations &amp; Links], Surat, Gujarat - India</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Further reading==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Further reading==</div></td>\n</tr>\n",
+    "from": 315276964
+  }
+}

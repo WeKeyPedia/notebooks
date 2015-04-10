@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Relavism Vs Absolutism */",
+  "timestamp": "2007-08-29T17:08:33Z",
+  "revid": 154414511,
+  "user": "Richard holt",
+  "parentid": 154413226,
+  "diff": {
+    "to": 154414511,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Relavism Vs Absolutism ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Relavism Vs Absolutism ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{<del class=\"diffchange diffchange-inline\">section </del>stub}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{<ins class=\"diffchange diffchange-inline\">{sect-</ins>stub<ins class=\"diffchange diffchange-inline\">}</ins>}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Some thinkers hold that there is no correct definition of right behavior, that morality can only be judged with respect to the standards of a particular belief system, historical context or culture.  This position is known as [[moral relativism]].  The opposite view, that there are universal, eternal moral truths is known as [[moral absolutism]].<del class=\"diffchange diffchange-inline\">  </del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Some thinkers hold that there is no correct definition of right behavior, that morality can only be judged with respect to the standards of a particular belief system, historical context or culture.  This position is known as [[moral relativism]].  The opposite view, that there are universal, eternal moral truths is known as [[moral absolutism]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== New Section ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== New Section ==</div></td>\n</tr>\n",
+    "from": 154413226
+  }
+}

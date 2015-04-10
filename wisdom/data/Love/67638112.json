@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Types */",
+  "timestamp": "2006-08-04T14:13:20Z",
+  "revid": 67638112,
+  "anon": "",
+  "user": "138.217.120.14",
+  "parentid": 67621769,
+  "diff": {
+    "to": 67638112,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Free love]] – sexual relations according to choice and unrestricted by marriage</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Free love]] – sexual relations according to choice and unrestricted by marriage</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Platonic love]] – a close relationship in which sexual desire is nonexistent or has been suppressed or sublimated</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Platonic love]] – a close relationship in which sexual desire is nonexistent or has been suppressed or sublimated</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[My Love for her]] - a love that i cannot explain, where i do not want to make love unless she does, even then, it would be a token on her behalf, as a favour. I think about her when i go to sleep and when i wake up.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Puppy love]] – romantic affection that is not \"mature\" or not \"true.\" The term is often used with negative connotations, insinuating that love between youngsters is less genuine or valuable. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Puppy love]] – romantic affection that is not \"mature\" or not \"true.\" The term is often used with negative connotations, insinuating that love between youngsters is less genuine or valuable. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Religious love]] – devotion to one's deity or theology</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Religious love]] – devotion to one's deity or theology</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:67621769:newid:67638112 -->\n",
+    "from": 67621769
+  }
+}

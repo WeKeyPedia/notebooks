@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Undid [[WP:Disrupt|disruptive revision]] 601750295 by [[Special:Contributions/69.136.3.20|69.136.3.20]] ([[User talk:69.136.3.20|talk]])",
+  "timestamp": "2014-03-29T02:45:58Z",
+  "revid": 601750836,
+  "user": "Mr. Guye",
+  "parentid": 601750295,
+  "diff": {
+    "to": 601750836,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{merge from|<del class=\"diffchange diffchange-inline\">ACTUALLY IS UNEXCEPTABLE</del>|discuss=Talk:Immorality#Merge_to_Morality.3F|date=February 2014}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{merge from|<ins class=\"diffchange diffchange-inline\">Immorality</ins>|discuss=Talk:Immorality#Merge_to_Morality.3F|date=February 2014}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Multiple issues|{{POV|date=May 2013}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Multiple issues|{{POV|date=May 2013}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{lead too short|date=June 2012}}{{essay-like|date=March 2014}}}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{lead too short|date=June 2012}}{{essay-like|date=March 2014}}}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:601750295:newid:601750836 -->\n",
+    "from": 601750295
+  }
+}

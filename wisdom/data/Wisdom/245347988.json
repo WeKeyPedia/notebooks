@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Philosophical perspectives */",
+  "timestamp": "2008-10-15T01:19:20Z",
+  "revid": 245347988,
+  "user": "Devourer09",
+  "parentid": 245347277,
+  "diff": {
+    "to": 245347988,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 93:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 93:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Nicholas Maxwell]], a modern philosopher, argued that the basic aim of academic inquiry ought to be to seek and promote wisdom — wisdom being construed to be the capacity to realize what is of value in life for oneself and others, wisdom thus including knowledge and technological know-how, but much else besides.&lt;ref name = \"Maxwell\"&gt;[http://www.nick-maxwell.demon.co.uk  MAXWELL, Nicholas].&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Nicholas Maxwell]], a modern philosopher, argued that the basic aim of academic inquiry ought to be to seek and promote wisdom — wisdom being construed to be the capacity to realize what is of value in life for oneself and others, wisdom thus including knowledge and technological know-how, but much else besides.&lt;ref name = \"Maxwell\"&gt;[http://www.nick-maxwell.demon.co.uk  MAXWELL, Nicholas].&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Wisdom is the goal of philosophy. Philosophy attempts to understand reality, and how we should live in the light of reality.   Genuine wisdom therefore requires achieving this kind of understanding.  Anyone who discusses wisdom without having clear philosophical understanding is the blind leading the blind.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n</tr>\n",
+    "from": 245347277
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Bhakti */",
+  "timestamp": "2005-03-28T08:34:16Z",
+  "revid": 11618485,
+  "anon": "",
+  "user": "82.69.114.191",
+  "parentid": 11602098,
+  "diff": {
+    "to": 11618485,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 198:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 198:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Bhakti is a Sanskrit term from Hinduism meaning loving devotion to the supreme God. A person who practices bhakti is called bhakta.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Bhakti is a Sanskrit term from Hinduism meaning loving devotion to the supreme God. A person who practices bhakti is called bhakta.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Hindu]] writers, theologians and philosophers have distinguished nine forms of devotion that they call [[bhakti]] e.g. in the [[Bhagavatha-Purana]] and according to [[Tulsidas]]. The booklet ''Narada bhakti sutra'' written by an unknown author distinguishes eleven forms<del class=\"diffchange diffchange-inline\">. Not all Hindu [[sect]]s consider bhakti important</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Hindu]] writers, theologians and philosophers have distinguished nine forms of devotion that they call [[bhakti]] e.g. in the [[Bhagavatha-Purana]] and according to [[Tulsidas]]. The booklet ''Narada bhakti sutra'' written by an unknown author distinguishes eleven forms.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Islamic===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Islamic===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:11602098:newid:11618485 -->\n",
+    "from": 11602098
+  }
+}

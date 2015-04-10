@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2009-11-12T22:00:11Z",
+  "revid": 325512042,
+  "anon": "",
+  "user": "72.27.121.245",
+  "parentid": 325266764,
+  "diff": {
+    "to": 325512042,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' (also known as '''moral philosophy''') is a branch of [[philosophy]] which seeks to address questions about [[morality]], such as what the fundamental [[semantic]], [[ontological]], and [[epistemic]] nature of ethics or morality is ([[meta-ethics]]), how moral values should be determined ([[normative ethics]]), how a moral outcome can be achieved in specific situations ([[applied ethics]]), how moral capacity or moral agency develops and what its nature is ([[moral psychology]]), and what moral values people actually abide by ([[descriptive ethics]]).</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' (also known as '''moral philosophy''') is a branch of [[philosophy]] which seeks to address questions about [[morality]], such as what the fundamental [[semantic]], [[ontological]], and [[epistemic]] nature of ethics or morality is ([[meta-ethics]]), how moral values should be determined ([[normative ethics]]), how a moral outcome can be achieved in specific situations ([[applied ethics]]), how moral capacity or moral agency develops and what its nature is ([[moral psychology]]), and what moral values people actually abide by ([[descriptive ethics]])<ins class=\"diffchange diffchange-inline\">.Ethics also means belonging to a particular racial group within a large set or group of people</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:325266764:newid:325512042 -->\n",
+    "from": 325266764
+  }
+}

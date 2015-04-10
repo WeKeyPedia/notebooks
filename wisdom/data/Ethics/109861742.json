@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-02-21T18:12:18Z",
+  "revid": 109861742,
+  "user": "Dbachmann",
+  "parentid": 109860236,
+  "diff": {
+    "to": 109861742,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' (from the [[Ancient Greek]] {{polytonic|ἠθικός}} ''ēthikos'', the adjective of {{polytonic|ἤθος}} ''ēthos'' \"custom, habit\"), a major branch of [[philosophy]], is the study of [[Value theory|value]]s and [[Custom (law)|custom]]s of a person or group and covers the [[Philosophical analysis|analysis]] and employment of [[concept]]s such as [[right]]<del class=\"diffchange diffchange-inline\">,</del> [[wrong]], [[good<del class=\"diffchange diffchange-inline\">]],</del> <del class=\"diffchange diffchange-inline\">[[</del>evil]], and [[moral responsibility|responsibility]]. It is divided into three primary areas: ''meta-ethics'' (the study of the concept of ethics), ''normative ethics'' (the study of how to determine ethical values), and ''applied ethics'' (the study of the use of ethical values). </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' (from the [[Ancient Greek]] {{polytonic|ἠθικός}} ''ēthikos'', the adjective of {{polytonic|ἤθος}} ''ēthos'' \"custom, habit\"), a major branch of [[philosophy]], is the study of [[Value theory|value]]s and [[Custom (law)|custom]]s of a person or group and covers the [[Philosophical analysis|analysis]] and employment of [[concept]]s such as [[right]]<ins class=\"diffchange diffchange-inline\"> and</ins> [[wrong]], [[good <ins class=\"diffchange diffchange-inline\">and </ins>evil]], and [[moral responsibility|responsibility]]. It is divided into three primary areas: ''meta-ethics'' (the study of the concept of ethics), ''normative ethics'' (the study of how to determine ethical values), and ''applied ethics'' (the study of the use of ethical values). </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n</tr>\n",
+    "from": 109860236
+  },
+  "minor": ""
+}

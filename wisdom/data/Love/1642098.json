@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2003-09-15T05:37:55Z",
+  "revid": 1642098,
+  "user": "Saltine",
+  "parentid": 1435467,
+  "diff": {
+    "to": 1642098,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 46:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 46:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>----</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>----</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Love''' is also the name given to the score of 0 points in [[tennis]].  This is because the zero resembles an egg, the French word for which is <del class=\"diffchange diffchange-inline\">&lt;i&gt;</del>l'oeuf<del class=\"diffchange diffchange-inline\">&lt;/i&gt;</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Love''' is also the name given to the score of 0 points in [[tennis]].  This is because the zero resembles an egg, the French word for which is <ins class=\"diffchange diffchange-inline\">''</ins>l'oeuf<ins class=\"diffchange diffchange-inline\">''</ins>.</div></td>\n</tr>\n",
+    "from": 1435467
+  },
+  "minor": ""
+}

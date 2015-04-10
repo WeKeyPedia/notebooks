@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Revert 68.54.155.73 [[Special:Contributions/68.54.155.73|contribs]] ([[User Talk:68.54.155.73|talk]]) youtube junk",
+  "timestamp": "2006-10-23T10:26:21Z",
+  "revid": 83180735,
+  "user": "Hu",
+  "parentid": 83178776,
+  "diff": {
+    "to": 83180735,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 151:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 151:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://www.youtube.com/watch?v=OKZl7eB68A0 Love Songs]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n</tr>\n",
+    "from": 83178776
+  }
+}

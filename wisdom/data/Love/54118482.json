@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Philosophers that have written about love */",
+  "timestamp": "2006-05-20T00:36:31Z",
+  "revid": 54118482,
+  "anon": "",
+  "user": "24.131.86.120",
+  "parentid": 54118414,
+  "diff": {
+    "to": 54118482,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 40:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 40:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Empedocles]] - fragments</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Empedocles]] - fragments</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[David Hume]] - Treatise on Human Nature, part III.  </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[David Hume]] -<ins class=\"diffchange diffchange-inline\"> [[A</ins> Treatise on Human Nature<ins class=\"diffchange diffchange-inline\">]]</ins>, part III.  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Soren Kierkegaard]] - [[Works of Love]] </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Soren Kierkegaard]] - [[Works of Love]] </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:54118414:newid:54118482 -->\n",
+    "from": 54118414
+  }
+}

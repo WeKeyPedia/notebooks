@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Religious Explorations of Wisdom */ restored wikiquote template",
+  "timestamp": "2007-01-23T01:23:58Z",
+  "revid": 102567530,
+  "user": "Nesbit",
+  "parentid": 102567143,
+  "diff": {
+    "to": 102567530,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious Explorations of Wisdom==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious Explorations of Wisdom==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">{{wikiquote}}</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some religions have specific teachings relating to wisdom. In [[Mesopotamian mythology|Mesopotamian Religion and Mythology]] [[Enki]], also known as Ea, was the God of wisdom and intelligence. Wisdom was achieved by restoring balance.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some religions have specific teachings relating to wisdom. In [[Mesopotamian mythology|Mesopotamian Religion and Mythology]] [[Enki]], also known as Ea, was the God of wisdom and intelligence. Wisdom was achieved by restoring balance.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 102567143
+  }
+}

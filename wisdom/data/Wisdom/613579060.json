@@ -1,0 +1,12 @@
+﻿{
+  "comment": "removed [[Category:Positive psychology]] using [[WP:HC|HotCat]] : Not a defining characteristic of subject",
+  "timestamp": "2014-06-19T16:36:44Z",
+  "revid": 613579060,
+  "user": "FireflySixtySeven",
+  "parentid": 613216315,
+  "diff": {
+    "to": 613579060,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 179:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 179:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Ethical principles]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Ethical principles]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Spirituality]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Spirituality]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Category:Positive psychology]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Knowledge]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Knowledge]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Virtue]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Virtue]]</div></td>\n</tr>\n",
+    "from": 613216315
+  }
+}

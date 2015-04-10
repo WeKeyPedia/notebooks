@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Cyrenaic hedonism */",
+  "timestamp": "2008-07-01T14:30:55Z",
+  "revid": 222867581,
+  "anon": "",
+  "user": "12.88.135.174",
+  "parentid": 222867509,
+  "diff": {
+    "to": 222867581,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 21:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 21:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Cyrenaic hedonism====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Cyrenaic hedonism====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Founded by [[Aristippus]]of Cyrene, [[Cyrenaics]] supported immediate gratification. \"Eat, drink and be merry, for tomorrow we die.\" Even fleeting desires should be indulged, for fear the opportunity should be forever lost. There was little to no concern with the future, the present dominating in the pursuit for immediate pleasure. Cyrenaic hedonism encouraged the pursuit of enjoyment and indulgence without hesitation, believing pleasure to be the only good.&lt;ref name = \"epsxlu\"/&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Founded by [[Aristippus]]<ins class=\"diffchange diffchange-inline\"> </ins>of Cyrene, [[Cyrenaics]] supported immediate gratification. \"Eat, drink and be merry, for tomorrow we die.\" Even fleeting desires should be indulged, for fear the opportunity should be forever lost. There was little to no concern with the future, the present dominating in the pursuit for immediate pleasure. Cyrenaic hedonism encouraged the pursuit of enjoyment and indulgence without hesitation, believing pleasure to be the only good.&lt;ref name = \"epsxlu\"/&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Epicureanism====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Epicureanism====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:222867509:newid:222867581 -->\n",
+    "from": 222867509
+  }
+}

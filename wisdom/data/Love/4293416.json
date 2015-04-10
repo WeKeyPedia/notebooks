@@ -1,0 +1,13 @@
+﻿{
+  "comment": "god",
+  "timestamp": "2004-06-26T12:08:52Z",
+  "revid": 4293416,
+  "user": "Chameleon",
+  "parentid": 4292378,
+  "diff": {
+    "to": 4293416,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 14:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 14:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving something abstract or inanimate, like an idea or goal</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving something abstract or inanimate, like an idea or goal</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving one's principles, one's nation or [[homeland|home country]] ([[patriotism]]), one's life (dignity), one's honour and independence (integrity)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving one's principles, one's nation or [[homeland|home country]] ([[patriotism]]), one's life (dignity), one's honour and independence (integrity)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div># loving some [[deity]] or [[<del class=\"diffchange diffchange-inline\">God</del>]], also called [[devotion]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div># loving some [[deity]] or [[<ins class=\"diffchange diffchange-inline\">god</ins>]], also called [[devotion]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:4292378:newid:4293416 -->\n",
+    "from": 4292378
+  },
+  "minor": ""
+}

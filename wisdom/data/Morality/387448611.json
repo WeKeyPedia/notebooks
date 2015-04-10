@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/71.156.42.157|71.156.42.157]] ([[User talk:71.156.42.157|talk]]) to last revision by Forever Dusk ([[WP:HG|HG]])",
+  "timestamp": "2010-09-28T02:38:11Z",
+  "revid": 387448611,
+  "user": "Tide rolls",
+  "parentid": 387448564,
+  "diff": {
+    "to": 387448611,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 156:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 156:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Reflist|2}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Reflist|2}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Hi Everyone My Name Is Bob! &amp;&amp; I Edited This Page For All Youh Guys (; No Need To Thank Me Though ;; Your Welcome! ENJOY!</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wikiquote}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wikiquote}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:387448564:newid:387448611 -->\n",
+    "from": 387448564
+  },
+  "minor": ""
+}

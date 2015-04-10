@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Hebrew Bible */",
+  "timestamp": "2011-10-13T20:02:14Z",
+  "revid": 455424672,
+  "anon": "",
+  "user": "41.80.186.94",
+  "parentid": 453583320,
+  "diff": {
+    "to": 455424672,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 70:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 70:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:Better to own than gold or silver (Proverbs 16:16). </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:Better to own than gold or silver (Proverbs 16:16). </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:Giver of patience and glory (Proverbs 19:11).</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:Giver of patience and glory (Proverbs 19:11).</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Wisdom as a personfication===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Wisdom as a personfication===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|wisdom (personification)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|wisdom (personification)}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:453583320:newid:455424672 -->\n",
+    "from": 453583320
+  }
+}

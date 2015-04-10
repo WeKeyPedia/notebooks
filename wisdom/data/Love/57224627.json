@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Cultural views */",
+  "timestamp": "2006-06-06T19:10:50Z",
+  "revid": 57224627,
+  "anon": "",
+  "user": "71.134.6.167",
+  "parentid": 57224528,
+  "diff": {
+    "to": 57224627,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 37:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 37:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Love (cultural views)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Love (cultural views)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Although there exist numerous cross-cultural unified similarities as to the nature and definition of love, as in there being a thread of commitment, tenderness, and passion common to all human existence, there are differences.  For example, in India, with arranged marriages commonplace, it is believed that love is not a necessary ingredient in the initial stages of marriage – it is something that can be created during the marriage; whereas in the United States, by comparison, love is seen as a necessary prerequisite to marriage.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Although there exist numerous cross-cultural unified similarities as to the nature and definition of love, as in there being a thread of commitment, tenderness, and passion common to all human existence, there are differences.  For example, in India, with arranged marriages commonplace, it is believed that love is not a necessary ingredient in the initial stages of marriage – it is something that can be created during the marriage; whereas in the United States, by comparison, love is seen as a necessary prerequisite to marriage.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[[[\"Andrew Contreras Loves Alexandra Marie Soto\"]]]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:57224528:newid:57224627 -->\n",
+    "from": 57224528
+  }
+}

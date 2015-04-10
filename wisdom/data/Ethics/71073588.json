@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-08-22T00:37:32Z",
+  "revid": 71073588,
+  "anon": "",
+  "user": "74.135.49.96",
+  "parentid": 70919469,
+  "diff": {
+    "to": 71073588,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' (from the [[Ancient <del class=\"diffchange diffchange-inline\">Greek</del>]] ''ἠθικός'' or \"ethikos\" meaning \"Theory of living\") is one of the five major branches of [[philosophy]], which attempts to distinguish that which is [[Wiktionary:correct|right]] from that which is [[wrong]].  Ethics differs from morality in that morality allows more leeway for individual interpretation whereas ethics tend to be more global.  The [[Western philosophy|Western tradition]] of ethics is sometimes called '''moral philosophy'''.  Ethics in plain words means studying and analyzing right from wrong; [[good and bad|good from bad]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' (from the [[Ancient <ins class=\"diffchange diffchange-inline\">Greece</ins>]] ''ἠθικός'' or \"ethikos\" meaning \"Theory of living\") is one of the five major branches of [[philosophy]], which attempts to distinguish that which is [[Wiktionary:correct|right]] from that which is [[wrong]].  Ethics differs from morality in that morality allows more leeway for individual interpretation whereas ethics tend to be more global.  The [[Western philosophy|Western tradition]] of ethics is sometimes called '''moral philosophy'''.  Ethics in plain words means studying and analyzing right from wrong; [[good and bad|good from bad]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Meta-ethics ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Meta-ethics ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:70919469:newid:71073588 -->\n",
+    "from": 70919469
+  }
+}

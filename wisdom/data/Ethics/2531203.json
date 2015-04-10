@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-02-23T23:17:47Z",
+  "revid": 2531203,
+  "anon": "",
+  "user": "212.105.18.246",
+  "parentid": 2502920,
+  "diff": {
+    "to": 2531203,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 90:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 90:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Virtue ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Virtue ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Social contract]] theory</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Social contract]] theory</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*Ethical fitnessism</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*<ins class=\"diffchange diffchange-inline\">[[</ins>Ethical fitnessism<ins class=\"diffchange diffchange-inline\">]]</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ethical skepticism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ethical skepticism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ethical relativism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ethical relativism]]</div></td>\n</tr>\n",
+    "from": 2502920
+  }
+}

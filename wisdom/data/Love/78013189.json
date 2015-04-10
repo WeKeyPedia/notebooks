@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Overview */",
+  "timestamp": "2006-09-27T00:43:31Z",
+  "revid": 78013189,
+  "anon": "",
+  "user": "64.141.134.186",
+  "parentid": 78012988,
+  "diff": {
+    "to": 78013189,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Basically, Its what Kevin and Carolyn have right now, and what they will have forever, because Kevin loves Carolyn better than anyone else <del class=\"diffchange diffchange-inline\">i</del> <del class=\"diffchange diffchange-inline\">nthe</del> entire world, and she is his pretty Carebear. </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Basically, Its what Kevin and Carolyn have right now, and what they will have forever, because Kevin loves Carolyn better than anyone else <ins class=\"diffchange diffchange-inline\">in</ins> <ins class=\"diffchange diffchange-inline\">the</ins> entire world, and she is his pretty Carebear. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:78012988:newid:78013189 -->\n",
+    "from": 78012988
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted gratuitous spelling change",
+  "timestamp": "2004-12-27T22:02:09Z",
+  "revid": 8890661,
+  "user": "Derek Ross",
+  "parentid": 8868546,
+  "diff": {
+    "to": 8890661,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 131:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 131:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Amae====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Amae====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Amae]] (&amp;#29976;&amp;#12360;), a Japanese word meaning \"indulgent dependence\" is part of the child rearing culture of Japan. Japanese mothers are expected to hug and indulge their children, and children are expected to reward their mothers by clinging and serving. Sociologists have suggested that Japanese social interactions in later life are <del class=\"diffchange diffchange-inline\">modeled</del> on the mother-child amae.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Amae]] (&amp;#29976;&amp;#12360;), a Japanese word meaning \"indulgent dependence\" is part of the child rearing culture of Japan. Japanese mothers are expected to hug and indulge their children, and children are expected to reward their mothers by clinging and serving. Sociologists have suggested that Japanese social interactions in later life are <ins class=\"diffchange diffchange-inline\">modelled</ins> on the mother-child amae.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ancient Greek===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ancient Greek===</div></td>\n</tr>\n",
+    "from": 8868546
+  },
+  "minor": ""
+}

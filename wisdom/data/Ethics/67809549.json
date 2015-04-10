@@ -1,0 +1,13 @@
+﻿{
+  "comment": "|*",
+  "timestamp": "2006-08-05T11:55:38Z",
+  "revid": 67809549,
+  "user": "Common Man",
+  "parentid": 67654857,
+  "diff": {
+    "to": 67809549,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 227:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 227:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy navigation}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy navigation}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Category:Ethics|<del class=\"diffchange diffchange-inline\"> </del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Category:Ethics|<ins class=\"diffchange diffchange-inline\">*</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Social philosophy]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Social philosophy]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Branches of philosophy]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Branches of philosophy]]</div></td>\n</tr>\n",
+    "from": 67654857
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-05-02T22:14:59Z",
+  "revid": 51268529,
+  "user": "Pdemecz",
+  "parentid": 51268446,
+  "diff": {
+    "to": 51268529,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 215:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 215:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.acusd.edu/ Ethics Updates] mega-list of ethics resources maintained by Lawrence Hinman of the University of San Diego.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.acusd.edu/ Ethics Updates] mega-list of ethics resources maintained by Lawrence Hinman of the University of San Diego.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://www.rsrevision.com] UK website with summaries and criticisms on:</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.<ins class=\"diffchange diffchange-inline\">rsrevision.com </ins>rsrevision.com] UK website with summaries and criticisms on:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://www.rsrevision.com/Alevel/ethics/kant/ Kant]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://www.rsrevision.com/Alevel/ethics/kant/ Kant]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://www.rsrevision.com/Alevel/ethics/utilitarianism/ Utilitarianism]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://www.rsrevision.com/Alevel/ethics/utilitarianism/ Utilitarianism]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:51268446:newid:51268529 -->\n",
+    "from": 51268446
+  },
+  "minor": ""
+}

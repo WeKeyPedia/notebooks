@@ -1,0 +1,13 @@
+﻿{
+  "comment": "robot  Removing: [[az:Sevda]]",
+  "timestamp": "2009-05-28T21:16:43Z",
+  "revid": 292960204,
+  "user": "JAnDbot",
+  "parentid": 288589394,
+  "diff": {
+    "to": 292960204,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 222:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 222:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ar:حب]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ar:حب]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[an:Aimor]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[an:Aimor]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[az:Sevda]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bs:Ljubav]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bs:Ljubav]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bg:Любов]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bg:Любов]]</div></td>\n</tr>\n",
+    "from": 288589394
+  },
+  "minor": ""
+}

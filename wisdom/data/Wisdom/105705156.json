@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Secular Sources of Wisdom */",
+  "timestamp": "2007-02-05T02:07:43Z",
+  "revid": 105705156,
+  "anon": "",
+  "user": "65.189.185.112",
+  "parentid": 105705020,
+  "diff": {
+    "to": 105705156,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 19:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 19:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Thoreau]] believed that “it is a characteristic of wisdom not to do desperate things.” </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Thoreau]] believed that “it is a characteristic of wisdom not to do desperate things.” </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Nicholas Maxwell, a modern philosopher<del class=\"diffchange diffchange-inline\">(Sir Jiena Juite)</del>, argued that the basic aim of academic inquiry ought to be to seek and promote wisdom - wisdom being construed to be the capacity to realize what is of value in life for oneself and others, wisdom thus including knowledge and technological know-how, but much else besides.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Nicholas Maxwell, a modern philosopher, argued that the basic aim of academic inquiry ought to be to seek and promote wisdom - wisdom being construed to be the capacity to realize what is of value in life for oneself and others, wisdom thus including knowledge and technological know-how, but much else besides.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious Explorations of Wisdom==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious Explorations of Wisdom==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:105705020:newid:105705156 -->\n",
+    "from": 105705020
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-09-16T11:59:57Z",
+  "revid": 76036581,
+  "anon": "",
+  "user": "84.64.14.251",
+  "parentid": 76036456,
+  "diff": {
+    "to": 76036581,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 56:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 56:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.wow4u.com Words of Wisdom 4 U]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.wow4u.com Words of Wisdom 4 U]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.thesearchforwisdom.com The Wisdom Project]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.thesearchforwisdom.com The Wisdom Project]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.in-love-with-wisdom.com <del class=\"diffchange diffchange-inline\">A</del> <del class=\"diffchange diffchange-inline\">Search</del> <del class=\"diffchange diffchange-inline\">for</del> Wisdom]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.in-love-with-wisdom.com <ins class=\"diffchange diffchange-inline\">In</ins> <ins class=\"diffchange diffchange-inline\">Love</ins> <ins class=\"diffchange diffchange-inline\">with</ins> Wisdom]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Philosophical terminology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Philosophical terminology]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:76036456:newid:76036581 -->\n",
+    "from": 76036456
+  }
+}

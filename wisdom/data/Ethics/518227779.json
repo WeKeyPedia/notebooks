@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Political ethics */",
+  "timestamp": "2012-10-17T00:35:26Z",
+  "revid": 518227779,
+  "user": "Eredner",
+  "parentid": 518227579,
+  "diff": {
+    "to": 518227779,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 169:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 169:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># methods of dealing with violations of the laws of war</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># methods of dealing with violations of the laws of war</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>====[<del class=\"diffchange diffchange-inline\">[http://en.wikipedia.org/wiki/Political_ethics|</del>Political ethics<del class=\"diffchange diffchange-inline\">]</del>]====</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>====[Political ethics]====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[<del class=\"diffchange diffchange-inline\">[http://en.wikipedia.org/wiki/Political_ethics|</del>Political ethics<del class=\"diffchange diffchange-inline\">]</del>] (also known as political morality or public ethics) is the practice of making moral judgements about political action and political agents.[1]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[Political ethics] (also known as political morality or public ethics) is the practice of making moral judgements about political action and political agents.[1]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Public service ethics====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Public service ethics====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:518227579:newid:518227779 -->\n",
+    "from": 518227579
+  }
+}

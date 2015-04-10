@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-02-09T19:11:51Z",
+  "revid": 38952083,
+  "anon": "",
+  "user": "66.196.23.31",
+  "parentid": 38951994,
+  "diff": {
+    "to": 38952083,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 197:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 197:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/broad/ftet/ftet.html C. D. Broad, ''Five Types of Ethical Theory'' (New York: Harcourt, Brace and Co., 1930).]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/broad/ftet/ftet.html C. D. Broad, ''Five Types of Ethical Theory'' (New York: Harcourt, Brace and Co., 1930).]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/ross/right.html W. D. Ross, ''The Right and the Good'' (1930)]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/ross/right.html W. D. Ross, ''The Right and the Good'' (1930)]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://www.globalpublic.org Advancing Ethics &amp; Democracy]<del class=\"diffchange diffchange-inline\">&amp;mdash</del> Toward a Global Ethic</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.globalpublic.org Advancing Ethics &amp; Democracy] Toward a Global Ethic</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.www.josephsoninstitute.org The Josephson Institute of Ethics] An organization aimed to improve the ethical quality of society by changing personal and organizational decision making and behavior.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.www.josephsoninstitute.org The Josephson Institute of Ethics] An organization aimed to improve the ethical quality of society by changing personal and organizational decision making and behavior.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.galilean-library.org/int11.html An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.galilean-library.org/int11.html An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:38951994:newid:38952083 -->\n",
+    "from": 38951994
+  }
+}

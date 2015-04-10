@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* mrs.holman eats penis */",
+  "timestamp": "2008-12-14T20:53:42Z",
+  "revid": 257973099,
+  "user": "Stewie554",
+  "parentid": 257973089,
+  "diff": {
+    "to": 257973099,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>mrs.holman eats <del class=\"diffchange diffchange-inline\">penis again</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>mrs.holman eats <ins class=\"diffchange diffchange-inline\">peni</ins></div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:257973089:newid:257973099 -->\n",
+    "from": 257973089
+  }
+}

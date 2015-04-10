@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2007-03-17T15:58:02Z",
+  "revid": 115806099,
+  "anon": "",
+  "user": "200.83.74.108",
+  "parentid": 115572108,
+  "diff": {
+    "to": 115806099,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 106:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 106:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.geeta-kavita.com/article.asp?article=biology_morals_dharma An article that focuses on the Biological basis of morality is available at Geeta-kavita.com]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.geeta-kavita.com/article.asp?article=biology_morals_dharma An article that focuses on the Biological basis of morality is available at Geeta-kavita.com]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.worldmoralmovement.org Wiki site for discussing and taking action on shared morals (WorldMoralMovement.org)]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.worldmoralmovement.org Wiki site for discussing and taking action on shared morals (WorldMoralMovement.org)]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.observacionesfilosoficas.net/ Morality and Ethics in Revista Observaciones Filosoficas]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy (navigation)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy (navigation)}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:115572108:newid:115806099 -->\n",
+    "from": 115572108
+  }
+}

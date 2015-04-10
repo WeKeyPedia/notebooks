@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Christian */",
+  "timestamp": "2005-10-10T05:31:25Z",
+  "revid": 25179652,
+  "anon": "",
+  "user": "65.246.227.71",
+  "parentid": 25179603,
+  "diff": {
+    "to": 25179652,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 177:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 177:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Christians also believe that [[God]] felt so much love for man that he sacrificed his son for them.<del class=\"diffchange diffchange-inline\"> John</del> [[John the Baptist]] wrote, \"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. For God did not send his Son into the world to condemn the world, but the save the world through him.\" (NIV John 3:16-18)</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Christians also believe that [[God]] felt so much love for man that he sacrificed his son for them. [[John the Baptist]] wrote, \"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. For God did not send his Son into the world to condemn the world, but the save the world through him.\" (NIV John 3:16-18)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Many Christians [[Theology|theologians]] see God as the source of love, which is mirrored in humans and their relationships.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Many Christians [[Theology|theologians]] see God as the source of love, which is mirrored in humans and their relationships.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:25179603:newid:25179652 -->\n",
+    "from": 25179603
+  }
+}

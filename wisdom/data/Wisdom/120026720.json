@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-04-03T18:10:53Z",
+  "revid": 120026720,
+  "anon": "",
+  "user": "213.202.149.169",
+  "parentid": 119984357,
+  "diff": {
+    "to": 120026720,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Nicholas Maxwell, a modern philosopher, argued that the basic aim of academic inquiry ought to be to seek and promote wisdom - wisdom being construed to be the capacity to realize what is of value in life for oneself and others, wisdom thus including knowledge and technological know-how, but much else besides.{{Fact|date=March 2007}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Nicholas Maxwell, a modern philosopher, argued that the basic aim of academic inquiry ought to be to seek and promote wisdom - wisdom being construed to be the capacity to realize what is of value in life for oneself and others, wisdom thus including knowledge and technological know-how, but much else besides.{{Fact|date=March 2007}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>==Scientific perspectives== </div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Some may  find the [[scientific method]]&lt;ref&gt;</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[William Stanley Jevons]] (1873, 1877) ''The Principles of Science: a treatise on logic and scientific method'' Dover edition, with a new preface by [[Ernest Nagel]] (1958) </div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&lt;/ref&gt; to be a satisfactory path to a goal of gaining wisdom.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Psychological perspectives==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Psychological perspectives==</div></td>\n</tr>\n",
+    "from": 119984357
+  }
+}

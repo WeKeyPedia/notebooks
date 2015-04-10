@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Bot: Migrating langlinks to [[WP:Wikidata]] - [[d:q316]]",
+  "timestamp": "2013-02-25T01:27:02Z",
+  "revid": 540171226,
+  "user": "Legobot",
+  "parentid": 540041581,
+  "diff": {
+    "to": 540171226,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 274:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 274:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Link GA|de}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Link GA|de}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Link GA|zh}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Link GA|zh}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[be-x-old:Любоў]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[lb:Léift]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[pa:ਪਿਆਰ]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:540041581:newid:540171226 -->\n",
+    "from": 540041581
+  },
+  "minor": ""
+}

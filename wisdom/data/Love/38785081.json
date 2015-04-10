@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */ dot love link added",
+  "timestamp": "2006-02-08T17:14:57Z",
+  "revid": 38785081,
+  "anon": "",
+  "user": "208.54.15.129",
+  "parentid": 38663495,
+  "diff": {
+    "to": 38785081,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 294:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 294:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.withfriendship.com/quotes/love-quotes.php Famous love quotes]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.withfriendship.com/quotes/love-quotes.php Famous love quotes]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[:zh:早恋|''Zaolian'' (早恋) on Chinese Wikipedia]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[:zh:早恋|''Zaolian'' (早恋) on Chinese Wikipedia]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[http://www.dotlove.org THE DOT LOVE MOVEMENT]] - endorsed by New York Times bestselling author [[Masaru Emoto]], featured on [[What the Bleep Do We Know?]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love]]</div></td>\n</tr>\n",
+    "from": 38663495
+  }
+}

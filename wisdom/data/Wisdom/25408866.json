@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Sources of Wisdom */",
+  "timestamp": "2005-10-13T04:43:54Z",
+  "revid": 25408866,
+  "anon": "",
+  "user": "150.101.189.173",
+  "parentid": 23335869,
+  "diff": {
+    "to": 25408866,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 14:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 14:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Some religions hold that wisdom may be given as a gift from God.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Some religions hold that wisdom may be given as a gift from God.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* Some societal groups regard wisdom as a sign of idiocy unless they are male.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* The [[Jew]]ish book of [[Proverbs]] in the [[Old Testament]] states `Fear of God is the beginning of Wisdom`.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* The [[Jew]]ish book of [[Proverbs]] in the [[Old Testament]] states `Fear of God is the beginning of Wisdom`.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:23335869:newid:25408866 -->\n",
+    "from": 23335869
+  }
+}

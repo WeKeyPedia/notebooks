@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-05-14T18:04:32Z",
+  "revid": 3579376,
+  "anon": "",
+  "user": "81.218.67.108",
+  "parentid": 3579026,
+  "diff": {
+    "to": 3579376,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love of [[friend]]s</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love of [[friend]]s</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># [[romantic love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># [[romantic love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div># [[sexual love]], also called [[lust]], <del class=\"diffchange diffchange-inline\">can</del> <del class=\"diffchange diffchange-inline\">be</del> healthy<del class=\"diffchange diffchange-inline\"> or unhealthy</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div># [[sexual love]], also called [[lust]], <ins class=\"diffchange diffchange-inline\">is</ins> <ins class=\"diffchange diffchange-inline\">very</ins> healthy.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving one another in general, helping the homeless, or a wounded animal</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving one another in general, helping the homeless, or a wounded animal</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving something abstract or inanimate, like an idea or goal</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving something abstract or inanimate, like an idea or goal</div></td>\n</tr>\n",
+    "from": 3579026
+  }
+}

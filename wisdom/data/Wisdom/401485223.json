@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Books */ tag one for notability",
+  "timestamp": "2010-12-09T18:33:09Z",
+  "revid": 401485223,
+  "user": "Fayenatic london",
+  "parentid": 401484706,
+  "diff": {
+    "to": 401485223,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 139:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 139:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Book of Wisdom]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Book of Wisdom]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[The Wisdom of Crowds]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[The Wisdom of Crowds]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Sternberg, Robert J.]], ''Wisdom: <del class=\"diffchange diffchange-inline\">It's</del> Nature, Origins, and <del class=\"diffchange diffchange-inline\">Developmet</del>'' (1990). [[Cambridge University Press]]. ISBN <del class=\"diffchange diffchange-inline\">0</del>-<del class=\"diffchange diffchange-inline\">521</del>-<del class=\"diffchange diffchange-inline\">36718-2</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Sternberg, Robert J.]], ''Wisdom: <ins class=\"diffchange diffchange-inline\">Its</ins> Nature, Origins, and <ins class=\"diffchange diffchange-inline\">Development</ins>'' (1990). [[Cambridge University Press]]. ISBN <ins class=\"diffchange diffchange-inline\">978</ins>-<ins class=\"diffchange diffchange-inline\">0521367189 {{importance</ins>-<ins class=\"diffchange diffchange-inline\">inline|date=December 2010}}</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n</tr>\n",
+    "from": 401484706
+  }
+}

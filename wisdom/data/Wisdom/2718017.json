@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-03-03T16:58:18Z",
+  "revid": 2718017,
+  "anon": "",
+  "user": "217.84.169.172",
+  "parentid": 2613417,
+  "diff": {
+    "to": 2718017,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 21:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 21:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Classically, wisdom is considered to come with age. In some religions, wisdom is considered a gift granted by [[God]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Classically, wisdom is considered to come with age. In some religions, wisdom is considered a gift granted by [[God]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>A wise person is often called a \"sage\"</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>A wise person is often called a \"sage<ins class=\"diffchange diffchange-inline\">.</ins>\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>See also </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>See also </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:2613417:newid:2718017 -->\n",
+    "from": 2613417
+  }
+}

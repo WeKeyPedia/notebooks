@@ -1,0 +1,13 @@
+﻿{
+  "comment": "rm stray dash",
+  "timestamp": "2006-08-04T04:53:32Z",
+  "revid": 67579621,
+  "user": "Nesbit",
+  "parentid": 67511997,
+  "diff": {
+    "to": 67579621,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">–</del>[[Image:AllegoryWisdomStrength.PNG||thumb|250px|right|Detail from the ''Allegory of Wisdom and Strength'' by Paulo Veronese (c. 1580)]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Image:AllegoryWisdomStrength.PNG||thumb|250px|right|Detail from the ''Allegory of Wisdom and Strength'' by Paulo Veronese (c. 1580)]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Wisdom''' is the ability, developed through [[experience]], [[insight]] and [[reflection]], to discern truth and exercise good judgment. It is sometimes conceptualized as an especially well developed form of [[common sense]]. Most psychologists regard wisdom as distinct from the cognitive abilities measured by standardized [[intelligence]] tests. Wisdom is often considered to be a trait that can be developed by experience, but not taught. When applied to practical matters, the term wisdom is synonymous with [[prudence]]. Some see wisdom as a quality that even a child, otherwise immature, may possess independent of experience or complete knowledge. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Wisdom''' is the ability, developed through [[experience]], [[insight]] and [[reflection]], to discern truth and exercise good judgment. It is sometimes conceptualized as an especially well developed form of [[common sense]]. Most psychologists regard wisdom as distinct from the cognitive abilities measured by standardized [[intelligence]] tests. Wisdom is often considered to be a trait that can be developed by experience, but not taught. When applied to practical matters, the term wisdom is synonymous with [[prudence]]. Some see wisdom as a quality that even a child, otherwise immature, may possess independent of experience or complete knowledge. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:67511997:newid:67579621 -->\n",
+    "from": 67511997
+  },
+  "minor": ""
+}

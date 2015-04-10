@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Journal cites:, added 1 PMID, added 1 issue number using [[Project:AWB|AWB]] (10473)",
+  "timestamp": "2014-10-31T09:27:31Z",
+  "revid": 631867049,
+  "user": "Rjwilmsi",
+  "parentid": 627144793,
+  "diff": {
+    "to": 631867049,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 74:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 74:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|journal=Psychoneuroendocrinology</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|journal=Psychoneuroendocrinology</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|doi=10.1016/j.psyneuen.2005.09.002</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|doi=10.1016/j.psyneuen.2005.09.002</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>|volume=Sept. 05}}&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>|volume=Sept. 05<ins class=\"diffchange diffchange-inline\"> |pmid=16289361 |issue=3 |pages=288–94</ins>}}&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Psychological basis===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Psychological basis===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:627144793:newid:631867049 -->\n",
+    "from": 627144793
+  },
+  "minor": ""
+}

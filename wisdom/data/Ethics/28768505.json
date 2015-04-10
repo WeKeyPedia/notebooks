@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Ethics in religion */",
+  "timestamp": "2005-11-19T19:10:28Z",
+  "revid": 28768505,
+  "user": "Pkirlin",
+  "parentid": 28331105,
+  "diff": {
+    "to": 28768505,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 80:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 80:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Ethics in religion ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Ethics in religion ===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main2|Ethics in religion|Ethics in the Bible}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main2|Ethics in religion|Ethics in the Bible}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 28331105
+  },
+  "minor": ""
+}

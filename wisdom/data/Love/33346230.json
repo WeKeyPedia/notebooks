@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-12-31T05:38:43Z",
+  "revid": 33346230,
+  "anon": "",
+  "user": "24.47.163.69",
+  "parentid": 33346143,
+  "diff": {
+    "to": 33346230,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Image:Eros - Pompeiian statue - <del class=\"diffchange diffchange-inline\">Naples Archeological Museum</del>.jpg|thumb|right|250px|Eros&lt;br&gt;God and symbol of love since antiquity]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Image:Eros - Pompeiian statue - <ins class=\"diffchange diffchange-inline\">Mario</ins>.jpg|thumb|right|250px|Eros&lt;br&gt;God and symbol of love since antiquity]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' has several different meanings in [[English language|English]], from something that gives a little pleasure (\"I loved that meal\") to something one would die for ([[patriotism]], pairbonding). It can describe an intense feeling of [[affection]], an [[emotion]] or an emotional state. In ordinary use, it usually refers to interpersonal love. Probably due to its psychological relevance, love is one of the most common themes in art. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' has several different meanings in [[English language|English]], from something that gives a little pleasure (\"I loved that meal\") to something one would die for ([[patriotism]], pairbonding). It can describe an intense feeling of [[affection]], an [[emotion]] or an emotional state. In ordinary use, it usually refers to interpersonal love. Probably due to its psychological relevance, love is one of the most common themes in art. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:33346143:newid:33346230 -->\n",
+    "from": 33346143
+  }
+}

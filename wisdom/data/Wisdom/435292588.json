@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Resources */",
+  "timestamp": "2011-06-20T15:58:05Z",
+  "revid": 435292588,
+  "anon": "",
+  "user": "128.135.189.213",
+  "parentid": 434733827,
+  "diff": {
+    "to": 435292588,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 156:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 156:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.wisdompage.com The Wisdom Page]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.wisdompage.com The Wisdom Page]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.wisdomation.com Share Your Wisdom Here]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.wisdomation.com Share Your Wisdom Here]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.wisdomresearch.org The Defining Wisdom Project of the University of Chicago</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Use dmy dates|date=June 2011}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Use dmy dates|date=June 2011}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:434733827:newid:435292588 -->\n",
+    "from": 434733827
+  }
+}

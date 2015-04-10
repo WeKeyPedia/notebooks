@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/64.83.140.3|64.83.140.3]] ([[User talk:64.83.140.3|talk]]) to last version by Yanksox",
+  "timestamp": "2006-06-05T16:44:37Z",
+  "revid": 57020603,
+  "user": "Musical Linguist",
+  "parentid": 57020528,
+  "diff": {
+    "to": 57020603,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">cody dowler loves every man on earth his fav. part on a man is his butt</del>:''This is about emotions of attraction. For other uses, see [[Love (disambiguation)]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>:''This is about emotions of attraction. For other uses, see [[Love (disambiguation)]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love-zh.png|215px|thumb|right|The [[Chinese character]] for love &amp;mdash;its parts indicating (top to bottom): '''''That which gives [[breath]]''''' ''(ie. \"[[spirit]]\")'' '''''to the heart, with a graceful motion.''''' &lt;br /&gt;([[Rose Quong]] - ''Chinese Characters:Their Wit and Wisdom'')]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love-zh.png|215px|thumb|right|The [[Chinese character]] for love &amp;mdash;its parts indicating (top to bottom): '''''That which gives [[breath]]''''' ''(ie. \"[[spirit]]\")'' '''''to the heart, with a graceful motion.''''' &lt;br /&gt;([[Rose Quong]] - ''Chinese Characters:Their Wit and Wisdom'')]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:57020528:newid:57020603 -->\n",
+    "from": 57020528
+  },
+  "minor": ""
+}

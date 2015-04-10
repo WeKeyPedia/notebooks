@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Religion as a source of moral authority */ Religious views, Catholic example",
+  "timestamp": "2008-08-03T15:51:12Z",
+  "revid": 229599360,
+  "user": "JASpencer",
+  "parentid": 227651412,
+  "diff": {
+    "to": 229599360,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 116:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 116:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Divine command theory}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Divine command theory}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Religious belief systems usually include the idea of divine will and divine [[Last Judgment|judgment]] and usually correspond to a moral code of conduct.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Religious belief systems usually include the idea of divine will and divine [[Last Judgment|judgment]] and usually correspond to a moral code of conduct<ins class=\"diffchange diffchange-inline\">, and many religions claim that religion and morality are intimately connected</ins>.<ins class=\"diffchange diffchange-inline\">  For example, the [[Roman Catholic Church]] maintains that although morality can be derived from unaided reason as it is simply the \"right ordering\" of man's actions, ultimately it  derives from God because God created man and nature and that the ultimate sanction for immorality is the loss of a relationship with God.&lt;ref&gt;{{CathEncy|wstitle=Morality}}&lt;/ref&gt;</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== See also ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== See also ==</div></td>\n</tr>\n",
+    "from": 227651412
+  }
+}

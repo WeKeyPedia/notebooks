@@ -1,0 +1,13 @@
+﻿{
+  "comment": "i changed the quote because it was the moral in a asope fable",
+  "timestamp": "2007-06-05T21:35:56Z",
+  "revid": 136156170,
+  "anon": "",
+  "user": "71.105.32.60",
+  "parentid": 136040022,
+  "diff": {
+    "to": 136156170,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 81:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 81:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Quotations about wisdom==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Quotations about wisdom==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>\"Wise men say nothing in dangerous times.\" -- [[<del class=\"diffchange diffchange-inline\">John Selden</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>\"Wise men say nothing in dangerous times.\" -- [[<ins class=\"diffchange diffchange-inline\">Aesop</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"When I was a boy of fourteen, my father was so ignorant I could hardly stand to have the old man around. But when I got to be twenty-one, I was astonished at how much the old man had learned in seven years.\" -- [[Mark Twain]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"When I was a boy of fourteen, my father was so ignorant I could hardly stand to have the old man around. But when I got to be twenty-one, I was astonished at how much the old man had learned in seven years.\" -- [[Mark Twain]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:136040022:newid:136156170 -->\n",
+    "from": 136040022
+  }
+}

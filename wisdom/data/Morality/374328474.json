@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Religion as a source of moral authority */",
+  "timestamp": "2010-07-19T16:30:31Z",
+  "revid": 374328474,
+  "anon": "",
+  "user": "210.212.206.70",
+  "parentid": 374039623,
+  "diff": {
+    "to": 374328474,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 123:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 123:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Many religions provide moral guidelines for their followers. They believe that the divine has instructed them with a way to live, and that following these \"rules\" will lead to oneness with the divine.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Many religions provide moral guidelines for their followers. They believe that the divine has instructed them with a way to live, and that following these \"rules\" will lead to oneness with the divine.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>              A moral:</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>                               \"Expect the unexpected and the expected will happen\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:374039623:newid:374328474 -->\n",
+    "from": 374039623
+  }
+}

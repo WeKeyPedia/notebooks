@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-10-03T19:41:20Z",
+  "revid": 79307430,
+  "user": "Cjwright79",
+  "parentid": 79307397,
+  "diff": {
+    "to": 79307430,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">Whereas</del> a [[morel]] is a type of mushroom, a 'moral' is a rather slippery specimen. Nearly everybody talks about morality as if they know something well, which may be an obscene lie, a humble admittance of fact, or neither.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">While</ins> a [[morel]] is a type of mushroom, a 'moral' is a rather slippery specimen. Nearly everybody talks about morality as if they know something well, which may be an obscene lie, a humble admittance of fact, or neither.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>----</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>----</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:79307397:newid:79307430 -->\n",
+    "from": 79307397
+  }
+}

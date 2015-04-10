@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Mythological */",
+  "timestamp": "2006-02-14T02:11:35Z",
+  "revid": 39524843,
+  "anon": "",
+  "user": "70.30.0.106",
+  "parentid": 39512707,
+  "diff": {
+    "to": 39524843,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 255:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 255:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Venus (mythology)|Venus]] &amp;mdash; goddess of beauty and passionate love in Roman mythology</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Venus (mythology)|Venus]] &amp;mdash; goddess of beauty and passionate love in Roman mythology</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Xochipilli]] &amp;mdash; god in [[Aztec mythology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Xochipilli]] &amp;mdash; god in [[Aztec mythology]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Antheia]] &amp;mdash; goddess in [[Greek mythology]]; the lady of flowers, humanly love, gardens, roses, meadows, the natural beauty itself.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Theological===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Theological===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:39512707:newid:39524843 -->\n",
+    "from": 39512707
+  }
+}

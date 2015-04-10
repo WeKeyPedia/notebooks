@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Modern ethics */",
+  "timestamp": "2012-05-02T14:28:00Z",
+  "revid": 490301937,
+  "anon": "",
+  "user": "152.106.99.22",
+  "parentid": 490176766,
+  "diff": {
+    "to": 490301937,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 59:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 59:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Modern ethics===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Modern ethics===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In the current era, ethical theories are often divided between the consequentialist theories of utilitarian philosophers such as [[Jeremy Bentham]] and [[John Stuart Mill]], and [[deontological ethics]] as epitomized by the work of [[Immanuel Kant]]. The late 19th Century also saw the origin of [[pragmatic ethics]] in the United States, especially in the work of [[John Dewey]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In the current era, ethical theories are often divided between the consequentialist theories of utilitarian philosophers such as [[Jeremy Bentham]] and [[John Stuart Mill]], and [[deontological ethics]] as epitomized by the work of [[Immanuel Kant]]<ins class=\"diffchange diffchange-inline\">also known as the theory of moral obligation </ins>. The late 19th Century also saw the origin of [[pragmatic ethics]] in the United States, especially in the work of [[John Dewey]].<ins class=\"diffchange diffchange-inline\">Nina Rosenstand(2006:14), states that every functional society on earth has had a \"philosophy\"  of what one should do or be in order to be considered a good person. Ethics in a modern sense can be understood as theories of conduct;thus ethical relativism, Egoism,and Altruism. </ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Modern consequentialism====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Modern consequentialism====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:490176766:newid:490301937 -->\n",
+    "from": 490176766
+  }
+}

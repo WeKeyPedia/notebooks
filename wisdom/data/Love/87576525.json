@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Overview */",
+  "timestamp": "2006-11-13T18:08:11Z",
+  "revid": 87576525,
+  "user": "CaptainChurch",
+  "parentid": 87576370,
+  "diff": {
+    "to": 87576525,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 36:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 36:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>***It's been said that \"It doesn't cost anything to be nice!\"....True!....</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>***It's been said that \"It doesn't cost anything to be nice!\"....True!....</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>....But it does cost everything when we're not!-----------</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>....But it does cost everything when we're not!-----------</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>http://jimsorrell.proboards33.com</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Human bonding==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Human bonding==</div></td>\n</tr>\n",
+    "from": 87576370
+  }
+}

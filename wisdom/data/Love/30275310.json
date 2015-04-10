@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/69.198.178.211|69.198.178.211]] to last version by Master Jay",
+  "timestamp": "2005-12-05T23:27:38Z",
+  "revid": 30275310,
+  "user": "Master Jay",
+  "parentid": 30275251,
+  "diff": {
+    "to": 30275310,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Marc Did Dolan</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Eros - Pompeiian statue - Naples Archeological Museum.jpg|thumb|right|250px|Eros&lt;br&gt;God and symbol of love since antiquity]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Eros - Pompeiian statue - Naples Archeological Museum.jpg|thumb|right|250px|Eros&lt;br&gt;God and symbol of love since antiquity]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' has several different meanings in [[English language|English]], from something that gives a little pleasure (\"I loved that meal\") to something one would die for ([[patriotism]], pairbonding). It can describe an intense feeling of [[affection]], an [[emotion]] or an emotional state. In ordinary use, it usually refers to interpersonal love. Probably due to its psychological relevance, love is one of the most common themes in art. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' has several different meanings in [[English language|English]], from something that gives a little pleasure (\"I loved that meal\") to something one would die for ([[patriotism]], pairbonding). It can describe an intense feeling of [[affection]], an [[emotion]] or an emotional state. In ordinary use, it usually refers to interpersonal love. Probably due to its psychological relevance, love is one of the most common themes in art. </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:30275251:newid:30275310 -->\n",
+    "from": 30275251
+  },
+  "minor": ""
+}

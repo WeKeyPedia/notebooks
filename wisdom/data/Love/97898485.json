@@ -1,0 +1,13 @@
+﻿{
+  "comment": "grammar",
+  "timestamp": "2007-01-02T07:16:47Z",
+  "revid": 97898485,
+  "user": "Crystallina",
+  "parentid": 97882282,
+  "diff": {
+    "to": 97898485,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 39:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 39:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{cquote|Place me like a seal over your heart, like a seal on your arm; for love is as strong as death, its jealously unyielding as the grave. It burns like a blazing fire, like a mighty flame. Many waters cannot quench love; rivers cannot wash it away. If one were to give all the wealth of his house for love, it would be utterly scorned.}} </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{cquote|Place me like a seal over your heart, like a seal on your arm; for love is as strong as death, its jealously unyielding as the grave. It burns like a blazing fire, like a mighty flame. Many waters cannot quench love; rivers cannot wash it away. If one were to give all the wealth of his house for love, it would be utterly scorned.}} </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The passage ''dodi li v'ani lo'', i.e. \"my beloved is mine and I am my beloved\", from Song of Songs 2:16, is an example a biblical quote commonly engraved on wedding bands.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The passage ''dodi li v'ani lo'', i.e. \"my beloved is mine and I am my beloved\", from Song of Songs 2:16, is an example<ins class=\"diffchange diffchange-inline\"> of</ins> a biblical quote commonly engraved on wedding bands.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:97882282:newid:97898485 -->\n",
+    "from": 97882282
+  },
+  "minor": ""
+}

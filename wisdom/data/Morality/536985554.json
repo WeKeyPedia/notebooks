@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Descriptive and normative */",
+  "timestamp": "2013-02-07T02:28:54Z",
+  "revid": 536985554,
+  "anon": "",
+  "user": "184.170.15.58",
+  "parentid": 536828449,
+  "diff": {
+    "to": 536985554,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Descriptive and normative===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Descriptive and normative===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* In its descriptive sense, \"morality\" refers to [[Value (personal and cultural)|personal or cultural values]], [[code of conduct|codes of conduct]] or social [[mores]]. It does not connote objective claims of right or wrong, but only refers to that which is considered right or wrong. [[Descriptive ethics]] is the branch of philosophy<del class=\"diffchange diffchange-inline\"> which studies morality in this sense.</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* In its descriptive sense, \"morality\" refers to [[Value (personal and cultural)|personal or cultural values]], [[code of conduct|codes of conduct]] or social [[mores]]. It does not connote objective claims of right or wrong, but only refers to that which is considered right or wrong. [[Descriptive ethics]] is the branch of philosophy</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* In its [[normative]] sense, \"morality\" refers to whatever (if anything) is ''actually'' right or wrong, which may be independent of the values or mores held by any particular peoples or cultures. [[Normative ethics]] is the branch of philosophy which studies morality in this sense.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Realism and anti-realism===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Realism and anti-realism===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:536828449:newid:536985554 -->\n",
+    "from": 536828449
+  }
+}

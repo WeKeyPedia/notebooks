@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Chinese */",
+  "timestamp": "2005-10-16T21:43:04Z",
+  "revid": 25687156,
+  "anon": "",
+  "user": "130.245.196.83",
+  "parentid": 25506329,
+  "diff": {
+    "to": 25687156,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 135:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 135:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[Confucianism]], ''[[lian]]'' is a virtuous benevolent love. Lian should be pursued by all human beings, and reflects a moral life.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[Confucianism]], ''[[lian]]'' is a virtuous benevolent love. Lian should be pursued by all human beings, and reflects a moral life.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>''[[Yuanfen]]'' (&amp;#32536;&amp;#20221;) is a connection of bound destinies. A meaningful relationship is dependent on there being strong yuanfen.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>''[[Yuanfen]]'' (&amp;#32536;&amp;#20221;) is a connection of bound destinies. A meaningful relationship is dependent on there being strong yuanfen.<ins class=\"diffchange diffchange-inline\">It is very similar to serendipity</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Japanese===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Japanese===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:25506329:newid:25687156 -->\n",
+    "from": 25506329
+  }
+}

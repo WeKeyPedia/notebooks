@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */ Added a link to a ethics-based blog searching for and documenting ethical issues in today's society.",
+  "timestamp": "2011-11-10T01:04:34Z",
+  "revid": 459894245,
+  "user": "Hero777",
+  "parentid": 459668206,
+  "diff": {
+    "to": 459894245,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 211:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 211:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.philosophyarchive.com/index.php?title=Philosophy_of_Ethics The Philosophy of Ethics] on Philosophy Archive</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.philosophyarchive.com/index.php?title=Philosophy_of_Ethics The Philosophy of Ethics] on Philosophy Archive</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.klice.co.uk/ Kirby Laing Institute for Christian Ethics] Resources, events, and research on a range of ethical subjects from a Christian perspective.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.klice.co.uk/ Kirby Laing Institute for Christian Ethics] Resources, events, and research on a range of ethical subjects from a Christian perspective.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://ethicas.org/ Ethicas- Ethics, morals, values, and education] Value driven content for an involved generation. A branch of the Simon Hero Foundation.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy topics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy topics}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:459668206:newid:459894245 -->\n",
+    "from": 459668206
+  },
+  "minor": ""
+}

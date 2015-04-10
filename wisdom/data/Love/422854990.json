@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Psychological basis */Add missing PMIDs using [[Project:AWB|AWB]] (7667)",
+  "timestamp": "2011-04-07T13:23:48Z",
+  "revid": 422854990,
+  "user": "Rjwilmsi",
+  "parentid": 422734766,
+  "diff": {
+    "to": 422854990,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 90:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 90:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|pages=265–27</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|pages=265–27</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|year=1970</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|year=1970</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>|doi=10.1037/h0029841<del class=\"diffchange diffchange-inline\">}}&lt;/ref&gt;</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>|doi=10.1037/h0029841</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>|pmid=5479131}}&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;ref&gt;{{cite book</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;ref&gt;{{cite book</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|last=Rubin</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|last=Rubin</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:422734766:newid:422854990 -->\n",
+    "from": 422734766
+  },
+  "minor": ""
+}

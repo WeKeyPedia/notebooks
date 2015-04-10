@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Religion as a source of moral authority */",
+  "timestamp": "2007-11-19T03:24:36Z",
+  "revid": 172416394,
+  "user": "Michael Hardy",
+  "parentid": 172416237,
+  "diff": {
+    "to": 172416394,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{section-stub}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{section-stub}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Main|Divine <del class=\"diffchange diffchange-inline\">Command</del> <del class=\"diffchange diffchange-inline\">Theory</del>}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Main|Divine <ins class=\"diffchange diffchange-inline\">command</ins> <ins class=\"diffchange diffchange-inline\">theory</ins>}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Religious belief systems usually include the idea of divine will and divine [[Last Judgment|judgment]] and usually correspond to a moral code of conduct.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Religious belief systems usually include the idea of divine will and divine [[Last Judgment|judgment]] and usually correspond to a moral code of conduct.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:172416237:newid:172416394 -->\n",
+    "from": 172416237
+  }
+}

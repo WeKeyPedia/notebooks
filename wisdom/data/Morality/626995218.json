@@ -1,0 +1,12 @@
+﻿{
+  "comment": "these pages now redirect to a disambiguation page",
+  "timestamp": "2014-09-25T06:44:57Z",
+  "revid": 626995218,
+  "user": "Jarble",
+  "parentid": 626485288,
+  "diff": {
+    "to": 626995218,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{for|the 2009 novella by Stephen King|Morality (novella)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{for|the 2009 novella by Stephen King|Morality (novella)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{redirect2|Acceptable|unacceptable|the concept in psychology|Acceptance}}</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect|Inappropriate|content that has been deemed inappropriate for Wikipedia|WP:INAPPROPRIATE|the rating of activities and media according to age groups|age-appropriate|other uses|Appropriation (disambiguation)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect|Inappropriate|content that has been deemed inappropriate for Wikipedia|WP:INAPPROPRIATE|the rating of activities and media according to age groups|age-appropriate|other uses|Appropriation (disambiguation)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{hatnote|\"Properly\", \"properness\", \"improper\", and \"impropriety\" redirect here. For the improvised performance company, see [[Impropriety (company)]]. For other uses, see [[Proper (disambiguation)]]}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{hatnote|\"Properly\", \"properness\", \"improper\", and \"impropriety\" redirect here. For the improvised performance company, see [[Impropriety (company)]]. For other uses, see [[Proper (disambiguation)]]}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:626485288:newid:626995218 -->\n",
+    "from": 626485288
+  }
+}

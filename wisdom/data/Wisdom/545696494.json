@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Removed [[pt:Sabedoria]]",
+  "timestamp": "2013-03-20T14:48:37Z",
+  "revid": 545696494,
+  "user": "Treisijs",
+  "parentid": 545428402,
+  "diff": {
+    "to": 545696494,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 201:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 201:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Knowledge]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Knowledge]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Virtue]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Virtue]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[pt:Sabedoria]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n",
+    "from": 545428402
+  }
+}

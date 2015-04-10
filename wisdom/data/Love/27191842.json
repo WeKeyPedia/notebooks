@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Love styles */  The original spelling of Agape led to a disambiguation page - 'Agapē' seemed to be the correct result",
+  "timestamp": "2005-11-02T21:32:42Z",
+  "revid": 27191842,
+  "user": "Inarius",
+  "parentid": 27190942,
+  "diff": {
+    "to": 27191842,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 100:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 100:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Pragma (love)|Pragma]] &amp;mdash; pragmatic love</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Pragma (love)|Pragma]] &amp;mdash; pragmatic love</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Mania]] &amp;mdash; highly emotional love; unstable; the stereotype of [[romantic love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Mania]] &amp;mdash; highly emotional love; unstable; the stereotype of [[romantic love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[<del class=\"diffchange diffchange-inline\">Agape</del>]] &amp;mdash; selfless altruistic love; spiritual</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[<ins class=\"diffchange diffchange-inline\">Agapē</ins>]] &amp;mdash; selfless altruistic love; spiritual</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Hendrick and Hendrick found men tend to be more ludic and manic, whereas women tend to be storgic and pragmatic. Relationships based on similar love styles were found to last longer.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Hendrick and Hendrick found men tend to be more ludic and manic, whereas women tend to be storgic and pragmatic. Relationships based on similar love styles were found to last longer.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:27190942:newid:27191842 -->\n",
+    "from": 27190942
+  }
+}

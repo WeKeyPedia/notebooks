@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Love styles */",
+  "timestamp": "2005-08-10T23:47:05Z",
+  "revid": 20733586,
+  "user": "Andycjp",
+  "parentid": 20731360,
+  "diff": {
+    "to": 20733586,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 92:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 92:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Love styles===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Love styles===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Susan Hendrick]] and <del class=\"diffchange diffchange-inline\">[[</del>Clyde Hendrick<del class=\"diffchange diffchange-inline\">]]</del> developed a theory called [[Love styles]]. They identified six basic theories that people use in their interpersonal relationships:</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Susan Hendrick]] and Clyde Hendrick developed a theory called [[Love styles]]. They identified six basic theories that people use in their interpersonal relationships:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Eros]] &amp;mdash; a passionate physical love based on physical appearance</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Eros]] &amp;mdash; a passionate physical love based on physical appearance</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ludus]] &amp;mdash; love is played as a game; love is playful</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ludus]] &amp;mdash; love is played as a game; love is playful</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:20731360:newid:20733586 -->\n",
+    "from": 20731360
+  },
+  "minor": ""
+}

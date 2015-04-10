@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Types */",
+  "timestamp": "2006-09-16T01:28:02Z",
+  "revid": 75973323,
+  "anon": "",
+  "user": "203.206.175.46",
+  "parentid": 75973258,
+  "diff": {
+    "to": 75973323,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Familial love]] – affection brokered through kinship connections, intertwined with concepts of attachment and bonding</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Familial love]] – affection brokered through kinship connections, intertwined with concepts of attachment and bonding</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Free love]] – sexual relations according to choice and unrestricted by marriage</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Free love]] – sexual relations according to choice and unrestricted by marriage</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Dhaneel]] - used in the New Testament, philia is a human response to something that is found to be delightful. Also known as \"brotherly love\"</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Dhaneel<ins class=\"diffchange diffchange-inline\"> Love</ins>]] - used in the New Testament, philia is a human response to something that is found to be delightful. Also known as \"brotherly love\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Platonic love]] – a close relationship in which sexual desire is non-existent or has been suppressed or sublimated</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Platonic love]] – a close relationship in which sexual desire is non-existent or has been suppressed or sublimated</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Puppy love]] – romantic affection that is not \"mature\" or not \"true.\" The term is often used with negative connotations, insinuating that love between youngsters is less genuine or valuable</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Puppy love]] – romantic affection that is not \"mature\" or not \"true.\" The term is often used with negative connotations, insinuating that love between youngsters is less genuine or valuable</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:75973258:newid:75973323 -->\n",
+    "from": 75973258
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "rv spam",
+  "timestamp": "2007-10-04T23:19:22Z",
+  "revid": 162348898,
+  "user": "KnowledgeOfSelf",
+  "parentid": 162348791,
+  "diff": {
+    "to": 162348898,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 168:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 168:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.youtube.com/v/GgG5z9UHFAk Love Song Video] - [[John Lennon]] (Youtube)</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.youtube.com/v/GgG5z9UHFAk Love Song Video] - [[John Lennon]] (Youtube)<ins class=\"diffchange diffchange-inline\"> </ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://www.wikihow.com/Meet-a-Nice-Girl-in-a-Bistro How to Meet a Nice Girl in a Bistro] Sample for dating in a public place (wikihow-checklist)</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:162348791:newid:162348898 -->\n",
+    "from": 162348791
+  },
+  "minor": ""
+}

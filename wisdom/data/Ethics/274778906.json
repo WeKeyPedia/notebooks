@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2009-03-03T22:09:03Z",
+  "revid": 274778906,
+  "anon": "",
+  "user": "86.25.255.16",
+  "parentid": 274776417,
+  "diff": {
+    "to": 274778906,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' is a<del class=\"diffchange diffchange-inline\">  gay</del> word for <del class=\"diffchange diffchange-inline\">of</del> [[philosophy]] that encompasses proper conduct and good living. It is significantly broader than the common conception of ethics as the analyzing of right and wrong. A central aspect of ethics is \"the good life\", the life worth living or that is simply satisfying, which is held by many philosophers to be more important than [[Morality|moral]] conduct.&lt;ref&gt;Singer, P. (1993) ''Practical Ethics'', 2nd edition (p.10), Cambridge: Cambridge University Press&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' is a word for <ins class=\"diffchange diffchange-inline\">a</ins> [[philosophy]] that encompasses proper conduct and good living. It is significantly broader than the common conception of ethics as the analyzing of right and wrong. A central aspect of ethics is \"the good life\", the life worth living or that is simply satisfying, which is held by many philosophers to be more important than [[Morality|moral]] conduct.&lt;ref&gt;Singer, P. (1993) ''Practical Ethics'', 2nd edition (p.10), Cambridge: Cambridge University Press&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Greek philosophy==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Greek philosophy==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:274776417:newid:274778906 -->\n",
+    "from": 274776417
+  }
+}

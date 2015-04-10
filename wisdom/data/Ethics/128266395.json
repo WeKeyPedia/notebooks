@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Descriptive ethics */",
+  "timestamp": "2007-05-04T18:52:03Z",
+  "revid": 128266395,
+  "anon": "",
+  "user": "96.4.32.2",
+  "parentid": 128266178,
+  "diff": {
+    "to": 128266395,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 34:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 34:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Observed choices made by ordinary people, without expert aid or advice, who [[vote]], [[buy]], and decide what is worth fighting about.  This is a major concern of [[sociology]], [[political science]], and [[economics]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Observed choices made by ordinary people, without expert aid or advice, who [[vote]], [[buy]], and decide what is worth fighting about.  This is a major concern of [[sociology]], [[political science]], and [[economics]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Those who embrace such descriptive approaches tend to reject overtly normative ones.  There are exceptions, such as the movement to more [[moral purchasing]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Those who embrace such descriptive approaches tend to reject overtly normative ones.  There are exceptions, such as the movement to more [[moral purchasing]].<ins class=\"diffchange diffchange-inline\">  Blowin more than a lolly pop!</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Applied ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Applied ethics==</div></td>\n</tr>\n",
+    "from": 128266178
+  }
+}

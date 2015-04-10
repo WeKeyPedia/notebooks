@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* References */",
+  "timestamp": "2006-08-10T00:07:57Z",
+  "revid": 68720117,
+  "anon": "",
+  "user": "82.33.149.76",
+  "parentid": 68606688,
+  "diff": {
+    "to": 68720117,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 128:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 128:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:* Dorothy Tennov. ''A Scientist Looks at Romantic Love and Calls It \"Limerence\": The Collected Works of Dorothy Tennov''. Greenwich, CT: The Great American Publishing Society (GRAMPS), [http://www.gramps.org/limerence]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:* Dorothy Tennov. ''A Scientist Looks at Romantic Love and Calls It \"Limerence\": The Collected Works of Dorothy Tennov''. Greenwich, CT: The Great American Publishing Society (GRAMPS), [http://www.gramps.org/limerence]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:* Wood, Wood and Boyd. ''The World of Psychology''. 5th edition. 2005. Pearson Education, 402&amp;ndash;403</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:* Wood, Wood and Boyd. ''The World of Psychology''. 5th edition. 2005. Pearson Education, 402&amp;ndash;403</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&lt;/div&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>&lt;/div&gt;<ins class=\"diffchange diffchange-inline\"> it also is gey</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:68606688:newid:68720117 -->\n",
+    "from": 68606688
+  }
+}

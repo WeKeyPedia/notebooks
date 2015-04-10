@@ -1,0 +1,13 @@
+﻿{
+  "comment": "+[[ckb:خۆشەویستی]]",
+  "timestamp": "2012-02-12T13:24:28Z",
+  "revid": 476444821,
+  "user": "ئاسۆ",
+  "parentid": 476430094,
+  "diff": {
+    "to": 476444821,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 342:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 342:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sl:Ljubezen]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sl:Ljubezen]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[so:Jaceyl]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[so:Jaceyl]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[ckb:<del class=\"diffchange diffchange-inline\">•.•.LOVE•12•7•.•.</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[ckb:<ins class=\"diffchange diffchange-inline\">خۆشەویستی</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sr:Љубав]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sr:Љубав]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sh:Ljubav]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sh:Ljubav]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:476430094:newid:476444821 -->\n",
+    "from": 476430094
+  },
+  "minor": ""
+}

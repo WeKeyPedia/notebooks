@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Definitions */ expand",
+  "timestamp": "2010-01-26T17:09:04Z",
+  "revid": 340161883,
+  "user": "ChildofMidnight",
+  "parentid": 337889191,
+  "diff": {
+    "to": 340161883,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 85:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 85:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|publisher=Wikisource edition</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|publisher=Wikisource edition</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|accessdate=Mar 25, 2009}}&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|accessdate=Mar 25, 2009}}&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Love is sometimes referred to as being the \"international language\", superceding cultural and linguistic divisions.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Impersonal love==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Impersonal love==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:337889191:newid:340161883 -->\n",
+    "from": 337889191
+  }
+}

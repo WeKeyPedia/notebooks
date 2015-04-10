@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Additions To The Scientific Perspective Of Wisdom",
+  "timestamp": "2007-02-22T18:59:53Z",
+  "revid": 110125064,
+  "user": "Stevenson-Perez",
+  "parentid": 110124912,
+  "diff": {
+    "to": 110125064,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 39:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 39:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>7. Sharing Results &amp; Methods Truthfully With Others;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>7. Sharing Results &amp; Methods Truthfully With Others;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>8. Checking For Reproducibility By Others; And,</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>8. Checking For Reproducibility By Others; And,</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>9. Asking New Questions </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>9. Asking New Questions<ins class=\"diffchange diffchange-inline\">.</ins> </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''‘Wisdom’''' is currently viewed as the fourth stage in a DIKW [http://en.wikipedia.org/wiki/DIKW]-based approach to the scientific-learning process.  </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''‘Wisdom’''' is currently viewed as the fourth stage in a DIKW [http://en.wikipedia.org/wiki/DIKW]-based approach to the scientific-learning process.  </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:110124912:newid:110125064 -->\n",
+    "from": 110124912
+  },
+  "minor": ""
+}

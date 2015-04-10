@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Chemical basis */",
+  "timestamp": "2009-07-06T23:04:43Z",
+  "revid": 300689431,
+  "user": "Finchick",
+  "parentid": 300050896,
+  "diff": {
+    "to": 300689431,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 54:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 54:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Chemical basis===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Chemical basis===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[File:<del class=\"diffchange diffchange-inline\">Chemical</del> basis of love.png|thumb|right|230px|Simplistic overview of the chemical basis of love.]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[File:<ins class=\"diffchange diffchange-inline\">Biological</ins> basis of love.png|thumb|right|230px|Simplistic overview of the chemical basis of love.]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Love (scientific views)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Love (scientific views)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:300050896:newid:300689431 -->\n",
+    "from": 300050896
+  }
+}

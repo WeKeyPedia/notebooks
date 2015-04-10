@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-06-15T19:27:42Z",
+  "revid": 15250566,
+  "anon": "",
+  "user": "204.113.91.64",
+  "parentid": 15246002,
+  "diff": {
+    "to": 15250566,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics = the study of morality''' </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''<ins class=\"diffchange diffchange-inline\">(</ins>Ethics = the study of morality<ins class=\"diffchange diffchange-inline\">)</ins>''' </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>+</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>+</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Morality = the idea of whether something is right or wrong'''</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''<ins class=\"diffchange diffchange-inline\">(</ins>Morality = the idea of whether something is right or wrong<ins class=\"diffchange diffchange-inline\">)</ins>'''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''the study of the idea of whether something is right or wrong'''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''the study of the idea of whether something is right or wrong'''</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:15246002:newid:15250566 -->\n",
+    "from": 15246002
+  }
+}

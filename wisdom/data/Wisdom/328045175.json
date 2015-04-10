@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* External links */ rm spammed link",
+  "timestamp": "2009-11-26T14:26:04Z",
+  "revid": 328045175,
+  "user": "MrOllie",
+  "parentid": 327444760,
+  "diff": {
+    "to": 328045175,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 118:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 118:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.path-work.info Atlas of Wisdom: Wisdom in Psychology and Spirituality]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.path-work.info Atlas of Wisdom: Wisdom in Psychology and Spirituality]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.nick-maxwell.demon.co.uk From Knowledge to Wisdom]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.nick-maxwell.demon.co.uk From Knowledge to Wisdom]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.wisdomresearch.org Defining Wisdom] (Project - University of Chicago)</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.foundationsmag.com/wisdom.html Where is the Wisdom We have Lost in Knowledge?]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.foundationsmag.com/wisdom.html Where is the Wisdom We have Lost in Knowledge?]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.excaliburbooks.com Wisdom in Perspective]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.excaliburbooks.com Wisdom in Perspective]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:327444760:newid:328045175 -->\n",
+    "from": 327444760
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Morals */",
+  "timestamp": "2008-01-22T20:49:52Z",
+  "revid": 186190477,
+  "anon": "",
+  "user": "82.12.160.97",
+  "parentid": 186055446,
+  "diff": {
+    "to": 186190477,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Personal ethics signifies a moral code applicable to individuals, while social ethics means moral theory applied to groups. Social ethics can be synonymous with social and political philosophy, in as much as it is the foundation of a good society or state.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Personal ethics signifies a moral code applicable to individuals, while social ethics means moral theory applied to groups. Social ethics can be synonymous with social and political philosophy, in as much as it is the foundation of a good society or state.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Ethics is not limited to specific acts and defined moral codes, but encompasses the whole of moral ideals and behaviors, a person's philosophy of life (or ''[[Weltanschauung]]'').&lt;ref&gt;Sahakian, William S. &amp; Sahakian, Mabel Lewis. ''Ideas of the Great Philosophers''. pp 31-32. Barnes and Noble Books (1993). ISBN 9781566192712.&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Ethics is not limited to specific acts and defined moral codes, but encompasses the whole of moral ideals and behaviors, a person's philosophy of life (or ''[[Weltanschauung]]'').&lt;ref&gt;Sahakian, William S. &amp; Sahakian, Mabel Lewis. ''Ideas of the Great Philosophers''. pp 31-32. Barnes and Noble Books (1993)<ins class=\"diffchange diffchange-inline\">. Also it can be looked at if the means justifies the end result</ins>. ISBN 9781566192712.&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Greek philosophy==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Greek philosophy==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:186055446:newid:186190477 -->\n",
+    "from": 186055446
+  }
+}

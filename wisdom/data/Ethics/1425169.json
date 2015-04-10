@@ -1,0 +1,13 @@
+﻿{
+  "comment": "links",
+  "timestamp": "2003-09-10T16:44:09Z",
+  "revid": 1425169,
+  "user": "Andrewa",
+  "parentid": 1416478,
+  "diff": {
+    "to": 1425169,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 13:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 13:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Divisions of Ethics ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Divisions of Ethics ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In [[analytic philosophy]], ethics is traditionally divided into three fields: Metaethics, Normative ethics and applied ethics.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In [[analytic philosophy]], ethics is traditionally divided into three fields: <ins class=\"diffchange diffchange-inline\">[[</ins>Metaethics<ins class=\"diffchange diffchange-inline\">]]</ins>, <ins class=\"diffchange diffchange-inline\">[[</ins>Normative ethics<ins class=\"diffchange diffchange-inline\">]]</ins> and <ins class=\"diffchange diffchange-inline\">[[</ins>applied ethics<ins class=\"diffchange diffchange-inline\">]]</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Metaethics ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Metaethics ===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:1416478:newid:1425169 -->\n",
+    "from": 1416478
+  },
+  "minor": ""
+}

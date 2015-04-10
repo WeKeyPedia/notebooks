@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* References */",
+  "timestamp": "2011-02-11T19:45:25Z",
+  "revid": 413351296,
+  "anon": "",
+  "user": "72.187.7.234",
+  "parentid": 413245733,
+  "diff": {
+    "to": 413351296,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 182:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 182:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* Hoy, D.  2004, Critical resistance from poststructuralism <del class=\"diffchange diffchange-inline\">to</del> postcritique, [[Massachusetts Institute of Technology]], Massachusetts.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* Hoy, D.  2004, Critical resistance from poststructuralism <ins class=\"diffchange diffchange-inline\">too</ins> postcritique, [[Massachusetts Institute of Technology]], Massachusetts.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Lyon, D  1999,  Postmodernity, 2nd ed, [[Open University Press]], Buckingham.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Lyon, D  1999,  Postmodernity, 2nd ed, [[Open University Press]], Buckingham.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Singer, P  2000, Writings on an ethical life, [[Harper Collins Publishers]], London.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Singer, P  2000, Writings on an ethical life, [[Harper Collins Publishers]], London.</div></td>\n</tr>\n",
+    "from": 413245733
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Books */",
+  "timestamp": "2010-02-28T13:17:09Z",
+  "revid": 346874584,
+  "user": "The kicker",
+  "parentid": 346687307,
+  "diff": {
+    "to": 346874584,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 128:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 128:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[The Wisdom of Crowds]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[The Wisdom of Crowds]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[The Wisdom Page]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[The Wisdom Page]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Sternberg, Robert J.]], ''Wisdom: It's Nature, Origins, and Developmet'' (1990). [[Cambridge University Press]]. ISBN 0-521-36718-2</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:346687307:newid:346874584 -->\n",
+    "from": 346687307
+  }
+}

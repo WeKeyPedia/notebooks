@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Further reading */ added bell hooks' \"All About Love: New Visions",
+  "timestamp": "2007-09-28T02:05:18Z",
+  "revid": 160829468,
+  "user": "Ramurf",
+  "parentid": 160828463,
+  "diff": {
+    "to": 160829468,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 164:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 164:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Helen Fisher. ''Why We Love: the Nature and Chemistry of Romantic Love''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Helen Fisher. ''Why We Love: the Nature and Chemistry of Romantic Love''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Gabriele Froböse, Rolf Froböse, Michael Gross (Translator): ''Lust and Love: Is it more than Chemistry?'' Publisher: Royal Society of Chemistry, ISBN 0-85404-867-7, (2006). </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Gabriele Froböse, Rolf Froböse, Michael Gross (Translator): ''Lust and Love: Is it more than Chemistry?'' Publisher: Royal Society of Chemistry, ISBN 0-85404-867-7, (2006). </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[bell hooks]], 'All About Love'. New York: Harper Perennial, <del class=\"diffchange diffchange-inline\">2001</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[bell hooks]], '<ins class=\"diffchange diffchange-inline\">[[</ins>All About Love<ins class=\"diffchange diffchange-inline\">: New Visions]]</ins>'. New York: Harper Perennial, <ins class=\"diffchange diffchange-inline\">2000</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Johnson, P (2005) 'Love, Heterosexuality and Society'. Routledge: London.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Johnson, P (2005) 'Love, Heterosexuality and Society'. Routledge: London.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Thomas Jay Oord, Science of Love: The Wisdom of Well-Being. Philadelphia: Templeton Foundation Press, 2004.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Thomas Jay Oord, Science of Love: The Wisdom of Well-Being. Philadelphia: Templeton Foundation Press, 2004.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:160828463:newid:160829468 -->\n",
+    "from": 160828463
+  },
+  "minor": ""
+}

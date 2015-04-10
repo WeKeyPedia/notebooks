@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Excess wikitag removed.",
+  "timestamp": "2003-04-20T14:16:25Z",
+  "revid": 859218,
+  "user": "General Wesc",
+  "parentid": 847015,
+  "diff": {
+    "to": 859218,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[es:Ética]][[fr:Éthique]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[es:Ética]][[fr:Éthique]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' is a branch of [[philosophy]] which studies questions pertaining to right and wrong, good and bad.  '''[[meta:Simple View of Ethics and Morals]]''' deals with these in much simpler language.<del class=\"diffchange diffchange-inline\">'''</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' is a branch of [[philosophy]] which studies questions pertaining to right and wrong, good and bad.  '''[[meta:Simple View of Ethics and Morals]]''' deals with these in much simpler language.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>When balances between these are considered, especially in public policy, ethics becomes [[politics]].  When religious concepts are considered to dominate over human conceptions of right and wrong, ethics are presumed to derive from a [[moral code]] - usually divinely inspired or revealed.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>When balances between these are considered, especially in public policy, ethics becomes [[politics]].  When religious concepts are considered to dominate over human conceptions of right and wrong, ethics are presumed to derive from a [[moral code]] - usually divinely inspired or revealed.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:847015:newid:859218 -->\n",
+    "from": 847015
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Quotations about wisdom */",
+  "timestamp": "2007-10-24T00:49:48Z",
+  "revid": 166648149,
+  "anon": "",
+  "user": "141.217.111.171",
+  "parentid": 166304106,
+  "diff": {
+    "to": 166648149,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 97:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 97:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"All I know is that I know nothing.\" ― [[Socrates]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"All I know is that I know nothing.\" ― [[Socrates]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>\"Wisdom is something to apply while knowledge is to use.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n</tr>\n",
+    "from": 166304106
+  }
+}

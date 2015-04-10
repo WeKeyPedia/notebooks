@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-04-21T21:27:32Z",
+  "revid": 49502286,
+  "anon": "",
+  "user": "68.227.176.61",
+  "parentid": 48791747,
+  "diff": {
+    "to": 49502286,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Buddha]] taught that a wise person is endowed with good bodily conduct, good verbal conduct &amp; good mental conduct (AN3:2) and a wise person does actions that are unpleasant to do but give good results and doesn’t do actions that are pleasant to do but give bad results (AN4:115).</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Buddha]] taught that a wise person is endowed with good bodily conduct, good verbal conduct &amp; good mental conduct (AN3:2) and a wise person does actions that are unpleasant to do but give good results and doesn’t do actions that are pleasant to do but give bad results (AN4:115).</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Practical WISDOM may be described as: Knowing what to say &amp; when to say it. TAO</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n</tr>\n",
+    "from": 48791747
+  }
+}

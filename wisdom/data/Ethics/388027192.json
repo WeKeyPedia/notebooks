@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2010-10-01T02:01:07Z",
+  "revid": 388027192,
+  "anon": "",
+  "user": "123.231.248.151",
+  "parentid": 388026872,
+  "diff": {
+    "to": 388027192,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' (sometimes known as '''moral philosophy''') is a branch of [[philosophy]] that addresses questions <del class=\"diffchange diffchange-inline\">about</del> <del class=\"diffchange diffchange-inline\">[[morality]]</del> <del class=\"diffchange diffchange-inline\">— that is,</del> concepts <del class=\"diffchange diffchange-inline\">such as</del> [[good and bad]], right and wrong, [[justice]], [[virtue]], etc.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' (sometimes known as '''moral philosophy''') is a branch of [[philosophy]] that addresses questions <ins class=\"diffchange diffchange-inline\">concerning</ins> <ins class=\"diffchange diffchange-inline\">the</ins>  concepts <ins class=\"diffchange diffchange-inline\">of</ins> [[good and bad]], right and wrong, [[justice]], [[virtue]], etc.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:388026872:newid:388027192 -->\n",
+    "from": 388026872
+  }
+}

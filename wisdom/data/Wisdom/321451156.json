@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2009-10-22T20:47:21Z",
+  "revid": 321451156,
+  "anon": "",
+  "user": "76.224.115.249",
+  "parentid": 320879856,
+  "diff": {
+    "to": 321451156,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 175:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 175:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:קלוגשאפט]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:קלוגשאפט]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:智慧]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:智慧]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>wisdom is the end of the world!!</div></td>\n</tr>\n",
+    "from": 320879856
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-02-28T11:14:00Z",
+  "revid": 41596215,
+  "anon": "",
+  "user": "203.196.161.147",
+  "parentid": 41596116,
+  "diff": {
+    "to": 41596215,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 204:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 204:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Hindu===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Hindu===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">In Hinduism ''[[kāma]]'' is pleasurable, sexual love, personified by the god [[Kama (Hinduism)|Kama]]. For many Hindu schools it is the third end in life .</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>HInduism describes love which is unconditional it doesn't have to do anything with <del class=\"diffchange diffchange-inline\">KAma</del> </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>HInduism describes love which is unconditional it doesn't have to do anything with <ins class=\"diffchange diffchange-inline\">Kama,</ins> </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is described as something pure from heart.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is described as something pure from heart.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 41596116
+  }
+}

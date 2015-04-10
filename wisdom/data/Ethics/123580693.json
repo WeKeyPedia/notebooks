@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Normative ethics */",
+  "timestamp": "2007-04-17T17:42:07Z",
+  "revid": 123580693,
+  "anon": "",
+  "user": "193.1.74.96",
+  "parentid": 123580408,
+  "diff": {
+    "to": 123580693,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Normative ethicists who follow the third approach are often called [[consequentialism|consequentialists]] or (specifically in regard to the theory of the greatest good for the greatest number) [[utilitarianism|utilitarian]]s; [[John Stuart Mill]] set out a large framework for a utilitarian normative ethics.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Normative ethicists who follow the third approach are often called [[consequentialism|consequentialists]] or (specifically in regard to the theory of the greatest good for the greatest number) [[utilitarianism|utilitarian]]s; [[John Stuart Mill]] set out a large framework for a utilitarian normative ethics.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">Keith</del> <del class=\"diffchange diffchange-inline\">Gillespie</del> <del class=\"diffchange diffchange-inline\">is</del> <del class=\"diffchange diffchange-inline\">a</del> <del class=\"diffchange diffchange-inline\">nut</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">David</ins> <ins class=\"diffchange diffchange-inline\">Sherwood</ins> <ins class=\"diffchange diffchange-inline\">has</ins> <ins class=\"diffchange diffchange-inline\">lost</ins> <ins class=\"diffchange diffchange-inline\">the plot. Mental</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Descriptive ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Descriptive ethics==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:123580408:newid:123580693 -->\n",
+    "from": 123580408
+  }
+}

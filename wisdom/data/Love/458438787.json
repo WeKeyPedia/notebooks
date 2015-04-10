@@ -1,0 +1,13 @@
+﻿{
+  "comment": "r2.7.1) (Robot: Removing [[iu:ᑕᑯᑦᓱᒍᓱᑉᐳᖅ/takutsugusuppuq]]",
+  "timestamp": "2011-11-01T10:24:55Z",
+  "revid": 458438787,
+  "user": "ChuispastonBot",
+  "parentid": 456653957,
+  "diff": {
+    "to": 458438787,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 281:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 281:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[id:Cinta]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[id:Cinta]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ia:Amor]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ia:Amor]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[iu:ᑕᑯᑦᓱᒍᓱᑉᐳᖅ/takutsugusuppuq]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[is:Ást]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[is:Ást]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[it:Amore]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[it:Amore]]</div></td>\n</tr>\n",
+    "from": 456653957
+  },
+  "minor": ""
+}

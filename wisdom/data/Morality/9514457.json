@@ -1,0 +1,13 @@
+﻿{
+  "comment": "+ru",
+  "timestamp": "2005-01-20T17:57:39Z",
+  "revid": 9514457,
+  "user": ".:Ajvol:.",
+  "parentid": 9508905,
+  "diff": {
+    "to": 9514457,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 70:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 70:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[he:&amp;#1502;&amp;#1493;&amp;#1505;&amp;#1512;]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[he:&amp;#1502;&amp;#1493;&amp;#1505;&amp;#1512;]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Moralno&amp;#347;&amp;#263;]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Moralno&amp;#347;&amp;#263;]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[ru:&amp;#1052;&amp;#1086;&amp;#1088;&amp;#1072;&amp;#1083;&amp;#1100;]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:&amp;#36947;&amp;#24503;]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:&amp;#36947;&amp;#24503;]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:9508905:newid:9514457 -->\n",
+    "from": 9508905
+  },
+  "minor": ""
+}

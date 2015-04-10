@@ -1,0 +1,13 @@
+﻿{
+  "comment": "[[Help:Reverting|Reverted]] edits by [[Special:Contributions/121.54.96.5|121.54.96.5]] ([[User talk:121.54.96.5|talk]]) to last version by FrescoBot",
+  "timestamp": "2010-07-03T02:19:45Z",
+  "revid": 371478620,
+  "user": "The Utahraptor",
+  "parentid": 371478566,
+  "diff": {
+    "to": 371478620,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 212:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 212:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מוסר]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מוסר]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:道德]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:道德]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>this was made by hgdfsihfio</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:371478566:newid:371478620 -->\n",
+    "from": 371478566
+  },
+  "minor": ""
+}

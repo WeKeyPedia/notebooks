@@ -1,0 +1,12 @@
+﻿{
+  "comment": "rv deletion by [[ 210.186.110.240]] to last version by Paul August",
+  "timestamp": "2005-08-25T04:32:30Z",
+  "revid": 21780190,
+  "user": "Boojum",
+  "parentid": 21780104,
+  "diff": {
+    "to": 21780190,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Service]]: desire to help</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Service]]: desire to help</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">Sexual energy can be the most important element in determining the shape of a relationship.  While sexual attraction often establishes a new bond, sexual intention is considered undesirable or inappropriate in certain love bonds. In many religions and systems of ethics it is considered wrong to act on sexual desire for immediate family, for children, or outside of a committed relationship. However, there are many ways to express passionate love without sex.  Affection, emotional intimacy and shared interests are common in friendships and kinships of all human beings.</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Impersonal love===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Impersonal love===</div></td>\n</tr>\n",
+    "from": 21780104
+  }
+}

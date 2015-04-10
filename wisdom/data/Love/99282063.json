@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Definitional issues */",
+  "timestamp": "2007-01-08T08:08:07Z",
+  "revid": 99282063,
+  "user": "Simplywater",
+  "parentid": 99276428,
+  "diff": {
+    "to": 99282063,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 76:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 76:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Thomas Jay Oord]] defines love as acting intentionally, in sympathetic response to others (including God), to promote overall well-being.  Oord means for his definition to be adequate for religion, philosophy, and the sciences.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Thomas Jay Oord]] defines love as acting intentionally, in sympathetic response to others (including God), to promote overall well-being.  Oord means for his definition to be adequate for religion, philosophy, and the sciences.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Mary Baker Eddy]] the discoverer of [[Christian Science]] defines Love as God. This indicates that Diety is more than a being that has benevolent concerns for mankind, but rather that God is Love itself.   This definition has authority from the biblical verse \"He that loveth not,knoweth not God; for God is love.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:99276428:newid:99282063 -->\n",
+    "from": 99276428
+  }
+}

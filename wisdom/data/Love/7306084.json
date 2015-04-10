@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Triangular Theory of Love */  - remove spurious wikilink to passion -> Passion of Christ",
+  "timestamp": "2004-11-10T19:40:10Z",
+  "revid": 7306084,
+  "anon": "",
+  "user": "66.102.74.5",
+  "parentid": 7306055,
+  "diff": {
+    "to": 7306084,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 51:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 51:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Triangular Theory of Love ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Triangular Theory of Love ===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In the [[triangular theory of love]], love is characterized by three elements: [[intimacy]], <del class=\"diffchange diffchange-inline\">[[</del>passion<del class=\"diffchange diffchange-inline\">]],</del> and [[commitment]]. Each of these elements can be present in a relationship, producing the following combinations:</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In the [[triangular theory of love]], love is characterized by three elements: [[intimacy]], passion and [[commitment]]. Each of these elements can be present in a relationship, producing the following combinations:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{| border=1 cellpadding=3 cellspacing=0</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{| border=1 cellpadding=3 cellspacing=0</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|+Combinations of intimacy, passion, and commitment</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|+Combinations of intimacy, passion, and commitment</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:7306055:newid:7306084 -->\n",
+    "from": 7306055
+  }
+}

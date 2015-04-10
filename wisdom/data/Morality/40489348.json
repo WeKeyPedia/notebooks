@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* '''Book sources link:''' */",
+  "timestamp": "2006-02-20T23:08:40Z",
+  "revid": 40489348,
+  "user": "Fuzzform",
+  "parentid": 40489106,
+  "diff": {
+    "to": 40489348,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 84:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 84:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Religion]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Religion]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>==<del class=\"diffchange diffchange-inline\">'''</del>Book sources<del class=\"diffchange diffchange-inline\"> link:'''</del>==</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>==Book sources==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* ISBN 1841124362</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*<ins class=\"diffchange diffchange-inline\"> Trompenaars, Fons. ''Did the Pedestrian Die?''</ins> ISBN 1841124362</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:40489106:newid:40489348 -->\n",
+    "from": 40489106
+  }
+}

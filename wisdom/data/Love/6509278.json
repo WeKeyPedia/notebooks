@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Impersonal love */",
+  "timestamp": "2004-10-12T01:57:30Z",
+  "revid": 6509278,
+  "user": "Johnkarp",
+  "parentid": 6508866,
+  "diff": {
+    "to": 6509278,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 27:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 27:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Impersonal love===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Impersonal love===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>A person can be said to love a country, principle, or goal if they value it greatly and are deeply committed to it. People can also 'love' material objects, animals, or activities if they like them a great deal. <del class=\"diffchange diffchange-inline\">When</del> romantic love is actually felt, its typically considered abnormal or unhealthy, and<del class=\"diffchange diffchange-inline\"> is</del> called [[paraphilia]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>A person can be said to love a country, principle, or goal if they value it greatly and are deeply committed to it. People can also 'love' material objects, animals, or activities if they like them a great deal. <ins class=\"diffchange diffchange-inline\">In these cases, if</ins> romantic love is actually felt, its typically considered abnormal or unhealthy, and called [[paraphilia]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religious love===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religious love===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:6508866:newid:6509278 -->\n",
+    "from": 6508866
+  },
+  "minor": ""
+}

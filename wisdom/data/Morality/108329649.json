@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Morality as maladaptive and universal */",
+  "timestamp": "2007-02-15T14:26:05Z",
+  "revid": 108329649,
+  "anon": "",
+  "user": "4.159.5.108",
+  "parentid": 108326315,
+  "diff": {
+    "to": 108329649,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 33:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 33:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Morality as maladaptive and universal ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Morality as maladaptive and universal ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>On the other side of the evolutionary fence, Phil Roberts, Jr. has offered a <del class=\"diffchange diffchange-inline\">view</del> in which morality, and specifically the capacity for guilt, is viewed as a maladaptive byproduct of the evolution of rationality:</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>On the other side of the evolutionary fence, Phil Roberts, Jr. has offered a <ins class=\"diffchange diffchange-inline\">perspective</ins> in which morality, and specifically the capacity for guilt, is viewed as a maladaptive byproduct of the evolution of rationality:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;blockquote&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;blockquote&gt;</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:108326315:newid:108329649 -->\n",
+    "from": 108326315
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Overview */",
+  "timestamp": "2007-01-09T16:13:35Z",
+  "revid": 99578158,
+  "anon": "",
+  "user": "124.104.159.90",
+  "parentid": 99577950,
+  "diff": {
+    "to": 99578158,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 15:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 15:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;br/&gt;of ''love'' may be applied to close friendships as well.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;br/&gt;of ''love'' may be applied to close friendships as well.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">Ex</del> <del class=\"diffchange diffchange-inline\">kaayo</del> <del class=\"diffchange diffchange-inline\">mo!</del> <del class=\"diffchange diffchange-inline\">blehhhh&lt;/ref&gt;</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">Ang</ins> <ins class=\"diffchange diffchange-inline\">LOVE</ins> <ins class=\"diffchange diffchange-inline\">KUNG</ins> <ins class=\"diffchange diffchange-inline\">IS LIKE A BUBBLE GUM KUNG MUPILIT MAKABUANG!!!!!!</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love-zh.png|215px|thumb|left|The traditional [[Chinese character]] for love (愛) consists of a [[heart]] (middle) inside of \"accept,\" \"feel\" or \"perceive,\" which shows a graceful emotion.]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love-zh.png|215px|thumb|left|The traditional [[Chinese character]] for love (愛) consists of a [[heart]] (middle) inside of \"accept,\" \"feel\" or \"perceive,\" which shows a graceful emotion.]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:99577950:newid:99578158 -->\n",
+    "from": 99577950
+  }
+}

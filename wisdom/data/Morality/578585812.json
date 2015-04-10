@@ -1,0 +1,13 @@
+﻿{
+  "comment": "[[Help:Reverting|Reverted]] edits by [[Special:Contributions/74.192.138.54|74.192.138.54]] ([[User talk:74.192.138.54|talk]]) to last version by Editor2020",
+  "timestamp": "2013-10-24T18:51:12Z",
+  "revid": 578585812,
+  "user": "Widr",
+  "parentid": 578585547,
+  "diff": {
+    "to": 578585812,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 232:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 232:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[nl:Moralisme]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[nl:Moralisme]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>face it or else</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:578585547:newid:578585812 -->\n",
+    "from": 578585547
+  },
+  "minor": ""
+}

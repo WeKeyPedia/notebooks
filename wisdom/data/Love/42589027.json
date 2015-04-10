@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Scientific models */",
+  "timestamp": "2006-03-07T03:37:07Z",
+  "revid": 42589027,
+  "anon": "",
+  "user": "24.234.167.165",
+  "parentid": 42583062,
+  "diff": {
+    "to": 42589027,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific models==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific models==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>== Headline text ==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Mindy Loves Anthony Forever!</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Throughout history, predominately, [[philosophy]] and [[religion]] have speculated the most into the phenomena of love.  In the last century, the science of [[psychology]] has written a great deal on the subject.  Recently, however, the sciences of [[evolutionary psychology]], [[evolutionary biology]], [[anthropology]], [[neuroscience]], and [[biology]] have begun to take center stage in discussion as to the nature and function of love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Throughout history, predominately, [[philosophy]] and [[religion]] have speculated the most into the phenomena of love.  In the last century, the science of [[psychology]] has written a great deal on the subject.  Recently, however, the sciences of [[evolutionary psychology]], [[evolutionary biology]], [[anthropology]], [[neuroscience]], and [[biology]] have begun to take center stage in discussion as to the nature and function of love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:42583062:newid:42589027 -->\n",
+    "from": 42583062
+  }
+}

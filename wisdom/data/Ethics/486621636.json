@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Greek philosophy */",
+  "timestamp": "2012-04-10T13:31:52Z",
+  "revid": 486621636,
+  "anon": "",
+  "user": "41.237.235.148",
+  "parentid": 484720220,
+  "diff": {
+    "to": 486621636,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In 1971 [[John Rawls]] published ''[[A Theory of Justice]]'', noteworthy in its pursuit of moral arguments and eschewing of meta-ethics. This publication set the trend for renewed interest in normative ethics.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In 1971 [[John Rawls]] published ''[[A Theory of Justice]]'', noteworthy in its pursuit of moral arguments and eschewing of meta-ethics. This publication set the trend for renewed interest in normative ethics.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>===Greek philosophy===</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>===Greek philosophy<ins class=\"diffchange diffchange-inline\"> and Philosiphers</ins>===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Virtue ethics====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Virtue ethics====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Virtue ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Virtue ethics}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:484720220:newid:486621636 -->\n",
+    "from": 484720220
+  }
+}

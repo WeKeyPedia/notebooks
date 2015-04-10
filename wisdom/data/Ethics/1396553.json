@@ -1,0 +1,12 @@
+﻿{
+  "comment": "I wouldn't call these \"disputes\" - they're just different avenues of approach",
+  "timestamp": "2003-09-05T19:15:24Z",
+  "revid": 1396553,
+  "user": "Ed Poor",
+  "parentid": 1396471,
+  "diff": {
+    "to": 1396553,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 15:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 15:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>For the most accepted Western academic categorization of ethics, see [[moral philosophy]].  This article is concerned with that, analytic, approach, but also with the many other ways in which human beings define, limit and resolve conflicts.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>For the most accepted Western academic categorization of ethics, see [[moral philosophy]].  This article is concerned with that, analytic, approach, but also with the many other ways in which human beings define, limit and resolve conflicts.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>== <del class=\"diffchange diffchange-inline\">Disputes</del> <del class=\"diffchange diffchange-inline\">of</del> <del class=\"diffchange diffchange-inline\">definition</del> ==</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>== <ins class=\"diffchange diffchange-inline\">Major</ins> <ins class=\"diffchange diffchange-inline\">approaches</ins> <ins class=\"diffchange diffchange-inline\">to ethics</ins> ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>There are at least four well-recognized ways to approach this subject. From the most studious to the most active:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>There are at least four well-recognized ways to approach this subject. From the most studious to the most active:</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:1396471:newid:1396553 -->\n",
+    "from": 1396471
+  }
+}

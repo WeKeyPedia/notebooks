@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Religious views */",
+  "timestamp": "2007-01-12T01:02:07Z",
+  "revid": 100122425,
+  "anon": "",
+  "user": "70.108.50.129",
+  "parentid": 100116812,
+  "diff": {
+    "to": 100122425,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 47:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 47:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Also as science defines Love: {{Love is the cognitive affective state, characterized by intrusive and obsessive fantazing, concerning reciprocity of amorant feelings, with the subject of amorance.}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Also as science defines Love: {{<ins class=\"diffchange diffchange-inline\">cquote|</ins>Love is the cognitive affective state, characterized by intrusive and obsessive fantazing, concerning reciprocity of amorant feelings, with the subject of amorance.}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>This means that in a relationship, both male and female are expected to love mutually. In a mutual relationship both partners benefit, not one giving and the other only receiving. No! The bible says that LOVE is a gift for GOD. Furthermore, the first fruit of the spirit is LOVE, as we all know it.(Galatians 5:22)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:100116812:newid:100122425 -->\n",
+    "from": 100116812
+  }
+}

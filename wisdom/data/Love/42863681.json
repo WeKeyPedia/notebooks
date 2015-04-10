@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/82.41.45.218|82.41.45.218]] to last version by Sadi Carnot",
+  "timestamp": "2006-03-08T21:17:42Z",
+  "revid": 42863681,
+  "user": "Deeptrivia",
+  "parentid": 42862677,
+  "diff": {
+    "to": 42863681,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Others maintain that love is un-definable; being a quantity which is more [[spiritual]], [[metaphysical]], or [[philosophical]] in nature, etc. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Others maintain that love is un-definable; being a quantity which is more [[spiritual]], [[metaphysical]], or [[philosophical]] in nature, etc. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{emotion}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{emotion}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Overview ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Overview ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love might best be defined as acting intentionally, in sympathetic response to others to promote overall well-being.  Or to put it simply, \"love responds intentionally to promote well-being\" ([[Thomas Jay Oord]]).  Love promotes overall flourishing, but often focuses on those close at hand. Probably due to its emotional primacy, love is one of the most common themes in art.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love might best be defined as acting intentionally, in sympathetic response to others to promote overall well-being.  Or to put it simply, \"love responds intentionally to promote well-being\" ([[Thomas Jay Oord]]).  Love promotes overall flourishing, but often focuses on those close at hand. Probably due to its emotional primacy, love is one of the most common themes in art.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:42862677:newid:42863681 -->\n",
+    "from": 42862677
+  },
+  "minor": ""
+}

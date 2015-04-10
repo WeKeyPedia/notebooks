@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Love styles */",
+  "timestamp": "2006-01-11T17:28:07Z",
+  "revid": 34775543,
+  "anon": "",
+  "user": "71.192.208.35",
+  "parentid": 34769991,
+  "diff": {
+    "to": 34775543,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 83:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 83:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Love styles===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Love styles===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Susan Hendrick]] and Clyde Hendrick developed a Loves Attitude Scale based on John Alan Lee's theory called [[Love styles]]. Lee identified six basic theories that people use in their interpersonal relationships:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Susan Hendrick]] and Clyde Hendrick developed a Loves Attitude Scale based on John Alan Lee's theory called [[Love styles]]. Lee identified six basic theories that people use in their interpersonal relationships:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Eros (love)|Eros]] &amp;mdash; a passionate<del class=\"diffchange diffchange-inline\"> physical</del> love based on physical appearance</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Eros (love)|Eros]] &amp;mdash; a passionate love based on physical appearance</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ludus (love)|Ludus]] &amp;mdash; love is played as a game; love is playful</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ludus (love)|Ludus]] &amp;mdash; love is played as a game; love is playful</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Storge]] &amp;mdash; an affectionate love that slowly develops, based on [[similarity (psychology)|similarity]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Storge]] &amp;mdash; an affectionate love that slowly develops, based on [[similarity (psychology)|similarity]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:34769991:newid:34775543 -->\n",
+    "from": 34769991
+  }
+}

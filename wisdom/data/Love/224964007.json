@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2008-07-11T05:47:07Z",
+  "revid": 224964007,
+  "user": "Mmustafa",
+  "parentid": 223716920,
+  "diff": {
+    "to": 224964007,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 209:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 209:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Ethical principles]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Ethical principles]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[ar:<del class=\"diffchange diffchange-inline\">غرام (</del>حب<del class=\"diffchange diffchange-inline\">)</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[ar:حب]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[az:Məhəbbət‎]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[az:Məhəbbət‎]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bs:Ljubav]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bs:Ljubav]]</div></td>\n</tr>\n",
+    "from": 223716920
+  }
+}

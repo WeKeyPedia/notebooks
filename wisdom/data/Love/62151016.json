@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Definitional issues */",
+  "timestamp": "2006-07-05T08:21:13Z",
+  "revid": 62151016,
+  "anon": "",
+  "user": "212.248.172.67",
+  "parentid": 62150955,
+  "diff": {
+    "to": 62151016,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 63:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 63:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[family]]''' - people related via common ancestry.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[family]]''' - people related via common ancestry.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[Psychological bond|bond]]'''.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[Psychological bond|bond]]'''.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Paul Atkinson luvs natalie brewer 4 lyf</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n",
+    "from": 62150955
+  }
+}

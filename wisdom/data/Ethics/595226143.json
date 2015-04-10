@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Personal Code of Ethical */",
+  "timestamp": "2014-02-13T00:59:59Z",
+  "revid": 595226143,
+  "user": "Itamarkalimi",
+  "parentid": 595226061,
+  "diff": {
+    "to": 595226143,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 224:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 224:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/br&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/br&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Don't hurt people.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Don't hurt people.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&lt;/br&gt;</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Have toulance, Don't discriminate.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/br&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/br&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Respect [[Civil and political rights|Civil and Political Rights]] - Learn and obey the Your Country Law and Rules.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Respect [[Civil and political rights|Civil and Political Rights]] - Learn and obey the Your Country Law and Rules.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:595226061:newid:595226143 -->\n",
+    "from": 595226061
+  }
+}

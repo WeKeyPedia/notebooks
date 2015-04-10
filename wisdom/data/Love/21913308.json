@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Love Virus",
+  "timestamp": "2005-08-26T21:56:59Z",
+  "revid": 21913308,
+  "user": "Max Love",
+  "parentid": 21913299,
+  "diff": {
+    "to": 21913308,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">!!</del>!!!!!</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>!!!!!</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:21913299:newid:21913308 -->\n",
+    "from": 21913299
+  },
+  "minor": ""
+}

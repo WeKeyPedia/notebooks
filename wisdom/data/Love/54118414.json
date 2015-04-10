@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Philosophers that have written about love */",
+  "timestamp": "2006-05-20T00:35:52Z",
+  "revid": 54118414,
+  "anon": "",
+  "user": "24.131.86.120",
+  "parentid": 54118374,
+  "diff": {
+    "to": 54118414,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 42:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 42:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[David Hume]] - Treatise on Human Nature, part III.  </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[David Hume]] - Treatise on Human Nature, part III.  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Soren Kierkegaard]] - Works of Love </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Soren Kierkegaard]] - <ins class=\"diffchange diffchange-inline\">[[</ins>Works of Love<ins class=\"diffchange diffchange-inline\">]]</ins> </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Herbert Marcuse]] - [[Eros and civilization]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Herbert Marcuse]] - [[Eros and civilization]]</div></td>\n</tr>\n",
+    "from": 54118374
+  }
+}

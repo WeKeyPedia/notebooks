@@ -1,0 +1,13 @@
+﻿{
+  "comment": "*",
+  "timestamp": "2002-04-21T03:27:11Z",
+  "revid": 147766,
+  "user": "Ray Van De Walker",
+  "parentid": 65242,
+  "diff": {
+    "to": 147766,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Classically, wisdom is considered to come with age.  A wise person is called a \"sage.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Classically, wisdom is considered to come with age.  A wise person is called a \"sage.\"</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>See also [[Virtue]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:65242:newid:147766 -->\n",
+    "from": 65242
+  },
+  "minor": ""
+}

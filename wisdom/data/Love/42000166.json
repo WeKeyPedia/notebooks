@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-03-03T03:27:27Z",
+  "revid": 42000166,
+  "anon": "",
+  "user": "67.37.181.78",
+  "parentid": 41990675,
+  "diff": {
+    "to": 42000166,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 344:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 344:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>I LOVE ALMA</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:41990675:newid:42000166 -->\n",
+    "from": 41990675
+  }
+}

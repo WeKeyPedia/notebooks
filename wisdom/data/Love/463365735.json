@@ -1,0 +1,13 @@
+﻿{
+  "comment": "minor grammatical change",
+  "timestamp": "2011-11-30T21:54:08Z",
+  "revid": 463365735,
+  "user": "Riversong",
+  "parentid": 462290033,
+  "diff": {
+    "to": 463365735,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love in its various forms acts as a major facilitator of [[interpersonal relationship]]s and, owing to its central psychological importance, is one of the most common themes in the [[creative arts]].&lt;ref&gt;{{cite web|title=Article On Love|url=http://www.slideshare.net/azharabbas/just-love|accessdate=13 September 2011}}&lt;/ref&gt; </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love in its various forms acts as a major facilitator of [[interpersonal relationship]]s and, owing to its central psychological importance, is one of the most common themes in the [[creative arts]].&lt;ref&gt;{{cite web|title=Article On Love|url=http://www.slideshare.net/azharabbas/just-love|accessdate=13 September 2011}}&lt;/ref&gt; </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Love may be understood <del class=\"diffchange diffchange-inline\">a</del> part of the survival instinct, a function keep human beings together against menaces and to facilitate the continuation of the species.&lt;ref name=\"Fisher\"&gt;Helen Fisher. ''Why we love: the nature and chemistry of romantic love''. 2004.&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Love may be understood <ins class=\"diffchange diffchange-inline\">as</ins> part of the survival instinct, a function keep human beings together against menaces and to facilitate the continuation of the species.&lt;ref name=\"Fisher\"&gt;Helen Fisher. ''Why we love: the nature and chemistry of romantic love''. 2004.&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Definitions==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Definitions==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:462290033:newid:463365735 -->\n",
+    "from": 462290033
+  },
+  "minor": ""
+}

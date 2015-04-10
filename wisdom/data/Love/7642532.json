@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* K&#257;ma */",
+  "timestamp": "2004-11-14T23:19:52Z",
+  "revid": 7642532,
+  "anon": "",
+  "user": "66.134.200.194",
+  "parentid": 7466521,
+  "diff": {
+    "to": 7642532,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 174:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 174:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====K&amp;#257;ma====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====K&amp;#257;ma====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In [[k&amp;#257;ma]] is pleasurable, sexual love, personified by the goddess [[Kama]]. For many Hindu schools it is the <del class=\"diffchange diffchange-inline\">third</del> <del class=\"diffchange diffchange-inline\">end</del> in life<del class=\"diffchange diffchange-inline\"> ([[artha]])</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In [[k&amp;#257;ma]] is pleasurable, sexual love, personified by the goddess [[Kama]]. For many Hindu schools it is<ins class=\"diffchange diffchange-inline\"> one of</ins> the <ins class=\"diffchange diffchange-inline\">four</ins> <ins class=\"diffchange diffchange-inline\">ends</ins> in life.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Prema====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Prema====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:7466521:newid:7642532 -->\n",
+    "from": 7466521
+  }
+}

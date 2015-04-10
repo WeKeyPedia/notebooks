@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Scientific perspectives */",
+  "timestamp": "2007-03-14T19:44:26Z",
+  "revid": 115134531,
+  "user": "Stevenson-Perez",
+  "parentid": 114975323,
+  "diff": {
+    "to": 115134531,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 45:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 45:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>2. The acquisition of scientific [[purpose]]; </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>2. The acquisition of scientific [[purpose]]; </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>3.  The acquisition of skills for improving the [[knowledge]]-, [[learning]]-, and [[<del class=\"diffchange diffchange-inline\">Value (economics)|</del>value]]-creation-assets of one’s scientific [[community of practice]]; and </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>3.  The acquisition of skills for improving the [[knowledge]]-<ins class=\"diffchange diffchange-inline\">assets</ins>,<ins class=\"diffchange diffchange-inline\"> the</ins> [[learning]]-<ins class=\"diffchange diffchange-inline\">assets</ins>, and<ins class=\"diffchange diffchange-inline\"> the</ins> [[<ins class=\"diffchange diffchange-inline\">scientific-</ins>value]]-creation-assets of one’s scientific [[community of practice]]; and </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>4.  The ability to create timely scientific solutions that are pleasing to Man, while not being in violation of the timeless laws of [[Nature]]. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>4.  The ability to create timely scientific solutions that are pleasing to Man, while not being in violation of the timeless laws of [[Nature]]. </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:114975323:newid:115134531 -->\n",
+    "from": 114975323
+  },
+  "minor": ""
+}

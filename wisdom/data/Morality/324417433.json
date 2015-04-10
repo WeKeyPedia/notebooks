@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2009-11-07T06:25:33Z",
+  "revid": 324417433,
+  "anon": "",
+  "user": "87.236.254.11",
+  "parentid": 323809852,
+  "diff": {
+    "to": 324417433,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 18:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 18:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Expand section|date=June 2008}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Expand section|date=June 2008}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">hfkdfh sf sdfjsd [fsjidfisdjcs kdcmsijmdijc idjc</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== In-group and out-group ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== In-group and out-group ===</div></td>\n</tr>\n",
+    "from": 323809852
+  }
+}

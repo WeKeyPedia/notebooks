@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Revert to revision 63739744 dated 2006-07-14 06:16:31 by 69.153.18.150 using [[:en:Wikipedia:Tools/Navigation_popups|popups]]",
+  "timestamp": "2006-07-14T08:02:38Z",
+  "revid": 63748768,
+  "user": "Srikeit",
+  "parentid": 63748696,
+  "diff": {
+    "to": 63748768,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 25:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 25:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[True Love]]- Love without condition, motive or attachment. Simply loving someone for the sake of loving them.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[True Love]]- Love without condition, motive or attachment. Simply loving someone for the sake of loving them.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Beastiality]] - love, or sexual desire to animals such as bhut secks with dogs. This is like people who fuck farm animals and horses.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:63748696:newid:63748768 -->\n",
+    "from": 63748696
+  }
+}

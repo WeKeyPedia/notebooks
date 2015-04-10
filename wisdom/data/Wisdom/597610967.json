@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Judaism */ add",
+  "timestamp": "2014-03-01T02:28:09Z",
+  "revid": 597610967,
+  "user": "Editor2020",
+  "parentid": 597610826,
+  "diff": {
+    "to": 597610967,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 104:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 104:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Judaism===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Judaism===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{See also|Chokhmah}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{See also|Chokhmah<ins class=\"diffchange diffchange-inline\">|Wisdom literature</ins>}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The word wisdom (חכם) is mentioned 222 times in the [[Hebrew Bible]]. It was regarded as one of the highest virtues among the Israelites along with kindness (חסד) and justice (צדק). Both the books of [[Book of Proverbs|Proverbs]] and [[Psalms]] urge readers to obtain and to increase in wisdom.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The word wisdom (חכם) is mentioned 222 times in the [[Hebrew Bible]]. It was regarded as one of the highest virtues among the Israelites along with kindness (חסד) and justice (צדק). Both the books of [[Book of Proverbs|Proverbs]] and [[Psalms]] urge readers to obtain and to increase in wisdom.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:597610826:newid:597610967 -->\n",
+    "from": 597610826
+  }
+}

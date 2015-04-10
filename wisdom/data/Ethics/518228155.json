@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Political ethics */",
+  "timestamp": "2012-10-17T00:37:44Z",
+  "revid": 518228155,
+  "user": "Eredner",
+  "parentid": 518227966,
+  "diff": {
+    "to": 518228155,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 170:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 170:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Political ethics====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Political ethics====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Political_ethics|Political ethics]] (also known as political morality or public ethics) is the practice of making moral judgements about political action and political agents.<del class=\"diffchange diffchange-inline\">[1]</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Political_ethics|Political ethics]] (also known as political morality or public ethics) is the practice of making moral judgements about political action and political agents.<ins class=\"diffchange diffchange-inline\">&lt;ref&gt;Thompson, Dennis F. “Political Ethics.” ''International Encyclopedia of Ethics'', ed. Hugh LaFollette (Blackwell Publishing, 2012).&lt;/ref&gt;</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Public service ethics====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Public service ethics====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:518227966:newid:518228155 -->\n",
+    "from": 518227966
+  }
+}

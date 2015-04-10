@@ -1,0 +1,13 @@
+﻿{
+  "comment": "rv ad",
+  "timestamp": "2005-12-06T02:15:56Z",
+  "revid": 30293228,
+  "user": "Jfdwolff",
+  "parentid": 30284664,
+  "diff": {
+    "to": 30293228,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 249:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 249:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* Arthur, Clint. [http://junglescan.com/redirect.cfm?asin=B0009ZC37Y \"Free Your Love Now\"] (Signature Love Books, 2005)</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* R. J. Sternberg. ''A triangular theory of love''. 1986. Psychological Review, 93, 119&amp;ndash;135</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* R. J. Sternberg. ''A triangular theory of love''. 1986. Psychological Review, 93, 119&amp;ndash;135</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* R. J. Sternberg. ''Liking versus loving: A comparative evaluation of theories''. 1987. Psychological Bulletin, 102, 331&amp;ndash;345</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* R. J. Sternberg. ''Liking versus loving: A comparative evaluation of theories''. 1987. Psychological Bulletin, 102, 331&amp;ndash;345</div></td>\n</tr>\n",
+    "from": 30284664
+  },
+  "minor": ""
+}

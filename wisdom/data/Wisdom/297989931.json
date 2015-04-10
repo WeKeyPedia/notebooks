@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Positive psychology */",
+  "timestamp": "2009-06-22T20:52:29Z",
+  "revid": 297989931,
+  "anon": "",
+  "user": "71.115.130.117",
+  "parentid": 296268384,
+  "diff": {
+    "to": 297989931,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | location = Oxford</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | location = Oxford</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | page = 106</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | page = 106</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>  | isbn = 0-19-516701-5}}&lt;/ref&gt; With this definition, wisdom can be measured using the following criteria.&lt;ref name=\"CSVperspective\" /&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>  | isbn = 0-19-516701-5}}&lt;/ref&gt; With this definition, wisdom can<ins class=\"diffchange diffchange-inline\"> supposedly</ins> be measured using the following criteria.&lt;ref name=\"CSVperspective\" /&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* A wise person can discern the core of important problems.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* A wise person can discern the core of important problems.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* A wise person has [[self-knowledge]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* A wise person has [[self-knowledge]].</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:296268384:newid:297989931 -->\n",
+    "from": 296268384
+  }
+}

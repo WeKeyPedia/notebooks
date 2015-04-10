@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Defining love */ This is my own definition but it springs out of a discussion in a psychology class. It seems to fit all applications the word from the deepest form to the most trivial.",
+  "timestamp": "2005-08-17T11:08:53Z",
+  "revid": 21209836,
+  "anon": "",
+  "user": "4.131.33.32",
+  "parentid": 21139273,
+  "diff": {
+    "to": 21209836,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining love==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining love==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Love is the [[emotion]] produced when the brain perceives something that satisfies its needs. See [[perception]] and [[hierarchy of human needs]]. </div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Just as there are many types of lovers, there are many kinds of love. Love is inherent in all human cultures. It is precisely these cultural differences that make any universal definition of love difficult to establish. See the [[Sapir-Whorf hypothesis]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Just as there are many types of lovers, there are many kinds of love. Love is inherent in all human cultures. It is precisely these cultural differences that make any universal definition of love difficult to establish. See the [[Sapir-Whorf hypothesis]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:21139273:newid:21209836 -->\n",
+    "from": 21139273
+  }
+}

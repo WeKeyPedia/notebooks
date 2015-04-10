@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Philosophical perspectives */",
+  "timestamp": "2008-02-06T00:33:45Z",
+  "revid": 189388913,
+  "user": "Sadista21",
+  "parentid": 187934134,
+  "diff": {
+    "to": 189388913,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 29:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 29:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Thoreau]] believed that “it is a characteristic of wisdom not to do desperate things{{Fact|date=May 2007}}.”</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Thoreau]] believed that “it is a characteristic of wisdom not to do desperate things{{Fact|date=May 2007}}.”</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Nicholas Maxwell]], a modern philosopher, argued that the basic aim of academic inquiry ought to be to seek and promote wisdom — wisdom being construed to be the capacity to realize what is of value in life for oneself and others, wisdom thus including knowledge and technological know-how, but much else besides.&lt;ref name = \"Maxwell\"&gt;[http://www.nick-maxwell.demon.co.uk  MAXWELL, Nicholas].&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Nicholas Maxwell]], a modern philosopher, argued that the basic aim of academic inquiry ought to be to seek and promote wisdom — wisdom being construed to be the capacity to realize what is of value in life for oneself and others, wisdom thus including knowledge and technological know-how, but much else besides.&lt;ref name = \"Maxwell\"&gt;[http://www.nick-maxwell.demon.co.uk  MAXWELL, Nicholas].&lt;/ref&gt;<ins class=\"diffchange diffchange-inline\">udo</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific perspectives==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific perspectives==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:187934134:newid:189388913 -->\n",
+    "from": 187934134
+  }
+}

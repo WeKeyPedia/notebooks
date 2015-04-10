@@ -1,0 +1,12 @@
+﻿{
+  "comment": "removing vanity link to a relatively superficial website",
+  "timestamp": "2008-02-01T13:49:24Z",
+  "revid": 188376144,
+  "user": "Postmodern Beatnik",
+  "parentid": 188170107,
+  "diff": {
+    "to": 188376144,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 120:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 120:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/frankena/ethics.html ''Ethics]'', 2d ed., 1973. by [[William Frankena]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/frankena/ethics.html ''Ethics]'', 2d ed., 1973. by [[William Frankena]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/ross/right.html 'The Right and the Good''] (1930) by [[W. D. Ross]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/ross/right.html 'The Right and the Good''] (1930) by [[W. D. Ross]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.buddhiwadi.org/ethics.htm ''Some Reflections on Ethics''] by [[Dr.Ramendra]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy navigation}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy navigation}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:188170107:newid:188376144 -->\n",
+    "from": 188170107
+  }
+}

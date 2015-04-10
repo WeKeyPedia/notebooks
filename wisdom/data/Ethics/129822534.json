@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Further Reading */",
+  "timestamp": "2007-05-10T14:06:45Z",
+  "revid": 129822534,
+  "user": "Adhall",
+  "parentid": 129618798,
+  "diff": {
+    "to": 129822534,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 147:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 147:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Principlism|Principlism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Principlism|Principlism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>==Further <del class=\"diffchange diffchange-inline\">Reading</del>==</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>==Further <ins class=\"diffchange diffchange-inline\">reading</ins>==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* The [http://www.ucl.ac.uk/philosophy/LPSG/ London Philosophy Study Guide] offers many suggestions on what to read, depending on the student's familiarity with the subject:  [http://www.ucl.ac.uk/philosophy/LPSG/Ethics.htm Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* The [http://www.ucl.ac.uk/philosophy/LPSG/ London Philosophy Study Guide] offers many suggestions on what to read, depending on the student's familiarity with the subject:  [http://www.ucl.ac.uk/philosophy/LPSG/Ethics.htm Ethics]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:129618798:newid:129822534 -->\n",
+    "from": 129618798
+  }
+}

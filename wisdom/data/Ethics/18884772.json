@@ -1,0 +1,13 @@
+﻿{
+  "comment": "grammar and style",
+  "timestamp": "2005-07-15T12:31:16Z",
+  "revid": 18884772,
+  "user": "Vincej",
+  "parentid": 18884560,
+  "diff": {
+    "to": 18884772,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 148:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 148:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Ethics in health care==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Ethics in health care==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>One of the major areas where ethicists practice is in the field of [[health care]]. This includes [[medicine]], [[nursing]], [[pharmacy]] and allied health professions. Example issues are [[euthanasia]], [[abortion]], medical experiments, [[vaccine trials]], truth telling, patient rights and autonomy, <del class=\"diffchange diffchange-inline\">Rationing</del> of health care (such as [[triage]])<del class=\"diffchange diffchange-inline\">, among others</del>.<del class=\"diffchange diffchange-inline\"> ''See also''  [[bioethics]],   [[medical ethics]]</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>One of the major areas where ethicists practice is in the field of [[health care]]. This includes [[medicine]], [[nursing]], [[pharmacy]] and allied health professions. Example issues are [[euthanasia]], [[abortion]], medical experiments, [[vaccine trials]], truth telling, patient rights and autonomy, <ins class=\"diffchange diffchange-inline\">rationing</ins> of health care (such as [[triage]]).</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>''See also  [[bioethics]],   [[medical ethics]]''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Ethics in psychology==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Ethics in psychology==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:18884560:newid:18884772 -->\n",
+    "from": 18884560
+  },
+  "minor": ""
+}

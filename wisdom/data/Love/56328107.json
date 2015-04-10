@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* References */",
+  "timestamp": "2006-06-01T15:10:36Z",
+  "revid": 56328107,
+  "anon": "",
+  "user": "217.250.56.64",
+  "parentid": 56274788,
+  "diff": {
+    "to": 56328107,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 84:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 84:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:* Shadi Bartsch and Thomas Bartscherer, eds. ''Erotikon: Essays on Eros, Ancient and Modern''. Chicago: University of Chicago Press, 2005.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:* Shadi Bartsch and Thomas Bartscherer, eds. ''Erotikon: Essays on Eros, Ancient and Modern''. Chicago: University of Chicago Press, 2005.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:* Helen Fisher. ''Why We Love: the Nature and Chemistry of Romantic Love''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:* Helen Fisher. ''Why We Love: the Nature and Chemistry of Romantic Love''</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>:* Gabriele Froböse, Rolf Froböse: ''Lust and Love: Is it more than Chemistry?\" Publisher: Royal Society of Chemistry, ISBN: 0854048677, (2006).  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:* Thomas Jay Oord, Science of Love: The Wisdom of Well-Being. Philadelphia: Templeton Foundation Press, 2004.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:* Thomas Jay Oord, Science of Love: The Wisdom of Well-Being. Philadelphia: Templeton Foundation Press, 2004.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:*R. J. Sternberg. ''A triangular theory of love''. 1986. Psychological Review, 93, 119&amp;ndash;135</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:*R. J. Sternberg. ''A triangular theory of love''. 1986. Psychological Review, 93, 119&amp;ndash;135</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:56274788:newid:56328107 -->\n",
+    "from": 56274788
+  }
+}

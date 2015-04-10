@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Hedonism */",
+  "timestamp": "2008-10-29T04:25:45Z",
+  "revid": 248347851,
+  "anon": "",
+  "user": "120.28.212.249",
+  "parentid": 248313291,
+  "diff": {
+    "to": 248347851,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 16:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 16:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Hedonism===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Hedonism===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Hedonism]] posits that the principal ethic is maximizing [[pleasure]] and minimizing [[pain]]. There are several schools of Hedonist thought ranging from those advocating the indulgence of even momentary desires to those teaching a pursuit of <del class=\"diffchange diffchange-inline\">[[</del>spiritual bliss<del class=\"diffchange diffchange-inline\">]]</del>. In their consideration of consequences, they range from those advocating [[self-gratification]] regardless of the pain and expense to others, to those stating that the most ethical pursuit maximizes all the pleasure and happiness for the most people.&lt;ref name = \"epsxlu\"&gt;Sahakian, William S. &amp; Sahakian, Mabel Lewis. ''Ideas of the Great Philosophers''. pg 37. Barnes and Noble Books (1993). ISBN 9781566192712.&lt;/ref&gt; </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Hedonism]] posits that the principal ethic is maximizing [[pleasure]] and minimizing [[pain]]. There are several schools of Hedonist thought ranging from those advocating the indulgence of even momentary desires to those teaching a pursuit of spiritual bliss. In their consideration of consequences, they range from those advocating [[self-gratification]] regardless of the pain and expense to others, to those stating that the most ethical pursuit maximizes all the pleasure and happiness for the most people.&lt;ref name = \"epsxlu\"&gt;Sahakian, William S. &amp; Sahakian, Mabel Lewis. ''Ideas of the Great Philosophers''. pg 37. Barnes and Noble Books (1993). ISBN 9781566192712.&lt;/ref&gt; </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 248313291
+  }
+}

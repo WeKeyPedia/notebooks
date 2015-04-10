@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Major doctrines of ethics */",
+  "timestamp": "2004-12-08T03:23:23Z",
+  "revid": 8228134,
+  "anon": "",
+  "user": "68.56.112.162",
+  "parentid": 8228079,
+  "diff": {
+    "to": 8228134,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 191:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 191:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Utilitarianism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Utilitarianism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Immanuel Kant]]'s [[Deontology|Deontological ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Immanuel Kant]]'s [[Deontology|Deontological ethics]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Ayn Rand]]'s [[Objectivist philosophy]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*The Utilitarian Kantian Principle (Cornman, Lehrer)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*The Utilitarian Kantian Principle (Cornman, Lehrer)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Universal prescriptivism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Universal prescriptivism]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:8228079:newid:8228134 -->\n",
+    "from": 8228079
+  }
+}

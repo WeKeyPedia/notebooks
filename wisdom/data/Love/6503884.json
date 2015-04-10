@@ -1,0 +1,12 @@
+﻿{
+  "comment": "the page before I did the testing",
+  "timestamp": "2004-10-08T11:33:24Z",
+  "revid": 6503884,
+  "user": "0101CHINsy",
+  "parentid": 6427251,
+  "diff": {
+    "to": 6503884,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">[[Image:Example.jpg]]</del>: ''For the 1960s band, see [[Love (band)]].  The term is also used in [[Tennis#History of tennis|tennis]]. ''</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>: ''For the 1960s band, see [[Love (band)]].  The term is also used in [[Tennis#History of tennis|tennis]]. ''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:6427251:newid:6503884 -->\n",
+    "from": 6427251
+  }
+}

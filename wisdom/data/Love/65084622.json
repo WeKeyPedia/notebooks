@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Removed redundancy",
+  "timestamp": "2006-07-21T19:36:18Z",
+  "revid": 65084622,
+  "user": "Happylobster",
+  "parentid": 65057356,
+  "diff": {
+    "to": 65084622,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;ref name=\"Jankowiak,Fischer,1992\"&gt;Jankowiak, W.R., &amp; Fischer, E.F. (1992). A cross-cultural</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;ref name=\"Jankowiak,Fischer,1992\"&gt;Jankowiak, W.R., &amp; Fischer, E.F. (1992). A cross-cultural</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>perspective on romantic love. Ethnology, 31, 149.&lt;/ref&gt; </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>perspective on romantic love. Ethnology, 31, 149.&lt;/ref&gt; </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">While 13 percent of cultures have no word for love, the</del> remaining 87 percent<del class=\"diffchange diffchange-inline\"> of cultures</del> attempt to define this abstract concept and apply it to everyday life. Love is one of the most common themes in art and often times is an excuse for \" bad art\".  Some psychologists maintain that love is the abstract action of lending one's \"boundary\" or \"self esteem\" to another.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">The</ins> remaining 87 percent attempt to define this abstract concept and apply it to everyday life. Love is one of the most common themes in art and often times is an excuse for \" bad art\".  Some psychologists maintain that love is the abstract action of lending one's \"boundary\" or \"self esteem\" to another.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Overview==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Overview==</div></td>\n</tr>\n",
+    "from": 65057356
+  }
+}

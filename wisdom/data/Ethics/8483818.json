@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Put link in \"see\" notation",
+  "timestamp": "2004-12-16T03:02:04Z",
+  "revid": 8483818,
+  "user": "L33tminion",
+  "parentid": 8477541,
+  "diff": {
+    "to": 8483818,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 153:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 153:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Ethics in religion==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Ethics in religion==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">There are articles on</del> [[Ethics in religion]] and [[Ethics in the Bible]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">''See</ins> [[Ethics in religion]] and [[Ethics in the Bible]].<ins class=\"diffchange diffchange-inline\">''</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Ethics in medicine==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Ethics in medicine==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:8477541:newid:8483818 -->\n",
+    "from": 8477541
+  },
+  "minor": ""
+}

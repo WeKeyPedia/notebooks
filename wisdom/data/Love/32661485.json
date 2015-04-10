@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Christian */ deleted unneeded \"s\" on the adjective \"Christian\"",
+  "timestamp": "2005-12-25T05:44:25Z",
+  "revid": 32661485,
+  "anon": "",
+  "user": "67.102.76.145",
+  "parentid": 32618701,
+  "diff": {
+    "to": 32661485,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 169:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 169:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Christians also believe that [[God]] felt so much '''agape love''' for man that he sacrificed his son for them. John the Apostle wrote, \"For God so '''loved''' the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. For God did not send his Son into the world to condemn the world, but the save the world through him.\" ([[NIV]] John 3:16-17)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Christians also believe that [[God]] felt so much '''agape love''' for man that he sacrificed his son for them. John the Apostle wrote, \"For God so '''loved''' the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. For God did not send his Son into the world to condemn the world, but the save the world through him.\" ([[NIV]] John 3:16-17)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Many <del class=\"diffchange diffchange-inline\">Christians</del> [[Theology|theologians]] see God as the source of love, which is mirrored in humans and their relationships.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Many <ins class=\"diffchange diffchange-inline\">Christian</ins> [[Theology|theologians]] see God as the source of love, which is mirrored in humans and their relationships.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Buddhist===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Buddhist===</div></td>\n</tr>\n",
+    "from": 32618701
+  }
+}

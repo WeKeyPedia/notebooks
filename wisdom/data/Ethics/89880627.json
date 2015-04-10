@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-11-24T20:01:07Z",
+  "revid": 89880627,
+  "anon": "",
+  "user": "69.236.169.130",
+  "parentid": 89879436,
+  "diff": {
+    "to": 89880627,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 199:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 199:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.www.josephsoninstitute.org The Josephson Institute of Ethics] An organization aimed to improve the ethical quality of society by changing personal and organizational decision making and behavior.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.www.josephsoninstitute.org The Josephson Institute of Ethics] An organization aimed to improve the ethical quality of society by changing personal and organizational decision making and behavior.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.galilean-library.org/int11.html An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.galilean-library.org/int11.html An Introduction to Ethics] by Paul Newall, aimed at beginners.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* \"Philosophy Talk\" episode: [http://philosophytalk.org/EthicsinWar.htm Ethics in War]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Philosophy Talk\" episode: [http://philosophytalk.org/pastShows/MoralDilemmas.htm Moral Dilemmas and Moral Ambiguity]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Philosophy Talk\" episode: [http://philosophytalk.org/pastShows/MoralDilemmas.htm Moral Dilemmas and Moral Ambiguity]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Stanford Encyclopedia of Philosophy</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Stanford Encyclopedia of Philosophy</div></td>\n</tr>\n",
+    "from": 89879436
+  }
+}

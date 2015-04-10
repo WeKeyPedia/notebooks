@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Undid revision 360696231 by [[Special:Contributions/John C PI|John C PI]] ([[User talk:John C PI|talk]]) justice & virtue are not a pair like the others",
+  "timestamp": "2010-05-07T22:26:15Z",
+  "revid": 360802906,
+  "user": "Pfhorrest",
+  "parentid": 360761992,
+  "diff": {
+    "to": 360802906,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' (also known as '''moral philosophy''') is a branch of [[philosophy]] that addresses questions about [[morality]]&amp;mdash;that is, concepts such as [[good]] and [[bad]], noble and ignoble, [[right]] and [[wrong]], [[justice]] and [[virtue]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' (also known as '''moral philosophy''') is a branch of [[philosophy]] that addresses questions about [[morality]]&amp;mdash;that is, concepts such as [[good]] and [[bad]], noble and ignoble, [[right]] and [[wrong]], [[justice]]<ins class=\"diffchange diffchange-inline\">,</ins> and [[virtue]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:360761992:newid:360802906 -->\n",
+    "from": 360761992
+  }
+}

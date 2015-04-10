@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */ Sapiens",
+  "timestamp": "2009-12-12T07:21:24Z",
+  "revid": 331229397,
+  "user": "Nono64",
+  "parentid": 328045175,
+  "diff": {
+    "to": 331229397,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 107:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 107:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* {{Linktext|-wise}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* {{Linktext|-wise}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [[School of Hard Knocks]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [[School of Hard Knocks]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Sapiens]], a disambiguation page</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religious Concepts of Metaphysics===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religious Concepts of Metaphysics===</div></td>\n</tr>\n",
+    "from": 328045175
+  },
+  "minor": ""
+}

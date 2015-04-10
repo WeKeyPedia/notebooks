@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2009-08-18T07:06:53Z",
+  "revid": 308637278,
+  "anon": "",
+  "user": "220.255.82.59",
+  "parentid": 306764700,
+  "diff": {
+    "to": 308637278,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 30:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 30:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Others ask wise people for advice.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Others ask wise people for advice.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* A wise person's actions are consistent with his/her ethical beliefs. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* A wise person's actions are consistent with his/her ethical beliefs. </div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* A wise person is Paul and not sze li</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Measurement instruments that use these criteria have acceptable to good [[internal consistency]] and low [[test-retest]] [[Reliability (statistics)|reliability]] (''[[Pearson product-moment correlation coefficient|r]]'' in the range of 0.35 to 0.67).&lt;ref name=\"CSVperspective\"&gt;{{cite book</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Measurement instruments that use these criteria have acceptable to good [[internal consistency]] and low [[test-retest]] [[Reliability (statistics)|reliability]] (''[[Pearson product-moment correlation coefficient|r]]'' in the range of 0.35 to 0.67).&lt;ref name=\"CSVperspective\"&gt;{{cite book</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | last = Harter</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | last = Harter</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:306764700:newid:308637278 -->\n",
+    "from": 306764700
+  }
+}

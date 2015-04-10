@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Society as a source of moral authority */",
+  "timestamp": "2007-10-04T02:03:44Z",
+  "revid": 162152634,
+  "anon": "",
+  "user": "75.57.27.123",
+  "parentid": 161903095,
+  "diff": {
+    "to": 162152634,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!--gossip, tit-for-tat, an eye for an eye, forgiveness--&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!--gossip, tit-for-tat, an eye for an eye, forgiveness--&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!--Distinction between a moral person and a virtuous person e.g. Nietzsche beyond Good and Evil--&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!--Distinction between a moral person and a virtuous person e.g. Nietzsche beyond Good and Evil--&gt;</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>=]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religion as a source of moral authority==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religion as a source of moral authority==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:161903095:newid:162152634 -->\n",
+    "from": 161903095
+  }
+}

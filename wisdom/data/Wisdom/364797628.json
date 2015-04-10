@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2010-05-29T05:50:48Z",
+  "revid": 364797628,
+  "anon": "",
+  "user": "76.102.184.148",
+  "parentid": 364680895,
+  "diff": {
+    "to": 364797628,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Otheruses}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">wisdom is simply the result of making a mistake, surviving the consequenses, and realizing that you should not to do it again. It is the same as learning, however in a social contex. </ins>{{Otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Efez Celsus Library 3 RB.jpg|thumb|200px|[[Personification]] of wisdom (in [[Greek language|Greek]], \"''Σοφία''\" or \"''[[Sophia (wisdom)|Sophia]]''\") at the [[Celsus Library]] in [[Ephesus]], [[Turkey]].]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Efez Celsus Library 3 RB.jpg|thumb|200px|[[Personification]] of wisdom (in [[Greek language|Greek]], \"''Σοφία''\" or \"''[[Sophia (wisdom)|Sophia]]''\") at the [[Celsus Library]] in [[Ephesus]], [[Turkey]].]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:364680895:newid:364797628 -->\n",
+    "from": 364680895
+  }
+}

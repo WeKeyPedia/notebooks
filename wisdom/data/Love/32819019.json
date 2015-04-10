@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Sternberg's Triangular Theory of Love */",
+  "timestamp": "2005-12-27T00:44:21Z",
+  "revid": 32819019,
+  "anon": "",
+  "user": "70.33.50.229",
+  "parentid": 32730425,
+  "diff": {
+    "to": 32819019,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 29:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 29:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{mergefrom|triangular theory of love}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{mergefrom|triangular theory of love}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In the [[triangular theory of love]], <del class=\"diffchange diffchange-inline\">love</del> is characterized by three elements: [[intimacy]], [[passion (emotion)|passion]] and [[commitment]]. Each of these elements can be present in a relationship, producing the following combinations:</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In the [[triangular theory of love]], <ins class=\"diffchange diffchange-inline\">it</ins> is characterized by three elements: [[intimacy]], [[passion (emotion)|passion]] and [[commitment]]. Each of these elements can be present in a relationship, producing the following combinations:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{| border=1 cellpadding=3 cellspacing=0</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{| border=1 cellpadding=3 cellspacing=0</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|+'''Combinations of intimacy, passion, and commitment'''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|+'''Combinations of intimacy, passion, and commitment'''</div></td>\n</tr>\n",
+    "from": 32730425
+  }
+}

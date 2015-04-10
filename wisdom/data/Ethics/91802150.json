@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* References */",
+  "timestamp": "2006-12-03T16:09:55Z",
+  "revid": 91802150,
+  "anon": "",
+  "user": "70.111.218.254",
+  "parentid": 91801994,
+  "diff": {
+    "to": 91802150,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 156:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 156:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* {{cite book</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* {{cite book</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div> | last = Blackburn | first = S</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div> | last =<ins class=\"diffchange diffchange-inline\"> [[Simon</ins> Blackburn<ins class=\"diffchange diffchange-inline\">|Blackburn]]</ins> | first = S</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> | title = Dictionary of Philosophy</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> | title = Dictionary of Philosophy</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> | location = Oxford</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> | location = Oxford</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:91801994:newid:91802150 -->\n",
+    "from": 91801994
+  }
+}

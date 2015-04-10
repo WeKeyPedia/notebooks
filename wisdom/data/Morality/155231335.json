@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Conscience */ added a commented list of concepts to discuss~~~",
+  "timestamp": "2007-09-02T16:08:11Z",
+  "revid": 155231335,
+  "user": "Richard holt",
+  "parentid": 155101513,
+  "diff": {
+    "to": 155231335,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 6:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 6:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>== <del class=\"diffchange diffchange-inline\">Conscience</del> ==</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>== <ins class=\"diffchange diffchange-inline\">Moral</ins> <ins class=\"diffchange diffchange-inline\">Vocabulary and Concepts</ins>==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'[[Conscience]]' refers to dispositions to behave in accordance with morality particularly in the face of [[temptation]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'[[Conscience]]' refers to dispositions to behave in accordance with morality particularly in the face of [[temptation]].<ins class=\"diffchange diffchange-inline\">  </ins></div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>&lt;!--Right and wrong, Good and Evil. Virtue and Vice. Action, intention, motive. Selfish, self-sacrifice, virtue, heroism, wisdom, bravery, cowardice, deception, truthfulness/honesty, reliability, persistance, humor, leadership, calmness, thoughtfulness, sensitivity, empathy, sympathy, self-control--&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Relativism and absolutism ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Relativism and absolutism ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:155101513:newid:155231335 -->\n",
+    "from": 155101513
+  },
+  "minor": ""
+}

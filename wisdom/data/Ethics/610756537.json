@@ -1,0 +1,13 @@
+﻿{
+  "comment": "I have updated the link to the International Association for Geoethics (IAGETH)",
+  "timestamp": "2014-05-30T07:20:12Z",
+  "revid": 610756537,
+  "anon": "",
+  "user": "147.96.74.69",
+  "parentid": 609272062,
+  "diff": {
+    "to": 610756537,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 249:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 249:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.philosophyarchive.com/index.php?title=Philosophy_of_Ethics The Philosophy of Ethics] on Philosophy Archive</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.philosophyarchive.com/index.php?title=Philosophy_of_Ethics The Philosophy of Ethics] on Philosophy Archive</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.klice.co.uk/ Kirby Laing Institute for Christian Ethics] Resources, events, and research on a range of ethical subjects from a Christian perspective.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.klice.co.uk/ Kirby Laing Institute for Christian Ethics] Resources, events, and research on a range of ethical subjects from a Christian perspective.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://<del class=\"diffchange diffchange-inline\">tierra.rediris</del>.es/<del class=\"diffchange diffchange-inline\">IAGETH</del>/ International Association for Geoethics (IAGETH)]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://<ins class=\"diffchange diffchange-inline\">icog</ins>.es/<ins class=\"diffchange diffchange-inline\">iageth</ins>/ International Association for Geoethics (IAGETH)]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.iapg.geoethics.org International Association for Promoting Geoethics (IAPG)]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.iapg.geoethics.org International Association for Promoting Geoethics (IAPG)]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:609272062:newid:610756537 -->\n",
+    "from": 609272062
+  }
+}

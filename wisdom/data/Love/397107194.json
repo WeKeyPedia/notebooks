@@ -1,0 +1,13 @@
+﻿{
+  "comment": "ch hyphen to en dash since Sapir and Whorf were two different people, not one person with a double name; per wp:endash",
+  "timestamp": "2010-11-16T14:35:12Z",
+  "revid": 397107194,
+  "user": "Scwlong",
+  "parentid": 395897378,
+  "diff": {
+    "to": 397107194,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 16:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 16:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|last=Kay</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|last=Kay</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|first=Paul</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|first=Paul</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>|title=What is the <del class=\"diffchange diffchange-inline\">Sapir-Whorf</del> Hypothesis?</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>|title=What is the <ins class=\"diffchange diffchange-inline\">Sapir–Whorf</ins> Hypothesis?</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|journal=American Anthropologist</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|journal=American Anthropologist</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|series=New Series</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|series=New Series</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:395897378:newid:397107194 -->\n",
+    "from": 395897378
+  },
+  "minor": ""
+}

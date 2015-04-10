@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-12-09T08:02:32Z",
+  "revid": 8264262,
+  "anon": "",
+  "user": "203.122.97.154",
+  "parentid": 8260846,
+  "diff": {
+    "to": 8264262,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 249:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 249:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Dorothy Tennov. ''Love and Limerence: the Experience of Being in Love''. New York: Stein and Day, 1979. ISBN 0812861345</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Dorothy Tennov. ''Love and Limerence: the Experience of Being in Love''. New York: Stein and Day, 1979. ISBN 0812861345</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Helen Fisher. ''Why We Love: the Nature and Chemistry of Romantic Love''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Helen Fisher. ''Why We Love: the Nature and Chemistry of Romantic Love''</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>I Love You Bitz and Amy.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:love]]</div></td>\n</tr>\n",
+    "from": 8260846
+  }
+}

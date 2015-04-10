@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-02-10T04:50:23Z",
+  "revid": 39024507,
+  "anon": "",
+  "user": "222.154.181.206",
+  "parentid": 39022686,
+  "diff": {
+    "to": 39024507,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 296:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 296:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.withfriendship.com/quotes/love-quotes.php Famous love quotes]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.withfriendship.com/quotes/love-quotes.php Famous love quotes]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[:zh:早恋|''Zaolian'' (早恋) on Chinese Wikipedia]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[:zh:早恋|''Zaolian'' (早恋) on Chinese Wikipedia]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.dotlove.org THE DOT LOVE MOVEMENT] - endorsed by New York Times bestselling author [[Masaru Emoto]], featured on [[What <del class=\"diffchange diffchange-inline\">the</del> <del class=\"diffchange diffchange-inline\">Bleep</del> <del class=\"diffchange diffchange-inline\">Do</del> <del class=\"diffchange diffchange-inline\">We</del> <del class=\"diffchange diffchange-inline\">Know</del>?]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.dotlove.org THE DOT LOVE MOVEMENT] - endorsed by New York Times bestselling author [[Masaru Emoto]], featured on [[What <ins class=\"diffchange diffchange-inline\">tнe</ins> <ins class=\"diffchange diffchange-inline\">♯$*!</ins> <ins class=\"diffchange diffchange-inline\">Dѳ</ins> <ins class=\"diffchange diffchange-inline\">ωΣ</ins> <ins class=\"diffchange diffchange-inline\">(k)πow!</ins>?]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:39022686:newid:39024507 -->\n",
+    "from": 39022686
+  }
+}

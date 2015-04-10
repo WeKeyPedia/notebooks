@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Philia */",
+  "timestamp": "2005-02-13T08:15:17Z",
+  "revid": 10253658,
+  "anon": "",
+  "user": "67.78.50.185",
+  "parentid": 10212781,
+  "diff": {
+    "to": 10253658,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 146:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 146:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Philia====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Philia====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The conception of [[Philia]], a dispassionate virtuous love, was developed by [[Aristotle]]. It includes loyalty to friends, family, and community, and requires virtue, equality and familiarity. Philia is motivated by practical reasons; one or both of the parties benefit from the relationship.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The conception of [[Philia]], a dispassionate virtuous love, was developed by [[Aristotle]]. It includes loyalty to friends, family, and community, and requires virtue, equality and familiarity. Philia is motivated by practical reasons; one or both of the parties benefit from the relationship.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>A friendship type of love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Storge====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Storge====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:10212781:newid:10253658 -->\n",
+    "from": 10212781
+  }
+}

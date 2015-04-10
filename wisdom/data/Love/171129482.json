@@ -1,0 +1,12 @@
+﻿{
+  "comment": "hindu section - kama is never used to mean divine love, im sorry, but thats bhakti",
+  "timestamp": "2007-11-13T04:24:32Z",
+  "revid": 171129482,
+  "user": "Sadartha",
+  "parentid": 170742640,
+  "diff": {
+    "to": 171129482,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 208:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 208:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In Hinduism ''[[k&amp;#257;ma]]'' is pleasurable, sexual love, personified by the god [[Kama (Hinduism)|Kama]]. For many Hindu schools it is the third end in life (''[[artha]]'').</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In Hinduism ''[[k&amp;#257;ma]]'' is pleasurable, sexual love, personified by the god [[Kama (Hinduism)|Kama]]. For many Hindu schools it is the third end in life (''[[artha]]'').</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In contrast to ''kāma'', ''[[prema]]'' or ''prem'' refers to elevated love. However, the term ''<del class=\"diffchange diffchange-inline\">kāma</del>'' is<del class=\"diffchange diffchange-inline\"> also</del> used to mean the higher, divine love.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In contrast to ''kāma'', ''[[prema]]'' or ''prem'' refers to elevated love. However, the term ''<ins class=\"diffchange diffchange-inline\">bhakti</ins>'' is used to mean the higher, divine love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''[[Karuna]]'' is compassion and mercy, which reduces the suffering of others.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''[[Karuna]]'' is compassion and mercy, which reduces the suffering of others.</div></td>\n</tr>\n",
+    "from": 170742640
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "rvv",
+  "timestamp": "2006-08-17T06:57:28Z",
+  "revid": 70181386,
+  "user": "Az1568",
+  "parentid": 70181273,
+  "diff": {
+    "to": 70181386,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 183:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 183:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tr:Aşk]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tr:Aşk]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:愛]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>I LOVE DUSTIN JOSEPH SOUTH!!!!!!!!!!!!!</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n",
+    "from": 70181273
+  }
+}

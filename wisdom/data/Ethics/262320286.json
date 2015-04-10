@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2009-01-06T15:48:18Z",
+  "revid": 262320286,
+  "anon": "",
+  "user": "24.117.144.19",
+  "parentid": 261546301,
+  "diff": {
+    "to": 262320286,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 229:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 229:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מידות]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מידות]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div> Fuck you Dill Hole</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:261546301:newid:262320286 -->\n",
+    "from": 261546301
+  }
+}

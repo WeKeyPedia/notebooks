@@ -1,0 +1,12 @@
+﻿{
+  "comment": "This quote does not describe wisdom, though the author may have felt it was wise.",
+  "timestamp": "2007-03-06T01:03:27Z",
+  "revid": 112950477,
+  "user": "McBeardo",
+  "parentid": 112854504,
+  "diff": {
+    "to": 112950477,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 112:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 112:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"Wise men talk because they have something to say; fools, because they have to say something.\" -- [[Plato]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"Wise men talk because they have something to say; fools, because they have to say something.\" -- [[Plato]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>\"Appear weak when you are strong, and strong when you are weak.\" -- [[Sun Tzu]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:112854504:newid:112950477 -->\n",
+    "from": 112854504
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/208.46.68.250|208.46.68.250]] ([[User talk:208.46.68.250|talk]]) to last revision by Pfhorrest ([[WP:HG|HG]])",
+  "timestamp": "2013-06-20T17:54:40Z",
+  "revid": 560780313,
+  "user": "RA0808",
+  "parentid": 560780284,
+  "diff": {
+    "to": 560780313,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[File:Steve%20Litwin|thumbnail|default|mR. INNAPROPRIATE]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{for|the 2009 novella by Stephen King|Morality (novella)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{for|the 2009 novella by Stephen King|Morality (novella)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect|Appropriate||Appropriation (disambiguation)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect|Appropriate||Appropriation (disambiguation)}}</div></td>\n</tr>\n",
+    "from": 560780284
+  },
+  "minor": ""
+}

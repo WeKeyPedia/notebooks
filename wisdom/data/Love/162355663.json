@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-10-04T23:57:45Z",
+  "revid": 162355663,
+  "anon": "",
+  "user": "96.224.204.198",
+  "parentid": 162348898,
+  "diff": {
+    "to": 162355663,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 166:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 166:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Jones, Del. \"One of USA's Exports: Love, American Style\" ''USA Today'': February, 14, 2006.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Jones, Del. \"One of USA's Exports: Love, American Style\" ''USA Today'': February, 14, 2006.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/div&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/div&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">ADAM AND NAOMI ARE IN LOVE.</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.youtube.com/v/GgG5z9UHFAk Love Song Video] - [[John Lennon]] (Youtube) </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.youtube.com/v/GgG5z9UHFAk Love Song Video] - [[John Lennon]] (Youtube) </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:162348898:newid:162355663 -->\n",
+    "from": 162348898
+  }
+}

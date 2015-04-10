@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/213.33.116.3|213.33.116.3]] to last version by Everyking",
+  "timestamp": "2005-07-06T12:44:53Z",
+  "revid": 18255644,
+  "user": "Everyking",
+  "parentid": 18255561,
+  "diff": {
+    "to": 18255644,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 41:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 41:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The conventional view in [[biology]] is that there are two major drives in love &amp;mdash; [[sexual attraction]] and [[attachment theory|attachment]]. Attachment between adults is presumed to work on the same principles that lead an infant to become attached to their mother.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The conventional view in [[biology]] is that there are two major drives in love &amp;mdash; [[sexual attraction]] and [[attachment theory|attachment]]. Attachment between adults is presumed to work on the same principles that lead an infant to become attached to their mother.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">=== Companionate vs. passionate ===</ins></div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The traditional psychological view sees love as being a combination of [[companionate love]] and [[passionate love]]. [[Passionate love]] is intense longing, and is often accompanied by [[physiological arousal]] (shortness of breath, rapid heart rate). [[Companionate love]] is affection and a feeling of intimacy not accompanied by physiological arousal.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Sternberg's Triangular Theory of Love ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Sternberg's Triangular Theory of Love ===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:18255561:newid:18255644 -->\n",
+    "from": 18255561
+  },
+  "minor": ""
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* See also */ expand list",
+  "timestamp": "2014-06-25T14:23:06Z",
+  "revid": 614369061,
+  "user": "Stitchill",
+  "parentid": 613986674,
+  "diff": {
+    "to": 614369061,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 205:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 205:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Deductive reasoning]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Deductive reasoning]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Descriptive ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Descriptive ethics]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Dharma]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Index of ethics articles]] ''(alphabetical list of ethics-related articles)''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Index of ethics articles]] ''(alphabetical list of ethics-related articles)''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral psychology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Moral psychology]]</div></td>\n</tr>\n",
+    "from": 613986674
+  }
+}

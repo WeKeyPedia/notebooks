@@ -1,0 +1,13 @@
+﻿{
+  "comment": "+bg",
+  "timestamp": "2005-05-15T08:16:47Z",
+  "revid": 13842664,
+  "anon": "",
+  "user": "213.84.49.116",
+  "parentid": 13732317,
+  "diff": {
+    "to": 13842664,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 215:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 215:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Social philosophy]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Social philosophy]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[bg:&amp;#1045;&amp;#1090;&amp;#1080;&amp;#1082;&amp;#1072;]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ca:Ètica]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ca:Ètica]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[cs:Etika]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[cs:Etika]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:13732317:newid:13842664 -->\n",
+    "from": 13732317
+  }
+}

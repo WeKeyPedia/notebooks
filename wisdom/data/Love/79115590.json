@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Religious views */",
+  "timestamp": "2006-10-02T21:04:36Z",
+  "revid": 79115590,
+  "anon": "",
+  "user": "66.153.81.2",
+  "parentid": 79115442,
+  "diff": {
+    "to": 79115590,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 75:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 75:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  If one were to give</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  If one were to give</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  all the wealth of his house for love,</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  all the wealth of his house for love,</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>  it would be utterly scorned.\" [8:6-7] </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>  it would be utterly scorned.\" [8:6-7<ins class=\"diffchange diffchange-inline\">, NIV</ins>] </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The passage dodi li v'ani lo (my beloved is mine and i am his [Song of Songs 2:16]) is often engraved on wedding bands</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The passage dodi li v'ani lo (my beloved is mine and i am his [Song of Songs 2:16]) is often engraved on wedding bands</div></td>\n</tr>\n",
+    "from": 79115442
+  }
+}

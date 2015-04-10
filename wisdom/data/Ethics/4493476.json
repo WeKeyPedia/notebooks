@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-07-02T18:27:11Z",
+  "revid": 4493476,
+  "user": "Lucidish",
+  "parentid": 4406636,
+  "diff": {
+    "to": 4493476,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 217:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 217:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:&amp;#20262;&amp;#29702;&amp;#23398;]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:&amp;#20262;&amp;#29702;&amp;#23398;]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Ethics]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Category:Social philosophy]]</div></td>\n</tr>\n",
+    "from": 4406636
+  }
+}

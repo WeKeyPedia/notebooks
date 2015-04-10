@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Ethics in health care */",
+  "timestamp": "2005-08-09T03:20:18Z",
+  "revid": 20592566,
+  "anon": "",
+  "user": "198.226.105.20",
+  "parentid": 20592440,
+  "diff": {
+    "to": 20592566,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 145:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 145:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Ethics in health care==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Ethics in health care==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>One of the major areas where ethicists practice is in the field of [[health care]]. This includes [[medicine]], [[nursing]], [[pharmacy]] and allied health professions. Example issues are [[euthanasia]], [[abortion]], medical experiments, [[vaccine trials]], truth telling, patient rights and autonomy, rationing of health care (such as [[triage]]).</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>One of the major areas where ethicists practice is in the field of [[health care]]. This includes [[medicine]], [[nursing]], [[pharmacy]] and allied health professions. Example issues are [[euthanasia]], [[abortion]], medical experiments, [[vaccine trials]], truth telling, patient rights and autonomy, rationing of health care (such as [[triage]])<ins class=\"diffchange diffchange-inline\">, and [[Stem Cell]] research</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''See also  [[bioethics]],   [[medical ethics]]''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''See also  [[bioethics]],   [[medical ethics]]''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 20592440
+  }
+}

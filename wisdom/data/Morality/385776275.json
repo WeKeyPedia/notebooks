@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/88.106.173.93|88.106.173.93]] ([[User talk:88.106.173.93|talk]]) to last revision by Jay-Sebastos ([[WP:HG|HG]])",
+  "timestamp": "2010-09-19T19:44:39Z",
+  "revid": 385776275,
+  "user": "Iridescent",
+  "parentid": 385776250,
+  "diff": {
+    "to": 385776275,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 125:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 125:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Buddhist morality]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Buddhist morality]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Christian morality]<del class=\"diffchange diffchange-inline\">] is the best =</del>]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Christian morality]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Tattva]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Tattva]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:385776250:newid:385776275 -->\n",
+    "from": 385776250
+  },
+  "minor": ""
+}

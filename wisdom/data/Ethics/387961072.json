@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Military ethics */",
+  "timestamp": "2010-09-30T18:44:30Z",
+  "revid": 387961072,
+  "anon": "",
+  "user": "70.88.28.145",
+  "parentid": 387949081,
+  "diff": {
+    "to": 387961072,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 130:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 130:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># race (loss of capability due to race bias or abuse)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># race (loss of capability due to race bias or abuse)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># gender equality (loss of capability due to gender bias or abuse)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># gender equality (loss of capability due to gender bias or abuse)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div># age discrimination (authority based upon age)</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># nepotism (unfair control by family members; also known as \"empire building\")</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># nepotism (unfair control by family members; also known as \"empire building\")</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># political influence (military members having a political position or political influence)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># political influence (military members having a political position or political influence)</div></td>\n</tr>\n",
+    "from": 387949081
+  }
+}

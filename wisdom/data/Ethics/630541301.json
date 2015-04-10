@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Defining ethics */",
+  "timestamp": "2014-10-21T17:42:34Z",
+  "revid": 630541301,
+  "anon": "",
+  "user": "65.19.235.242",
+  "parentid": 628416972,
+  "diff": {
+    "to": 630541301,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 9:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 9:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Related fields are [[moral psychology]], [[descriptive ethics]], and [[value theory]]. Ethics seeks to resolve questions dealing with human morality—concepts such as [[good and evil]], [[right and wrong]], [[virtue]] and [[vice]], [[justice]] and [[crime]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Related fields are [[moral psychology]], [[descriptive ethics]], and [[value theory]]. Ethics seeks to resolve questions dealing with human morality—concepts such as [[good and evil]], [[right and wrong]], [[virtue]] and [[vice]], [[justice]] and [[crime]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>==Defining ethics==</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>==Defining ethics<ins class=\"diffchange diffchange-inline\"> meow</ins>==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{POV-section|date=June 2014}}  </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{POV-section|date=June 2014}}  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 628416972
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Philosophical perspectives */ not really philosophy",
+  "timestamp": "2014-03-01T03:56:48Z",
+  "revid": 597618796,
+  "user": "Editor2020",
+  "parentid": 597618730,
+  "diff": {
+    "to": 597618796,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 17:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 17:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In the [[Inuit]] tradition, developing wisdom was one of the aims of teaching. An Inuit Elder said that a person became wise when they could see what needed to be done and do it successfully without being told what to do.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In the [[Inuit]] tradition, developing wisdom was one of the aims of teaching. An Inuit Elder said that a person became wise when they could see what needed to be done and do it successfully without being told what to do.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The Native American's philosophy about being a part of the natural environment contrasted to the European's culture of conquering nature's gifts. The Native American's wisdom about maintaining balance ecologically and socially was a common-sense approach to protecting and conserving natural resources.&lt;ref&gt;{{cite web|publisher=Thewildwest.org|year=2010|title=Native American wisdom|url=http://www.thewildwest.org/nativeamericans/nativeamericanwisdom.html}}&lt;/ref&gt;</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Educational perspectives==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Educational perspectives==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:597618730:newid:597618796 -->\n",
+    "from": 597618730
+  }
+}

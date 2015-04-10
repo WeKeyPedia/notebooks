@@ -1,0 +1,13 @@
+﻿{
+  "comment": "rubric",
+  "timestamp": "2006-08-18T13:08:52Z",
+  "revid": 70414927,
+  "user": "Charles Matthews",
+  "parentid": 69056571,
+  "diff": {
+    "to": 70414927,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>:For people named Wisdom, see [[Wisdom (surname)]]''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Efez Celsus Library 3 RB.jpg|thumb|250px|[[Personification]] of wisdom ([[Greek]] ''Σοφια'') in [[Celsus Library]] in [[Ephesos]], [[Turkey]]]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Efez Celsus Library 3 RB.jpg|thumb|250px|[[Personification]] of wisdom ([[Greek]] ''Σοφια'') in [[Celsus Library]] in [[Ephesos]], [[Turkey]]]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:AllegoryWisdomStrength.PNG||thumb|250px|right|Detail from the ''Allegory of Wisdom and Strength'' by Paulo Veronese (c. 1580)]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:AllegoryWisdomStrength.PNG||thumb|250px|right|Detail from the ''Allegory of Wisdom and Strength'' by Paulo Veronese (c. 1580)]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:69056571:newid:70414927 -->\n",
+    "from": 69056571
+  },
+  "minor": ""
+}

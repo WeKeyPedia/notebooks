@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Love styles */",
+  "timestamp": "2006-02-17T05:09:00Z",
+  "revid": 39974498,
+  "anon": "",
+  "user": "64.136.164.35",
+  "parentid": 39933222,
+  "diff": {
+    "to": 39974498,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 99:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 99:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The Hendricks found men tend to be more ludic and manic, whereas women tend to be storgic and pragmatic. Relationships based on similar love styles were found to last longer.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The Hendricks found men tend to be more ludic and manic, whereas women tend to be storgic and pragmatic. Relationships based on similar love styles were found to last longer.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>However, both men and women need the warmth that true love provides.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Phases===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Phases===</div></td>\n</tr>\n",
+    "from": 39933222
+  }
+}

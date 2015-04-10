@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Psychological perspectives */ rm \"aka psychological perspective\" as redundent",
+  "timestamp": "2009-05-10T15:05:48Z",
+  "revid": 289074532,
+  "user": "Nesbit",
+  "parentid": 289074299,
+  "diff": {
+    "to": 289074532,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 13:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 13:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Positive psychology===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Positive psychology===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Researchers in [[positive psychology]] have defined wisdom<del class=\"diffchange diffchange-inline\"> (a.k.a. '''psychological perspective''')</del> as the coordination of \"knowledge and experience\" and \"its deliberate use to improve well being.\"&lt;ref name=\"CSV106\"&gt;{{cite book</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Researchers in [[positive psychology]] have defined wisdom as the coordination of \"knowledge and experience\" and \"its deliberate use to improve well being.\"&lt;ref name=\"CSV106\"&gt;{{cite book</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | last = Peterson</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | last = Peterson</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | first = Christopher</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | first = Christopher</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:289074299:newid:289074532 -->\n",
+    "from": 289074299
+  }
+}

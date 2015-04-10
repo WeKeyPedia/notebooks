@@ -1,0 +1,12 @@
+﻿{
+  "comment": "+pt",
+  "timestamp": "2005-01-11T18:17:22Z",
+  "revid": 9576644,
+  "user": "Mschlindwein",
+  "parentid": 9289345,
+  "diff": {
+    "to": 9576644,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 267:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 267:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[nl:Liefde]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[nl:Liefde]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Mi%C5%82o%C5%9B%C4%87]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Mi%C5%82o%C5%9B%C4%87]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[pt:Amor (sentimento)]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ru:&amp;#1051;&amp;#1102;&amp;#1073;&amp;#1086;&amp;#1074;&amp;#1100;]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ru:&amp;#1051;&amp;#1102;&amp;#1073;&amp;#1086;&amp;#1074;&amp;#1100;]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Kärlek]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Kärlek]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:9289345:newid:9576644 -->\n",
+    "from": 9289345
+  }
+}

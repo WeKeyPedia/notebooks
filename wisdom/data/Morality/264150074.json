@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Psychological perspectives */",
+  "timestamp": "2009-01-14T23:58:58Z",
+  "revid": 264150074,
+  "user": "MrBell",
+  "parentid": 263954054,
+  "diff": {
+    "to": 264150074,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 91:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 91:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Psychological perspectives==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Psychological perspectives==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{see|<del class=\"diffchange diffchange-inline\">Jean_Piaget</del>#Education and development of morality}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{see|<ins class=\"diffchange diffchange-inline\">Jean Piaget</ins>#Education and development of morality}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{see|Kohlberg's stages of moral development}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{see|Kohlberg's stages of moral development}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{see|Ethics of care}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{see|Ethics of care}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:263954054:newid:264150074 -->\n",
+    "from": 263954054
+  }
+}

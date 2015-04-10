@@ -1,0 +1,12 @@
+﻿{
+  "comment": "rv vandalism",
+  "timestamp": "2006-03-15T11:05:43Z",
+  "revid": 43877063,
+  "user": "Bth",
+  "parentid": 43877002,
+  "diff": {
+    "to": 43877063,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 22:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Biological models of sex tend to see it as a mammalian drive, just like [[hunger]] or [[thirst]]. Psychology sees love as more of a social and cultural phenomenon. There are probably elements of truth in both views &amp;mdash; certainly love is influenced by [[hormone]]s (such as [[oxytocin]]) and [[pheromone]]s, and how people think and behave in love is influenced by one’s conceptions of love.  Hence, from time immortal, science, from [[nature|naturalistic]] [[poetry]] to [[MRI]] [[neurochemistry]], has since debated over the nature of love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Biological models of sex tend to see it as a mammalian drive, just like [[hunger]] or [[thirst]]. Psychology sees love as more of a social and cultural phenomenon. There are probably elements of truth in both views &amp;mdash; certainly love is influenced by [[hormone]]s (such as [[oxytocin]]) and [[pheromone]]s, and how people think and behave in love is influenced by one’s conceptions of love.  Hence, from time immortal, science, from [[nature|naturalistic]] [[poetry]] to [[MRI]] [[neurochemistry]], has since debated over the nature of love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>OMGZORZ VICTOR LOVES LUCY</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:43877002:newid:43877063 -->\n",
+    "from": 43877002
+  }
+}

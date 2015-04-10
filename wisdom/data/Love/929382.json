@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2003-05-17T06:52:18Z",
+  "revid": 929382,
+  "user": "Glenn",
+  "parentid": 928953,
+  "diff": {
+    "to": 929382,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[da:<del class=\"diffchange diffchange-inline\">Forelskelse</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[da:<ins class=\"diffchange diffchange-inline\">Kærlighed</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' is a special [[affection]] for someone or something, a [[feeling]] or [[emotion]]. Some describe it as a chemical reaction in the human [[brain]].  Various different types of love exist, which are more or less related:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' is a special [[affection]] for someone or something, a [[feeling]] or [[emotion]]. Some describe it as a chemical reaction in the human [[brain]].  Various different types of love exist, which are more or less related:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love between family members: parent's love of children, etc.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># love between family members: parent's love of children, etc.</div></td>\n</tr>\n",
+    "from": 928953
+  },
+  "minor": ""
+}

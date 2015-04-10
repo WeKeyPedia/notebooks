@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-01-26T20:53:25Z",
+  "revid": 103459111,
+  "anon": "",
+  "user": "63.192.226.2",
+  "parentid": 102938385,
+  "diff": {
+    "to": 103459111,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">'''I Love Justin Timberlake!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!'''</ins>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' (from the [[Ancient Greek]] \"''ethikos''\", meaning \"arising from habit\"; also '''Morality'''), a major branch of [[philosophy]], is the study of [[Value theory|value]], or [[morals]] and [[morality]]. It covers the [[Philosophical analysis|analysis]] and employment of [[concept]]s such as [[right]], [[wrong]], [[good]], [[evil]], and [[moral responsibility|responsibility]]. It is divided into three primary areas: ''meta-ethics'' (the study of the concept of ethics), ''normative ethics'' (the study of how to determine ethical values), and ''applied ethics'' (the study of the use of ethical values). </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' (from the [[Ancient Greek]] \"''ethikos''\", meaning \"arising from habit\"; also '''Morality'''), a major branch of [[philosophy]], is the study of [[Value theory|value]], or [[morals]] and [[morality]]. It covers the [[Philosophical analysis|analysis]] and employment of [[concept]]s such as [[right]], [[wrong]], [[good]], [[evil]], and [[moral responsibility|responsibility]]. It is divided into three primary areas: ''meta-ethics'' (the study of the concept of ethics), ''normative ethics'' (the study of how to determine ethical values), and ''applied ethics'' (the study of the use of ethical values). </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:102938385:newid:103459111 -->\n",
+    "from": 102938385
+  }
+}

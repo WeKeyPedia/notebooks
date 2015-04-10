@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2010-05-26T13:28:42Z",
+  "revid": 364295284,
+  "user": "Carole Jean",
+  "parentid": 364175823,
+  "diff": {
+    "to": 364295284,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 199:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 199:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Emmanuel Levinas|Levinas, E]]  1969, ''Totality and infinity, an essay on exteriority'', translated by Alphonso Lingis, [[Duquesne University Press]], Pittsburgh.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Emmanuel Levinas|Levinas, E]]  1969, ''Totality and infinity, an essay on exteriority'', translated by Alphonso Lingis, [[Duquesne University Press]], Pittsburgh.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Simon Blackburn|Blackburn, S.]] (2001). [http://www.worldcat.org/title/being-good-a-short-introduction-to-ethics/oclc/51644518 ''Being good: A short introduction to ethics''. Oxford: Oxford University Press. ]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Simon Blackburn|Blackburn, S.]] (2001). [http://www.worldcat.org/title/being-good-a-short-introduction-to-ethics/oclc/51644518 ''Being good: A short introduction to ethics''. Oxford: Oxford University Press. ]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Rodrigue Tremblay|Tremblay, R.]] (2010). [http://www.thecodeforglobalethics.com/ ''The CODE for Global Ethics, Ten Humanist Principles''. Prometheus Books. ]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:364175823:newid:364295284 -->\n",
+    "from": 364175823
+  }
+}

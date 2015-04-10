@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2007-02-17T14:36:14Z",
+  "revid": 108842397,
+  "user": "Pdemecz",
+  "parentid": 108728833,
+  "diff": {
+    "to": 108842397,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 158:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 158:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://www.rsrevision.com/Alevel/ethics/natural_law/ Natural Law]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://www.rsrevision.com/Alevel/ethics/natural_law/ Natural Law]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://www.rsrevision.com/Alevel/ethics/virtue_ethics/ Virtue Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://www.rsrevision.com/Alevel/ethics/virtue_ethics/ Virtue Ethics]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>** [http://www.rsrevision.com/Alevel/ethics/situation_ethics/ Situation Ethics]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/broad/ftet/ftet.html C. D. Broad, ''Five Types of Ethical Theory'' (New York: Harcourt, Brace and Co., 1930).]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/broad/ftet/ftet.html C. D. Broad, ''Five Types of Ethical Theory'' (New York: Harcourt, Brace and Co., 1930).]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/cornman/corn6.html James Cornman, \"Chapter Six: The Problem of Justifying an Ethical Standard,\"] in Philosophical Problems and Arguments - An Introduction, 3d ed., Indianapolis: Hackett, 1982.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/cornman/corn6.html James Cornman, \"Chapter Six: The Problem of Justifying an Ethical Standard,\"] in Philosophical Problems and Arguments - An Introduction, 3d ed., Indianapolis: Hackett, 1982.</div></td>\n</tr>\n",
+    "from": 108728833
+  },
+  "minor": ""
+}

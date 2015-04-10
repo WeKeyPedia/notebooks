@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Disputes of definition */",
+  "timestamp": "2005-02-07T18:59:42Z",
+  "revid": 10039289,
+  "anon": "",
+  "user": "206.158.106.159",
+  "parentid": 10039281,
+  "diff": {
+    "to": 10039289,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 21:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 21:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*Professionals usually use or interpret \"ethics\" to refer to elements of professional practice that are part of [[dispute resolution]] or which have some great potential for: [[bodily harm]], [[urban planning]], [[medicine]], [[law]], [[politics]] and theories of [[civics]]. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*Professionals usually use or interpret \"ethics\" to refer to elements of professional practice that are part of [[dispute resolution]] or which have some great potential for: [[bodily harm]], [[urban planning]], [[medicine]], [[law]], [[politics]] and theories of [[civics]]. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*A fifth way derives from theories of  [[nonviolence]], [[pacifism]],  [[anarchism]] ,and [[secession]] as a route to [[peace]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*A fifth way derives from theories of  [[nonviolence]], [[pacifism]],  [[anarchism]] ,and [[secession]] as a route to [[peace]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*Sometimes, ethics is simply regarded as the [[de-escalation]] and mediation of <del class=\"diffchange diffchange-inline\">conflicts</del>. </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*Sometimes, ethics is simply regarded as the [[de-escalation]] and mediation of <ins class=\"diffchange diffchange-inline\">conflict</ins>. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== The first social science === </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== The first social science === </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:10039281:newid:10039289 -->\n",
+    "from": 10039281
+  }
+}

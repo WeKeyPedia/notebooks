@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* External links */  removed vanity edit of Sheilrod",
+  "timestamp": "2006-06-29T02:02:10Z",
+  "revid": 61123646,
+  "user": "Pascal.Tesson",
+  "parentid": 60689044,
+  "diff": {
+    "to": 61123646,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 208:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 208:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* Roderick Hindery, Propaganda vs. Critical Thought, http://www.public.asu.edu/~sheilrod/ Lists ethical works by Roderick Hindery in Muslim, Confucian, Catholic,&amp; other traditions.]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* Roderick Hindery, Comparative Religious Ethics in Hindu and Buddhist Traditions</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.sandiego.edu/ Ethics Updates] mega-list of ethics resources maintained by Lawrence Hinman of the University of San Diego.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.sandiego.edu/ Ethics Updates] mega-list of ethics resources maintained by Lawrence Hinman of the University of San Diego.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://intelligenceispower.com/ Moral Philosophy Research and Economics] Public service publication on moral philosophy research </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://intelligenceispower.com/ Moral Philosophy Research and Economics] Public service publication on moral philosophy research </div></td>\n</tr>\n",
+    "from": 60689044
+  }
+}

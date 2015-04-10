@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-04-14T17:14:55Z",
+  "revid": 48441393,
+  "anon": "",
+  "user": "85.217.208.40",
+  "parentid": 48441283,
+  "diff": {
+    "to": 48441393,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 96:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 96:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.zaadz.com/quotes/topics/love Quotes about Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.zaadz.com/quotes/topics/love Quotes about Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.capezone.com/love.html Definition of Love]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.capezone.com/love.html Definition of Love]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http:iminlovestripper.com <del class=\"diffchange diffchange-inline\">LOVE</del> <del class=\"diffchange diffchange-inline\">STRIPPER</del>]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http:<ins class=\"diffchange diffchange-inline\">//www.</ins>iminlovestripper.com <ins class=\"diffchange diffchange-inline\">I am love</ins> <ins class=\"diffchange diffchange-inline\">stripper</ins>]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:48441283:newid:48441393 -->\n",
+    "from": 48441283
+  }
+}

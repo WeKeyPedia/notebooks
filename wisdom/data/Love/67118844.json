@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Definitional issues */",
+  "timestamp": "2006-08-01T21:38:13Z",
+  "revid": 67118844,
+  "anon": "",
+  "user": "72.174.121.190",
+  "parentid": 67117715,
+  "diff": {
+    "to": 67118844,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 55:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 55:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[union]]''' - dissolution of loving subject into loved object; a hyper-real state of creative generosity.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[union]]''' - dissolution of loving subject into loved object; a hyper-real state of creative generosity.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[family]]''' - people related via common ancestry.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[family]]''' - people related via common ancestry.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>#'''[[Psychological bond|bond]]'''.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>#'''[[Psychological bond|bond]]'''<ins class=\"diffchange diffchange-inline\"> - the inner connection when another person is a part of your identity</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:67117715:newid:67118844 -->\n",
+    "from": 67117715
+  }
+}

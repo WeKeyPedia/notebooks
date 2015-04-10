@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/201.143.16.64|201.143.16.64]] ([[User talk:201.143.16.64|talk]]) to last version by Rick Block",
+  "timestamp": "2006-11-23T22:44:20Z",
+  "revid": 89724034,
+  "user": "Gwernol",
+  "parentid": 89723695,
+  "diff": {
+    "to": 89724034,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 149:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 149:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Dorothy Tennov. ''A Scientist Looks at Romantic Love and Calls It \"Limerence\": The Collected Works of Dorothy Tennov''. Greenwich, CT: The Great American Publishing Society (GRAMPS), [http://www.gramps.org/limerence]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Dorothy Tennov. ''A Scientist Looks at Romantic Love and Calls It \"Limerence\": The Collected Works of Dorothy Tennov''. Greenwich, CT: The Great American Publishing Society (GRAMPS), [http://www.gramps.org/limerence]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Wood, Wood and Boyd. ''The World of Psychology''. 5th edition. 2005. Pearson Education, 402&amp;ndash;403</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Wood, Wood and Boyd. ''The World of Psychology''. 5th edition. 2005. Pearson Education, 402&amp;ndash;403</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>==External links==</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.ValentinesShow.com The most romantic show on history (24 hours of valentines)]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:89723695:newid:89724034 -->\n",
+    "from": 89723695
+  },
+  "minor": ""
+}

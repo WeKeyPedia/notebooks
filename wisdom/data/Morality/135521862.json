@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-06-03T10:19:57Z",
+  "revid": 135521862,
+  "anon": "",
+  "user": "81.76.87.81",
+  "parentid": 132647175,
+  "diff": {
+    "to": 135521862,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Unreferenced|date=March 2007}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">[[Media:Example.ogg]]</ins>{{Unreferenced|date=March 2007}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Ethics}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Ethics}}<ins class=\"diffchange diffchange-inline\">hello fannys</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''' (from Latin ''{{lang|la|moralitas}}'' \"manner, character, proper behaviour\") refers to the concept of human action which pertains to matters of right and wrong &amp;mdash; also referred to as \"[[good and evil]]\" &amp;mdash; used within three contexts: individual [[conscience]]; systems of [[principle]]s and [[judgment]]s &amp;mdash; sometimes called [[moral value]]s &amp;mdash;shared within a [[cultural]], [[religion|religious]], [[secular]] or [[philosophical]] community; and codes of behavior or [[Code of conduct|conduct morality]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''' (from Latin ''{{lang|la|moralitas}}'' \"manner, character, proper behaviour\") refers to the concept of human action which pertains to matters of right and wrong &amp;mdash; also referred to as \"[[good and evil]]\" &amp;mdash; used within three contexts: individual [[conscience]]; systems of [[principle]]s and [[judgment]]s &amp;mdash; sometimes called [[moral value]]s &amp;mdash;shared within a [[cultural]], [[religion|religious]], [[secular]] or [[philosophical]] community; and codes of behavior or [[Code of conduct|conduct morality]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:132647175:newid:135521862 -->\n",
+    "from": 132647175
+  }
+}

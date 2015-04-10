@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2013-05-12T06:19:46Z",
+  "revid": 554696654,
+  "user": "展翅飛翔",
+  "parentid": 551823194,
+  "diff": {
+    "to": 554696654,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 275:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 275:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Link GA|de}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Link GA|de}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Link GA|zh}}</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:551823194:newid:554696654 -->\n",
+    "from": 551823194
+  }
+}

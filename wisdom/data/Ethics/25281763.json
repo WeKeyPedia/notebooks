@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Ethics in health care */",
+  "timestamp": "2005-10-11T15:23:59Z",
+  "revid": 25281763,
+  "anon": "",
+  "user": "63.70.40.254",
+  "parentid": 25069272,
+  "diff": {
+    "to": 25281763,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 83:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 83:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main2|bioethics|medical ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main2|bioethics|medical ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>One of the major areas where ethicists practice is in the field of [[health care]]. This includes [[medicine]], [[nursing]], [[pharmacy]] and allied health professions. Example issues are [[euthanasia]], [[abortion]], medical experiments, [[vaccine trials]], truth telling, patient rights and autonomy, rationing of health care (such as [[triage]]).</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>One of the major areas where ethicists practice is in the field of [[health care]]. This includes [[medicine]], [[nursing]], [[pharmacy]]<ins class=\"diffchange diffchange-inline\">, [[genetics]],</ins> and allied health professions. Example issues are [[euthanasia]], [[abortion]], medical experiments, [[vaccine trials]]<ins class=\"diffchange diffchange-inline\">, [[stem cell]] research</ins>, truth telling, patient rights and autonomy, rationing of health care (such as [[triage]]).</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==== Ethics in psychology ====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==== Ethics in psychology ====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:25069272:newid:25281763 -->\n",
+    "from": 25069272
+  }
+}

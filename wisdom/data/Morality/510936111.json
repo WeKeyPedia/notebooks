@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2012-09-05T16:31:31Z",
+  "revid": 510936111,
+  "anon": "",
+  "user": "198.184.231.254",
+  "parentid": 510884186,
+  "diff": {
+    "to": 510936111,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 241:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 241:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ms:Moral]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ms:Moral]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[mn:Ёс суртахуун]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[mn:Ёс суртахуун]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[nl:<del class=\"diffchange diffchange-inline\">Moraal</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[nl:<ins class=\"diffchange diffchange-inline\">Moralisme</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ja:道徳]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ja:道徳]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[nn:Moral]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[nn:Moral]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:510884186:newid:510936111 -->\n",
+    "from": 510884186
+  }
+}

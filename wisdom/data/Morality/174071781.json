@@ -1,0 +1,12 @@
+﻿{
+  "comment": "[[WP:UNDO|Undid]] revision 174041825 by [[Special:Contributions/67.181.140.180|67.181.140.180]] ([[User talk:67.181.140.180|talk]])",
+  "timestamp": "2007-11-27T04:48:28Z",
+  "revid": 174071781,
+  "user": "Plasynins",
+  "parentid": 174041825,
+  "diff": {
+    "to": 174071781,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 176:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 176:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מוסר]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מוסר]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:道德]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:道德]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[morobay(:]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n",
+    "from": 174041825
+  }
+}

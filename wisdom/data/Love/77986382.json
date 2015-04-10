@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/64.219.4.153|64.219.4.153]] ([[User talk:64.219.4.153|talk]]) to version 77985839 by Omicronpersei8 using [[WP:SNIPE|VS]]",
+  "timestamp": "2006-09-26T21:47:02Z",
+  "revid": 77986382,
+  "user": "Omicronpersei8",
+  "parentid": 77986353,
+  "diff": {
+    "to": 77986382,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Religious love]] – devotion to one's deity or theology</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Religious love]] – devotion to one's deity or theology</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional intimacy and sexual desire</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional intimacy and sexual desire</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[True love]] – love without condition, motive or attachment. Loving someone just because they are themselves, not their actions or beliefs in particular. Also referred to as unconditional love<del class=\"diffchange diffchange-inline\">. Also describing Kayla and Cody</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[True love]] – love without condition, motive or attachment. Loving someone just because they are themselves, not their actions or beliefs in particular. Also referred to as unconditional love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Lust|Lust-love]] - affection characterized by lust. i.e. The desire to satisfy or gratify oneself.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Lust|Lust-love]] - affection characterized by lust. i.e. The desire to satisfy or gratify oneself.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:77986353:newid:77986382 -->\n",
+    "from": 77986353
+  },
+  "minor": ""
+}

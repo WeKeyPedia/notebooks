@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Wikilink",
+  "timestamp": "2005-06-04T21:28:14Z",
+  "revid": 14712638,
+  "user": "Mel Etitis",
+  "parentid": 14709336,
+  "diff": {
+    "to": 14712638,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 118:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 118:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Chinese===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Chinese===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Ai====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Ai====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The Chinese philosopher [[<del class=\"diffchange diffchange-inline\">Mo Zi</del>]] developed [[ai]] (&amp;#29233;) in reaction to Confucian [[lian]] (&amp;#24651;). Ai is universal love towards all beings, not just towards friends or family, without regard to reciprocation. Extravagance and offensive war are inimical to ai. Although <del class=\"diffchange diffchange-inline\">Mo Zi</del> was influential, the Confucian lian is how most modern Chinese conceive of love.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The Chinese philosopher [[<ins class=\"diffchange diffchange-inline\">Mozi</ins>]] developed [[ai]] (&amp;#29233;) in reaction to Confucian [[lian]] (&amp;#24651;). Ai is universal love towards all beings, not just towards friends or family, without regard to reciprocation. Extravagance and offensive war are inimical to ai. Although <ins class=\"diffchange diffchange-inline\">Mozi</ins> was influential, the Confucian lian is how most modern Chinese conceive of love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====G&amp;#259;nqíng====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====G&amp;#259;nqíng====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:14709336:newid:14712638 -->\n",
+    "from": 14709336
+  },
+  "minor": ""
+}

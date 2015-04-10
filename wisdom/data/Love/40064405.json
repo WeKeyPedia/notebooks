@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-02-17T21:48:14Z",
+  "revid": 40064405,
+  "anon": "",
+  "user": "24.182.170.214",
+  "parentid": 40062746,
+  "diff": {
+    "to": 40064405,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love might best be defined as acting intentionally, in sympathetic response to others (including God), to promote overall well-being.  Or to put simply, \"love responds intentionally to promote well-being\". ([[Thomas Jay Oord]]).</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love might best be defined as acting intentionally, in sympathetic response to others (including God), to promote overall well-being.  Or to put simply, \"love responds intentionally to promote well-being\". ([[Thomas Jay Oord]]).</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>ALAN LEE SCREWED HIS DOG!</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is inherent in all human cultures and thus may be seen as a defining trait of humanity, that is, love is a quality that makes one human. It is precisely these cultural differences that make any universal definition of love difficult, but not impossible, to establish. See the [[Sapir-Whorf hypothesis]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is inherent in all human cultures and thus may be seen as a defining trait of humanity, that is, love is a quality that makes one human. It is precisely these cultural differences that make any universal definition of love difficult, but not impossible, to establish. See the [[Sapir-Whorf hypothesis]].</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:40062746:newid:40064405 -->\n",
+    "from": 40062746
+  }
+}

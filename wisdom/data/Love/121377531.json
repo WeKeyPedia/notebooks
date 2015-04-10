@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* 10 Secrets of Love */",
+  "timestamp": "2007-04-09T08:16:09Z",
+  "revid": 121377531,
+  "user": "Echodelta",
+  "parentid": 121377446,
+  "diff": {
+    "to": 121377531,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 85:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 85:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Do you trust each other completely? </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Do you trust each other completely? </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''10 secrets to bring love back into your relationship'''<del class=\"diffchange diffchange-inline\">Think about your partner's needs and desires as well as your own. </del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''10 secrets to bring love back into your relationship'''</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* Think about your partner's needs and desires as well as your own. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Learn to respect yourself and your partner. Ask yourself: 'What do I respect about myself?' and 'What do I respect about my partner?'. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Learn to respect yourself and your partner. Ask yourself: 'What do I respect about myself?' and 'What do I respect about my partner?'. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Focus on what you might not be giving to the relationship, rather than on what you think you should be taking. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Focus on what you might not be giving to the relationship, rather than on what you think you should be taking. </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:121377446:newid:121377531 -->\n",
+    "from": 121377446
+  }
+}

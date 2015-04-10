@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Normative ethics */  added see universal values",
+  "timestamp": "2006-07-13T18:53:59Z",
+  "revid": 63646096,
+  "user": "Stevenwmccrary58",
+  "parentid": 63636945,
+  "diff": {
+    "to": 63646096,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 13:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 13:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Normative ethics ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Normative ethics ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Normative ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Normative ethics}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{see also|Universal values}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Normative ethics''' bridges the gap between meta-ethics and applied ethics. It is the attempt to arrive at practical moral standards that tell us right from wrong, and how to live moral lives. This may involve articulating the good habits that we should acquire, the duties that we should follow, or the consequences of our behavior on others.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Normative ethics''' bridges the gap between meta-ethics and applied ethics. It is the attempt to arrive at practical moral standards that tell us right from wrong, and how to live moral lives. This may involve articulating the good habits that we should acquire, the duties that we should follow, or the consequences of our behavior on others.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:63636945:newid:63646096 -->\n",
+    "from": 63636945
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Religious interpretation */",
+  "timestamp": "2008-01-12T18:04:45Z",
+  "revid": 183872446,
+  "user": "FilipeS",
+  "parentid": 183872403,
+  "diff": {
+    "to": 183872446,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 38:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 38:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | accessdate = 2007-12-16}}&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | accessdate = 2007-12-16}}&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">=</del>==Religious interpretation<del class=\"diffchange diffchange-inline\">=</del>==</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>==Religious interpretation==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Refer to ''[[#Religious Views|Religious Views]]'' below.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Refer to ''[[#Religious Views|Religious Views]]'' below.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:183872403:newid:183872446 -->\n",
+    "from": 183872403
+  },
+  "minor": ""
+}

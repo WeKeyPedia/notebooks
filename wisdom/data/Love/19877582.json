@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Ancient Greek */  added link to xenia=hospitality",
+  "timestamp": "2005-07-29T20:38:17Z",
+  "revid": 19877582,
+  "anon": "",
+  "user": "69.221.198.81",
+  "parentid": 19758110,
+  "diff": {
+    "to": 19877582,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 145:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 145:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Storge]] ({{polytonic|&amp;#963;&amp;#964;&amp;#959;&amp;#961;&amp;#947;&amp;#942;}} ''storg&amp;#275;'') is natural affection, like that felt by parents for offspring.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Storge]] ({{polytonic|&amp;#963;&amp;#964;&amp;#959;&amp;#961;&amp;#947;&amp;#942;}} ''storg&amp;#275;'') is natural affection, like that felt by parents for offspring.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In ancient Greece, the concept of <del class=\"diffchange diffchange-inline\">xenia</del> was extremely important. It was an almost ritualized friendship formed between a host and their guest, who could previously be strangers. The host fed and provided quarters for the guest, who was only expected to repay with gratitude. The importance of this can be seen throughout Greek mythology, in particular Homer's [[Iliad]] and [[Odyssey]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In ancient Greece, the concept of <ins class=\"diffchange diffchange-inline\">[[Xenia]] (&amp;#958;&amp;#949;&amp;#957;&amp;#943;&amp;#945; ''xenía''), hospitality,</ins> was extremely important. It was an almost ritualized friendship formed between a host and their guest, who could previously be strangers. The host fed and provided quarters for the guest, who was only expected to repay with gratitude. The importance of this can be seen throughout Greek mythology, in particular Homer's [[Iliad]] and [[Odyssey]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:19758110:newid:19877582 -->\n",
+    "from": 19758110
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Further reading */",
+  "timestamp": "2012-05-24T17:07:14Z",
+  "revid": 494177979,
+  "anon": "",
+  "user": "78.133.124.146",
+  "parentid": 492163143,
+  "diff": {
+    "to": 494177979,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 167:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 167:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Sternberg, Robert J.]], ''Wisdom: Its Nature, Origins, and Development'' (1990). [[Cambridge University Press]]. ISBN 978-0-521-36718-9 {{importance-inline|date=December 2010}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Sternberg, Robert J.]], ''Wisdom: Its Nature, Origins, and Development'' (1990). [[Cambridge University Press]]. ISBN 978-0-521-36718-9 {{importance-inline|date=December 2010}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*Conover, Sarah and Wahl, Valerie, \"Kindness: A Treasury of Buddhist Wisdom for Children and Parents (This Little Light of Mine)\", Skinner House Books, 2010. ISBN 978-1-55896-568-3</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*Conover, Sarah and Wahl, Valerie, \"Kindness: A Treasury of Buddhist Wisdom for Children and Parents (This Little Light of Mine)\", Skinner House Books, 2010. ISBN 978-1-55896-568-3</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Publisheb by Pizza Hut Malta</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:492163143:newid:494177979 -->\n",
+    "from": 492163143
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2014-06-13T12:25:11Z",
+  "revid": 612760453,
+  "user": "Anni1191",
+  "parentid": 611228835,
+  "diff": {
+    "to": 612760453,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 13:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 13:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Definitions==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Definitions==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Love sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Love sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The word \"love\" can have a variety of related but distinct <del class=\"diffchange diffchange-inline\">meanings</del> in different contexts.  Many other languages use multiple words to express some of the different concepts that English relies mainly on \"love\" to encapsulate; one example is the plurality of [[Greek words for love|Greek words for \"love.\"]] [[Cultural identity|Cultural differences]] in conceptualizing love thus doubly impede the establishment of a universal definition.&lt;ref&gt;{{cite journal</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The word \"love\" can have a variety of related but distinct <ins class=\"diffchange diffchange-inline\">meaning</ins> in different contexts.  Many other languages use multiple words to express some of the different concepts that English relies mainly on \"love\" to encapsulate; one example is the plurality of [[Greek words for love|Greek words for \"love.\"]] [[Cultural identity|Cultural differences]] in conceptualizing love thus doubly impede the establishment of a universal definition.&lt;ref&gt;{{cite journal</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|last=Kay</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|last=Kay</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|first=Paul</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|first=Paul</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:611228835:newid:612760453 -->\n",
+    "from": 611228835
+  }
+}

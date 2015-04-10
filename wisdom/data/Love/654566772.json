@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Judaism */ add note for other page",
+  "timestamp": "2015-04-02T00:23:16Z",
+  "revid": 654566772,
+  "user": "Natg 19",
+  "parentid": 654437552,
+  "diff": {
+    "to": 654566772,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 194:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 194:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Judaism====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Judaism====</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{see also|Jewish views on love}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[Hebrew language|Hebrew]], ''Ahava'' is the most commonly used term for both interpersonal love and love between God and God's creations. [[Chesed]], often translated as [[loving-kindness]], is used to describe many forms of love between human beings.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[Hebrew language|Hebrew]], ''Ahava'' is the most commonly used term for both interpersonal love and love between God and God's creations. [[Chesed]], often translated as [[loving-kindness]], is used to describe many forms of love between human beings.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:654437552:newid:654566772 -->\n",
+    "from": 654437552
+  }
+}

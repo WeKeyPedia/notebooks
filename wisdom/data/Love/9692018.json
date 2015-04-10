@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* K&#257;ma */ avoid redir msg",
+  "timestamp": "2005-01-26T19:28:44Z",
+  "revid": 9692018,
+  "user": "Niteowlneils",
+  "parentid": 9679602,
+  "diff": {
+    "to": 9692018,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 178:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 178:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====K&amp;#257;ma====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====K&amp;#257;ma====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In [[k&amp;#257;ma]] is pleasurable, sexual love, personified by the god [[Kama]]. For many Hindu schools it is the third end in life ([[artha]]).</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In [[k&amp;#257;ma]] is pleasurable, sexual love, personified by the god [[<ins class=\"diffchange diffchange-inline\">Kama (Hinduism)|</ins>Kama]]. For many Hindu schools it is the third end in life ([[artha]]).</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Prema====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Prema====</div></td>\n</tr>\n",
+    "from": 9679602
+  },
+  "minor": ""
+}

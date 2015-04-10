@@ -1,0 +1,13 @@
+﻿{
+  "comment": "BOT - rv [[Special:Contributions/203.87.190.42|203.87.190.42]] ([[User talk:203.87.190.42|talk]]) to last version by Buchanan-Hermit",
+  "timestamp": "2006-07-01T13:55:39Z",
+  "revid": 61541672,
+  "user": "Tawkerbot2",
+  "parentid": 61541663,
+  "diff": {
+    "to": 61541672,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Types==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Types==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Courtly love]] – <del class=\"diffchange diffchange-inline\">ROSEANN</del> <del class=\"diffchange diffchange-inline\">LOVES</del> <del class=\"diffchange diffchange-inline\">EYO!!!!!!!!!!!!!!!!!!!!!!!!!!</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Courtly love]] – <ins class=\"diffchange diffchange-inline\">a</ins> <ins class=\"diffchange diffchange-inline\">late</ins> <ins class=\"diffchange diffchange-inline\">medieval conventionalized code prescribing certain conduct and emotions for ladies and their lovers</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Erotic love]] – desire characterized by sexual desires</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Erotic love]] – desire characterized by sexual desires</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Familial love]] – affection brokered through kinship connections, intertwined with concepts of attachment and bonding</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Familial love]] – affection brokered through kinship connections, intertwined with concepts of attachment and bonding</div></td>\n</tr>\n",
+    "from": 61541663
+  },
+  "minor": ""
+}

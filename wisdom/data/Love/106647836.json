@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Definitions */",
+  "timestamp": "2007-02-08T19:43:52Z",
+  "revid": 106647836,
+  "user": "Killerjo",
+  "parentid": 106330833,
+  "diff": {
+    "to": 106647836,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The different aspects of ''love'' can be roughly illustrated by comparing their corollaries and opposites. As a general expression of positive sentiment (a stronger form of ''like''), love is commonly contrasted with [[hate]] (or neutral [[apathy]]); as a less sexual and more mutual and \"pure\" form of romantic attachment, love is commonly contrasted with [[lust]]; and as an interpersonal relationship with romantic overtones, love is commonly contrasted with [[friendship]], although other connotations of ''love'' may be applied to close friendships as well.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The different aspects of ''love'' can be roughly illustrated by comparing their corollaries and opposites. As a general expression of positive sentiment (a stronger form of ''like''), love is commonly contrasted with [[hate]] (or neutral [[apathy]]); as a less sexual and more mutual and \"pure\" form of romantic attachment, love is commonly contrasted with [[lust]]; and as an interpersonal relationship with romantic overtones, love is commonly contrasted with [[friendship]], although other connotations of ''love'' may be applied to close friendships as well.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">&gt;[http:www.love.com</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{weasel}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{weasel}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 106330833
+  }
+}

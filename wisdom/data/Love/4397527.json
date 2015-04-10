@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2004-06-26T13:59:50Z",
+  "revid": 4397527,
+  "anon": "",
+  "user": "213.119.96.153",
+  "parentid": 4293416,
+  "diff": {
+    "to": 4397527,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 70:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 70:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.heavenonastick.com/whatididforlove/ What I Did For Love]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www2.fmg.uva.nl/sociosite/websoc/love.html  NetLove and CyberSex]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www2.fmg.uva.nl/sociosite/websoc/love.html  NetLove and CyberSex]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*http://www.lovestuff.net</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*http://www.lovestuff.net</div></td>\n</tr>\n",
+    "from": 4293416
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-06-01T06:18:52Z",
+  "revid": 56272314,
+  "user": "Stevertigo",
+  "parentid": 56253776,
+  "diff": {
+    "to": 56272314,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Image:Love-zh.png|200px|thumb|right|The [[Chinese character]] for love &amp;mdash;its parts indicating (top to bottom): '''''<del class=\"diffchange diffchange-inline\">that</del> which gives [[breath]]''''' ''(ie. \"[[spirit]]\")'' '''''to the heart, with a graceful motion.''''' ([[Rose Quong]] - ''Chinese Characters:Their Wit and Wisdom'')]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Image:Love-zh.png|200px|thumb|right|The [[Chinese character]] for love &amp;mdash;its parts indicating (top to bottom): '''''<ins class=\"diffchange diffchange-inline\">That</ins> which gives [[breath]]''''' ''(ie. \"[[spirit]]\")'' '''''to the heart, with a graceful motion.''''' ([[Rose Quong]] - ''Chinese Characters:Their Wit and Wisdom'')]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love might best be defined as acting intentionally, in sympathetic response to others to promote overall well-being. Or to put it simply, \"love responds intentionally to promote well-being\" ([[Thomas Jay Oord]]). Love promotes overall flourishing, but often focuses on those close at hand.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love might best be defined as acting intentionally, in sympathetic response to others to promote overall well-being. Or to put it simply, \"love responds intentionally to promote well-being\" ([[Thomas Jay Oord]]). Love promotes overall flourishing, but often focuses on those close at hand.</div></td>\n</tr>\n",
+    "from": 56253776
+  }
+}

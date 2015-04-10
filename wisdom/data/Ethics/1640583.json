@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Updated link to Goodness and value theory",
+  "timestamp": "2003-10-28T23:48:46Z",
+  "revid": 1640583,
+  "user": "TonyClarke",
+  "parentid": 1640578,
+  "diff": {
+    "to": 1640583,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Etyka]][[simple:Ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Etyka]][[simple:Ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' is the general term for attempts to state or determine what is [[good]], both for the individual and for the society as a whole. It is often termed the [[science]] of [[morality]]. </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' is the general term for attempts to state or determine what is [[good<ins class=\"diffchange diffchange-inline\">|Goodness and value theory</ins>]], both for the individual and for the society as a whole. It is often termed the [[science]] of [[morality]]. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[philosophy]], '''ethics''' is one of the three major traditional areas of investigation, alongside [[metaphysics]] and [[logic]]. See particularly [[meta-ethics]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[philosophy]], '''ethics''' is one of the three major traditional areas of investigation, alongside [[metaphysics]] and [[logic]]. See particularly [[meta-ethics]].</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:1640578:newid:1640583 -->\n",
+    "from": 1640578
+  },
+  "minor": ""
+}

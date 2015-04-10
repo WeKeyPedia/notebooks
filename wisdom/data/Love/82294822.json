@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Types */",
+  "timestamp": "2006-10-18T21:56:11Z",
+  "revid": 82294822,
+  "anon": "",
+  "user": "86.137.78.179",
+  "parentid": 82293086,
+  "diff": {
+    "to": 82294822,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 32:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 32:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Lust|Lust-love]] - affection characterized by lust. i.e. The desire to satisfy or gratify oneself.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Lust|Lust-love]] - affection characterized by lust. i.e. The desire to satisfy or gratify oneself.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Love at first sight|Instantaneous love]] - Love that <del class=\"diffchange diffchange-inline\">occours</del> the instant that one person comes in contact with another and feels a deep connection or attraction to the other. Also known as \"love at first sight\" and refered to commonly in many fairy tales and folk lore and literature.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Love at first sight|Instantaneous love]] - Love that <ins class=\"diffchange diffchange-inline\">occurs</ins> the instant that one person comes in contact with another and feels a deep connection or attraction to the other. Also known as \"love at first sight\" and refered to commonly in many fairy tales and folk lore and literature.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Sacrificial love]] - the act of sacrificing one's life, or something of great importance, solely on the basis of love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Sacrificial love]] - the act of sacrificing one's life, or something of great importance, solely on the basis of love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:82293086:newid:82294822 -->\n",
+    "from": 82293086
+  }
+}

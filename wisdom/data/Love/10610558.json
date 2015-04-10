@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Puppy Love */",
+  "timestamp": "2005-02-27T01:38:36Z",
+  "revid": 10610558,
+  "user": "Druminor",
+  "parentid": 10601596,
+  "diff": {
+    "to": 10610558,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Puppy Love==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Puppy Love==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Puppy love is quite often the <del class=\"diffchange diffchange-inline\">begining</del> of love for <del class=\"diffchange diffchange-inline\">kids</del>. Part of it is like crushes<del class=\"diffchange diffchange-inline\"> </del> and <del class=\"diffchange diffchange-inline\">stuff</del> <del class=\"diffchange diffchange-inline\">similar</del>, while the other half <del class=\"diffchange diffchange-inline\">is stuff</del> such as just getting the other person's attention. Quite alot of the time this results in heartbreakers because the other person feels the opposite.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Puppy love is quite often the <ins class=\"diffchange diffchange-inline\">beginning</ins> of love for <ins class=\"diffchange diffchange-inline\">children</ins>. Part of it is like crushes and <ins class=\"diffchange diffchange-inline\">similar</ins> <ins class=\"diffchange diffchange-inline\">things</ins>, while the other half <ins class=\"diffchange diffchange-inline\">concern</ins> such<ins class=\"diffchange diffchange-inline\"> things</ins> as just getting the other person's attention. Quite alot of the time this results in heartbreakers because the other person feels the opposite.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining love==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining love==</div></td>\n</tr>\n",
+    "from": 10601596
+  }
+}

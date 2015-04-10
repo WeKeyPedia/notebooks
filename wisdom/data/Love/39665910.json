@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Love styles */",
+  "timestamp": "2006-02-15T00:57:58Z",
+  "revid": 39665910,
+  "anon": "",
+  "user": "24.250.136.236",
+  "parentid": 39665871,
+  "diff": {
+    "to": 39665910,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 93:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 93:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Love styles===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Love styles===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">[[</del>Susan Hendrick<del class=\"diffchange diffchange-inline\">]]</del> and Clyde Hendrick developed a Loves Attitude Scale based on John Alan Lee's theory called [[Love styles]]. Lee identified six basic theories that people use in their interpersonal relationships:</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Susan Hendrick and Clyde Hendrick developed a Loves Attitude Scale based on John Alan Lee's theory called [[Love styles]]. Lee identified six basic theories that people use in their interpersonal relationships:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Eros (love)|Eros]] (romantic love) &amp;mdash; a passionate physical love based on physical appearance and beauty.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Eros (love)|Eros]] (romantic love) &amp;mdash; a passionate physical love based on physical appearance and beauty.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ludus (love)|Ludus]] (game playing)&amp;mdash; love is played as a game; love is playful; often involves little or no commitment and thrives on \"conquests\".</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ludus (love)|Ludus]] (game playing)&amp;mdash; love is played as a game; love is playful; often involves little or no commitment and thrives on \"conquests\".</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:39665871:newid:39665910 -->\n",
+    "from": 39665871
+  }
+}

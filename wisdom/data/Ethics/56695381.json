@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-06-03T18:32:29Z",
+  "revid": 56695381,
+  "anon": "",
+  "user": "87.3.30.98",
+  "parentid": 54901072,
+  "diff": {
+    "to": 56695381,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:''For the book of the same name, see [[Ethics (book)]]; for the [[Star Trek: The Next Generation]] episode, see [[Ethics (TNG episode)|Ethics (TNG Episode)]].''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:''For the book of the same name, see [[Ethics (book)]]; for the [[Star Trek: The Next Generation]] episode, see [[Ethics (TNG episode)|Ethics (TNG Episode)]].''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' (from Greek ''[[ethos|ἦθος]]'' meaning \"custom\") is the branch of [[axiology]], one of the four major branches of [[philosophy]], which attempts to understand the nature of [[morality]]; to distinguish that which is [[right]] from that which is [[wrong]].  The [[Western philosophy|Western tradition]] of ethics is sometimes called '''moral philosophy'''.  </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' (from Greek ''[[ethos|ἦθος]]'' meaning \"custom\") is the branch of [[axiology]], one of the four major branches of [[philosophy]], which attempts to understand the nature of [[morality]]; to distinguish that which is [[right]] from that which is [[wrong]].  The [[Western philosophy|Western tradition]] of ethics is sometimes called '''moral philosophy'''.  <ins class=\"diffchange diffchange-inline\">Ethics in plain words means studying and analyzing right from wrong.</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Meta-ethics ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Meta-ethics ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:54901072:newid:56695381 -->\n",
+    "from": 54901072
+  }
+}

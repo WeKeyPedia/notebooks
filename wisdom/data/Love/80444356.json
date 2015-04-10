@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-10-09T17:18:42Z",
+  "revid": 80444356,
+  "user": "Ye.zero",
+  "parentid": 80219775,
+  "diff": {
+    "to": 80444356,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 165:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 165:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[http://www.theloveinn.com http://www.theloveinn.com]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- Please use the talk page to discuss links prior to adding them here --&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- Please use the talk page to discuss links prior to adding them here --&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:80219775:newid:80444356 -->\n",
+    "from": 80219775
+  }
+}

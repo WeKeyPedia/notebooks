@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Meta-ethics */",
+  "timestamp": "2007-03-15T07:53:08Z",
+  "revid": 115270980,
+  "anon": "",
+  "user": "144.137.235.57",
+  "parentid": 115270924,
+  "diff": {
+    "to": 115270980,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Another group of meta-ethical theories, which is called 'realism', by contrast, holds that moral value is somehow an intrinsic property of the world and that ethical principles are simply discovered or intuited. Under this view, ethical values held by people can at best reflect an independent Truth by which their validity must be judged. These theories may be derived from [[theology]] or [[Naturalism (philosophy)|naturalism]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Another group of meta-ethical theories, which is called 'realism', by contrast, holds that moral value is somehow an intrinsic property of the world and that ethical principles are simply discovered or intuited. Under this view, ethical values held by people can at best reflect an independent Truth by which their validity must be judged. These theories may be derived from [[theology]] or [[Naturalism (philosophy)|naturalism]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&gt;(' )</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">.   </ins>&gt;(' )</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\"> </del>(     )</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">.    </ins>(     )</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Normative ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Normative ethics==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:115270924:newid:115270980 -->\n",
+    "from": 115270924
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-01-18T18:52:38Z",
+  "revid": 35706373,
+  "anon": "",
+  "user": "83.70.66.216",
+  "parentid": 35705274,
+  "diff": {
+    "to": 35706373,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>morality is me doing your mom</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>morality is me doing your mom</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>and tellin you to FUCK OFF</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:35705274:newid:35706373 -->\n",
+    "from": 35705274
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "+wiktionary",
+  "timestamp": "2004-01-11T08:05:57Z",
+  "revid": 2163645,
+  "user": "Rrjanbiah",
+  "parentid": 2129661,
+  "diff": {
+    "to": 2163645,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 67:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 67:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[biophilia|Biophilia]] - the love of nature</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[biophilia|Biophilia]] - the love of nature</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[List of philias]] - list of words with ''philia'' or ''phile'' postfix</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[List of philias]] - list of words with ''philia'' or ''phile'' postfix</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>===Wiktionary===</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Wiktionary:Love|Love]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Wiktionary:I love you|\"I love you\" in various languages]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== References ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== References ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:2129661:newid:2163645 -->\n",
+    "from": 2129661
+  }
+}

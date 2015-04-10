@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2011-08-13T10:09:22Z",
+  "revid": 444602840,
+  "anon": "",
+  "user": "75.97.160.102",
+  "parentid": 444302890,
+  "diff": {
+    "to": 444602840,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 154:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 154:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.foundationsmag.com/wisdom.html Where is the Wisdom We have Lost in Knowledge?]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.foundationsmag.com/wisdom.html Where is the Wisdom We have Lost in Knowledge?]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.excaliburbooks.com Wisdom in Perspective]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.excaliburbooks.com Wisdom in Perspective]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.ancienttexts.org/ Ancient texts]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.foundationsmag.com/wisdom2.html Wisdom: The Interval Between the Notes]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.foundationsmag.com/wisdom2.html Wisdom: The Interval Between the Notes]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.john-uebersax.com/plato/lexicon.htm John-uebersax.com], Wisdom Lexicon Project</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.john-uebersax.com/plato/lexicon.htm John-uebersax.com], Wisdom Lexicon Project</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:444302890:newid:444602840 -->\n",
+    "from": 444302890
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Defining love */",
+  "timestamp": "2005-06-10T20:32:34Z",
+  "revid": 14995441,
+  "anon": "",
+  "user": "192.147.56.6",
+  "parentid": 14993092,
+  "diff": {
+    "to": 14995441,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>There are many different types of love: the love for a soul or mind, love for laws and organizations, love for a body, love for nature, love for food, love for money, love for learning, love for power, love for fame, love for the respect of others, etc.  Different people find different types of love more important, and better, than others.  Love is abstract, and there are many questions about it.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>There are many different types of love: the love for a soul or mind, love for laws and organizations, love for a body, love for nature, love for food, love for money, love for learning, love for power, love for fame, love for the respect of others, etc.  Different people find different types of love more important, and better, than others.  Love is abstract, and there are many questions about it.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Bacu is a dork</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Interpersonal love===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Interpersonal love===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:14993092:newid:14995441 -->\n",
+    "from": 14993092
+  }
+}

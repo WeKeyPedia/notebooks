@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Wiktionary */",
+  "timestamp": "2004-07-24T01:05:39Z",
+  "revid": 4827722,
+  "anon": "",
+  "user": "4.60.117.156",
+  "parentid": 4812950,
+  "diff": {
+    "to": 4827722,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 76:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 76:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Wiktionary:Love|Love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Wiktionary:Love|Love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Wiktionary:I love you|\"I love you\" in various languages]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Wiktionary:I love you|\"I love you\" in various languages]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.heavenonastick.com/whatididforlove/index.php?showtopic=30: I Love You in 100 Languages]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:4812950:newid:4827722 -->\n",
+    "from": 4812950
+  }
+}

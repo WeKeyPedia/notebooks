@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2002-08-09T21:03:09Z",
+  "revid": 214964,
+  "user": "Ray Van De Walker",
+  "parentid": 147796,
+  "diff": {
+    "to": 214964,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>the test of time.  To say that a choice was wise implies that the action or inaction was strategically correct when judged by some set of values.  Another formulation is \"Making the best use of available [[knowledge]].\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>the test of time.  To say that a choice was wise implies that the action or inaction was strategically correct when judged by some set of values.  Another formulation is \"Making the best use of available [[knowledge]].\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>It is crucial to realize that a wise decision must often be made from incomplete information.  This requires the chooser to know the way that situations (of any sort) usually turn out.  Thus a wise decision must be <del class=\"diffchange diffchange-inline\">corrent</del> and justified, but the justification need not be based on a true belief.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>It is crucial to realize that a wise decision must often be made from incomplete information.  This requires the chooser to know the way that situations (of any sort) usually turn out.  Thus a wise decision must be <ins class=\"diffchange diffchange-inline\">correct</ins> and justified, but the justification need not be based on a true belief.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Classically, wisdom is considered to come with age.  A wise person is called a \"sage.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Classically, wisdom is considered to come with age.  A wise person is called a \"sage.\"</div></td>\n</tr>\n",
+    "from": 147796
+  },
+  "minor": ""
+}

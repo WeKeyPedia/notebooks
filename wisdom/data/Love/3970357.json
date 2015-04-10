@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-06-04T03:00:46Z",
+  "revid": 3970357,
+  "anon": "",
+  "user": "Template namespace initialisation script",
+  "parentid": 3894907,
+  "diff": {
+    "to": 3970357,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Unhealthy love is the sharing or desire to share something which would not be good for you or the object of your desire.    </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Unhealthy love is the sharing or desire to share something which would not be good for you or the object of your desire.    </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{<del class=\"diffchange diffchange-inline\">msg:</del>emotion}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{emotion}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Various different types of love exist.  Dignity is a self love.  Friendship is a simple love.  Family can be a lifetime of love.  You can love by helping your neighbor. Anything you share is love.  You can share time, goals, problems, activities.  You can love your children or parents.  You can love for a lifetime, or you can show a little loving friendship for a moment.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Various different types of love exist.  Dignity is a self love.  Friendship is a simple love.  Family can be a lifetime of love.  You can love by helping your neighbor. Anything you share is love.  You can share time, goals, problems, activities.  You can love your children or parents.  You can love for a lifetime, or you can show a little loving friendship for a moment.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:3894907:newid:3970357 -->\n",
+    "from": 3894907
+  }
+}

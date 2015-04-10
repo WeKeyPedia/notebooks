@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2008-03-06T15:55:57Z",
+  "revid": 196303011,
+  "anon": "",
+  "user": "205.127.86.4",
+  "parentid": 195446234,
+  "diff": {
+    "to": 196303011,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Philosophical perspectives==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Philosophical perspectives==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>A standard [[philosophy|philosophical]], (philos-sophia: literally \"lover of wisdom\"), definition says that wisdom consists of making the best use of available [[propositional knowledge|knowledge]]. As with any decision, a wise <del class=\"diffchange diffchange-inline\">decision</del> may be made with incomplete [[information]]{{Fact|date=March 2007}}. The technical philosophical term for the opposite of wisdom is [[Folly (disambiguation)|folly]].{{Fact|date=March 2007}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>A standard [[philosophy|philosophical]], (philos-sophia: literally \"lover of wisdom\"), definition says that wisdom consists of making the best use of available [[propositional knowledge|knowledge]]. As with any decision, a wise <ins class=\"diffchange diffchange-inline\">on</ins> may be made with incomplete [[information]]{{Fact|date=March 2007}}. The technical philosophical term for the opposite of wisdom is [[Folly (disambiguation)|folly]].{{Fact|date=March 2007}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In his ''[[Metaphysics (Aristotle)|Metaphysics]]'', [[Aristotle]] defines wisdom as knowledge of causes: ''why'' things exist in a particular fashion.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In his ''[[Metaphysics (Aristotle)|Metaphysics]]'', [[Aristotle]] defines wisdom as knowledge of causes: ''why'' things exist in a particular fashion.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:195446234:newid:196303011 -->\n",
+    "from": 195446234
+  }
+}

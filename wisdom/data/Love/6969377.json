@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Chinese */",
+  "timestamp": "2004-10-26T15:50:37Z",
+  "revid": 6969377,
+  "user": "Noirum",
+  "parentid": 6876120,
+  "diff": {
+    "to": 6969377,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 113:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 113:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Ai====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Ai====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The Chinese philosopher [[Mo Zi]] developed [[ai]] in reaction to Confucian [[jen]]. Ai is universal love towards all beings, not just towards friends or family, without regard to reciprocation. Extravagance and offensive war are inimical to ai. Although Mo Zi was influential, the Confucian jen is how most modern Chinese conceive of love.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The Chinese philosopher [[Mo Zi]] developed [[ai]]<ins class=\"diffchange diffchange-inline\"> (&amp;#24859;)</ins> in reaction to Confucian [[jen]]<ins class=\"diffchange diffchange-inline\"> (&amp;#63888;)</ins>. Ai is universal love towards all beings, not just towards friends or family, without regard to reciprocation. Extravagance and offensive war are inimical to ai. Although Mo Zi was influential, the Confucian jen is how most modern Chinese conceive of love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====G&amp;#259;nqíng====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====G&amp;#259;nqíng====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:6876120:newid:6969377 -->\n",
+    "from": 6876120
+  },
+  "minor": ""
+}

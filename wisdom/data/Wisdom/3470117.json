@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-04-22T03:24:09Z",
+  "revid": 3470117,
+  "user": "Andycjp",
+  "parentid": 3289782,
+  "diff": {
+    "to": 3470117,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 13:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 13:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* be informed by multiple forms of [[intelligence (trait)|intelligence]] &amp;ndash; [[reason]], [[intuition]], [[heart]], [[spirit]], etc..  </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* be informed by multiple forms of [[intelligence (trait)|intelligence]] &amp;ndash; [[reason]], [[intuition]], [[heart]], [[spirit]], etc..  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Because of its expanded perspective, wisdom is also often associated with [[humility]], [[compassion]], [[composure]], and being able to [[laugh]] at oneself.<del class=\"diffchange diffchange-inline\">Some</del> [[liberal]]<del class=\"diffchange diffchange-inline\"> [[humanists]]</del> would argue a tolerance for [[dissonance]], [[paradox]], [[nuance]], [[ambiguity]], [[uncertainty]] is also important.   </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Because of its expanded perspective, wisdom is also often associated with [[humility]], [[compassion]], [[composure]], and being able to [[laugh]] at oneself.<ins class=\"diffchange diffchange-inline\">Many</ins> [[liberal]]<ins class=\"diffchange diffchange-inline\">s</ins> would argue a tolerance for [[dissonance]], [[paradox]], [[nuance]], [[ambiguity]], [[uncertainty]] is also important.   </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In its most universal and useful forms, wisdom tends to sense, work with and align people to the intrinsic [[wholeness]] and [[interconnectedness]] of life.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In its most universal and useful forms, wisdom tends to sense, work with and align people to the intrinsic [[wholeness]] and [[interconnectedness]] of life.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:3289782:newid:3470117 -->\n",
+    "from": 3289782
+  },
+  "minor": ""
+}

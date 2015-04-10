@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Ancient Egypt */",
+  "timestamp": "2010-01-07T18:49:37Z",
+  "revid": 336445312,
+  "user": "Ashashyou",
+  "parentid": 336445101,
+  "diff": {
+    "to": 336445312,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 62:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 62:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some religions have specific teachings relating to wisdom.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some religions have specific teachings relating to wisdom.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ancient Egypt===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ancient Egypt===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Saa]] represents the personification or God of wisdom in Ancient Egyptian Mythology.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Saa]] represents the personification<ins class=\"diffchange diffchange-inline\"> of wisdom</ins> or<ins class=\"diffchange diffchange-inline\"> the</ins> God of wisdom in Ancient Egyptian Mythology.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Old Testament===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Old Testament===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:336445101:newid:336445312 -->\n",
+    "from": 336445101
+  }
+}

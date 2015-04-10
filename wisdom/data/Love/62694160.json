@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Other viewpoints */",
+  "timestamp": "2006-07-08T07:51:53Z",
+  "revid": 62694160,
+  "anon": "",
+  "user": "66.41.146.214",
+  "parentid": 62645363,
+  "diff": {
+    "to": 62694160,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 49:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 49:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some people tend to view love as a simple chemical reaction.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some people tend to view love as a simple chemical reaction.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">Love is all you need.</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- This needs references or a fuller explanation --&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- This needs references or a fuller explanation --&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- See \"Biological Model of Sex\" --&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- See \"Biological Model of Sex\" --&gt;</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:62645363:newid:62694160 -->\n",
+    "from": 62645363
+  }
+}

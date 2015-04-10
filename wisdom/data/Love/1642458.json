@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2003-10-29T07:06:23Z",
+  "revid": 1642458,
+  "anon": "",
+  "user": "4.62.245.17",
+  "parentid": 1642098,
+  "diff": {
+    "to": 1642458,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[da:Kærlighed]] [[de:Liebe]] [[ja:&amp;#24859;]] [[nl:Liefde]] [[pl:Mi%C5%82o%C5%9B%C4%87]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">I love Trevor :-* </ins>[[da:Kærlighed]] [[de:Liebe]] [[ja:&amp;#24859;]] [[nl:Liefde]] [[pl:Mi%C5%82o%C5%9B%C4%87]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' is a special [[affection]] for someone or something, a [[feeling]] or [[emotion]]. Some describe it as a chemical reaction in the human [[brain]].  Various different types of love  exist, which are more or less related:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' is a special [[affection]] for someone or something, a [[feeling]] or [[emotion]]. Some describe it as a chemical reaction in the human [[brain]].  Various different types of love  exist, which are more or less related:</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:1642098:newid:1642458 -->\n",
+    "from": 1642098
+  }
+}

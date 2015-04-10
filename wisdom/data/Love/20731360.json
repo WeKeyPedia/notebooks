@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Love styles */",
+  "timestamp": "2005-08-10T23:15:22Z",
+  "revid": 20731360,
+  "anon": "",
+  "user": "63.84.167.226",
+  "parentid": 20703819,
+  "diff": {
+    "to": 20731360,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 100:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 100:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Agape]] &amp;mdash; selfless altruistic love; spiritual</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Agape]] &amp;mdash; selfless altruistic love; spiritual</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Furthermore, they found men tend to be more ludic, whereas women tend to be storgic and pragmatic. Relationships based on similar love styles were found to last longer.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Furthermore, they found men tend to be more ludic<ins class=\"diffchange diffchange-inline\"> and manic</ins>, whereas women tend to be storgic and pragmatic. Relationships based on similar love styles were found to last longer.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Phases===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Phases===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:20703819:newid:20731360 -->\n",
+    "from": 20703819
+  }
+}

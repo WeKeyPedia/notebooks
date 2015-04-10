@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Religious love */",
+  "timestamp": "2004-10-22T23:37:32Z",
+  "revid": 6784477,
+  "anon": "",
+  "user": "81.178.90.185",
+  "parentid": 6783645,
+  "diff": {
+    "to": 6784477,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 34:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 34:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religious love===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religious love===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Most religions use love to express the devotion the follower should have to their deity. This love can be expressed by putting the love of God above personal needs, prayer, service, good deeds, and personal sacrifice, all done selflessly. Reciprocally, the deity loves the followers and all of creation. Some traditions encourage the development of passionate love in the believer for the <del class=\"diffchange diffchange-inline\">diety</del>. ''Refer to 'Religious Views' below.''</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Most religions use love to express the devotion the follower should have to their deity. This love can be expressed by putting the love of God above personal needs, prayer, service, good deeds, and personal sacrifice, all done selflessly. Reciprocally, the deity loves the followers and all of creation. Some traditions encourage the development of passionate love in the believer for the <ins class=\"diffchange diffchange-inline\">deity</ins>. ''Refer to 'Religious Views' below.''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Scientific models ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Scientific models ==</div></td>\n</tr>\n",
+    "from": 6783645
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Applied ethics */",
+  "timestamp": "2009-10-24T08:16:18Z",
+  "revid": 321722352,
+  "anon": "",
+  "user": "222.127.195.36",
+  "parentid": 321588407,
+  "diff": {
+    "to": 321722352,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 103:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 103:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>And others.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>And others.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>According to Rio, morality or ethical standards in a particular society can be dictataed or theoretically primed by personal egoiism. It means that these standards are a collective stirrings of an egoist.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Moral psychology==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Moral psychology==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:321588407:newid:321722352 -->\n",
+    "from": 321588407
+  }
+}

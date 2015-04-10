@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* See also */ [[Platonic love]]",
+  "timestamp": "2006-07-09T20:51:04Z",
+  "revid": 62934115,
+  "user": "Haiduc",
+  "parentid": 62907314,
+  "diff": {
+    "to": 62934115,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 101:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 101:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [[List of philias]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [[List of philias]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Physical attractiveness]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Physical attractiveness]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Platonic love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Romance novel]]s</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Romance novel]]s</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Romanticism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Romanticism]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:62907314:newid:62934115 -->\n",
+    "from": 62907314
+  }
+}

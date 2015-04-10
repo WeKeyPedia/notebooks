@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Revert to revision 70049248 dated 2006-08-16 17:09:00 by BaseballBaby using [[:en:Wikipedia:Tools/Navigation_popups|popups]]",
+  "timestamp": "2006-08-16T17:09:59Z",
+  "revid": 70049417,
+  "user": "KrakatoaKatie",
+  "parentid": 70049361,
+  "diff": {
+    "to": 70049417,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 86:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 86:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Human bonding]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Human bonding]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Intimate relationship]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Intimate relationship]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Arielle and Jordan]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Limerence]] </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Limerence]] </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love at first sight]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love at first sight]]</div></td>\n</tr>\n",
+    "from": 70049361
+  }
+}

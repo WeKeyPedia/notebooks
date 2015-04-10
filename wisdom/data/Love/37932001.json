@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/Therealoxy|Therealoxy]] ([[User talk:Therealoxy|talk]]) to last version by 129.67.53.254",
+  "timestamp": "2006-02-03T01:22:47Z",
+  "revid": 37932001,
+  "user": "Wiki alf",
+  "parentid": 37931924,
+  "diff": {
+    "to": 37932001,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 102:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 102:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:baglione.jpg|right|thumb|200px|'Sacred Love versus Profane Love' by Giovanni Baglione]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:baglione.jpg|right|thumb|200px|'Sacred Love versus Profane Love' by Giovanni Baglione]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>get me horny bithces</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:37931924:newid:37932001 -->\n",
+    "from": 37931924
+  },
+  "minor": ""
+}

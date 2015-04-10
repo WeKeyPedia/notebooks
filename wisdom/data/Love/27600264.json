@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Impersonal love */",
+  "timestamp": "2005-11-07T06:48:04Z",
+  "revid": 27600264,
+  "anon": "",
+  "user": "24.106.140.254",
+  "parentid": 27600195,
+  "diff": {
+    "to": 27600264,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Impersonal love==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Impersonal love==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>A person can be said to love a country, principle, or goal if they value it greatly and are deeply committed to it. Similarly, compassionate outreach and volunteer workers 'love' of their cause may be borne not of [[interpersonal love]], but impersonal love coupled with [[altruism]] and strong political convictions. People can also 'love' material objects, animals, or activities if they invest themselves in bonding their identity with that item. In these cases, if sexual passion is actually felt, it is typically considered abnormal or unhealthy, and called [[paraphilia]]<del class=\"diffchange diffchange-inline\">. More importantly than all, however, a scrub can love a doug unconditionally</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>A person can be said to love a country, principle, or goal if they value it greatly and are deeply committed to it. Similarly, compassionate outreach and volunteer workers 'love' of their cause may be borne not of [[interpersonal love]], but impersonal love coupled with [[altruism]] and strong political convictions. People can also 'love' material objects, animals, or activities if they invest themselves in bonding their identity with that item. In these cases, if sexual passion is actually felt, it is typically considered abnormal or unhealthy, and called [[paraphilia]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious love==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious love==</div></td>\n</tr>\n",
+    "from": 27600195
+  }
+}

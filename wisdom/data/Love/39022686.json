@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Hindu */ artha != kama",
+  "timestamp": "2006-02-10T04:31:37Z",
+  "revid": 39022686,
+  "user": "Deeptrivia",
+  "parentid": 39022520,
+  "diff": {
+    "to": 39022686,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 199:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 199:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Hindu===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Hindu===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In Hinduism ''[[kāma]]'' is pleasurable, sexual love, personified by the god [[Kama (Hinduism)|Kama]]. For many Hindu schools it is the third end in life <del class=\"diffchange diffchange-inline\">(''[[artha]]'')</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In Hinduism ''[[kāma]]'' is pleasurable, sexual love, personified by the god [[Kama (Hinduism)|Kama]]. For many Hindu schools it is the third end in life .</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In contrast to ''kāma'', ''[[prema]]'' or ''prem'' refers to elevated love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In contrast to ''kāma'', ''[[prema]]'' or ''prem'' refers to elevated love.</div></td>\n</tr>\n",
+    "from": 39022520
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "tagging [[morality]] for cleanup",
+  "timestamp": "2010-03-08T22:36:06Z",
+  "revid": 348621197,
+  "user": "ChildofMidnight",
+  "parentid": 348621042,
+  "diff": {
+    "to": 348621197,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{cleanup}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Redirect|Appropriate||Appropriation}} </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Redirect|Appropriate||Appropriation}} </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''' (from the [[Latin]] ''{{lang|la|moralitas}}'' \"manner, character, proper behavior\") is a system of conduct and ethics that is virtuous. It can also be used in regard to sexual matters and [[chastity]]. Morality has three principal meanings:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''' (from the [[Latin]] ''{{lang|la|moralitas}}'' \"manner, character, proper behavior\") is a system of conduct and ethics that is virtuous. It can also be used in regard to sexual matters and [[chastity]]. Morality has three principal meanings:</div></td>\n</tr>\n",
+    "from": 348621042
+  }
+}

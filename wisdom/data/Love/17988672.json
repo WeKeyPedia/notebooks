@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Buddhist */",
+  "timestamp": "2005-07-02T01:13:58Z",
+  "revid": 17988672,
+  "anon": "",
+  "user": "65.49.214.124",
+  "parentid": 17988521,
+  "diff": {
+    "to": 17988672,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 162:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 162:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Adve&amp;#7779;a]] and [[metta|maitr&amp;#299;]] are benevolent love. This love is unconditional and requires considerable self-acceptance. This is quite different from the ordinary love, which is usually about attachment and sex, which rarely occur without self-interest. Instead, in Buddhism it refers to detachment and unselfish interest in others' welfare.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Adve&amp;#7779;a]] and [[metta|maitr&amp;#299;]] are benevolent love. This love is unconditional and requires considerable self-acceptance. This is quite different from the ordinary love, which is usually about attachment and sex, which rarely occur without self-interest. Instead, in Buddhism it refers to detachment and unselfish interest in others' welfare.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The Bodhisattva ideal in Tibetan Buddhism involves the complete renunciation of oneself in order to take on the burden of a suffering world. The strongest motivation one has in order to take the path of the Bodhisattva is the idea of salvation within unselfish love for others.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Hindu===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Hindu===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:17988521:newid:17988672 -->\n",
+    "from": 17988521
+  }
+}

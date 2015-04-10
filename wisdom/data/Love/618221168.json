@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2014-07-24T04:37:45Z",
+  "revid": 618221168,
+  "user": "Mrgr8shag",
+  "parentid": 617396610,
+  "diff": {
+    "to": 618221168,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 13:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 13:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Definitions==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Definitions==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Love sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Love sidebar}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>A perfect example would be the way Marcus feels about Randi.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The word \"love\" can have a variety of related but distinct meanings in different contexts. Many other languages use multiple words to express some of the different concepts that in English are denoted as \"love\"; one example is the plurality of [[Greek words for love|Greek words for \"love\"]]. [[Cultural identity|Cultural differences]] in conceptualizing love thus doubly impede the establishment of a universal definition.&lt;ref&gt;{{cite journal</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The word \"love\" can have a variety of related but distinct meanings in different contexts. Many other languages use multiple words to express some of the different concepts that in English are denoted as \"love\"; one example is the plurality of [[Greek words for love|Greek words for \"love\"]]. [[Cultural identity|Cultural differences]] in conceptualizing love thus doubly impede the establishment of a universal definition.&lt;ref&gt;{{cite journal</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|last=Kay</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|last=Kay</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:617396610:newid:618221168 -->\n",
+    "from": 617396610
+  }
+}

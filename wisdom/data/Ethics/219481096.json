@@ -1,0 +1,12 @@
+﻿{
+  "comment": "[[WP:UNDO|Undid]] revision 219467839 by [[Special:Contributions/122.52.85.237|122.52.85.237]] ([[User talk:122.52.85.237|talk]])",
+  "timestamp": "2008-06-15T12:55:52Z",
+  "revid": 219481096,
+  "user": "Evb-wiki",
+  "parentid": 219467839,
+  "diff": {
+    "to": 219481096,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{see also|Morality}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{see also|Morality}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>While <del class=\"diffchange diffchange-inline\">'''</del>the<del class=\"diffchange diffchange-inline\">'''</del> term \"morals\" may in some circumstances be used synonymously with \"ethics,\" morals also generally refers to practical and ideal codes of conduct or world views (''[[Weltanschauung]]'').&lt;ref&gt;Sahakian, William S. &amp; Sahakian, Mabel Lewis. ''Ideas of the Great Philosophers''. pp 31-32. Barnes and Noble Books (1993). ISBN 9781566192712.&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>While the term \"morals\" may in some circumstances be used synonymously with \"ethics,\" morals also generally refers to practical and ideal codes of conduct or world views (''[[Weltanschauung]]'').&lt;ref&gt;Sahakian, William S. &amp; Sahakian, Mabel Lewis. ''Ideas of the Great Philosophers''. pp 31-32. Barnes and Noble Books (1993). ISBN 9781566192712.&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Greek philosophers==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Greek philosophers==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:219467839:newid:219481096 -->\n",
+    "from": 219467839
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Companionate vs. passionate */",
+  "timestamp": "2006-02-15T16:48:32Z",
+  "revid": 39750943,
+  "anon": "",
+  "user": "212.21.141.96",
+  "parentid": 39750574,
+  "diff": {
+    "to": 39750943,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 35:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 35:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Companionate vs. passionate ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Companionate vs. passionate ===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The traditional psychological view sees love as being a combination of [[companionate love]] and passionate love]]. Passionate love is intense longing, and is often accompanied by [[physiological arousal]] (shortness of breath, rapid heart rate). [[Companionate love]] is affection and a feeling of intimacy not accompanied by physiological arousal.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The traditional psychological view sees love as being a combination of [[companionate love]] and <ins class=\"diffchange diffchange-inline\">[[</ins>passionate love]]. Passionate love is intense longing, and is often accompanied by [[physiological arousal]] (shortness of breath, rapid heart rate). [[Companionate love]] is affection and a feeling of intimacy not accompanied by physiological arousal.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Triangular Theory of Love ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Triangular Theory of Love ===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:39750574:newid:39750943 -->\n",
+    "from": 39750574
+  }
+}

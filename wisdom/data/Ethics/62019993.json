@@ -1,0 +1,13 @@
+﻿{
+  "comment": "robot  Adding: [[ar:أخلاق]]",
+  "timestamp": "2006-07-04T13:51:15Z",
+  "revid": 62019993,
+  "user": "YurikBot",
+  "parentid": 61900691,
+  "diff": {
+    "to": 62019993,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 232:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 232:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Branches of philosophy]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Branches of philosophy]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[ar:أخلاق]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bs:Etika]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bs:Etika]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bg:Етика]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bg:Етика]]</div></td>\n</tr>\n",
+    "from": 61900691
+  },
+  "minor": ""
+}

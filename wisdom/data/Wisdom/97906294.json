@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Quotations about wisdom */",
+  "timestamp": "2007-01-02T08:27:36Z",
+  "revid": 97906294,
+  "user": "Grandia01",
+  "parentid": 97115418,
+  "diff": {
+    "to": 97906294,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 69:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 69:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Quotations about wisdom==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Quotations about wisdom==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>\"Without wisdom there can be no justice, and without justice, no purpose, and without purpose, what have we at all?\" -- [[Meredith Brydon]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"Wise men say nothing in dangerous times.\" -- [[John Selden]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"Wise men say nothing in dangerous times.\" -- [[John Selden]]</div></td>\n</tr>\n",
+    "from": 97115418
+  }
+}

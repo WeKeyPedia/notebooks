@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Jen */",
+  "timestamp": "2004-12-21T13:36:39Z",
+  "revid": 8761053,
+  "anon": "",
+  "user": "68.175.32.142",
+  "parentid": 8674738,
+  "diff": {
+    "to": 8761053,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 119:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 119:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[G&amp;#259;nqíng]] (&amp;#24863;&amp;#24773;), the feeling of a relationship. A person will express love by building good g&amp;#259;nqíng, accomplished through helping or working for another.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[G&amp;#259;nqíng]] (&amp;#24863;&amp;#24773;), the feeling of a relationship. A person will express love by building good g&amp;#259;nqíng, accomplished through helping or working for another.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>====<del class=\"diffchange diffchange-inline\">Jen</del>====</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>====<ins class=\"diffchange diffchange-inline\">Lian</ins>====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In [[Confucianism]], [[<del class=\"diffchange diffchange-inline\">jen</del>]] is a virtuous benevolent love. <del class=\"diffchange diffchange-inline\">Jen</del> should be pursued by all human beings, and reflects a moral life.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In [[Confucianism]], [[<ins class=\"diffchange diffchange-inline\">lian</ins>]] is a virtuous benevolent love. <ins class=\"diffchange diffchange-inline\">lian</ins> should be pursued by all human beings, and reflects a moral life.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Yuanfen====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Yuanfen====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:8674738:newid:8761053 -->\n",
+    "from": 8674738
+  }
+}

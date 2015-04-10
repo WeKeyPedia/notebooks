@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-04-02T23:15:23Z",
+  "revid": 3133569,
+  "anon": "",
+  "user": "200.176.198.157",
+  "parentid": 3030096,
+  "diff": {
+    "to": 3133569,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 95:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 95:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ethical egoism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ethical egoism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[hedonism | Ethical hedonism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[hedonism | Ethical hedonism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*Non-hedonistic ethical egoism</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*Non-hedonistic <ins class=\"diffchange diffchange-inline\">[[</ins>ethical egoism<ins class=\"diffchange diffchange-inline\">]]</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Utilitarianism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Utilitarianism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Immanuel Kant]]'s [[Deontology|Deontological ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Immanuel Kant]]'s [[Deontology|Deontological ethics]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:3030096:newid:3133569 -->\n",
+    "from": 3030096
+  }
+}

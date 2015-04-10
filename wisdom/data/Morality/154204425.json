@@ -1,0 +1,13 @@
+﻿{
+  "comment": "removed non-English language external link - which incidently was activating the spamfilter",
+  "timestamp": "2007-08-28T17:04:01Z",
+  "revid": 154204425,
+  "user": "Richard holt",
+  "parentid": 154203069,
+  "diff": {
+    "to": 154204425,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 117:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 117:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.geeta-kavita.com/article.asp?article=biology_morals_dharma An article that focuses on the Biological basis of morality is available at Geeta-kavita.com]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.geeta-kavita.com/article.asp?article=biology_morals_dharma An article that focuses on the Biological basis of morality is available at Geeta-kavita.com]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.worldmoralmovement.org Wiki site for discussing and taking action on shared morals (WorldMoralMovement.org)]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.worldmoralmovement.org Wiki site for discussing and taking action on shared morals (WorldMoralMovement.org)]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://www.observacionesfilosoficas.net/ Morality and Ethics in Revista Observaciones Filosoficas]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://moralsandethics.wordpress.com/ Morals and Ethics in Islam ]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://moralsandethics.wordpress.com/ Morals and Ethics in Islam ]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:154203069:newid:154204425 -->\n",
+    "from": 154203069
+  },
+  "minor": ""
+}

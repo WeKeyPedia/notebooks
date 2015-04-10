@@ -1,0 +1,13 @@
+﻿{
+  "comment": "robot Adding: [[ast:Amor]]",
+  "timestamp": "2009-11-03T03:17:29Z",
+  "revid": 323615467,
+  "user": "SieBot",
+  "parentid": 323034445,
+  "diff": {
+    "to": 323615467,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 302:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 302:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ar:حب]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ar:حب]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[an:Aimor]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[an:Aimor]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[ast:Amor]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[az:Sevgi]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[az:Sevgi]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[be-x-old:Любоў]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[be-x-old:Любоў]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:323034445:newid:323615467 -->\n",
+    "from": 323034445
+  },
+  "minor": ""
+}

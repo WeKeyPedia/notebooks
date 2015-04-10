@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Notes */",
+  "timestamp": "2009-12-26T17:05:55Z",
+  "revid": 334114975,
+  "user": "Nascar51",
+  "parentid": 334114930,
+  "diff": {
+    "to": 334114975,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 99:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 99:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;references/</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;references/</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Wisdom is increasingly important to the permanence of mankind as reflected by E.F. Schumacher ''man is far too clever to be able to survive without wisdom''.   From \"Small is Beautiful\", Harper and Row, New York, New York, 1989, p33.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Wisdom is increasingly important to the permanence of mankind as reflected by E.F. Schumacher<ins class=\"diffchange diffchange-inline\">:</ins> ''man is far too clever to be able to survive without wisdom''.   From \"Small is Beautiful\", Harper and Row, New York, New York, 1989, p33.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Further reading ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Further reading ==</div></td>\n</tr>\n",
+    "from": 334114930
+  },
+  "minor": ""
+}

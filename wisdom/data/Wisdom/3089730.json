@@ -1,0 +1,13 @@
+﻿{
+  "comment": "-- -> &ndash;",
+  "timestamp": "2004-03-11T11:19:51Z",
+  "revid": 3089730,
+  "user": "Olathe",
+  "parentid": 2718515,
+  "diff": {
+    "to": 3089730,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*serve life in some broad or deep way (not just narrow self-interest)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*serve life in some broad or deep way (not just narrow self-interest)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*be grounded in but not limited by the past (experience, history, etc.) and the future (likely consequences)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*be grounded in but not limited by the past (experience, history, etc.) and the future (likely consequences)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* be informed by multiple forms of [[intelligence (trait)|intelligence]] <del class=\"diffchange diffchange-inline\">--</del> [[reason]], [[intuition]], [[heart]], [[spirit]], etc..  </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* be informed by multiple forms of [[intelligence (trait)|intelligence]] <ins class=\"diffchange diffchange-inline\">&amp;ndash;</ins> [[reason]], [[intuition]], [[heart]], [[spirit]], etc..  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Because of its expanded perspective, wisdom is also often associated with [[humility]], [[compassion]], [[composure]], [[humor]], and a tolerance for [[dissonance]], [[paradox]], [[nuance]], [[ambiguity]], [[uncertainty]], etc.   </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Because of its expanded perspective, wisdom is also often associated with [[humility]], [[compassion]], [[composure]], [[humor]], and a tolerance for [[dissonance]], [[paradox]], [[nuance]], [[ambiguity]], [[uncertainty]], etc.   </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:2718515:newid:3089730 -->\n",
+    "from": 2718515
+  },
+  "minor": ""
+}

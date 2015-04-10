@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Meta-ethics */",
+  "timestamp": "2010-11-10T20:44:50Z",
+  "revid": 396001062,
+  "anon": "",
+  "user": "180.148.50.90",
+  "parentid": 395960420,
+  "diff": {
+    "to": 396001062,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 14:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 14:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Meta-ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Meta-ethics}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Descriptive ethics-people with this are the smartest(for u...)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Meta-ethics is the branch of ethics that seeks to understand the nature of ethical properties, and ethical statements, attitudes, and judgments. Meta-ethics as a discipline gained attention with [[George Edward Moore|G.E. Moore]]'s famous work ''[[Principia Ethica]]'' from 1903 in which Moore first addressed what he referred to as ''the [[naturalistic fallacy]]''. Moore's rebuttal of naturalistic ethics, his [[Open Question Argument]] sparked an interest within the analytic branch of western philosophy to concern oneself with second order questions about ethics; specifically the [[semantics]], [[epistemology]] and [[ontology]] of ethics.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Meta-ethics is the branch of ethics that seeks to understand the nature of ethical properties, and ethical statements, attitudes, and judgments. Meta-ethics as a discipline gained attention with [[George Edward Moore|G.E. Moore]]'s famous work ''[[Principia Ethica]]'' from 1903 in which Moore first addressed what he referred to as ''the [[naturalistic fallacy]]''. Moore's rebuttal of naturalistic ethics, his [[Open Question Argument]] sparked an interest within the analytic branch of western philosophy to concern oneself with second order questions about ethics; specifically the [[semantics]], [[epistemology]] and [[ontology]] of ethics.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:395960420:newid:396001062 -->\n",
+    "from": 395960420
+  }
+}

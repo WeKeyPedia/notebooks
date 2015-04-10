@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */ rvv",
+  "timestamp": "2007-01-11T15:13:53Z",
+  "revid": 100000308,
+  "user": "Dreftymac",
+  "parentid": 99999663,
+  "diff": {
+    "to": 100000308,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 110:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 110:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Human bonding]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Human bonding]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Intimate relationship]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Intimate relationship]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Jason loves Olivia more]] </div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Limerence]] </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Limerence]] </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love at first sight]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love at first sight]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:99999663:newid:100000308 -->\n",
+    "from": 99999663
+  },
+  "minor": ""
+}

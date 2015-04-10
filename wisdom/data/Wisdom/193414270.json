@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */ [[Sophia (wisdom)|Sophia]]",
+  "timestamp": "2008-02-23T03:04:07Z",
+  "revid": 193414270,
+  "user": "WikiDao",
+  "parentid": 193414025,
+  "diff": {
+    "to": 193414270,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 107:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 107:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Regret]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Regret]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[School of Hard Knocks]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[School of Hard Knocks]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Sophia (wisdom|Sophia]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Sophia (wisdom<ins class=\"diffchange diffchange-inline\">)</ins>|Sophia]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Streetwise]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Streetwise]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Theosophy]] (regarded by followers as the \"Wisdom Religion\")</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Theosophy]] (regarded by followers as the \"Wisdom Religion\")</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:193414025:newid:193414270 -->\n",
+    "from": 193414025
+  },
+  "minor": ""
+}

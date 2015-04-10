@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Agap&#275; */ fix link",
+  "timestamp": "2004-10-15T09:05:05Z",
+  "revid": 6612469,
+  "user": "Johnkarp",
+  "parentid": 6594670,
+  "diff": {
+    "to": 6612469,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 154:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 154:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Agap&amp;#275;====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Agap&amp;#275;====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In the [[New Testament]], [[Agap&amp;#275;]], is charitable, selfless, altruistic, and unconditional. Its fatherly love seen as creating goodness in the world, and is reciprocal between believers and God.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In the [[New Testament]], [[<ins class=\"diffchange diffchange-inline\">Agape|</ins>Agap&amp;#275;]], is charitable, selfless, altruistic, and unconditional. Its fatherly love seen as creating goodness in the world, and is reciprocal between believers and God.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Nomos====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Nomos====</div></td>\n</tr>\n",
+    "from": 6594670
+  },
+  "minor": ""
+}

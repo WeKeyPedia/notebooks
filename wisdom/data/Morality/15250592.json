@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-06-15T19:19:57Z",
+  "revid": 15250592,
+  "anon": "",
+  "user": "204.113.91.64",
+  "parentid": 15245564,
+  "diff": {
+    "to": 15250592,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Morality = <del class=\"diffchange diffchange-inline\">whether</del> <del class=\"diffchange diffchange-inline\">given</del> <del class=\"diffchange diffchange-inline\">actions</del> <del class=\"diffchange diffchange-inline\">are</del> right or wrong''' </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Morality = <ins class=\"diffchange diffchange-inline\">the</ins> <ins class=\"diffchange diffchange-inline\">idea of whether</ins> <ins class=\"diffchange diffchange-inline\">something</ins> <ins class=\"diffchange diffchange-inline\">is</ins> right or wrong''' </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Morality is a system of principles and judgments based on [[cultural]], [[religious]], and [[philosophical]] concepts and beliefs, by which humans determine whether given actions are [[good|right]] or [[evil|wrong]].  </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Morality is a system of principles and judgments based on [[cultural]], [[religious]], and [[philosophical]] concepts and beliefs, by which humans determine whether given actions are [[good|right]] or [[evil|wrong]].  </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:15245564:newid:15250592 -->\n",
+    "from": 15245564
+  }
+}

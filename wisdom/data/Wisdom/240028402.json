@@ -1,0 +1,12 @@
+﻿{
+  "comment": "[[WP:UNDO|Undid]] revision 240026633 by [[Special:Contributions/Raphael26|Raphael26]] ([[User talk:Raphael26|talk]]) spam",
+  "timestamp": "2008-09-21T16:46:30Z",
+  "revid": 240028402,
+  "user": "Steven J. Anderson",
+  "parentid": 240026633,
+  "diff": {
+    "to": 240028402,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 133:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 133:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wikiquote}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://ourworld.compuserve.com/homepages/jsuebersax/Lexicon.htm Wisdom Lexicon Project]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://ourworld.compuserve.com/homepages/jsuebersax/Lexicon.htm Wisdom Lexicon Project]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.kabbalah5.com Authentic Kabbalah] Rabbi Raphael Afilalo</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.poetrybytroy.com/living_wisdom.html Living Wisdom — A Research Paper about Wisdom]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.poetrybytroy.com/living_wisdom.html Living Wisdom — A Research Paper about Wisdom]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.path-work.info Atlas of Wisdom: Wisdom in Psychology and Spirituality]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.path-work.info Atlas of Wisdom: Wisdom in Psychology and Spirituality]</div></td>\n</tr>\n",
+    "from": 240026633
+  }
+}

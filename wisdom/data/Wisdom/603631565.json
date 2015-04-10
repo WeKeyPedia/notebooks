@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/24.73.78.34|24.73.78.34]] ([[User talk:24.73.78.34|talk]]) ([[WP:HG|HG 3]])",
+  "timestamp": "2014-04-10T18:28:13Z",
+  "revid": 603631565,
+  "user": "Excirial",
+  "parentid": 603631534,
+  "diff": {
+    "to": 603631565,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 77:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 77:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>There is an oppositional element in Christian thought between [[secular]] wisdom and Godly wisdom. The [[apostle Paul]] states that worldly wisdom thinks the claims of [[Christ]] to be foolishness. However, to those who are \"on the path to salvation\" Christ represents the wisdom of God. ({{bibleref|1Corinthians|1:17–31}}) Also, Wisdom is one of the [[seven gifts of the Holy Spirit]] according to Anglican, Catholic, and Lutheran belief. {{bibleref|1Corinthians|12:8–10}} gives an alternate list of nine virtues, among which wisdom is one.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>There is an oppositional element in Christian thought between [[secular]] wisdom and Godly wisdom. The [[apostle Paul]] states that worldly wisdom thinks the claims of [[Christ]] to be foolishness. However, to those who are \"on the path to salvation\" Christ represents the wisdom of God. ({{bibleref|1Corinthians|1:17–31}}) Also, Wisdom is one of the [[seven gifts of the Holy Spirit]] according to Anglican, Catholic, and Lutheran belief. {{bibleref|1Corinthians|12:8–10}} gives an alternate list of nine virtues, among which wisdom is one.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>       Revelation 13:18 talks about wisdom. I say it is the periodic table of the elements. Those were some smart guys that invented that thing. That means I'm the beast.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Confucianism===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Confucianism===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:603631534:newid:603631565 -->\n",
+    "from": 603631534
+  },
+  "minor": ""
+}

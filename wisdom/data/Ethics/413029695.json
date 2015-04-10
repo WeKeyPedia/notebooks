@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/70.135.170.29|70.135.170.29]] ([[User talk:70.135.170.29|talk]]) to last revision by ClueBot NG ([[WP:HG|HG]])",
+  "timestamp": "2011-02-10T02:06:05Z",
+  "revid": 413029695,
+  "user": "Tide rolls",
+  "parentid": 413029672,
+  "diff": {
+    "to": 413029695,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Other uses}}<del class=\"diffchange diffchange-inline\"> bitch</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Other uses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics,''' also known as '''moral philosophy''' is a branch of [[philosophy]] that addresses questions about [[morality]]—that is, concepts such as [[good and evil]], right and wrong,  [[virtue]] and [[vice]], [[justice]], etc.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics,''' also known as '''moral philosophy''' is a branch of [[philosophy]] that addresses questions about [[morality]]—that is, concepts such as [[good and evil]], right and wrong,  [[virtue]] and [[vice]], [[justice]], etc.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:413029672:newid:413029695 -->\n",
+    "from": 413029672
+  },
+  "minor": ""
+}

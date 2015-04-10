@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Christian */",
+  "timestamp": "2008-02-23T05:19:59Z",
+  "revid": 193434583,
+  "user": "Hikui87",
+  "parentid": 193202282,
+  "diff": {
+    "to": 193434583,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 163:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 163:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Christian [[Theology|theologians]] see God as the source of love, which is mirrored in humans and their own loving relationships.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Christian [[Theology|theologians]] see God as the source of love, which is mirrored in humans and their own loving relationships.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[C.S. Lewis]] , influential Christian [[Theology|theologian]] wrote a book called [[The Four Loves]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[C.<ins class=\"diffchange diffchange-inline\"> </ins>S. Lewis]] , influential Christian [[Theology|theologian]] wrote a book called [[The Four Loves]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Buddhist===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Buddhist===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:193202282:newid:193434583 -->\n",
+    "from": 193202282
+  },
+  "minor": ""
+}

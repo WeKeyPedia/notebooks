@@ -1,0 +1,13 @@
+﻿{
+  "comment": "prop. knowledge",
+  "timestamp": "2003-06-10T13:06:37Z",
+  "revid": 1019334,
+  "user": "MartinHarper",
+  "parentid": 1019326,
+  "diff": {
+    "to": 1019334,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Wisdom''' is the ability and inclination to make choices that stand</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Wisdom''' is the ability and inclination to make choices that stand</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>the test of time.  To say that a choice was wise implies that the action or inaction was strategically correct when judged by some set of values.  Another formulation is \"Making the best use of available [[knowledge]].\"</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>the test of time.  To say that a choice was wise implies that the action or inaction was strategically correct when judged by some set of values.  Another formulation is \"Making the best use of available [[<ins class=\"diffchange diffchange-inline\">propositional knowledge|</ins>knowledge]].\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>It is crucial to realize that a wise decision must often be made from incomplete [[information]].  This requires the chooser to know the way that situations (of any sort) usually turn out.  Thus a wise decision must be correct and justified, but the justification need not be based on a true belief.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>It is crucial to realize that a wise decision must often be made from incomplete [[information]].  This requires the chooser to know the way that situations (of any sort) usually turn out.  Thus a wise decision must be correct and justified, but the justification need not be based on a true belief.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:1019326:newid:1019334 -->\n",
+    "from": 1019326
+  },
+  "minor": ""
+}

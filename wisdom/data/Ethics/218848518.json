@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Further reading */",
+  "timestamp": "2008-06-12T12:50:55Z",
+  "revid": 218848518,
+  "anon": "",
+  "user": "146.145.45.94",
+  "parentid": 218632562,
+  "diff": {
+    "to": 218848518,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 136:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 136:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Derrida, J   1995,  The gift of death,  translated by David Wills, University of Chicago Press, Chicago.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Derrida, J   1995,  The gift of death,  translated by David Wills, University of Chicago Press, Chicago.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Levinas, E  1969,  Totality and infinity, an essay on exteriority, translated by Alphonso Lingis, Duquesne University Press, Pittsburgh</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Levinas, E  1969,  Totality and infinity, an essay on exteriority, translated by Alphonso Lingis, Duquesne University Press, Pittsburgh</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://en.wikipedia.org/wiki/Murray_N._Rothbard Rothbard, Murray N.]   [http://en.wikipedia.org/wiki/The_Ethics_of_Liberty 1982 The Ethics of Liberty], defines the ethics of the personal and economic freedoms that occures with perfic liberty.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:218632562:newid:218848518 -->\n",
+    "from": 218632562
+  }
+}

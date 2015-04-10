@@ -1,0 +1,12 @@
+﻿{
+  "comment": "{{pp-semi|small=yes}}",
+  "timestamp": "2013-10-03T01:11:49Z",
+  "revid": 575518415,
+  "user": "Tbhotch",
+  "parentid": 575489776,
+  "diff": {
+    "to": 575518415,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{pp-pc1|small=yes}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{pp-pc1<ins class=\"diffchange diffchange-inline\">}}{{pp-semi</ins>|small=yes}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy sidebar}}</div></td>\n</tr>\n",
+    "from": 575489776
+  }
+}

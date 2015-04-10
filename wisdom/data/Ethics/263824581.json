@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Normative Ethics */",
+  "timestamp": "2009-01-13T16:00:29Z",
+  "revid": 263824581,
+  "anon": "",
+  "user": "65.115.191.5",
+  "parentid": 263824357,
+  "diff": {
+    "to": 263824581,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 44:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 44:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- --&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- --&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">==Normative Ethics==</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Normative ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Normative ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Traditionally, normative ethics (also known as moral theory) was the study of what makes actions right and wrong. Classical theories in this vein include [[utilitarianism]], [[Kantianism]], and some forms of [[contractarianism]]. These theories offered an overarching moral principle to which one could appeal in resolving difficult moral decisions.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Traditionally, normative ethics (also known as moral theory) was the study of what makes actions right and wrong. Classical theories in this vein include [[utilitarianism]], [[Kantianism]], and some forms of [[contractarianism]]. These theories offered an overarching moral principle to which one could appeal in resolving difficult moral decisions.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:263824357:newid:263824581 -->\n",
+    "from": 263824357
+  }
+}

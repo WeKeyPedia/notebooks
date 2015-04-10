@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Hinduism */",
+  "timestamp": "2012-10-30T02:35:54Z",
+  "revid": 520530541,
+  "anon": "",
+  "user": "146.201.132.162",
+  "parentid": 519495842,
+  "diff": {
+    "to": 520530541,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 112:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 112:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Hinduism ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Hinduism ===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The Hinduism can be broadly classified further in Jainism, Sikhism, <del class=\"diffchange diffchange-inline\">Buddhisam</del> and several other small self constructed and modified form of following.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The Hinduism can be broadly classified further in Jainism, Sikhism, <ins class=\"diffchange diffchange-inline\">Buddhism</ins> and several other small self constructed and modified form of following.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The major knowledge source in Hinduism is the vast knowledge achieved by the sages over thousands of years and stored in form of 4 vedas, 8 siddhis, 9 Niddhis and Major religious books, to say Ramayana and Mahabharata.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The major knowledge source in Hinduism is the vast knowledge achieved by the sages over thousands of years and stored in form of 4 vedas, 8 siddhis, 9 Niddhis and Major religious books, to say Ramayana and Mahabharata.</div></td>\n</tr>\n",
+    "from": 519495842
+  }
+}

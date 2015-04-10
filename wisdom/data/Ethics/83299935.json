@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted 1 edits by [[Special:Contributions/71.213.206.60|71.213.206.60]] ([[User talk:71.213.206.60|talk]]) to last revision (83232544) by NawlinWiki using [[WP:VP2|VP2]]",
+  "timestamp": "2006-10-23T22:35:44Z",
+  "revid": 83299935,
+  "user": "Luk",
+  "parentid": 83299891,
+  "diff": {
+    "to": 83299935,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 233:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 233:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/feminism-ethics/ Feminist Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/feminism-ethics/ Feminist Ethics]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/natural-law-ethics/ Natural Law Tradition in Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/natural-law-ethics/ Natural Law Tradition in Ethics]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>** [http://plato.stanford.edu/entries/ethics-virtue/ Virtue Ethics</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>** [http://plato.stanford.edu/entries/ethics-virtue/ Virtue Ethics<ins class=\"diffchange diffchange-inline\">]</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.observacionesfilosoficas.net/etica.htm Ética y Filosofía Política | In Revista Observaciones Filosóficas | In spanish]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.observacionesfilosoficas.net/etica.htm Ética y Filosofía Política | In Revista Observaciones Filosóficas | In spanish]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy navigation}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy navigation}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:83299891:newid:83299935 -->\n",
+    "from": 83299891
+  },
+  "minor": ""
+}

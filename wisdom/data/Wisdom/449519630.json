@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Removing external link: *.holybooks.com -- per [[m:Talk:Spam blacklist]]",
+  "timestamp": "2011-09-10T11:15:44Z",
+  "revid": 449519630,
+  "user": "EdBever",
+  "parentid": 448986974,
+  "diff": {
+    "to": 449519630,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 155:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 155:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ancienttexts.org/ Ancient texts]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ancienttexts.org/ Ancient texts]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://hermetic.com/ Hermetic scriptures]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://hermetic.com/ Hermetic scriptures]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">* [http://www.holybooks.com/ Holy books]</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.textfiles.com/occult/ Occult/world scriptures]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.textfiles.com/occult/ Occult/world scriptures]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.foundationsmag.com/wisdom2.html Wisdom: The Interval Between the Notes]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.foundationsmag.com/wisdom2.html Wisdom: The Interval Between the Notes]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:448986974:newid:449519630 -->\n",
+    "from": 448986974
+  },
+  "minor": ""
+}

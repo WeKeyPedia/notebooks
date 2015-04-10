@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-06-27T03:14:46Z",
+  "revid": 15893945,
+  "anon": "",
+  "user": "68.13.207.58",
+  "parentid": 15893929,
+  "diff": {
+    "to": 15893945,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' is a general term for what is often described as the \"[[science]] (study) of [[morality]]\". In [[philosophy]], ethical [[behavior]] is that which is \"[[Goodness and value theory|good]]\" or \"[[right]].\"  The Western tradition of ethics is sometimes called '''moral philosophy'''. This is one part of [[value theory]] ([[axiology]]) &amp;ndash; the other part is [[aesthetics]] &amp;ndash; one of the four major branches of philosophy, alongside [[metaphysics]],  [[epistemology]], and [[logic]]. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' is a general term for what is often described as the \"[[science]] (study) of [[morality]]\". In [[philosophy]], ethical [[behavior]] is that which is \"[[Goodness and value theory|good]]\" or \"[[right]].\"  The Western tradition of ethics is sometimes called '''moral philosophy'''. This is one part of [[value theory]] ([[axiology]]) &amp;ndash; the other part is [[aesthetics]] &amp;ndash; one of the four major branches of philosophy, alongside [[metaphysics]],  [[epistemology]], and [[logic]]. </div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Ethics are nothing more than a set of laws (rules) developed by a species to ensure its survival as a species. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==The history of ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==The history of ethics==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:15893929:newid:15893945 -->\n",
+    "from": 15893929
+  }
+}

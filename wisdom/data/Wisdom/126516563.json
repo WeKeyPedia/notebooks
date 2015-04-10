@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */  Added link to book about gaining perspective on wisdom (and wisdom in perspective)",
+  "timestamp": "2007-04-28T00:19:28Z",
+  "revid": 126516563,
+  "anon": "",
+  "user": "68.6.43.52",
+  "parentid": 126383231,
+  "diff": {
+    "to": 126516563,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 116:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 116:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.nick-maxwell.demon.co.uk From Knowledge to Wisdom]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://www.nick-maxwell.demon.co.uk From Knowledge to Wisdom]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://library.mpib-berlin.mpg.de/ft/pb/PB_Wisdom_2004.pdf Book on Wisdom from psychologist Paul Baltes]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[http://library.mpib-berlin.mpg.de/ft/pb/PB_Wisdom_2004.pdf Book on Wisdom from psychologist Paul Baltes]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.excaliburbooks.com Wisdom in Perspective]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Core issues in ethics]]</div></td>\n</tr>\n",
+    "from": 126383231
+  }
+}

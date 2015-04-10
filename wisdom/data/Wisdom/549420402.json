@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Buddhism */",
+  "timestamp": "2013-04-08T23:56:17Z",
+  "revid": 549420402,
+  "user": "JointHarmony",
+  "parentid": 549420025,
+  "diff": {
+    "to": 549420402,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 107:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 107:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:羽+白=習 (xí) two wings on top white below, means a little bird flapping his or her white wings loving the joy of learning.      </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:羽+白=習 (xí) two wings on top white below, means a little bird flapping his or her white wings loving the joy of learning.      </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:手+爻+手+冖+見=覺 (jué) two hands holding symbols or hexagram on top sight under roof below, means insight and awareness.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:手+爻+手+冖+見=覺 (jué) two hands holding symbols or hexagram on top sight under roof below, means insight and awareness.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>:心+吾=悟 (wù) heart or mind on left self on right, means my heart, together 覺悟 means seeing my heart, awake, enlightenment or Buddha.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>:心+吾=悟 (wù) heart or mind on left self on right, means my heart, together 覺悟 means seeing my heart<ins class=\"diffchange diffchange-inline\"> directly</ins>, awake, enlightenment or Buddha.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Taoism===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Taoism===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:549420025:newid:549420402 -->\n",
+    "from": 549420025
+  }
+}

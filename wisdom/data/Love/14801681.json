@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Sternberg's Triangular Theory of Love */  redirect link \"passion\" to \"passion (emotion)\"",
+  "timestamp": "2005-06-05T11:53:47Z",
+  "revid": 14801681,
+  "user": "Neonumbers",
+  "parentid": 14738192,
+  "diff": {
+    "to": 14801681,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 43:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 43:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Sternberg's Triangular Theory of Love ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Sternberg's Triangular Theory of Love ===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In the [[triangular theory of love]], love is characterized by three elements: [[intimacy]], [[passion]] and [[commitment]]. Each of these elements can be present in a relationship, producing the following combinations:</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In the [[triangular theory of love]], love is characterized by three elements: [[intimacy]], [[<ins class=\"diffchange diffchange-inline\">passion (emotion)|</ins>passion]] and [[commitment]]. Each of these elements can be present in a relationship, producing the following combinations:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{| border=1 cellpadding=3 cellspacing=0</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{| border=1 cellpadding=3 cellspacing=0</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|+Combinations of intimacy, passion, and commitment</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|+Combinations of intimacy, passion, and commitment</div></td>\n</tr>\n",
+    "from": 14738192
+  }
+}

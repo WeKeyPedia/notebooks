@@ -1,0 +1,13 @@
+﻿{
+  "comment": "link fix",
+  "timestamp": "2005-05-26T23:13:10Z",
+  "revid": 14294120,
+  "user": "Rossami",
+  "parentid": 14286979,
+  "diff": {
+    "to": 14294120,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 44:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 44:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|+Combinations of intimacy, passion, and commitment</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|+Combinations of intimacy, passion, and commitment</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|-</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|-</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>|[[Liking]] or [[friendship]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>|[[<ins class=\"diffchange diffchange-inline\">Like#As a verb|</ins>Liking]] or [[friendship]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|intimacy</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|intimacy</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|&amp;nbsp;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|&amp;nbsp;</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:14286979:newid:14294120 -->\n",
+    "from": 14286979
+  },
+  "minor": ""
+}

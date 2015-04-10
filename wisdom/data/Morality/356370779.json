@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2010-04-16T13:05:27Z",
+  "revid": 356370779,
+  "anon": "",
+  "user": "213.94.229.138",
+  "parentid": 356370491,
+  "diff": {
+    "to": 356370779,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Redirect|Appropriate||Appropriation}} hey its is bad</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Redirect|Appropriate||Appropriation}} hey its is bad</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Cleanup|date=March 2010}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Cleanup|date=March 2010}}<ins class=\"diffchange diffchange-inline\">b rgyfgyfrggyrf</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''' (from the [[Latin]] ''{{Lang|la|moralities}}'' \"manner, character, proper behavior\") is a system of conduct and ethics that is virtuous. Morality has three principal meanings.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''' (from the [[Latin]] ''{{Lang|la|moralities}}'' \"manner, character, proper behavior\") is a system of conduct and ethics that is virtuous. Morality has three principal meanings.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:356370491:newid:356370779 -->\n",
+    "from": 356370491
+  }
+}

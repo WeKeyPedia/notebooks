@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverting possible vandalism by [[Special:Contributions/70.249.87.142|70.249.87.142]] to version by ChildofMidnight. False positive? [[User:ClueBot/FalsePositives|Report it]]. Thanks, [[User:ClueBot|ClueBot]]. (561940) (Bot)",
+  "timestamp": "2010-03-08T23:30:43Z",
+  "revid": 348631083,
+  "user": "ClueBot",
+  "parentid": 348631071,
+  "diff": {
+    "to": 348631083,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 218:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 218:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מוסר]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מוסר]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:道德]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:道德]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>this is bull shit</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n",
+    "from": 348631071
+  },
+  "minor": ""
+}

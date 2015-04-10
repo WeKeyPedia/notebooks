@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-10-13T06:18:08Z",
+  "revid": 6542267,
+  "user": "Lowellian",
+  "parentid": 6541628,
+  "diff": {
+    "to": 6542267,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 18:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 18:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some elements that are often present in interpersonal love:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some elements that are often present in interpersonal love:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Affection]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Affection]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Kinship]], <del class=\"diffchange diffchange-inline\">Family</del> bonds</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Kinship]], <ins class=\"diffchange diffchange-inline\">family</ins> bonds</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Attachment]], <del class=\"diffchange diffchange-inline\">Dependency</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Attachment]], <ins class=\"diffchange diffchange-inline\">dependency</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romance]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romance]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Emotional intimacy]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Emotional intimacy]]</div></td>\n</tr>\n",
+    "from": 6541628
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "BOT - rv [[Special:Contributions/212.219.191.178|212.219.191.178]] ([[User talk:212.219.191.178|talk]]) to last version by Steel359",
+  "timestamp": "2006-06-28T11:37:49Z",
+  "revid": 61000950,
+  "user": "Tawkerbot4",
+  "parentid": 61000941,
+  "diff": {
+    "to": 61000950,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>PAUL LOVES NATALIE 4LYF</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Love (scientific views)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Love (scientific views)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Throughout history, predominantly, [[philosophy]] and [[religion]] have speculated the most into the phenomenon of love.  In the last century, the science of [[psychology]] has written a great deal on the subject.  Recently, however, the sciences of [[evolutionary psychology]], [[evolutionary biology]], [[anthropology]], [[neuroscience]], and [[biology]] have begun to take centre stage in discussion as to the nature and function of love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Throughout history, predominantly, [[philosophy]] and [[religion]] have speculated the most into the phenomenon of love.  In the last century, the science of [[psychology]] has written a great deal on the subject.  Recently, however, the sciences of [[evolutionary psychology]], [[evolutionary biology]], [[anthropology]], [[neuroscience]], and [[biology]] have begun to take centre stage in discussion as to the nature and function of love.</div></td>\n</tr>\n",
+    "from": 61000941
+  },
+  "minor": ""
+}

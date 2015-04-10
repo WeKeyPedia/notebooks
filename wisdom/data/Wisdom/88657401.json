@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Christianity */",
+  "timestamp": "2006-11-18T18:46:36Z",
+  "revid": 88657401,
+  "anon": "",
+  "user": "161.130.114.198",
+  "parentid": 87318721,
+  "diff": {
+    "to": 88657401,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 37:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 37:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* In the Christian Bible, for example, the magi (or \"wise men\") sent by God to give the newly born Jesus three types of gifts. Wisdom is also represented by the sense of justice by the lawful and wise king [[Solomon]].  </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* In the Christian Bible, for example, the magi (or \"wise men\") sent by God to give the newly born Jesus three types of gifts. Wisdom is also represented by the sense of justice by the lawful and wise king [[Solomon]].  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>There is an oppositional element in Christian thought between secular wisdom and Godly wisdom.  The apostle Paul states that worldly wisdom understands the claims of Christ to be foolishness.  However, to those who are being saved Christ represents the wisdom of God.  (<del class=\"diffchange diffchange-inline\">2</del> Corinthians 1:17-31)</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>There is an oppositional element in Christian thought between secular wisdom and Godly wisdom.  The apostle Paul states that worldly wisdom understands the claims of Christ to be foolishness.  However, to those who are being saved Christ represents the wisdom of God.  (<ins class=\"diffchange diffchange-inline\">1</ins> Corinthians 1:17-31)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Judaism ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Judaism ===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:87318721:newid:88657401 -->\n",
+    "from": 87318721
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Morality in judicial systems */",
+  "timestamp": "2009-06-21T22:27:27Z",
+  "revid": 297804729,
+  "anon": "",
+  "user": "194.126.21.6",
+  "parentid": 297097191,
+  "diff": {
+    "to": 297804729,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 104:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 104:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The government of [[South Africa]] is attempting to create a Moral Regeneration movement. Part of this is a proposed [[Bill of Morals]], which will bring a [[Bible|biblical]]-based \"moral code\" into the realm of law. This move by a nominally secular democracy has attracted relatively little criticism.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The government of [[South Africa]] is attempting to create a Moral Regeneration movement. Part of this is a proposed [[Bill of Morals]], which will bring a [[Bible|biblical]]-based \"moral code\" into the realm of law. This move by a nominally secular democracy has attracted relatively little criticism.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>No morality</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Morality and politics ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Morality and politics ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:297097191:newid:297804729 -->\n",
+    "from": 297097191
+  }
+}

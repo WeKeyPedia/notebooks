@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Added more qualifications",
+  "timestamp": "2002-04-21T02:35:40Z",
+  "revid": 65218,
+  "user": "Ray Van De Walker",
+  "parentid": 65217,
+  "diff": {
+    "to": 65218,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The ability and inclination to make choices that stand<del class=\"diffchange diffchange-inline\">\r</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The ability and inclination to make choices that stand</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>the test of time<del class=\"diffchange diffchange-inline\">;</del> implies that the action or inaction was <del class=\"diffchange diffchange-inline\">\r</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>the test of time<ins class=\"diffchange diffchange-inline\">.  To say that a choice was wise</ins> implies that the action or inaction was <ins class=\"diffchange diffchange-inline\">strategically correct when judged by some set of values.  Another formulation is \"Making the best use of available knowledge.\"</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">strategicly correct, considering some specified value set.</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>It is crucial realize that a wise decision must often be made from incomplete information.  This requires the chooser to know that way that situations (of any sort) usually turn out.  Thus a wise decision must be corrent and justified, but the justification need not be based on a true belief.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Classically, wisdom is considered to come with age.  A wise person is called a \"sage.\"</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:65217:newid:65218 -->\n",
+    "from": 65217
+  }
+}

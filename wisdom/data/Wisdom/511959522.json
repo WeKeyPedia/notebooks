@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2012-09-12T04:04:16Z",
+  "revid": 511959522,
+  "anon": "",
+  "user": "75.25.47.42",
+  "parentid": 511652362,
+  "diff": {
+    "to": 511959522,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 198:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 198:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.foundationsmag.com/wisdom2.html Wisdom: The Interval Between the Notes]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.foundationsmag.com/wisdom2.html Wisdom: The Interval Between the Notes]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.john-uebersax.com/plato/lexicon.htm John-uebersax.com], Wisdom Lexicon Project</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.john-uebersax.com/plato/lexicon.htm John-uebersax.com], Wisdom Lexicon Project</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.equip.org/articles/who-is-wisdom-in-proverbs-8/ Who is Wisdom in Proverbs 8?]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Resources ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Resources ===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:511652362:newid:511959522 -->\n",
+    "from": 511652362
+  }
+}

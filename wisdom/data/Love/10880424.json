@@ -1,0 +1,13 @@
+﻿{
+  "comment": "rvrt -- poor-fellow-is-in-love-type vandalism",
+  "timestamp": "2005-03-06T21:11:27Z",
+  "revid": 10880424,
+  "user": "Przepla",
+  "parentid": 10873509,
+  "diff": {
+    "to": 10880424,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 276:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 276:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Kärlek]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Kärlek]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Rakkaus]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Rakkaus]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>darshan d jain and sheetal are made for each other</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n",
+    "from": 10873509
+  },
+  "minor": ""
+}

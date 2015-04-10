@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-04-05T17:21:22Z",
+  "revid": 47117288,
+  "anon": "",
+  "user": "66.154.192.129",
+  "parentid": 46617573,
+  "diff": {
+    "to": 47117288,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 281:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 281:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[uk:Етика]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[uk:Етика]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>By: Eduardo Gonzales</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:46617573:newid:47117288 -->\n",
+    "from": 46617573
+  }
+}

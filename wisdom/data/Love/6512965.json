@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Nomos */",
+  "timestamp": "2004-10-12T04:46:26Z",
+  "revid": 6512965,
+  "user": "Johnkarp",
+  "parentid": 6512923,
+  "diff": {
+    "to": 6512965,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 127:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 127:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Nomos====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Nomos====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Nomos]] is devotion to God, and the subjugation of the will before Him. In this view, God is the only one worthy of love.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Nomos]] is devotion to God, and the subjugation of the will before Him<ins class=\"diffchange diffchange-inline\"> and His divine law</ins>. In this view, God is the only one worthy of love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Buddhist===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Buddhist===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:6512923:newid:6512965 -->\n",
+    "from": 6512923
+  },
+  "minor": ""
+}

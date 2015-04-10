@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2003-03-22T12:17:45Z",
+  "revid": 774568,
+  "anon": "",
+  "user": "132.68.1.29",
+  "parentid": 766853,
+  "diff": {
+    "to": 774568,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving one's nation or homeland</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div># loving one's nation or homeland</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Some [[language]]s, such as ancient [[Greek language|Greek]], are better than [[English language|English]] at distinguishing between the different senses in which the word love is used. For example, ancient Greek has the words \"philia<del class=\"diffchange diffchange-inline\">,</del>\" \"eros\", \"agape\", \"storge\" referring to love between friends, romantic/sexual love, sacrificial (unreciprocated) love, and affection/familial love respectively. However, with Greek as with many other languages, it has been historically difficult to separate the meanings of these words totally, and so we can find examples of, for example, ''agape'' being used with much the same meaning as ''eros''.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Some [[language]]s, such as ancient [[Greek language|Greek]], are better than [[English language|English]] at distinguishing between the different senses in which the word love is used. For example, ancient Greek has the words \"philia\"<ins class=\"diffchange diffchange-inline\">,</ins> \"eros\", \"agape\", \"storge\" referring to love between friends, romantic/sexual love, sacrificial (unreciprocated) love, and affection/familial love respectively. However, with Greek as with many other languages, it has been historically difficult to separate the meanings of these words totally, and so we can find examples of, for example, ''agape'' being used with much the same meaning as ''eros''.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Religious views ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Religious views ==</div></td>\n</tr>\n",
+    "from": 766853
+  }
+}

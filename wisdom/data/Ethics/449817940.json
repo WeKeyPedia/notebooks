@@ -1,0 +1,13 @@
+﻿{
+  "comment": "[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Anaselshamy|Anaselshamy]] ([[User talk:Anaselshamy|talk]]) to last version by InstLocalGovt",
+  "timestamp": "2011-09-11T12:54:23Z",
+  "revid": 449817940,
+  "user": "Charlesdrakew",
+  "parentid": 449811786,
+  "diff": {
+    "to": 449817940,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 203:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 203:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.philosophyarchive.com/index.php?title=Philosophy_of_Ethics The Philosophy of Ethics] on Philosophy Archive</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.philosophyarchive.com/index.php?title=Philosophy_of_Ethics The Philosophy of Ethics] on Philosophy Archive</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.klice.co.uk/ Kirby Laing Institute for Christian Ethics] Resources, events, and research on a range of ethical subjects from a Christian perspective.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.klice.co.uk/ Kirby Laing Institute for Christian Ethics] Resources, events, and research on a range of ethical subjects from a Christian perspective.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://www.onislam.net/english/reading-islam/living-islam/growing-in-faith/453820-islam-a-life-of-ethics-a-morality-.html Morality and Ethics in Islam] ''OnIslam.net''</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy topics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy topics}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:449811786:newid:449817940 -->\n",
+    "from": 449811786
+  },
+  "minor": ""
+}

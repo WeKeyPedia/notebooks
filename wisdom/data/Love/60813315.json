@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Other viewpoints */",
+  "timestamp": "2006-06-27T10:03:22Z",
+  "revid": 60813315,
+  "anon": "",
+  "user": "213.16.144.96",
+  "parentid": 60741915,
+  "diff": {
+    "to": 60813315,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 51:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 51:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;&lt;&lt; This needs references or a fuller explanation &gt;&gt;&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;&lt;&lt; This needs references or a fuller explanation &gt;&gt;&gt;</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>&lt;&lt;&lt; See \"Biological Model of Sex\" &gt;&gt;&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Definitional issues ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Definitional issues ==</div></td>\n</tr>\n",
+    "from": 60741915
+  }
+}

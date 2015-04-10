@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-01-11T00:10:08Z",
+  "revid": 9269026,
+  "anon": "",
+  "user": "67.50.142.55",
+  "parentid": 9269006,
+  "diff": {
+    "to": 9269026,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 270:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 270:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Kärlek]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Kärlek]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Rakkaus]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Rakkaus]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>NOTE: THE STRONGEST LOVE IN THE WORLD IS BETWEEN KEARA AND JOEY</div></td>\n</tr>\n",
+    "from": 9269006
+  }
+}

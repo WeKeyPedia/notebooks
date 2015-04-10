@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverting possible vandalism by [[Special:Contributions/96.4.48.241|96.4.48.241]] to version by 117.240.232.200. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1182116) (Bot)",
+  "timestamp": "2012-08-24T19:08:57Z",
+  "revid": 508975086,
+  "user": "ClueBot NG",
+  "parentid": 508975073,
+  "diff": {
+    "to": 508975086,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 113:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 113:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Applied ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Applied ethics==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Applied ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Applied ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Applied ethics is a discipline of philosophy that attempts to apply ethical theory to real-life situations.  The discipline has many specialized fields, such as [[Engineering Ethics]], [[bioethics]], [[public service ethics]] and [[business ethics]]<del class=\"diffchange diffchange-inline\">.I love Tristen</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Applied ethics is a discipline of philosophy that attempts to apply ethical theory to real-life situations.  The discipline has many specialized fields, such as [[Engineering Ethics]], [[bioethics]], [[public service ethics]] and [[business ethics]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Specific questions===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Specific questions===</div></td>\n</tr>\n",
+    "from": 508975073
+  },
+  "minor": ""
+}

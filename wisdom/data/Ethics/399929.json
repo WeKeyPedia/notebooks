@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Adding link to mussar movement",
+  "timestamp": "2002-11-02T16:02:02Z",
+  "revid": 399929,
+  "user": "RK",
+  "parentid": 399927,
+  "diff": {
+    "to": 399929,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 32:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 32:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;i&gt;[[Casuistry]]&lt;/i&gt; is an approach to applied ethics.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;i&gt;[[Casuistry]]&lt;/i&gt; is an approach to applied ethics.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">Compare:</del>  [[morality]], [[epistemology]], [[ontology]], [[etiquette]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">See</ins> <ins class=\"diffchange diffchange-inline\">also:</ins> [[morality]], [[epistemology]], [[ontology]], [[etiquette<ins class=\"diffchange diffchange-inline\">]], [[Mussar movement|Mussar movement (Jewish ethical movement)</ins>]]</div></td>\n</tr>\n",
+    "from": 399927
+  },
+  "minor": ""
+}

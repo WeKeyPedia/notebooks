@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */ Principlism",
+  "timestamp": "2007-04-07T18:18:01Z",
+  "revid": 121016715,
+  "user": "Gilemon",
+  "parentid": 120981516,
+  "diff": {
+    "to": 121016715,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 147:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 147:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Perfection]] (''\"Moral perfection\"'')</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Perfection]] (''\"Moral perfection\"'')</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethic of reciprocity|The Golden Rule]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Ethic of reciprocity|The Golden Rule]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Principlism|Principlism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n</tr>\n",
+    "from": 120981516
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Date/fix maintenance tags",
+  "timestamp": "2007-03-10T18:32:30Z",
+  "revid": 114105280,
+  "user": "SmackBot",
+  "parentid": 113853212,
+  "diff": {
+    "to": 114105280,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 32:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 32:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific perspectives== </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific perspectives== </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{<del class=\"diffchange diffchange-inline\">cleanup</del>-section}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{<ins class=\"diffchange diffchange-inline\">Cleanup</ins>-section<ins class=\"diffchange diffchange-inline\">|March 2007</ins>}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>For the last 30 years, the scientific research literature has been formally addressing the topic of ‘'''W'''isdom’, especially as Western economies begin to transition from a Manufacturing &amp; Industry Age model into a Science &amp; Technology Information Age model.   </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>For the last 30 years, the scientific research literature has been formally addressing the topic of ‘'''W'''isdom’, especially as Western economies begin to transition from a Manufacturing &amp; Industry Age model into a Science &amp; Technology Information Age model.   </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:113853212:newid:114105280 -->\n",
+    "from": 113853212
+  },
+  "minor": ""
+}

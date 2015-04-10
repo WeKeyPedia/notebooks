@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-04-22T10:52:46Z",
+  "revid": 12656964,
+  "anon": "",
+  "user": "61.10.7.143",
+  "parentid": 12656002,
+  "diff": {
+    "to": 12656964,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Love''' <del class=\"diffchange diffchange-inline\">has</del> <del class=\"diffchange diffchange-inline\">many</del> <del class=\"diffchange diffchange-inline\">meanings</del> <del class=\"diffchange diffchange-inline\">in [[English language|English]]. It can mean an intense</del> feeling of <del class=\"diffchange diffchange-inline\">[[affection]], an [[emotion]] or emotional state. In ordinary use, it usually refers to</del> <del class=\"diffchange diffchange-inline\">interpersonal</del> <del class=\"diffchange diffchange-inline\">love</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Love''' <ins class=\"diffchange diffchange-inline\">is</ins> <ins class=\"diffchange diffchange-inline\">defined</ins> <ins class=\"diffchange diffchange-inline\">as</ins> <ins class=\"diffchange diffchange-inline\">the</ins> feeling of <ins class=\"diffchange diffchange-inline\">Anthony</ins> <ins class=\"diffchange diffchange-inline\">towards</ins> <ins class=\"diffchange diffchange-inline\">Ingrid</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is one of the most common themes in art. The majority of modern [[movies]] have a love story and most [[pop music]] is about love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is one of the most common themes in art. The majority of modern [[movies]] have a love story and most [[pop music]] is about love.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:12656002:newid:12656964 -->\n",
+    "from": 12656002
+  }
+}

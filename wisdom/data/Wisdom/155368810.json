@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-09-03T07:35:19Z",
+  "revid": 155368810,
+  "user": "Grandia01",
+  "parentid": 153605657,
+  "diff": {
+    "to": 155368810,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{<del class=\"diffchange diffchange-inline\">Unreferenced|date=February</del> <del class=\"diffchange diffchange-inline\">2007</del>}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{<ins class=\"diffchange diffchange-inline\">citations</ins> <ins class=\"diffchange diffchange-inline\">missing</ins>}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{two other uses||the 1986 American crime film|Wisdom (film)|people named Wisdom|Wisdom (surname)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{two other uses||the 1986 American crime film|Wisdom (film)|people named Wisdom|Wisdom (surname)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Efez Celsus Library 3 RB.jpg|thumb|200px|[[Personification]] of wisdom (in [[Greek Language|Greek]], \"''Σοφια''\" or \"''Sophia''\") at the [[Celsus Library]] in [[Ephesos]], [[Turkey]].]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Efez Celsus Library 3 RB.jpg|thumb|200px|[[Personification]] of wisdom (in [[Greek Language|Greek]], \"''Σοφια''\" or \"''Sophia''\") at the [[Celsus Library]] in [[Ephesos]], [[Turkey]].]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:153605657:newid:155368810 -->\n",
+    "from": 153605657
+  }
+}

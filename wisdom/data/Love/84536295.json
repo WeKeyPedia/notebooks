@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-10-30T01:56:38Z",
+  "revid": 84536295,
+  "user": "Thorns among our leaves",
+  "parentid": 84497872,
+  "diff": {
+    "to": 84536295,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 46:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 46:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  it would be utterly scorned.\" [8:6-7, NIV] </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  it would be utterly scorned.\" [8:6-7, NIV] </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The passage dodi li v'ani lo (my beloved is mine and <del class=\"diffchange diffchange-inline\">i</del> am his <del class=\"diffchange diffchange-inline\">[</del>Song of Songs 2:16<del class=\"diffchange diffchange-inline\">]</del>) is often engraved on wedding bands</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The passage <ins class=\"diffchange diffchange-inline\">''</ins>dodi li v'ani lo<ins class=\"diffchange diffchange-inline\">''</ins> (<ins class=\"diffchange diffchange-inline\">\"</ins>my beloved is mine and <ins class=\"diffchange diffchange-inline\">I</ins> am his<ins class=\"diffchange diffchange-inline\">,\"</ins> Song of Songs 2:16) is often engraved on wedding bands<ins class=\"diffchange diffchange-inline\">. {{fact}}</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:84497872:newid:84536295 -->\n",
+    "from": 84497872
+  }
+}

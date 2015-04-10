@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Specific questions */",
+  "timestamp": "2006-06-20T10:44:16Z",
+  "revid": 59604425,
+  "anon": "",
+  "user": "124.106.150.47",
+  "parentid": 59604374,
+  "diff": {
+    "to": 59604425,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 34:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 34:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Specific questions===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Specific questions===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\"> attacked by applied ethicists (of whatever sort) often bear directly on public policy. For example, the following would be questions of applied ethics: \"Is getting an abortion ever moral?\"; \"Is [[euthanasia]] ever moral?\"; \"What are the ethical underpinnings of [[affirmative action]] policies?\"; \"What are [[human rights]], and how do we determine them?\"; \"Do animals have rights?\"  </ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The ethical problems attacked by applied ethicists (of whatever sort) often bear directly on public policy. For example, the following would be questions of applied ethics: \"Is getting an abortion ever moral?\"; \"Is [[euthanasia]] ever moral?\"; \"What are the ethical underpinnings of [[affirmative action]] policies?\"; \"What are [[human rights]], and how do we determine them?\"; \"Do animals have rights?\"  </div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A more specific question could be: \"If someone else can make better out of his/her life than I can, is it then moral to sacrifice myself if needed?\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A more specific question could be: \"If someone else can make better out of his/her life than I can, is it then moral to sacrifice myself if needed?\"</div></td>\n</tr>\n",
+    "from": 59604374
+  }
+}

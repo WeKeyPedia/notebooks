@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2010-05-04T18:42:26Z",
+  "revid": 360122699,
+  "anon": "",
+  "user": "168.216.79.220",
+  "parentid": 360101807,
+  "diff": {
+    "to": 360122699,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' (also known as '''moral philosophy''') is a branch of [[philosophy]] that addresses questions about [[morality]]&amp;mdash;that is, concepts such as [[good]] and [[bad]], noble and ignoble, [[right]] and [[wrong]], [[justice]], and [[virtue]]. <del class=\"diffchange diffchange-inline\">hi</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' (also known as '''moral philosophy''') is a branch of [[philosophy]] that addresses questions about [[morality]]&amp;mdash;that is, concepts such as [[good]] and [[bad]], noble and ignoble, [[right]] and [[wrong]], [[justice]], and [[virtue]]. <ins class=\"diffchange diffchange-inline\">'''CY'''</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:360101807:newid:360122699 -->\n",
+    "from": 360101807
+  }
+}

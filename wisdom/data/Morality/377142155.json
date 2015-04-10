@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2010-08-04T16:31:09Z",
+  "revid": 377142155,
+  "user": "Barrrower",
+  "parentid": 377141949,
+  "diff": {
+    "to": 377142155,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 15:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 15:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{cquote|''Although the morality of people and their ethics amounts to the same thing, there is a usage that restricts morality to systems such as that of Kant, based on notions such as duty, obligation, and principles of conduct, reserving ethics for the more Aristotelian approach to practical reasoning, based on the notion of a virtue, and generally avoiding the separation 'moral' considerations from other practical considerations.&lt;ref&gt;Oxford Dictionary of philosophy, 2008, p240&lt;/ref&gt;''}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{cquote|''Although the morality of people and their ethics amounts to the same thing, there is a usage that restricts morality to systems such as that of Kant, based on notions such as duty, obligation, and principles of conduct, reserving ethics for the more Aristotelian approach to practical reasoning, based on the notion of a virtue, and generally avoiding the separation 'moral' considerations from other practical considerations.&lt;ref&gt;Oxford Dictionary of philosophy, 2008, p240&lt;/ref&gt;''}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Anthropological perspectives ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Anthropological perspectives ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:377141949:newid:377142155 -->\n",
+    "from": 377141949
+  }
+}

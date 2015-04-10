@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-02-23T23:08:51Z",
+  "revid": 2502920,
+  "anon": "",
+  "user": "212.105.18.246",
+  "parentid": 2502814,
+  "diff": {
+    "to": 2502920,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 90:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 90:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Virtue ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Virtue ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Social contract]] theory</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Social contract]] theory</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*Ethical fitnessism</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ethical skepticism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ethical skepticism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ethical relativism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ethical relativism]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:2502814:newid:2502920 -->\n",
+    "from": 2502814
+  }
+}

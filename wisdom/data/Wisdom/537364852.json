@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Jacob de Wit thumb picture had an extra character, removed it",
+  "timestamp": "2013-02-09T10:39:13Z",
+  "revid": 537364852,
+  "user": "Fat64",
+  "parentid": 536845442,
+  "diff": {
+    "to": 537364852,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Educational perspectives of wisdom ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Educational perspectives of wisdom ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[File:Jacob de Wit - Allegorie op het schrijven van de geschiedenis 1754.jpg|thumb|<del class=\"diffchange diffchange-inline\">'</del>''Truth and Wisdom assist History in writing'' by [[Jacob de Wit]], 1754]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[File:Jacob de Wit - Allegorie op het schrijven van de geschiedenis 1754.jpg|thumb|''Truth and Wisdom assist History in writing'' by [[Jacob de Wit]], 1754]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Public schools in the US have an approach to character education.  In Benjamin Franklin’s time, it was referred to as training wisdom and virtue.  Traditionally, schools share the responsibility to build character and wisdom along with parents and the community.&lt;ref&gt;{{cite web |publisher=Ed.gov |date=May 31, 2005 |title= Character education: our shared responsibility |url=http://www2.ed.gov/admins/lead/character/brochure.html |accessdate= }}&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Public schools in the US have an approach to character education.  In Benjamin Franklin’s time, it was referred to as training wisdom and virtue.  Traditionally, schools share the responsibility to build character and wisdom along with parents and the community.&lt;ref&gt;{{cite web |publisher=Ed.gov |date=May 31, 2005 |title= Character education: our shared responsibility |url=http://www2.ed.gov/admins/lead/character/brochure.html |accessdate= }}&lt;/ref&gt;</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:536845442:newid:537364852 -->\n",
+    "from": 536845442
+  },
+  "minor": ""
+}

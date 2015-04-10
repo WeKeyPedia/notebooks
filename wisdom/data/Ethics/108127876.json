@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-02-14T18:34:21Z",
+  "revid": 108127876,
+  "anon": "",
+  "user": "68.83.162.78",
+  "parentid": 108127789,
+  "diff": {
+    "to": 108127876,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">[[Image:Information.svg|25px]] Welcome to Wikipedia. We invite everyone to contribute constructively to our encyclopedia. Some of your recent edits</del>{{<del class=\"diffchange diffchange-inline\">{{{subst|}}}#if:{{{1|}}}|, such as those you made to [[:{{{1}}}]],}} have been considered unhelpful or unconstructive and have been [[Help:Reverting|reverted]] or removed.  Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- {{uw-vandalism1</del>}}<del class=\"diffchange diffchange-inline\"> --&gt; </del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{<ins class=\"diffchange diffchange-inline\">vandalism</ins>}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:108127789:newid:108127876 -->\n",
+    "from": 108127789
+  }
+}

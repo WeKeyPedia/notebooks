@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2008-06-03T07:55:18Z",
+  "revid": 216799865,
+  "anon": "",
+  "user": "41.245.149.112",
+  "parentid": 216722198,
+  "diff": {
+    "to": 216799865,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Morality ''' (from the [[Latin]] ''{{lang|la|moralitas}}'' \"manner, character, proper behavior\") is the learning process of distinguishing between [[virtues]] and [[vices]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Morality ''' <ins class=\"diffchange diffchange-inline\">is</ins>(from the [[Latin]] ''{{lang|la|moralitas}}'' \"manner, character, proper behavior\") is the learning process of distinguishing between [[virtues]] and [[vices]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The proper system of values and principles of moral conduct promotes good customs (virtues), but also condemns bad customs (vices). Moral judgment determines whether an action should be considered as appropriate or inappropriate, selfish or unselfish. The true identification of morality is virtue, which has to be regarded as; [[goodness]], [[propriety]], [[rectitude]], [[righteousness]]. Hypocrisy is the act of false virtue, by claiming to have higher moral standards which in reality do not correspond to the achievements.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The proper system of values and principles of moral conduct promotes good customs (virtues), but also condemns bad customs (vices). Moral judgment determines whether an action should be considered as appropriate or inappropriate, selfish or unselfish. The true identification of morality is virtue, which has to be regarded as; [[goodness]], [[propriety]], [[rectitude]], [[righteousness]]. Hypocrisy is the act of false virtue, by claiming to have higher moral standards which in reality do not correspond to the achievements.</div></td>\n</tr>\n",
+    "from": 216722198
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Evolutionary ethics */",
+  "timestamp": "2011-12-07T13:49:02Z",
+  "revid": 464566953,
+  "user": "Felixthehamster",
+  "parentid": 464566688,
+  "diff": {
+    "to": 464566953,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 161:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 161:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Evolutionary ethics===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Evolutionary ethics===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{See also|Evolutionary ethics|Evolution of morality}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{See also|Evolutionary ethics|Evolution of morality}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Evolutionary ethics concerns approaches to ethics <del class=\"diffchange diffchange-inline\">(morality)</del> based on the role of evolution in shaping human psychology and behavior. Such approaches may be based in scientific fields such as [[evolutionary psychology]] or [[sociobiology]], with a focus on understanding and explaining observed ethical preferences and choices.&lt;ref&gt;{{cite web |url= http://www.iep.utm.edu/evol-eth/ |title= Evolutionary Ethics |author= Doris Schroeder |accessdate= 2010-01-05}}&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Evolutionary ethics concerns approaches to ethics <ins class=\"diffchange diffchange-inline\">and specific moral codes</ins> based on the role of evolution in shaping human psychology and behavior. Such approaches may be based in scientific fields such as [[evolutionary psychology]] or [[sociobiology]], with a focus on understanding and explaining observed ethical preferences and choices.&lt;ref&gt;{{cite web |url= http://www.iep.utm.edu/evol-eth/ |title= Evolutionary Ethics |author= Doris Schroeder |accessdate= 2010-01-05}}&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Descriptive ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Descriptive ethics==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:464566688:newid:464566953 -->\n",
+    "from": 464566688
+  },
+  "minor": ""
+}

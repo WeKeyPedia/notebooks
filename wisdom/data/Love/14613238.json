@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Interpersonal love */",
+  "timestamp": "2005-06-01T19:34:13Z",
+  "revid": 14613238,
+  "anon": "",
+  "user": "69.134.6.119",
+  "parentid": 14542392,
+  "diff": {
+    "to": 14613238,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Service]]: desire to help</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Service]]: desire to help</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Sexual energy can be the most important element in determining the shape of a relationship.  While sexual attraction often establishes a new bond, sexual intention is considered undesirable or inappropriate in certain love bonds. In many religions and systems of ethics it is wrong to act on sexual desire for immediate family or outside of a committed relationship.  However, there are many ways to express passionate love without sex.  Affection, emotional intimacy and shared interests are common in friendships and kinships of all kinds.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Sexual energy can be the most important element in determining the shape of a relationship.  While sexual attraction often establishes a new bond, sexual intention is considered undesirable or inappropriate in certain love bonds. In many religions and systems of ethics it is wrong to act on sexual desire for immediate family<ins class=\"diffchange diffchange-inline\">, for children,</ins> or outside of a committed relationship.  However, there are many ways to express passionate love without sex.  Affection, emotional intimacy and shared interests are common in friendships and kinships of all kinds.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Impersonal love===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Impersonal love===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:14542392:newid:14613238 -->\n",
+    "from": 14542392
+  }
+}

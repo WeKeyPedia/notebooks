@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Scientific perspectives */",
+  "timestamp": "2007-03-13T18:53:34Z",
+  "revid": 114859939,
+  "user": "Stevenson-Perez",
+  "parentid": 114636343,
+  "diff": {
+    "to": 114859939,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 45:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 45:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>2. The acquisition of scientific [[purpose]]; </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>2. The acquisition of scientific [[purpose]]; </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div> </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>3.  The acquisition of skills for improving the [[knowledge]]-, [[learning]]-, and [[value]]-creation-assets of one’s <del class=\"diffchange diffchange-inline\">[[</del>scientific community of practice]]; and </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>3.  The acquisition of skills for improving the [[knowledge]]-, [[learning]]-, and [[value]]-creation-assets of one’s scientific <ins class=\"diffchange diffchange-inline\">[[</ins>community of practice]]; and </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>4.  The ability to create timely scientific solutions that are pleasing to Man, while not being in violation of the timeless laws of [[Nature]]. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>4.  The ability to create timely scientific solutions that are pleasing to Man, while not being in violation of the timeless laws of [[Nature]]. </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:114636343:newid:114859939 -->\n",
+    "from": 114636343
+  },
+  "minor": ""
+}

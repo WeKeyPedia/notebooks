@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Defining love */",
+  "timestamp": "2005-04-25T01:08:13Z",
+  "revid": 12809000,
+  "anon": "",
+  "user": "24.200.82.106",
+  "parentid": 12773090,
+  "diff": {
+    "to": 12809000,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 9:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 9:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining love==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Defining love==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>There are diverse forms of love as there are of types of lovers. Love is found in all human <del class=\"diffchange diffchange-inline\">culture</del> and the type of love that exists in <del class=\"diffchange diffchange-inline\">those</del> cultures portray different views as to what love is, <del class=\"diffchange diffchange-inline\">putting</del> the universal definition of what love really is, difficult to establish. See the [[Sapir-Whorf hypothesis]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>There are diverse forms of love as there are of types of lovers. Love is found in all<ins class=\"diffchange diffchange-inline\"> of</ins> human <ins class=\"diffchange diffchange-inline\">cultures</ins> and the type of love that exists in <ins class=\"diffchange diffchange-inline\">these different</ins> cultures portray different views as to what love is, <ins class=\"diffchange diffchange-inline\">placing</ins> the universal definition of what love really is, difficult to establish. See the [[Sapir-Whorf hypothesis]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Interpersonal love===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Interpersonal love===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:12773090:newid:12809000 -->\n",
+    "from": 12773090
+  }
+}

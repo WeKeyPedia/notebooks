@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Quotations about wisdom */  Added two quotes.",
+  "timestamp": "2007-03-25T06:39:10Z",
+  "revid": 117702724,
+  "user": "Rsage",
+  "parentid": 117702082,
+  "diff": {
+    "to": 117702724,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 109:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 109:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"Wise men talk because they have something to say; fools, because they have to say something.\" -- [[Plato]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"Wise men talk because they have something to say; fools, because they have to say something.\" -- [[Plato]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>\"Knowledge comes, but wisdom lingers.\" -- [[Alfred Lord Tennyson]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>\"It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.\" -- [[Walter Lippmann]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:117702082:newid:117702724 -->\n",
+    "from": 117702082
+  }
+}

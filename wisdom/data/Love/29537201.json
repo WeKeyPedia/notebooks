@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */",
+  "timestamp": "2005-11-29T00:12:34Z",
+  "revid": 29537201,
+  "anon": "",
+  "user": "24.211.57.200",
+  "parentid": 29516580,
+  "diff": {
+    "to": 29537201,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 233:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 233:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love sickness]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love sickness]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Platonic love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Platonic love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">* [[Ben loves amber]]</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Other types of love (philias)===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Other types of love (philias)===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[List of philias]] &amp;mdash; list of words with ''philia'' or ''phile'' suffix</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[List of philias]] &amp;mdash; list of words with ''philia'' or ''phile'' suffix</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:29516580:newid:29537201 -->\n",
+    "from": 29516580
+  }
+}

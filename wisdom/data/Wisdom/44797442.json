@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Sources of wisdom */",
+  "timestamp": "2006-03-21T10:26:50Z",
+  "revid": 44797442,
+  "user": "Dhammapal",
+  "parentid": 44796603,
+  "diff": {
+    "to": 44797442,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 24:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 24:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Confucius]] stated that wisdom can be learned by three methods: reflection (The noblest), imitation (The easiest) and experience (The bitterest).</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Confucius]] stated that wisdom can be learned by three methods: reflection (The noblest), imitation (The easiest) and experience (The bitterest).</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Buddha]] taught that a wise person is endowed with good bodily conduct, good verbal conduct &amp; good mental conduct and a wise person does actions that are unpleasant to do but give good results and doesn’t do actions that are pleasant to do but give bad results.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Buddha]] taught that a wise person is endowed with good bodily conduct, good verbal conduct &amp; good mental conduct<ins class=\"diffchange diffchange-inline\"> (AN3:2)</ins> and a wise person does actions that are unpleasant to do but give good results and doesn’t do actions that are pleasant to do but give bad results<ins class=\"diffchange diffchange-inline\"> (AN4:115)</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:44796603:newid:44797442 -->\n",
+    "from": 44796603
+  }
+}

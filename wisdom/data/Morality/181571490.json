@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2008-01-02T09:34:23Z",
+  "revid": 181571490,
+  "user": "InNotOf395",
+  "parentid": 180297357,
+  "diff": {
+    "to": 181571490,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 145:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 145:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.examinethetruth.com/moralitydebate.htm Understanding the Islam, Christianity Debate]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.examinethetruth.com/moralitydebate.htm Understanding the Islam, Christianity Debate]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.libchrist.com/bible/howsexsin.html How Sex Was Made A Sin]                                                             {{Philosophy (navigation)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.libchrist.com/bible/howsexsin.html How Sex Was Made A Sin]                                                             {{Philosophy (navigation)}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Positive emotions footer}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Morality| ]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Morality| ]]</div></td>\n</tr>\n",
+    "from": 180297357
+  }
+}

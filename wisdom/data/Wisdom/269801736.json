@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Abrahamic religions */",
+  "timestamp": "2009-02-10T17:16:02Z",
+  "revid": 269801736,
+  "anon": "",
+  "user": "152.15.13.191",
+  "parentid": 268310805,
+  "diff": {
+    "to": 269801736,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 43:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 43:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some religions have specific teachings relating to wisdom.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some religions have specific teachings relating to wisdom.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>===Abrahamic religions===</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>===Abrahamic religions===<ins class=\"diffchange diffchange-inline\"> (Old Testament)</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In the [[Christianity|Christian]] [[Bible]] and [[Judaism|Jewish]] scripture, Wisdom is also represented by the sense of justice of the lawful and wise king [[Solomon]], who asks God for wisdom in [[1 Kings]] 3. [[Book of Proverbs|Proverbs]] 9:10 says: \"The fear of the Lord is the beginning of wisdom,\" (Proverbs 1:7) and 8:13 \"To fear the Lord is to hate evil;\".</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In the [[Christianity|Christian]] [[Bible]] and [[Judaism|Jewish]] scripture, Wisdom is also represented by the sense of justice of the lawful and wise king [[Solomon]], who asks God for wisdom in [[1 Kings]] 3. [[Book of Proverbs|Proverbs]] 9:10 says: \"The fear of the Lord is the beginning of wisdom,\" (Proverbs 1:7) and 8:13 \"To fear the Lord is to hate evil;\".</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:268310805:newid:269801736 -->\n",
+    "from": 268310805
+  }
+}

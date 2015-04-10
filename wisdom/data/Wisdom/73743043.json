@@ -1,0 +1,13 @@
+﻿{
+  "comment": "+yi",
+  "timestamp": "2006-09-04T11:59:58Z",
+  "revid": 73743043,
+  "user": "Jiddisch",
+  "parentid": 73185899,
+  "diff": {
+    "to": 73743043,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 81:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 81:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Viisaus]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fi:Viisaus]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Visdom]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[sv:Visdom]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[yi:קלוגשאפט]]</div></td>\n</tr>\n",
+    "from": 73185899
+  },
+  "minor": ""
+}

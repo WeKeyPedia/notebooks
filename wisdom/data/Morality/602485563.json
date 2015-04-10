@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Added {{[[Template:expert-subject|expert-subject]]}} tag (within {{[[Template:multiple issues|multiple issues]]}}) to article ([[WP:TW|TW]])",
+  "timestamp": "2014-04-02T22:55:05Z",
+  "revid": 602485563,
+  "user": "Retartist",
+  "parentid": 602455628,
+  "diff": {
+    "to": 602485563,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{merge from|Immorality|discuss=Talk:Immorality#Merge_to_Morality.3F|date=February 2014}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{merge from|Immorality|discuss=Talk:Immorality#Merge_to_Morality.3F|date=February 2014}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Multiple issues|{{POV|date=May 2013}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Multiple issues|{{POV|date=May 2013}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{lead too short|date=June 2012}}{{essay-like|date=March 2014}}}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{lead too short|date=June 2012}}{{essay-like|date=March 2014}}<ins class=\"diffchange diffchange-inline\">{{expert-subject|1=Philosophy‎|date=April 2014</ins>}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{for|the 2009 novella by Stephen King|Morality (novella)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{for|the 2009 novella by Stephen King|Morality (novella)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect2|Appropriate|inappropriate|the rating of activities and media according to age groups|age-appropriate|other uses|Appropriation (disambiguation)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect2|Appropriate|inappropriate|the rating of activities and media according to age groups|age-appropriate|other uses|Appropriation (disambiguation)}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:602455628:newid:602485563 -->\n",
+    "from": 602455628
+  }
+}

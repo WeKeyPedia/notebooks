@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Major doctrines of ethics */",
+  "timestamp": "2005-05-17T17:51:46Z",
+  "revid": 13924078,
+  "anon": "",
+  "user": "142.68.194.216",
+  "parentid": 13842664,
+  "diff": {
+    "to": 13924078,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 175:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 175:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ethical relativism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ethical relativism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ethical subjectivism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ethical subjectivism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[<del class=\"diffchange diffchange-inline\">nihilism</del> | Ethical nihilism]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[<ins class=\"diffchange diffchange-inline\">Nihilism#Nihilism_in_ethics_and_morality</ins> | Ethical nihilism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ethical egoism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ethical egoism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[hedonism | Ethical hedonism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[hedonism | Ethical hedonism]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:13842664:newid:13924078 -->\n",
+    "from": 13842664
+  }
+}

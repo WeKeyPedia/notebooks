@@ -1,0 +1,13 @@
+﻿{
+  "comment": "[[Help:Reverting|Reverted]] edits by [[Special:Contributions/207.161.90.186|207.161.90.186]] ([[User talk:207.161.90.186|talk]]) to last version by Fat64",
+  "timestamp": "2013-02-21T01:10:09Z",
+  "revid": 539336037,
+  "user": "Ancheta Wis",
+  "parentid": 539332589,
+  "diff": {
+    "to": 539336037,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Other </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Other <ins class=\"diffchange diffchange-inline\">uses}}</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[File:Moses San Pietro in Vincoli.jpg|thumb|Rays of light, symbolically represented as horns on the head of [[Moses (Michelangelo)]], can be a [[#Hebrew Bible|graphic symbol]] of Wisdom]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[File:Moses San Pietro in Vincoli.jpg|thumb|Rays of light, symbolically represented as horns on the head of [[Moses (Michelangelo)]], can be a [[#Hebrew Bible|graphic symbol]] of Wisdom]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:539332589:newid:539336037 -->\n",
+    "from": 539332589
+  },
+  "minor": ""
+}

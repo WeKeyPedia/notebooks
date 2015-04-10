@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Sources of Wisdom */",
+  "timestamp": "2006-02-08T04:06:37Z",
+  "revid": 38718615,
+  "user": "JacobShape",
+  "parentid": 38453830,
+  "diff": {
+    "to": 38718615,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In the Christian Bible, for example, there are three wise men sent by God to give the newly born Jesus three gifts.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In the Christian Bible, for example, there are three wise men sent by God to give the newly born Jesus three gifts.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* The seventh verse of the first chapter of the [[Jew]]ish book of [[Book of Proverbs|Proverbs]] in the [[Old Testament]] states \"Fear of God is the beginning of Wisdom\" (Proverbs 1:7).  The beginning of fear of <del class=\"diffchange diffchange-inline\">G-d</del> is hating evil, the ways of evil, arrogance, pride and a duplicitous mouth (Proverbs).</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* The seventh verse of the first chapter of the [[Jew]]ish book of [[Book of Proverbs|Proverbs]] in the [[Old Testament]] states \"Fear of God is the beginning of Wisdom\" (Proverbs 1:7).  The beginning of fear of <ins class=\"diffchange diffchange-inline\">God</ins> is hating evil, the ways of evil, arrogance, pride and a duplicitous mouth (Proverbs).</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Confucius]] stated that wisdom can be learned by three methods: reflection (The noblest), imitation (The easiest) and experience (The bitterest).</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Confucius]] stated that wisdom can be learned by three methods: reflection (The noblest), imitation (The easiest) and experience (The bitterest).</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:38453830:newid:38718615 -->\n",
+    "from": 38453830
+  }
+}

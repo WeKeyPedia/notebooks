@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-02-11T22:31:11Z",
+  "revid": 39257549,
+  "anon": "",
+  "user": "81.97.118.52",
+  "parentid": 39252043,
+  "diff": {
+    "to": 39257549,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 343:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 343:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tl:Pag-ibig]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tl:Pag-ibig]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Tom Loves Kaela. So very much. Forever.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:39252043:newid:39257549 -->\n",
+    "from": 39252043
+  }
+}

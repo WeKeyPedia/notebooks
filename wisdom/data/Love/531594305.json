@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2013-01-06T09:35:06Z",
+  "revid": 531594305,
+  "user": "Shkod",
+  "parentid": 530749102,
+  "diff": {
+    "to": 531594305,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 378:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 378:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tg:Ишқ]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tg:Ишқ]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tr:Aşk]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tr:Aşk]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[uk:<del class=\"diffchange diffchange-inline\">Любов</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[uk:<ins class=\"diffchange diffchange-inline\">Кохання</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ur:محبت]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ur:محبت]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:530749102:newid:531594305 -->\n",
+    "from": 530749102
+  }
+}

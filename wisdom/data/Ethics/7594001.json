@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Ethics in medicine */  lecture",
+  "timestamp": "2004-11-17T23:15:36Z",
+  "revid": 7594001,
+  "user": "SpeedyGonsales",
+  "parentid": 7593891,
+  "diff": {
+    "to": 7594001,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 157:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 157:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Ethics in medicine==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Ethics in medicine==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>One <del class=\"diffchange diffchange-inline\">if</del> the major areas where ethics and ethicists practice is in the field of medicine.  Example issues are [[euthanasia]], medical <del class=\"diffchange diffchange-inline\">experiements</del>, [[genetic]] modification of organisms and humans, [[vaccine trials]], [[triage]] and others.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>One <ins class=\"diffchange diffchange-inline\">of</ins> the major areas where ethics and ethicists practice is in the field of medicine.  Example issues are [[euthanasia]], medical <ins class=\"diffchange diffchange-inline\">experiments</ins>, [[genetic]] modification of organisms and humans, [[vaccine trials]], [[triage]] and others.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Ethics in psychology==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Ethics in psychology==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:7593891:newid:7594001 -->\n",
+    "from": 7593891
+  },
+  "minor": ""
+}

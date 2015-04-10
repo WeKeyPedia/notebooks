@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-11-14T17:23:47Z",
+  "revid": 171468295,
+  "anon": "",
+  "user": "129.98.214.103",
+  "parentid": 170438189,
+  "diff": {
+    "to": 171468295,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 144:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 144:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.libchrist.com/bible/howsexsin.html How Sex Was Made A Sin]                                                             {{Philosophy (navigation)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.libchrist.com/bible/howsexsin.html How Sex Was Made A Sin]                                                             {{Philosophy (navigation)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Category:Morality]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Category:Morality<ins class=\"diffchange diffchange-inline\">| </ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Virtues]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Virtues]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:170438189:newid:171468295 -->\n",
+    "from": 170438189
+  }
+}

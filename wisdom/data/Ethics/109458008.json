@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Normative ethics */",
+  "timestamp": "2007-02-20T02:31:45Z",
+  "revid": 109458008,
+  "anon": "",
+  "user": "64.231.104.136",
+  "parentid": 109457798,
+  "diff": {
+    "to": 109458008,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 31:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 31:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Those who embrace such descriptive approaches tend to reject overtly normative ones.  There are exceptions, such as the movement to more [[moral purchasing]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Those who embrace such descriptive approaches tend to reject overtly normative ones.  There are exceptions, such as the movement to more [[moral purchasing]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>;)</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">              </ins>;)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Applied ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Applied ethics==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:109457798:newid:109458008 -->\n",
+    "from": 109457798
+  }
+}

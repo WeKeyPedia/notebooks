@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Triangular Theory of Love */",
+  "timestamp": "2004-11-10T19:41:16Z",
+  "revid": 7307656,
+  "anon": "",
+  "user": "66.102.74.5",
+  "parentid": 7306084,
+  "diff": {
+    "to": 7307656,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 60:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 60:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|&amp;nbsp;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|&amp;nbsp;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|-</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|-</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>|[[Passion]] ([[limerence]])</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>|[[<ins class=\"diffchange diffchange-inline\">Passion (emotion)|</ins>Passion]] ([[limerence]])</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|&amp;nbsp;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|&amp;nbsp;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|passion</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|passion</div></td>\n</tr>\n",
+    "from": 7306084
+  }
+}

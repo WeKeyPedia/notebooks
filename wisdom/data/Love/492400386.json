@@ -1,0 +1,13 @@
+﻿{
+  "comment": "ILL-or",
+  "timestamp": "2012-05-13T18:45:01Z",
+  "revid": 492400386,
+  "user": "MKar",
+  "parentid": 492270325,
+  "diff": {
+    "to": 492400386,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 324:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 324:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[nn:Kjærleik]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[nn:Kjærleik]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[oc:Amor]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[oc:Amor]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[or:ପ୍ରେମ]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[uz:Sevgi]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[uz:Sevgi]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pnb:پیار]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pnb:پیار]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:492270325:newid:492400386 -->\n",
+    "from": 492270325
+  },
+  "minor": ""
+}

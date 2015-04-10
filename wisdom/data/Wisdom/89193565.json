@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-11-21T08:23:29Z",
+  "revid": 89193565,
+  "user": "M4RLO WIKI",
+  "parentid": 88919164,
+  "diff": {
+    "to": 89193565,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 77:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 77:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"Appear weak when you are strong, and strong when you are weak.\" -- [[Sun Tzu]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"Appear weak when you are strong, and strong when you are weak.\" -- [[Sun Tzu]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>\"You have to have a darkness...for the dawn to come.\" [[Harrison ford]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n",
+    "from": 88919164
+  }
+}

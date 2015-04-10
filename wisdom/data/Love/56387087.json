@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-06-01T21:13:32Z",
+  "revid": 56387087,
+  "anon": "",
+  "user": "69.138.190.228",
+  "parentid": 56387007,
+  "diff": {
+    "to": 56387087,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">'''''Aamir Ajmeri just can't resist loving Batul Abbas, Yoojin Shim, Rita Wu, and Maanasi Mistry. He is in so dire crush that he is in pain, a pain caused by love!'''''</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Aamir Ajmeri just can't resist loving Batul Abbas, Yoojin Shim, Rita Wu, and Maanasi Mistry. He is in so dire crush that he is in pain, a pain caused by love!'''</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:56387007:newid:56387087 -->\n",
+    "from": 56387007
+  }
+}

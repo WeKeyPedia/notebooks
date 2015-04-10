@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2008-01-05T15:01:44Z",
+  "revid": 182311922,
+  "user": "Xabiereus",
+  "parentid": 180988424,
+  "diff": {
+    "to": 182311922,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{three other uses||the <del class=\"diffchange diffchange-inline\">apocryphal</del> book of the Bible|Book of Wisdom|the 1986 American crime film|Wisdom (film)|people named Wisdom|Wisdom (surname)}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{three other uses||the <ins class=\"diffchange diffchange-inline\">deuterocanonical</ins> book of the Bible|Book of Wisdom|the 1986 American crime film|Wisdom (film)|people named Wisdom|Wisdom (surname)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Citations missing|date=September 2007}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Citations missing|date=September 2007}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:180988424:newid:182311922 -->\n",
+    "from": 180988424
+  },
+  "minor": ""
+}

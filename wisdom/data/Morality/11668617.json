@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* An overview of Morality */",
+  "timestamp": "2005-03-30T00:50:43Z",
+  "revid": 11668617,
+  "anon": "",
+  "user": "81.153.167.95",
+  "parentid": 11668557,
+  "diff": {
+    "to": 11668617,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 8:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==An overview of Morality==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==An overview of Morality==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Views on morality have varied greatly over time, and from culture to culture. Usually, a morality applies to fields in which the choices made by individuals express an intention relative to other individuals (even non-members of the society).  </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Views on<ins class=\"diffchange diffchange-inline\"> pig face</ins> morality have varied greatly over time, and from culture to culture. Usually, a morality applies to fields in which the choices made by individuals express an intention relative to other individuals (even non-members of the society).  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Thus, there exists an academic dispute about whether morality can exist only in the presence of a society (meaning a plurality of few individuals), or also in a hypothetical individual with no relationships with others.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Thus, there exists an academic dispute about whether morality can exist only in the presence of a society (meaning a plurality of few individuals), or also in a hypothetical individual with no relationships with others.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:11668557:newid:11668617 -->\n",
+    "from": 11668557
+  }
+}

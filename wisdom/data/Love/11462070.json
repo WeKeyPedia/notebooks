@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/210.5.119.153|210.5.119.153]] to last version by Tregoweth",
+  "timestamp": "2005-03-24T06:20:09Z",
+  "revid": 11462070,
+  "user": "Derek Ross",
+  "parentid": 11460495,
+  "diff": {
+    "to": 11462070,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 6:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 6:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is one of the most common themes in art. The majority of modern [[movies]] have a love story and most [[pop music]] is about love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is one of the most common themes in art. The majority of modern [[movies]] have a love story and most [[pop music]] is about love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>==Puppy love==<del class=\"diffchange diffchange-inline\">yhoissa</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>==Puppy love==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Puppy love is quite often the beginning of love between children. It can be compared to a \"crush\", while the other half may involve getting the other person's attention. This may result in heartbreak because the other person feels the opposite.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Puppy love is quite often the beginning of love between children. It can be compared to a \"crush\", while the other half may involve getting the other person's attention. This may result in heartbreak because the other person feels the opposite.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:11460495:newid:11462070 -->\n",
+    "from": 11460495
+  },
+  "minor": ""
+}

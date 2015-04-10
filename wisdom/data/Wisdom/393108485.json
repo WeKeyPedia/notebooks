@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Notes */",
+  "timestamp": "2010-10-27T01:06:04Z",
+  "revid": 393108485,
+  "anon": "",
+  "user": "99.248.11.247",
+  "parentid": 393108416,
+  "diff": {
+    "to": 393108485,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 115:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 115:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Freduci Philomathis, \"What is this thing called wisdom?\", Journal Behind the State of the Art, Maybell, Colorado, 2006, p.&amp;nbsp;1.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Freduci Philomathis, \"What is this thing called wisdom?\", Journal Behind the State of the Art, Maybell, Colorado, 2006, p.&amp;nbsp;1.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">==Notes==</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">k</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&lt;references/</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Wisdom is increasingly important to the permanence of mankind as reflected by E.F. Schumacher: ''man is far too clever to be able to survive without wisdom''.   From \"Small is Beautiful\", Harper and Row, New York, New York, 1989, p33.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Further reading ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Further reading ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:393108416:newid:393108485 -->\n",
+    "from": 393108416
+  }
+}

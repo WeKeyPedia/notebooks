@@ -1,0 +1,12 @@
+﻿{
+  "comment": "rw",
+  "timestamp": "2011-08-20T19:33:28Z",
+  "revid": 445868975,
+  "user": "Ceoil",
+  "parentid": 445868664,
+  "diff": {
+    "to": 445868975,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love in its various forms acts as a major facilitator of [[interpersonal relationship]]s and, owing to its central psychological importance, is one of the most common themes in the [[creative arts]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love in its various forms acts as a major facilitator of [[interpersonal relationship]]s and, owing to its central psychological importance, is one of the most common themes in the [[creative arts]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Love may be understood a part of the survival instinct, <del class=\"diffchange diffchange-inline\">used</del> <del class=\"diffchange diffchange-inline\">to</del> keep human beings together against menaces and to facilitate the continuation of the species<del class=\"diffchange diffchange-inline\"> through [[reproduction]]</del>.&lt;ref name=\"Fisher\"&gt;Helen Fisher. ''Why we love: the nature and chemistry of romantic love''. 2004.&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Love may be understood a part of the survival instinct, <ins class=\"diffchange diffchange-inline\">a</ins> <ins class=\"diffchange diffchange-inline\">function</ins> keep human beings together against menaces and to facilitate the continuation of the species.&lt;ref name=\"Fisher\"&gt;Helen Fisher. ''Why we love: the nature and chemistry of romantic love''. 2004.&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Definitions==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Definitions==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:445868664:newid:445868975 -->\n",
+    "from": 445868664
+  }
+}

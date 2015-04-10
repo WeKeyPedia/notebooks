@@ -1,0 +1,13 @@
+﻿{
+  "comment": "fr:",
+  "timestamp": "2003-01-04T15:30:28Z",
+  "revid": 1108707,
+  "user": "Anthere",
+  "parentid": 559113,
+  "diff": {
+    "to": 1108707,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[fr:morale]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A '''morality''' is a complex of concepts and beliefs by which an individual sets a standard of right and wrong for his or her actions.  Oftentimes, these concepts and beliefs are created by a culture or group to develop a regulation of individual behaviours.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A '''morality''' is a complex of concepts and beliefs by which an individual sets a standard of right and wrong for his or her actions.  Oftentimes, these concepts and beliefs are created by a culture or group to develop a regulation of individual behaviours.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:559113:newid:1108707 -->\n",
+    "from": 559113
+  },
+  "minor": ""
+}

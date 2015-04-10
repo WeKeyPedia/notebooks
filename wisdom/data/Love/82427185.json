@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/169.207.56.145|169.207.56.145]] ([[User talk:169.207.56.145|talk]]) to last version by Gwernol",
+  "timestamp": "2006-10-19T14:37:12Z",
+  "revid": 82427185,
+  "user": "FreplySpang",
+  "parentid": 82427099,
+  "diff": {
+    "to": 82427185,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 67:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 67:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Romantic love is also present in the Bible, particularly the Song of Songs (also known as Song of Solomon, Canticles.) Traditionally, this book has been interpreted allegorically as a picture of God's love for Israel and/or the Church. But taken naturally, we see a picture of ideal human marriage.  </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Romantic love is also present in the Bible, particularly the Song of Songs (also known as Song of Solomon, Canticles.) Traditionally, this book has been interpreted allegorically as a picture of God's love for Israel and/or the Church. But taken naturally, we see a picture of ideal human marriage.  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>\"Place me like a seal over your heart,<del class=\"diffchange diffchange-inline\"> (Do you mean a baby seal?) </del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>\"Place me like a seal over your heart,</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  like a seal on your arm;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  like a seal on your arm;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  for love is as strong as death,</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  for love is as strong as death,</div></td>\n</tr>\n",
+    "from": 82427099
+  },
+  "minor": ""
+}

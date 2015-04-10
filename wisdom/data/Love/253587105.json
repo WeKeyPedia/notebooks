@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Interpersonal love */",
+  "timestamp": "2008-11-23T13:19:41Z",
+  "revid": 253587105,
+  "user": "Cenarium",
+  "parentid": 253304592,
+  "diff": {
+    "to": 253587105,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 24:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 24:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Interpersonal love==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Interpersonal love==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Image:Sri Lankan woman and child.jpg|Grandmother and grandchild,&lt;br&gt;[[Sri Lanka<del class=\"diffchange diffchange-inline\">.</del>]]|thumb]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Image:Sri Lankan woman and child.jpg|Grandmother and grandchild,&lt;br&gt;[[Sri Lanka]]<ins class=\"diffchange diffchange-inline\">.</ins>|thumb]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Interpersonal love refers to love between human beings. It is a more potent sentiment than a simple ''liking'' for another. [[Unrequited love]] refers to those feelings of love that are not reciprocated. Interpersonal love is most closely associated with [[interpersonal relationships]]. Such love might exist between family members, friends, and couples. There are also a number of psychological disorders related to love, such as [[erotomania]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Interpersonal love refers to love between human beings. It is a more potent sentiment than a simple ''liking'' for another. [[Unrequited love]] refers to those feelings of love that are not reciprocated. Interpersonal love is most closely associated with [[interpersonal relationships]]. Such love might exist between family members, friends, and couples. There are also a number of psychological disorders related to love, such as [[erotomania]].</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:253304592:newid:253587105 -->\n",
+    "from": 253304592
+  }
+}

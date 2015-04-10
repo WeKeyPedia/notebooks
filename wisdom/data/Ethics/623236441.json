@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* References */",
+  "timestamp": "2014-08-28T22:44:14Z",
+  "revid": 623236441,
+  "anon": "",
+  "user": "71.235.146.143",
+  "parentid": 623236282,
+  "diff": {
+    "to": 623236441,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 221:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 221:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*Hoy, D.  (2005), Critical resistance from poststructuralism to postcritique, [[Massachusetts Institute of Technology]], Massachusetts.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*Hoy, D.  (2005), Critical resistance from poststructuralism to postcritique, [[Massachusetts Institute of Technology]], Massachusetts.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*Lyon, D.  (1999),  Postmodernity, 2nd ed, [[Open University Press]], Buckingham.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*Lyon, D.  (1999),  Postmodernity, 2nd ed, [[Open University Press]], Buckingham.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*Singer, P.  (2000), Writings on an ethical life, [[Harper Collins Publishers]], London</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*Singer, P.  (2000), Writings on an ethical life, [[Harper Collins Publishers]], London<ins class=\"diffchange diffchange-inline\">.</ins></div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Hi, hows life? Im doing pretty good.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Further reading==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Further reading==</div></td>\n</tr>\n",
+    "from": 623236282
+  }
+}

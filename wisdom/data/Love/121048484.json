@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-04-07T20:56:03Z",
+  "revid": 121048484,
+  "user": "OnurRC",
+  "parentid": 119803999,
+  "diff": {
+    "to": 121048484,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 216:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 216:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Tình yêu]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tr:Aşk]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tr:Aşk]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[tr:<del class=\"diffchange diffchange-inline\">Sevi</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[tr:<ins class=\"diffchange diffchange-inline\">Sevgi</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[uk:Любов]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[uk:Любов]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:ליבע/ליבע]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:ליבע/ליבע]]</div></td>\n</tr>\n",
+    "from": 119803999
+  }
+}

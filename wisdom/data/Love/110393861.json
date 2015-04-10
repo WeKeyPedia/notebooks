@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Unprotected page -- removing tag",
+  "timestamp": "2007-02-23T19:14:14Z",
+  "revid": 110393861,
+  "user": "Nishkid64",
+  "parentid": 110234989,
+  "diff": {
+    "to": 110393861,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">{{sprotected}}</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!--</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!--</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*********************************************************</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*********************************************************</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:110234989:newid:110393861 -->\n",
+    "from": 110234989
+  },
+  "minor": ""
+}

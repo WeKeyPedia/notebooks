@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2009-02-05T18:41:08Z",
+  "revid": 268736406,
+  "anon": "",
+  "user": "81.109.19.114",
+  "parentid": 268632606,
+  "diff": {
+    "to": 268736406,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 248:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 248:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מוסר]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מוסר]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:道德]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:道德]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Hello!</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:268632606:newid:268736406 -->\n",
+    "from": 268632606
+  }
+}

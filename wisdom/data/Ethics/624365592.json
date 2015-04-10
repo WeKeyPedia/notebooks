@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Further reading */",
+  "timestamp": "2014-09-06T02:23:01Z",
+  "revid": 624365592,
+  "user": "Gubino",
+  "parentid": 624363772,
+  "diff": {
+    "to": 624365592,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 239:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 239:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*John Newton, Ph.D. ''Complete Conduct Principles for the 21st Century'', 2000. ISBN 0-9673705-7-4.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*John Newton, Ph.D. ''Complete Conduct Principles for the 21st Century'', 2000. ISBN 0-9673705-7-4.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*Guy Cools &amp; Pascal Gielen, The Ethics of Art. Valiz: Amsterdam, 2014.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*Guy Cools &amp; Pascal Gielen, The Ethics of Art. Valiz: Amsterdam, 2014.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*Lafollette, Hugh [ed.]: ''Ethics in Practice: An Anthology.'' Wiley Blackwell, 4th edition 2014. ISBN 978-0470671832</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*Lafollette, Hugh [ed.]: ''Ethics in Practice: An Anthology.'' Wiley Blackwell, 4th edition<ins class=\"diffchange diffchange-inline\">, Oxford</ins> 2014. ISBN 978-0470671832</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:624363772:newid:624365592 -->\n",
+    "from": 624363772
+  }
+}

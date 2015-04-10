@@ -1,0 +1,12 @@
+﻿{
+  "comment": "unreferencedsection|date=August 2010|reason=inclusion of peace and love (as possibly separate categories from virtue) is especially unsupported",
+  "timestamp": "2010-08-17T18:58:33Z",
+  "revid": 379446728,
+  "user": "JimWae",
+  "parentid": 379387525,
+  "diff": {
+    "to": 379446728,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Philosophy-sidebar}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{unreferencedsection|date=August 2010|reason=inclusion of peace and love (as possibly separate categories from virtue) is especially unsupported}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' (also known as '''moral philosophy''') is a branch of [[philosophy]] that addresses questions about [[morality]] — that is, concepts such as [[good and evil|good vs. bad]], [[nobility|noble vs. ignoble]], [[correctness|right vs. wrong]], and matters of [[justice]], [[love]], [[peace]], and [[virtue]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' (also known as '''moral philosophy''') is a branch of [[philosophy]] that addresses questions about [[morality]] — that is, concepts such as [[good and evil|good vs. bad]], [[nobility|noble vs. ignoble]], [[correctness|right vs. wrong]], and matters of [[justice]], [[love]], [[peace]], and [[virtue]].</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:379387525:newid:379446728 -->\n",
+    "from": 379387525
+  }
+}

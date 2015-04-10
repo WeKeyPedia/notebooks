@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Religious views */",
+  "timestamp": "2007-03-22T05:50:39Z",
+  "revid": 116971076,
+  "user": "Bunty.Gill",
+  "parentid": 116944238,
+  "diff": {
+    "to": 116971076,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 81:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 81:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[Aramaic]], the language that [[Jesus]] spoke, there are six words for Unconditional Love (Kenoota, Khooba, Makikh, Abilii, Rukha and Dadcean Libhoun) which are untranslatable and are all translated as the one word “Love” in the English Bible. They are explained [http://www.ts.co.nz/~gpettitt/GoodwillPatterns.html here]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[Aramaic]], the language that [[Jesus]] spoke, there are six words for Unconditional Love (Kenoota, Khooba, Makikh, Abilii, Rukha and Dadcean Libhoun) which are untranslatable and are all translated as the one word “Love” in the English Bible. They are explained [http://www.ts.co.nz/~gpettitt/GoodwillPatterns.html here]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The [[Bhagavad Gita]], <del class=\"diffchange diffchange-inline\">India's ageless</del> Hindu scripture, helps devotees to see that love conquers all. It says, \"Sattva—pure, luminous, and free from sorrow—binds us to happiness and wisdom\" (Number 6). [[Sattva]], translated as purity, helps one to see that love evolves from selflessness.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The [[Bhagavad Gita]], <ins class=\"diffchange diffchange-inline\">a</ins> Hindu scripture, helps devotees to see that love conquers all. It says, \"Sattva—pure, luminous, and free from sorrow—binds us to happiness and wisdom\" (Number 6). [[Sattva]], translated as purity, helps one to see that love evolves from selflessness.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:116944238:newid:116971076 -->\n",
+    "from": 116944238
+  },
+  "minor": ""
+}

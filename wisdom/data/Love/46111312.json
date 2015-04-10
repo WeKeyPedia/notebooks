@@ -1,0 +1,13 @@
+﻿{
+  "comment": "BOT - Reverted edit by [[User talk:67.68.52.159]] (46111292) - reverted to [[User talk:Jacoplane]] (46107433)",
+  "timestamp": "2006-03-30T03:22:43Z",
+  "revid": 46111312,
+  "user": "Tawkerbot2",
+  "parentid": 46111292,
+  "diff": {
+    "to": 46111312,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>I LUV VERONIA. SHE IS THE MOST AMAZING PERSON IN THE WORLD AND I HOPE I CAN SPEND THE REST OF MY LIFE WITH HER. I LUV HER SOO MUCH AND MISS HER MORE THAN SHE CAN EVER IMAGINE.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- We know, it's amazing to love and be loved, but please express your love by helping Wikipedia to improve, not by telling all the world here in this article how much you love your significant other or others. The edit will be removed in seconds anyway. Have a happy life! --&gt;{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- We know, it's amazing to love and be loved, but please express your love by helping Wikipedia to improve, not by telling all the world here in this article how much you love your significant other or others. The edit will be removed in seconds anyway. Have a happy life! --&gt;{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:46111292:newid:46111312 -->\n",
+    "from": 46111292
+  },
+  "minor": ""
+}

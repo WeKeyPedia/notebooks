@@ -1,0 +1,13 @@
+﻿{
+  "comment": "typo",
+  "timestamp": "2006-03-09T03:51:03Z",
+  "revid": 42916840,
+  "user": "Sadi Carnot",
+  "parentid": 42915621,
+  "diff": {
+    "to": 42916840,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 6:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 6:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[care]]''' - someone or something you care about more than yourself.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[care]]''' - someone or something you care about more than yourself.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[friendship]]''' - favored interpersonal associations or relationships.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[friendship]]''' - favored interpersonal associations or relationships.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>#'''[[union]]''' - a synergistic connection, either physically, intellectually, or <del class=\"diffchange diffchange-inline\">spiritually</del>, etc.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>#'''[[union]]''' - a synergistic connection, either physically, intellectually, or <ins class=\"diffchange diffchange-inline\">emotionally</ins>, etc.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[family]]''' - people related via common ancestry, religion, or race, etc.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[family]]''' - people related via common ancestry, religion, or race, etc.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 42915621
+  },
+  "minor": ""
+}

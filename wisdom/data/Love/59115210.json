@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-06-17T15:08:23Z",
+  "revid": 59115210,
+  "anon": "",
+  "user": "165.165.248.59",
+  "parentid": 59115073,
+  "diff": {
+    "to": 59115210,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 118:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 118:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{wiktionarypar|love}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Wiktionary:I love you|\"I love you\" in various languages]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Wiktionary:I love you|\"I love you\" in various languages]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[http://www.capezone.com/love.html The <del class=\"diffchange diffchange-inline\">Defenition</del> of Love from WordNet, The Free On-line Dictionary and The Collaborative International Dictionary] </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[http://www.capezone.com/love.html The <ins class=\"diffchange diffchange-inline\">Definition</ins> of Love from WordNet, The Free On-line Dictionary and The Collaborative International Dictionary] </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion-footer}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:59115073:newid:59115210 -->\n",
+    "from": 59115073
+  }
+}

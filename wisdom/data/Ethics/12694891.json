@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/204.245.62.113|204.245.62.113]] to last version by Hadal",
+  "timestamp": "2005-04-14T17:41:47Z",
+  "revid": 12694891,
+  "user": "Hadal",
+  "parentid": 12306349,
+  "diff": {
+    "to": 12694891,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 76:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 76:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Utilitarian ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Utilitarian ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Utilitarian Bioethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Utilitarian Bioethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The end~</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Ethics has been applied to [[economics]], [[politics]] and [[political science]], leading to several distinct and unrelated fields of applied ethics, including [[Business ethics]] and [[Marxism]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Ethics has been applied to [[economics]], [[politics]] and [[political science]], leading to several distinct and unrelated fields of applied ethics, including [[Business ethics]] and [[Marxism]].</div></td>\n</tr>\n",
+    "from": 12306349
+  },
+  "minor": ""
+}

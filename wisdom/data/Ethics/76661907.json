@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Ethical propositions and truth-aptitude */",
+  "timestamp": "2006-09-19T21:23:24Z",
+  "revid": 76661907,
+  "user": "Danjyates",
+  "parentid": 76624457,
+  "diff": {
+    "to": 76661907,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 9:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 9:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ethical propositions and truth-aptitude===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ethical propositions and truth-aptitude===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>One of the fundamental debates in ethics is between [[cognitivism (ethics)|cognitivists]] and [[non-cognitivism|non-cognitivists]]. Their debate is over the truth-aptitude of ethical propositions. Ethical propositions are those used to either positively or<del class=\"diffchange diffchange-inline\"> a</del> negatively morally evaluate something. Concepts of value, e.g. good and evil, or concepts of [[deontic logic|deontic modality]], e.g. obligation (\"should/ought\") and prohibition (\"should not/ought not\"), or similar concepts of other kinds (e.g. fairness and unfairness), are typically components of ethical propositions. Here are some examples:</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>One of the fundamental debates in ethics is between [[cognitivism (ethics)|cognitivists]] and [[non-cognitivism|non-cognitivists]]. Their debate is over the truth-aptitude of ethical propositions. Ethical propositions are those used to either positively or negatively morally evaluate something. Concepts of value, e.g. good and evil, or concepts of [[deontic logic|deontic modality]], e.g. obligation (\"should/ought\") and prohibition (\"should not/ought not\"), or similar concepts of other kinds (e.g. fairness and unfairness), are typically components of ethical propositions. Here are some examples:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Sally is a good person.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* \"Sally is a good person.\"</div></td>\n</tr>\n",
+    "from": 76624457
+  },
+  "minor": ""
+}

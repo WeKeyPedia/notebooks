@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-07-08T12:12:22Z",
+  "revid": 143282930,
+  "user": "Duy Huu Nguyen",
+  "parentid": 143169009,
+  "diff": {
+    "to": 143282930,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Emotion}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{pp-semi-protected}}&lt;!--</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{pp-semi-protected}}&lt;!--</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>****************************************************************</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>****************************************************************</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:143169009:newid:143282930 -->\n",
+    "from": 143169009
+  }
+}

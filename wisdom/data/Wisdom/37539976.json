@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Sources of Wisdom */",
+  "timestamp": "2006-01-31T17:35:56Z",
+  "revid": 37539976,
+  "anon": "",
+  "user": "67.184.139.251",
+  "parentid": 37069881,
+  "diff": {
+    "to": 37539976,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In the Christian Bible, for example, there are three wise men sent by God to give the newly born Jesus three gifts.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In the Christian Bible, for example, there are three wise men sent by God to give the newly born Jesus three gifts.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* The [[Jew]]ish book of [[Book of Proverbs|Proverbs]] in the [[Old Testament]] states \"Fear of God is the beginning of Wisdom\".</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* The<ins class=\"diffchange diffchange-inline\"> seventh verse of the first chapter of the</ins> [[Jew]]ish book of [[Book of Proverbs|Proverbs]] in the [[Old Testament]] states \"Fear of God is the beginning of Wisdom\".</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Confucius]] stated that wisdom can be learned by three methods: reflection (The noblest), imitation (The easiest) and experience (The bitterest).</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Confucius]] stated that wisdom can be learned by three methods: reflection (The noblest), imitation (The easiest) and experience (The bitterest).</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:37069881:newid:37539976 -->\n",
+    "from": 37069881
+  }
+}

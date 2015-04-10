@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* The Moral code in the individual decision-making */",
+  "timestamp": "2014-02-16T20:54:59Z",
+  "revid": 595778017,
+  "user": "Itamarkalimi",
+  "parentid": 595777946,
+  "diff": {
+    "to": 595778017,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 157:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 157:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The [[Ten Commandments]] are a set of principles from the [[Torah]] relating to ethics and moral which play a fundamental role in the moral code of [[Judaism]] and most forms of [[Christianity]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The [[Ten Commandments]] are a set of principles from the [[Torah]] relating to ethics and moral which play a fundamental role in the moral code of [[Judaism]] and most forms of [[Christianity]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>== The Moral code in the individual decision<del class=\"diffchange diffchange-inline\">-</del>making ==</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>== The Moral code in the individual decision<ins class=\"diffchange diffchange-inline\"> </ins>making ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The Morality purpose is to help the individual in making [[right|https://en.wikipedia.org/wiki/Rights]] choose and do good and not bad.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The Morality purpose is to help the individual in making [[right|https://en.wikipedia.org/wiki/Rights]] choose and do good and not bad.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 595777946
+  }
+}

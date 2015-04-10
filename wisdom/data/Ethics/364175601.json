@@ -1,0 +1,13 @@
+﻿{
+  "comment": "robot Modifying: [[fa:اخلاق]]",
+  "timestamp": "2010-05-25T20:30:19Z",
+  "revid": 364175601,
+  "user": "Thijs!bot",
+  "parentid": 364149629,
+  "diff": {
+    "to": 364175601,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 247:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 247:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[eo:Etiko]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[eo:Etiko]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[eu:Etika]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[eu:Etika]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[fa:<del class=\"diffchange diffchange-inline\">فلسفه </del>اخلاق]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[fa:اخلاق]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fr:Éthique]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fr:Éthique]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fy:Etyk]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fy:Etyk]]</div></td>\n</tr>\n",
+    "from": 364149629
+  },
+  "minor": ""
+}

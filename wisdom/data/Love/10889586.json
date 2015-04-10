@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Added 'xenia' to types of Greek love",
+  "timestamp": "2005-03-07T01:09:31Z",
+  "revid": 10889586,
+  "user": "Gssq",
+  "parentid": 10880424,
+  "diff": {
+    "to": 10889586,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 136:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 136:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ancient Greek===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ancient Greek===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Greek language|Greek]] distinguishes several different senses in which the word ''love'' is used.  For example, ancient Greek has the words ''philia'', ''eros'', ''agape'', and ''<del class=\"diffchange diffchange-inline\">storge</del>''. However, with Greek as with many other languages, it has been historically difficult to separate the meanings of these words totally, and so we can find examples of ''agape'' being used with much the same meaning as ''eros''.  At the same time the ancient Greek text of the [[Bible]] has examples of the [[verb]] ''agapo'' being used with the same meaning as ''phileo''.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Greek language|Greek]] distinguishes several different senses in which the word ''love'' is used.  For example, ancient Greek has the words ''philia'', ''eros'', ''agape'',<ins class=\"diffchange diffchange-inline\"> ''storge''</ins> and ''<ins class=\"diffchange diffchange-inline\">xenia</ins>''. However, with Greek as with many other languages, it has been historically difficult to separate the meanings of these words totally, and so we can find examples of ''agape'' being used with much the same meaning as ''eros''.  At the same time the ancient Greek text of the [[Bible]] has examples of the [[verb]] ''agapo'' being used with the same meaning as ''phileo''.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Agape====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Agape====</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:10880424:newid:10889586 -->\n",
+    "from": 10880424
+  },
+  "minor": ""
+}

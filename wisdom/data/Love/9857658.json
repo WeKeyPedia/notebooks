@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-02-01T13:43:10Z",
+  "revid": 9857658,
+  "anon": "",
+  "user": "203.76.255.86",
+  "parentid": 9857635,
+  "diff": {
+    "to": 9857658,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>I Love You Yhoissa... Kevin was here... ginulo ko lang ung page na ito pra sa iyo... Gusto ko lang na malaman ng buong mundo na mahal kita... Ang ganda noh nsa encyclopedia pa...</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>: ''For the 1960s band, see [[Love (band)]].  The term is also used in [[Tennis#History of tennis|tennis]]. ''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>: ''For the 1960s band, see [[Love (band)]].  The term is also used in [[Tennis#History of tennis|tennis]]. ''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:9857635:newid:9857658 -->\n",
+    "from": 9857635
+  }
+}

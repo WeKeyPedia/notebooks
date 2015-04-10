@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/69.135.184.135|69.135.184.135]] ([[User talk:69.135.184.135|talk]]) to last version by Nathan xx",
+  "timestamp": "2006-05-21T11:52:14Z",
+  "revid": 54341117,
+  "user": "Aaron Brenneman",
+  "parentid": 54340889,
+  "diff": {
+    "to": 54341117,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Love]], <del class=\"diffchange diffchange-inline\">Michael</del> <del class=\"diffchange diffchange-inline\">Perkins</del> <del class=\"diffchange diffchange-inline\">and Brittany Hackett</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Love]], <ins class=\"diffchange diffchange-inline\">Nathan</ins> <ins class=\"diffchange diffchange-inline\">And</ins> <ins class=\"diffchange diffchange-inline\">Melinda</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|200px|thumb|right|A [[cartoonish]] version of the [[Heart (symbol)|heart]], a frequent modern symbol of love.]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|200px|thumb|right|A [[cartoonish]] version of the [[Heart (symbol)|heart]], a frequent modern symbol of love.]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is an emotion of intense attraction to, care for, or identification with persons, place(s) or thing(s); a desire to be close to, move and construct its object. This can include love for one's self.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is an emotion of intense attraction to, care for, or identification with persons, place(s) or thing(s); a desire to be close to, move and construct its object. This can include love for one's self.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:54340889:newid:54341117 -->\n",
+    "from": 54340889
+  },
+  "minor": ""
+}

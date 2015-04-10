@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Phases */",
+  "timestamp": "2006-03-03T23:13:57Z",
+  "revid": 42119008,
+  "anon": "",
+  "user": "128.135.96.106",
+  "parentid": 42000669,
+  "diff": {
+    "to": 42119008,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 107:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 107:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Likewise, when a person has known a loved one for a long time, they develop a deeper attachment to their partner. According to current scientific understanding of love, this transition from the attraction to the ''attachment'' phase usually happens in about 30 months. After that time, the passion fades, changing love from consummate to companionate, or from romantic love to liking.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Likewise, when a person has known a loved one for a long time, they develop a deeper attachment to their partner. According to current scientific understanding of love, this transition from the attraction to the ''attachment'' phase usually happens in about 30 months. After that time, the passion fades, changing love from consummate to companionate, or from romantic love to liking.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Image:baglione.jpg|right|thumb|200px|'Sacred Love versus Profane Love' by Giovanni Baglione]]<del class=\"diffchange diffchange-inline\">  '''I LOVE YOU'''</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Image:baglione.jpg|right|thumb|200px|'Sacred Love versus Profane Love' by Giovanni Baglione]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:42000669:newid:42119008 -->\n",
+    "from": 42000669
+  }
+}

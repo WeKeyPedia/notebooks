@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Interpersonal love */",
+  "timestamp": "2005-07-20T11:52:18Z",
+  "revid": 19221129,
+  "anon": "",
+  "user": "212.123.217.194",
+  "parentid": 19217705,
+  "diff": {
+    "to": 19221129,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 13:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 13:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Interpersonal love===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Interpersonal love===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Interpersonal love is love between human beings, and is more sympathetic than the notion of very much ''liking'' for another. Although feelings are <del class=\"diffchange diffchange-inline\">usually</del> reciprocal, there can also be [[unrequited love]]. Interpersonal love is usually found in an [[interpersonal relationship]], such as between family members, friends, and couples. However, people often express love for other people outside of these relationships through compassionate outreach and volunteering.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Interpersonal love is love between human beings, and is more sympathetic than the notion of very much ''liking'' for another. Although feelings are <ins class=\"diffchange diffchange-inline\">sometimes</ins> reciprocal, there can also be [[unrequited love]]. Interpersonal love is usually found in an [[interpersonal relationship]], such as between family members, friends, and couples. However, people often express love for other people outside of these relationships through compassionate outreach and volunteering.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some elements that are often present in interpersonal love:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some elements that are often present in interpersonal love:</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:19217705:newid:19221129 -->\n",
+    "from": 19217705
+  }
+}

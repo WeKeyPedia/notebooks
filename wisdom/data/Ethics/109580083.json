@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-02-20T16:16:15Z",
+  "revid": 109580083,
+  "anon": "",
+  "user": "65.34.16.150",
+  "parentid": 109458008,
+  "diff": {
+    "to": 109580083,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' (from the [[Ancient Greek]] \"''ἠθικός''\" (\"''ethikos''\"), meaning \"theory of living\"), a major branch of [[philosophy]], is the study of [[Value theory|value]]s and [[Custom (law)|custom]]s of a person or group and covers the [[Philosophical analysis|analysis]] and employment of [[concept]]s such as [[right]], [[wrong]], [[good]], [[evil]], and [[moral responsibility|responsibility]]. It is divided into three primary areas: ''meta-ethics'' (the study of the concept of ethics), ''normative ethics'' (the study of how to determine ethical values), and ''applied ethics'' (the study of the use of ethical values). </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' (from the [[Ancient Greek]] \"''ἠθικός''\" <ins class=\"diffchange diffchange-inline\">morgan</ins>(\"''ethikos''\"), meaning \"theory of living\"), a major branch of [[philosophy]], is the study of [[Value theory|value]]s and [[Custom (law)|custom]]s of a person or group and covers the [[Philosophical analysis|analysis]] and employment of [[concept]]s such as [[right]], [[wrong]], [[good]], [[evil]], and [[moral responsibility|responsibility]]. It is divided into three primary areas: ''meta-ethics'' (the study of the concept of ethics), ''normative ethics'' (the study of how to determine ethical values), and ''applied ethics'' (the study of the use of ethical values). </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:109458008:newid:109580083 -->\n",
+    "from": 109458008
+  }
+}

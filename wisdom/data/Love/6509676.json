@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Religious love */",
+  "timestamp": "2004-10-12T02:19:23Z",
+  "revid": 6509676,
+  "user": "Johnkarp",
+  "parentid": 6509505,
+  "diff": {
+    "to": 6509676,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 30:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 30:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religious love===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Religious love===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Most religions use love to express the devotion the follower should have to their diety. This love can be expressed by putting the love of God above personal needs, prayer, service, good deeds, and personal sacrifice, all done selflessly. Reciprocally, the deity loves the followers and all of creation. ''Refer to 'Religious Views' below.''</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Most religions use love to express the devotion the follower should have to their diety. This love can be expressed by putting the love of God above personal needs, prayer, service, good deeds, and personal sacrifice, all done selflessly. Reciprocally, the deity loves the followers and all of creation<ins class=\"diffchange diffchange-inline\">. Some traditions encourage the development of passionate love in the believer for the diety</ins>. ''Refer to 'Religious Views' below.''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Cultural differences ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Cultural differences ==</div></td>\n</tr>\n",
+    "from": 6509505
+  }
+}

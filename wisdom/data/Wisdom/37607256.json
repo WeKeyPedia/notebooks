@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */ fix cat",
+  "timestamp": "2006-02-01T01:09:45Z",
+  "revid": 37607256,
+  "user": "MeltBanana",
+  "parentid": 37540409,
+  "diff": {
+    "to": 37607256,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 41:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 41:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Knowledge]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Knowledge]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Category:Core issues in <del class=\"diffchange diffchange-inline\">Ethics</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Category:Core issues in <ins class=\"diffchange diffchange-inline\">ethics</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Philosophical terminology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Philosophical terminology]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Spirituality]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Spirituality]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:37540409:newid:37607256 -->\n",
+    "from": 37540409
+  },
+  "minor": ""
+}

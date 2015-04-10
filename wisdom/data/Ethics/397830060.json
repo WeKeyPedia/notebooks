@@ -1,0 +1,13 @@
+﻿{
+  "comment": "robot Adding: [[ps:اخلاق]]",
+  "timestamp": "2010-11-20T08:20:08Z",
+  "revid": 397830060,
+  "user": "FoxBot",
+  "parentid": 397664850,
+  "diff": {
+    "to": 397830060,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 284:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 284:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[uz:Etika]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[uz:Etika]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pnb:ایتھکس]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pnb:ایتھکس]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[ps:اخلاق]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[nds:Ethik]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[nds:Ethik]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Etyka]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Etyka]]</div></td>\n</tr>\n",
+    "from": 397664850
+  },
+  "minor": ""
+}

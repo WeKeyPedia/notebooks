@@ -1,0 +1,13 @@
+﻿{
+  "comment": "BOT - rv [[Special:Contributions/144.136.114.45|144.136.114.45]] ([[User talk:144.136.114.45|talk]]) to last version by 144.136.113.161",
+  "timestamp": "2006-05-06T12:50:08Z",
+  "revid": 51824913,
+  "user": "Tawkerbot2",
+  "parentid": 51824899,
+  "diff": {
+    "to": 51824913,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 27:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 27:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional and sexual desire.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Romantic love]] – affection characterized by a mix of emotional and sexual desire.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[<del class=\"diffchange diffchange-inline\">GAY</del> LOVE]] - a love that <del class=\"diffchange diffchange-inline\">jonathan</del> <del class=\"diffchange diffchange-inline\">terry</del> <del class=\"diffchange diffchange-inline\">and madison waller have</del> for <del class=\"diffchange diffchange-inline\">cocks</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[<ins class=\"diffchange diffchange-inline\">KELLY</ins> LOVE]] - a love that <ins class=\"diffchange diffchange-inline\">michael</ins> <ins class=\"diffchange diffchange-inline\">fitzgerald</ins> <ins class=\"diffchange diffchange-inline\">has</ins> for <ins class=\"diffchange diffchange-inline\">kelly</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n</tr>\n",
+    "from": 51824899
+  },
+  "minor": ""
+}

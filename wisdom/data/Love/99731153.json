@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* References */",
+  "timestamp": "2007-01-10T09:04:35Z",
+  "revid": 99731153,
+  "anon": "",
+  "user": "24.231.155.231",
+  "parentid": 99701301,
+  "diff": {
+    "to": 99731153,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 146:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 146:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Roger Allen, Hillar Kilpatrick, and Ed de Moor, eds. ''Love and Sexuality in Modern Arabic Literature''. London: Saqi Books, 1995.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Roger Allen, Hillar Kilpatrick, and Ed de Moor, eds. ''Love and Sexuality in Modern Arabic Literature''. London: Saqi Books, 1995.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*I love Erin, eds. \"Really\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Shadi Bartsch and Thomas Bartscherer, eds. ''Erotikon: Essays on Eros, Ancient and Modern''. Chicago: University of Chicago Press, 2005.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Shadi Bartsch and Thomas Bartscherer, eds. ''Erotikon: Essays on Eros, Ancient and Modern''. Chicago: University of Chicago Press, 2005.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Helen Fisher. ''Why We Love: the Nature and Chemistry of Romantic Love''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Helen Fisher. ''Why We Love: the Nature and Chemistry of Romantic Love''</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:99701301:newid:99731153 -->\n",
+    "from": 99701301
+  }
+}

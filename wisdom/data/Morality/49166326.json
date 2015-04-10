@@ -1,0 +1,12 @@
+﻿{
+  "comment": "added 'general' heading, so content box is at top",
+  "timestamp": "2006-04-19T18:54:31Z",
+  "revid": 49166326,
+  "user": "The Advocate",
+  "parentid": 49163486,
+  "diff": {
+    "to": 49166326,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:''See also [[Ethics]].''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:''See also [[Ethics]].''</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>==General==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''', in the strictest sense of the word, deals with that which is regarded as right or wrong. The term is often used to refer to a system of principles and judgments shared by [[cultural]], [[religion|religious]], [[secular]] (e.g. [[secular humanism|Humanist]]) and [[philosophical]] communities who share concepts and beliefs, by which people determine whether given actions are [[Goodness and value theory|right]] or [[evil|wrong]]. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''', in the strictest sense of the word, deals with that which is regarded as right or wrong. The term is often used to refer to a system of principles and judgments shared by [[cultural]], [[religion|religious]], [[secular]] (e.g. [[secular humanism|Humanist]]) and [[philosophical]] communities who share concepts and beliefs, by which people determine whether given actions are [[Goodness and value theory|right]] or [[evil|wrong]]. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:49163486:newid:49166326 -->\n",
+    "from": 49163486
+  }
+}

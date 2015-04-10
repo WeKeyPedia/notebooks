@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Military ethics */ Previous editor left out rule seven, I adjusted it.",
+  "timestamp": "2009-03-27T13:36:07Z",
+  "revid": 280005041,
+  "user": "Zebardyn",
+  "parentid": 279239246,
+  "diff": {
+    "to": 280005041,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 107:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 107:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>4) age discrimination (authority based upon age instead of accomplishment or productivity)&lt;br /&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>4) age discrimination (authority based upon age instead of accomplishment or productivity)&lt;br /&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>5) nepotism (unfair control by family members; also known as \"empire building\")&lt;br /&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>5) nepotism (unfair control by family members; also known as \"empire building\")&lt;br /&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>6) political influence (military members having a political position or political influence)&lt;br<del class=\"diffchange diffchange-inline\"> /&gt;</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>6) political influence (military members having a political position or political influence)&lt;br</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>7) &lt;br /&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>7) <ins class=\"diffchange diffchange-inline\">who gets the remote on Saturday night</ins>&lt;br /&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&lt;br /&gt;</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[add more issues of military ethics; be general to include every country's military]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[add more issues of military ethics; be general to include every country's military]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:279239246:newid:280005041 -->\n",
+    "from": 279239246
+  },
+  "minor": ""
+}

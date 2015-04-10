@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Old Testament */",
+  "timestamp": "2010-03-28T10:48:10Z",
+  "revid": 352511102,
+  "anon": "",
+  "user": "86.135.25.160",
+  "parentid": 352510692,
+  "diff": {
+    "to": 352511102,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 77:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 77:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''His Wisdom shone ('''qaran''') unto them like (Pride/Defiance/an animal horn) ('''qeren''') of light''.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''His Wisdom shone ('''qaran''') unto them like (Pride/Defiance/an animal horn) ('''qeren''') of light''.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In a general sense the Hebrew for Horn can be taken to represent the emotive and political concept of power.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===New Testament===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===New Testament===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:352510692:newid:352511102 -->\n",
+    "from": 352510692
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Types */ uncap",
+  "timestamp": "2006-08-23T18:36:29Z",
+  "revid": 71432068,
+  "user": "Haakon",
+  "parentid": 71179047,
+  "diff": {
+    "to": 71432068,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Unrequited love]] – affection and desire not reciprocated or returned</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Lust|Lust-love]] - affection characterized by lust, caring about the desired one for a short amount of time, in other words, semi-true love</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Lust|Lust-love]] - affection characterized by lust, caring about the desired one for a short amount of time, in other words, semi-true love</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Love at first sight|Instantaneous <del class=\"diffchange diffchange-inline\">Love</del>]] - Love that occours the instant that one person comes in contact with another and feels a deep connection or attraction to the other. Also known as \"love at first sight\" and refered to commonly in many fairy tales and folk lore and literature.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Love at first sight|Instantaneous <ins class=\"diffchange diffchange-inline\">love</ins>]] - Love that occours the instant that one person comes in contact with another and feels a deep connection or attraction to the other. Also known as \"love at first sight\" and refered to commonly in many fairy tales and folk lore and literature.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:71179047:newid:71432068 -->\n",
+    "from": 71179047
+  },
+  "minor": ""
+}

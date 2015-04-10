@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Philosophers that have written about love */",
+  "timestamp": "2006-05-20T00:35:33Z",
+  "revid": 54118374,
+  "anon": "",
+  "user": "24.131.86.120",
+  "parentid": 54075784,
+  "diff": {
+    "to": 54118374,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 44:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 44:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Soren Kierkegaard]] - Works of Love </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Soren Kierkegaard]] - Works of Love </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Herbert Marcuse]] - Eros and civilization</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Herbert Marcuse]] - <ins class=\"diffchange diffchange-inline\">[[</ins>Eros and civilization<ins class=\"diffchange diffchange-inline\">]]</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Plato]] - Symposium</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Plato]] - Symposium</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:54075784:newid:54118374 -->\n",
+    "from": 54075784
+  }
+}

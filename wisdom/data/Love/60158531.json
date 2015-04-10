@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Other viewpoints */",
+  "timestamp": "2006-06-23T12:10:38Z",
+  "revid": 60158531,
+  "anon": "",
+  "user": "83.100.220.138",
+  "parentid": 60158501,
+  "diff": {
+    "to": 60158531,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 52:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 52:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Often, some people tend to view love as a nonexisistant feeling or a simple chemical reaction gone wrong.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Often, some people tend to view love as a nonexisistant feeling or a simple chemical reaction gone wrong.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&lt;&lt;&lt; This needs references &gt;&gt;&gt;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>&lt;&lt;&lt; This needs references<ins class=\"diffchange diffchange-inline\"> or a fuller explination</ins> &gt;&gt;&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Definitional issues ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Definitional issues ==</div></td>\n</tr>\n",
+    "from": 60158501
+  }
+}

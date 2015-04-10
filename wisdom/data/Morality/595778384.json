@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Human moral code according to the Monotheistic religions */",
+  "timestamp": "2014-02-16T20:57:59Z",
+  "revid": 595778384,
+  "user": "Itamarkalimi",
+  "parentid": 595778339,
+  "diff": {
+    "to": 595778384,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 144:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 144:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/ref&gt; the [[Five Precepts]] and the [[Noble Eightfold Path]] of [[Buddhism]] (''see'' [[Śīla]]); the ancient Egyptian code of [[Ma'at]]; the [[Ten Commandments]] of [[Judaism]] and [[Christianity]]; the [[Quran]] of Islam; Judaism's [[Noahide Law]]; and the [[yamas]] and [[niyama]] of the [[Hindu scriptures]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/ref&gt; the [[Five Precepts]] and the [[Noble Eightfold Path]] of [[Buddhism]] (''see'' [[Śīla]]); the ancient Egyptian code of [[Ma'at]]; the [[Ten Commandments]] of [[Judaism]] and [[Christianity]]; the [[Quran]] of Islam; Judaism's [[Noahide Law]]; and the [[yamas]] and [[niyama]] of the [[Hindu scriptures]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>== Human moral code according to the <del class=\"diffchange diffchange-inline\">Monotheistic</del> religions  ==</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>== Human moral code according to the <ins class=\"diffchange diffchange-inline\">monotheistic</ins> religions  ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>According to all Monotheistic [[religions]] [[god]] is the only one that decided to [[human]] moral code of [[right]] or [[wrong]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>According to all Monotheistic [[religions]] [[god]] is the only one that decided to [[human]] moral code of [[right]] or [[wrong]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:595778339:newid:595778384 -->\n",
+    "from": 595778339
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Morality in judicial systems */",
+  "timestamp": "2005-12-05T12:13:40Z",
+  "revid": 30215284,
+  "user": "Please Don't Block",
+  "parentid": 29937758,
+  "diff": {
+    "to": 30215284,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 24:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 24:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Morality in judicial systems==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Morality in judicial systems==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">Morality is not</del> [[law]], even if law <del class=\"diffchange diffchange-inline\">reflects</del> or intends to reflect morality.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">The</ins> [[law]]<ins class=\"diffchange diffchange-inline\"> considers itself independent of morality</ins>, even if<ins class=\"diffchange diffchange-inline\"> the</ins> law <ins class=\"diffchange diffchange-inline\">happens to reflect</ins> or intends to reflect morality<ins class=\"diffchange diffchange-inline\">. (Of course, it is not difficult to argue that societal morality is inevitably encoded in law)</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In some judicial systems, the word '''morality''' concretely means a requirement for the access to certain charges or careers, or for the obtaining of certain licenses or concessions, and generally consists of the absence of previous records on (e.g.) crimes, [[bankruptcy]], political or commercial irregularities.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In some judicial systems, the word '''morality''' concretely means a requirement for the access to certain charges or careers, or for the obtaining of certain licenses or concessions, and generally consists of the absence of previous records on (e.g.) crimes, [[bankruptcy]], political or commercial irregularities.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:29937758:newid:30215284 -->\n",
+    "from": 29937758
+  },
+  "minor": ""
+}

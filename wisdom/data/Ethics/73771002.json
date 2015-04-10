@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */",
+  "timestamp": "2006-09-04T15:36:09Z",
+  "revid": 73771002,
+  "anon": "",
+  "user": "84.156.173.239",
+  "parentid": 73640745,
+  "diff": {
+    "to": 73771002,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 214:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 214:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.sandiego.edu/ Ethics Updates] mega-list of ethics resources maintained by Lawrence Hinman of the University of San Diego.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://ethics.sandiego.edu/ Ethics Updates] mega-list of ethics resources maintained by Lawrence Hinman of the University of San Diego.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://intelligenceispower.com/ Moral Philosophy Research and Economics] Public service publication on moral philosophy research </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://intelligenceispower.com/ Moral Philosophy Research and Economics] Public service publication on moral philosophy research </div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.democracynature.org/dn/vol8/takis_ethics.htm]] \"Towards a democratic liberatory ethics\" by [[Takis Fotopoulos]], [[Democracy&amp;Nature]], Vol.8, no.3, 2002.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.rsrevision.com rsrevision.com] UK website with summaries and criticisms on:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.rsrevision.com rsrevision.com] UK website with summaries and criticisms on:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://www.rsrevision.com/Alevel/ethics/kant/ Kant]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://www.rsrevision.com/Alevel/ethics/kant/ Kant]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:73640745:newid:73771002 -->\n",
+    "from": 73640745
+  }
+}

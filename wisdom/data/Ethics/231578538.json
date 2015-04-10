@@ -1,0 +1,13 @@
+﻿{
+  "comment": "robot  Adding: [[cy:Moeseg]]",
+  "timestamp": "2008-08-13T01:21:47Z",
+  "revid": 231578538,
+  "user": "AndersBot",
+  "parentid": 231569772,
+  "diff": {
+    "to": 231578538,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 165:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 165:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ca:Ètica]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ca:Ètica]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[cs:Etika]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[cs:Etika]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[cy:Moeseg]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[da:Moral]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[da:Moral]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[de:Ethik]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[de:Ethik]]</div></td>\n</tr>\n",
+    "from": 231569772
+  },
+  "minor": ""
+}

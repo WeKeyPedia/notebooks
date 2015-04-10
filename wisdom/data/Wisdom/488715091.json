@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Other religions */",
+  "timestamp": "2012-04-22T21:23:21Z",
+  "revid": 488715091,
+  "user": "Rcavallari",
+  "parentid": 488714856,
+  "diff": {
+    "to": 488715091,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 110:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 110:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Other religions ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Other religions ===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The [[Hindu]] religion talks about ayurvede, the wisdom of traditional Hindu medicine.  Ayurvede means “knowledge of life”.  It teaches that the mind and body are one (an ancient wisdom).  In ancient times, it was used to try to cure disease.  However, today it is used to help people relax and feel healthy.  </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The [[Hindu]] religion talks about ayurvede, the wisdom of traditional Hindu medicine.  Ayurvede means “knowledge of life”.  It teaches that the mind and body are one (an ancient wisdom).  In ancient times, it was used to try to cure disease.  However, today it is used to help people relax and feel healthy<ins class=\"diffchange diffchange-inline\"> &lt;ref&gt;Jaret, Peter. (2006, March 09). Awash in ancient hindu wisdom. Retrieved from http://www.nytimes.com/2006/03/09/fashion/thursdaystyles/09skin1.html?_r=1&amp;pagewanted=all&lt;/ref&gt;</ins>.  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[Mesopotamian mythology|Mesopotamian religion and mythology]], [[Enki]], also known as Ea, was the God of wisdom and intelligence. Wisdom was achieved by restoring balance.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[Mesopotamian mythology|Mesopotamian religion and mythology]], [[Enki]], also known as Ea, was the God of wisdom and intelligence. Wisdom was achieved by restoring balance.</div></td>\n</tr>\n",
+    "from": 488714856
+  }
+}

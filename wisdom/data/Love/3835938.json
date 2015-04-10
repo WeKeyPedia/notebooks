@@ -1,0 +1,12 @@
+﻿{
+  "comment": "[[Category:sexology]]",
+  "timestamp": "2004-05-30T18:56:43Z",
+  "revid": 3835938,
+  "user": "Karada",
+  "parentid": 3786894,
+  "diff": {
+    "to": 3835938,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 115:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 115:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:emotion]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:emotion]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Category:sexology]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:3786894:newid:3835938 -->\n",
+    "from": 3786894
+  }
+}

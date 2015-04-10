@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Moralism */",
+  "timestamp": "2008-04-16T04:21:17Z",
+  "revid": 205951712,
+  "user": "Durral",
+  "parentid": 205951558,
+  "diff": {
+    "to": 205951712,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 25:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 25:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Moralism ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Moralism ===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Moralism is the belief that morals are instilled in humans whether by God or society and therefore should mandate a person's <del class=\"diffchange diffchange-inline\">action</del>. Moralism further holds the belief that there is only what can be proven, and therefore, while they do not deny God, they also do no believe in one. Like atheism however, Moralism stresses the study in science and appreciation of the earthly beauties help one accomplish a truly meaningful life.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">#REDIRECT [[</ins>Moralism<ins class=\"diffchange diffchange-inline\">]]</ins> is the belief that morals are instilled in humans whether by God or society and therefore should mandate a person's <ins class=\"diffchange diffchange-inline\">actions</ins>. Moralism further holds the belief that there is only what can be proven, and therefore, while they do not deny God, they also do no believe in one. Like atheism however, Moralism stresses the study in science and appreciation of the earthly beauties help one accomplish a truly meaningful life.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== In-group and out-group ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== In-group and out-group ===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:205951558:newid:205951712 -->\n",
+    "from": 205951558
+  }
+}

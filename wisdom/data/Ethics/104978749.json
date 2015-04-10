@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-02-02T01:04:49Z",
+  "revid": 104978749,
+  "anon": "",
+  "user": "199.80.13.103",
+  "parentid": 104753552,
+  "diff": {
+    "to": 104978749,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 222:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 222:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Luân lý học]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[vi:Luân lý học]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>yes that is true sure</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:104753552:newid:104978749 -->\n",
+    "from": 104753552
+  }
+}

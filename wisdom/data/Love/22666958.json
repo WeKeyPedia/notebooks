@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Interpersonal love */",
+  "timestamp": "2005-09-06T02:31:06Z",
+  "revid": 22666958,
+  "anon": "",
+  "user": "68.89.40.39",
+  "parentid": 22666898,
+  "diff": {
+    "to": 22666958,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 20:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Commitment]]: a desire to maintain love</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Commitment]]: a desire to maintain love</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Emotional intimacy]]: sharing emotions and feelings</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Emotional intimacy]]: sharing emotions and feelings</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Friendship]]: the spirit between friends </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Kinship]]: family bonds</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Kinship]]: family bonds</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Passion (emotion)|Passion]]: sexual desire</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Passion (emotion)|Passion]]: sexual desire</div></td>\n</tr>\n",
+    "from": 22666898
+  }
+}

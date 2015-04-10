@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2011-12-04T17:43:34Z",
+  "revid": 464068448,
+  "user": "Willstephens23",
+  "parentid": 463588722,
+  "diff": {
+    "to": 464068448,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 43:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 43:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|title=Confessio philosophi</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|title=Confessio philosophi</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|publisher=Wikisource edition</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|publisher=Wikisource edition</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>|accessdate=Mar 25, 2009}}<del class=\"diffchange diffchange-inline\">&lt;/ref&gt; [[Meher Baba]] stated that in love there is a \"feeling of unity\" and an \"active appreciation of the intrinsic worth of the object of love.\"&lt;ref&gt;[[Meher Baba|Baba, Meher]] (1995). ''Discourses''. Myrtle Beach: Sheriar Press. p. 113. ISBN 978-1880619094.&lt;/ref&gt;</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>|accessdate=Mar 25, 2009}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is sometimes referred to as being the \"international language\", overriding cultural and linguistic divisions.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is sometimes referred to as being the \"international language\", overriding cultural and linguistic divisions.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:463588722:newid:464068448 -->\n",
+    "from": 463588722
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "fixing  iw;ar!",
+  "timestamp": "2009-10-30T13:57:53Z",
+  "revid": 322921102,
+  "user": "Elmondo21st",
+  "parentid": 322782924,
+  "diff": {
+    "to": 322921102,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 168:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 168:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[ar:<del class=\"diffchange diffchange-inline\">أخلاقيات</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[ar:<ins class=\"diffchange diffchange-inline\">أخلاق</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bs:Moral]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bs:Moral]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bg:Морал]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bg:Морал]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:322782924:newid:322921102 -->\n",
+    "from": 322782924
+  }
+}

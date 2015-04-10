@@ -1,0 +1,12 @@
+﻿{
+  "comment": "rv - test edits",
+  "timestamp": "2009-07-08T05:16:28Z",
+  "revid": 300935979,
+  "user": "Paine Ellsworth",
+  "parentid": 300689619,
+  "diff": {
+    "to": 300935979,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 53:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 53:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Throughout history, [[philosophy]] and [[religion]] have done the most speculation on the phenomenon of love. In the last century, the science of [[psychology]] has written a great deal on the subject. In recent years, the sciences of [[evolutionary psychology]], [[evolutionary biology]], [[anthropology]], [[neuroscience]], and [[biology]] have added to the understanding of the nature and function of love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Throughout history, [[philosophy]] and [[religion]] have done the most speculation on the phenomenon of love. In the last century, the science of [[psychology]] has written a great deal on the subject. In recent years, the sciences of [[evolutionary psychology]], [[evolutionary biology]], [[anthropology]], [[neuroscience]], and [[biology]] have added to the understanding of the nature and function of love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>===<del class=\"diffchange diffchange-inline\">Biological</del> basis===</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>===<ins class=\"diffchange diffchange-inline\">Chemical</ins> basis===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[File:Chemical basis of love.png|thumb|right|230px|Simplistic overview of the chemical basis of love.]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[File:Chemical basis of love.png|thumb|right|230px|Simplistic overview of the chemical basis of love.]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Love (scientific views)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Love (scientific views)}}</div></td>\n</tr>\n",
+    "from": 300689619
+  }
+}

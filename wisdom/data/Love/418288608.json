@@ -1,0 +1,13 @@
+﻿{
+  "comment": "r2.4.6) (robot Adding: [[ln:Bolingo]]",
+  "timestamp": "2011-03-11T12:37:10Z",
+  "revid": 418288608,
+  "user": "TXiKiBoT",
+  "parentid": 417879354,
+  "diff": {
+    "to": 418288608,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 305:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 305:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[lt:Meilė]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[lt:Meilė]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[li:Leefde]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[li:Leefde]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[ln:Bolingo]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[hu:Szerelem]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[hu:Szerelem]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[mk:Љубов]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[mk:Љубов]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:417879354:newid:418288608 -->\n",
+    "from": 417879354
+  },
+  "minor": ""
+}

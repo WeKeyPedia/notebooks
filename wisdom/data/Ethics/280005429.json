@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Military ethics */ There was an absence of the seventh category, adjustments were made",
+  "timestamp": "2009-03-27T13:38:45Z",
+  "revid": 280005429,
+  "user": "Zebardyn",
+  "parentid": 280005041,
+  "diff": {
+    "to": 280005429,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 107:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 107:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>4) age discrimination (authority based upon age instead of accomplishment or productivity)&lt;br /&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>4) age discrimination (authority based upon age instead of accomplishment or productivity)&lt;br /&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>5) nepotism (unfair control by family members; also known as \"empire building\")&lt;br /&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>5) nepotism (unfair control by family members; also known as \"empire building\")&lt;br /&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>6) political influence (military members having a political position or political influence)&lt;br</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>6) political influence (military members having a political position or political influence)&lt;br<ins class=\"diffchange diffchange-inline\"> /&gt;</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>7) who gets the remote on Saturday night&lt;br /&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>7) who gets the remote on Saturday night&lt;br /&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[add more issues of military ethics; be general to include every country's military]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[add more issues of military ethics; be general to include every country's military]</div></td>\n</tr>\n",
+    "from": 280005041
+  },
+  "minor": ""
+}

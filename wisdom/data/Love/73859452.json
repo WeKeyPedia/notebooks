@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/69.70.248.218|69.70.248.218]] ([[User_talk:69.70.248.218|talk]]) to version 73859245 by Fracture98 using [[WP:VPRF|VP]]",
+  "timestamp": "2006-09-05T01:14:37Z",
+  "revid": 73859452,
+  "user": "SineWave",
+  "parentid": 73859351,
+  "diff": {
+    "to": 73859452,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 29:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 29:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Lust|Lust-love]] - affection characterized by lust, caring about the desired one for a short amount of time, in other words, semi-true love</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Lust|Lust-love]] - affection characterized by lust, caring about the desired one for a short amount of time, in other words, semi-true love</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Love at first sight|Instantaneous love]] - Love that occours the instant that one person comes in contact with another and feels a deep connection or attraction to the other. Also known as \"love at first sight\" and refered to commonly in many fairy tales and folk lore and literature.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Love at first sight|Instantaneous love]] - Love that occours the instant that one person comes in contact with another and feels a deep connection or attraction to the other. Also known as \"love at first sight\" and refered to commonly in many fairy tales and folk lore and literature.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Sacrificial love]] - the act of sacrificing one's life, or something of great importance, solely on the basis of love.<del class=\"diffchange diffchange-inline\">LOVE SUCKS ASS!</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Sacrificial love]] - the act of sacrificing one's life, or something of great importance, solely on the basis of love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Scientific views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:73859351:newid:73859452 -->\n",
+    "from": 73859351
+  },
+  "minor": ""
+}

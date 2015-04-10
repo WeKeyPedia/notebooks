@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Removing \"five\" from the first sentence, changing \"branches\" to \"areas\" in the second one",
+  "timestamp": "2006-08-27T03:40:17Z",
+  "revid": 72124349,
+  "user": "Prokaryote",
+  "parentid": 72124197,
+  "diff": {
+    "to": 72124349,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' (from the [[Ancient Greek]] \"''ethikos''\", meaning \"theory of living\") is one of the<del class=\"diffchange diffchange-inline\"> five</del> major branches of [[philosophy]], one that covers the [[Philosophical analysis|analysis]] and employment of [[concept|concepts]] such as [[right]], [[wrong]], [[good]], [[evil]], and [[responsibility]]. It is divided into three primary <del class=\"diffchange diffchange-inline\">branches</del>: ''meta-ethics'' (the study of what ethicality is), ''normative ethics'' (the study of how ethical truths are known), and ''applied ethics'' (the study of the use of ethical knowledge).</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' (from the [[Ancient Greek]] \"''ethikos''\", meaning \"theory of living\") is one of the major branches of [[philosophy]], one that covers the [[Philosophical analysis|analysis]] and employment of [[concept|concepts]] such as [[right]], [[wrong]], [[good]], [[evil]], and [[responsibility]]. It is divided into three primary <ins class=\"diffchange diffchange-inline\">areas</ins>: ''meta-ethics'' (the study of what ethicality is), ''normative ethics'' (the study of how ethical truths are known), and ''applied ethics'' (the study of the use of ethical knowledge).</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Meta-ethics==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:72124197:newid:72124349 -->\n",
+    "from": 72124197
+  },
+  "minor": ""
+}

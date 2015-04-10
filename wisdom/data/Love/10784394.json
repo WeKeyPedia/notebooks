@@ -1,0 +1,12 @@
+﻿{
+  "comment": "change link to pragma to link to Pragma (love), redlink",
+  "timestamp": "2005-03-04T04:51:13Z",
+  "revid": 10784394,
+  "user": "RJFJR",
+  "parentid": 10753385,
+  "diff": {
+    "to": 10784394,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 99:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 99:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ludus]] &amp;mdash; love is played as a game; love is playful</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Ludus]] &amp;mdash; love is played as a game; love is playful</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Storge]] &amp;mdash; an affectionate love that slowly develops, based on [[similarity]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Storge]] &amp;mdash; an affectionate love that slowly develops, based on [[similarity]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Pragma]] &amp;mdash; pragmatic love</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[<ins class=\"diffchange diffchange-inline\">Pragma (love)|</ins>Pragma]] &amp;mdash; pragmatic love</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Mania]] &amp;mdash; highly emotional love; unstable; the stereotype of [[romantic love]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Mania]] &amp;mdash; highly emotional love; unstable; the stereotype of [[romantic love]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Agape]] &amp;mdash; selfless altruistic love; spiritual</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Agape]] &amp;mdash; selfless altruistic love; spiritual</div></td>\n</tr>\n",
+    "from": 10753385
+  }
+}

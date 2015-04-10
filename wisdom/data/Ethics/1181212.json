@@ -1,0 +1,13 @@
+﻿{
+  "comment": "pl interwiki link",
+  "timestamp": "2003-07-18T12:29:54Z",
+  "revid": 1181212,
+  "anon": "",
+  "user": "212.51.204.100",
+  "parentid": 1164016,
+  "diff": {
+    "to": 1181212,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[es:Ética]][[fr:Éthique]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[es:Ética]][[fr:Éthique<ins class=\"diffchange diffchange-inline\">]][[pl:Etyka</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' is a branch of [[philosophy]] which studies questions pertaining to right and wrong, good and bad.  '''[[meta:Simple View of Ethics and Morals]]''' deals with these in much simpler language.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' is a branch of [[philosophy]] which studies questions pertaining to right and wrong, good and bad.  '''[[meta:Simple View of Ethics and Morals]]''' deals with these in much simpler language.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 1164016
+  }
+}

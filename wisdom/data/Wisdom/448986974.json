@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Corrected caption regarding Horns/Light rays on statue of Moses",
+  "timestamp": "2011-09-07T19:32:45Z",
+  "revid": 448986974,
+  "user": "StickyWikis",
+  "parentid": 448781137,
+  "diff": {
+    "to": 448986974,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Other uses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[File:Moses San Pietro in Vincoli.jpg|thumb|<del class=\"diffchange diffchange-inline\">Horns</del> on the head of [[Moses (Michelangelo)]] <del class=\"diffchange diffchange-inline\">are</del> a [[#Hebrew Bible|graphic symbol]] of Wisdom]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[File:Moses San Pietro in Vincoli.jpg|thumb|<ins class=\"diffchange diffchange-inline\">Rays of light, symbolically represented as horns</ins> on the head of [[Moses (Michelangelo)]]<ins class=\"diffchange diffchange-inline\">, can</ins> <ins class=\"diffchange diffchange-inline\">be</ins> a [[#Hebrew Bible|graphic symbol]] of Wisdom]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Efez Celsus Library 3 RB.jpg|thumb|200px|[[Personification]] of wisdom (in [[Greek language|Greek]], \"''Σοφία''\" or \"''[[Sophia (wisdom)|Sophia]]''\") at the [[Celsus Library]] in [[Ephesus]], [[Turkey]].]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Efez Celsus Library 3 RB.jpg|thumb|200px|[[Personification]] of wisdom (in [[Greek language|Greek]], \"''Σοφία''\" or \"''[[Sophia (wisdom)|Sophia]]''\") at the [[Celsus Library]] in [[Ephesus]], [[Turkey]].]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:448781137:newid:448986974 -->\n",
+    "from": 448781137
+  },
+  "minor": ""
+}

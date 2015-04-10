@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Quote from Proverbs.",
+  "timestamp": "2004-04-06T23:41:09Z",
+  "revid": 3089740,
+  "user": "Andycjp",
+  "parentid": 3089730,
+  "diff": {
+    "to": 3089740,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 19:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 19:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>As with all decisions, a wise decision is made from incomplete [[information]].  But in a wise decision the chooser possesses a sense of the way that situations usually turn out and, in its deeper forms, a desire for the outcome to be broadly beneficial.  </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>As with all decisions, a wise decision is made from incomplete [[information]].  But in a wise decision the chooser possesses a sense of the way that situations usually turn out and, in its deeper forms, a desire for the outcome to be broadly beneficial.  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Classically, wisdom is considered to come with age. In some religions, wisdom is considered a gift granted by [[God]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Classically, wisdom is considered to come with age. In some religions, wisdom is considered a gift granted by [[God]]<ins class=\"diffchange diffchange-inline\">.The [[Jewish]] book of [[Proverbs]] in the [[O.T.]] states `Fear of God is the beginning of Wisdom`</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A wise person is often called a \"sage.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A wise person is often called a \"sage.\"</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:3089730:newid:3089740 -->\n",
+    "from": 3089730
+  }
+}

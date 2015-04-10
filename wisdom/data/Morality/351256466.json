@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Undid revision 350820519 by [[Special:Contributions/158.104.166.132|158.104.166.132]] ([[User talk:158.104.166.132|talk]])",
+  "timestamp": "2010-03-21T23:35:03Z",
+  "revid": 351256466,
+  "user": "Ranger2006",
+  "parentid": 351256249,
+  "diff": {
+    "to": 351256466,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 121:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 121:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{See also|Argument from inconsistent revelations|Criticism of religion}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{See also|Argument from inconsistent revelations|Criticism of religion}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Many religions provide moral guidelines for their followers. They believe that <del class=\"diffchange diffchange-inline\">the divine</del> has instructed them with a way to live, and that following these \"rules\" will lead to oneness with <del class=\"diffchange diffchange-inline\">the divine</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Many religions provide moral guidelines for their followers. They believe that <ins class=\"diffchange diffchange-inline\">God</ins> has instructed them with a way to live, and that following these \"rules\" will lead to oneness with <ins class=\"diffchange diffchange-inline\">God</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:351256249:newid:351256466 -->\n",
+    "from": 351256249
+  }
+}

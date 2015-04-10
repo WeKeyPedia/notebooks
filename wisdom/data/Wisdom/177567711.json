@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Quotations about wisdom */",
+  "timestamp": "2007-12-13T01:57:29Z",
+  "revid": 177567711,
+  "anon": "",
+  "user": "66.224.190.142",
+  "parentid": 177407975,
+  "diff": {
+    "to": 177567711,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 96:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 96:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"All I know is that I know nothing.\" ― [[Socrates]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"All I know is that I know nothing.\" ― [[Socrates]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>\"Above all else, the greatest gift and the most wondrous blessing hath ever been and will continue to be Wisdom.\" - [[Bahá’u’lláh]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:177407975:newid:177567711 -->\n",
+    "from": 177407975
+  }
+}

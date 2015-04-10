@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Correcting link to yi.wp",
+  "timestamp": "2007-11-19T01:57:14Z",
+  "revid": 172402627,
+  "user": "Smeira",
+  "parentid": 171983901,
+  "diff": {
+    "to": 172402627,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 335:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 335:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tr:Sevgi]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[tr:Sevgi]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[uk:Любов]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[uk:Любов]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[yi:<del class=\"diffchange diffchange-inline\">ליבע/</del>ליבע]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[yi:ליבע]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh-yue:愛]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh-yue:愛]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bat-smg:Meilė]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[bat-smg:Meilė]]</div></td>\n</tr>\n",
+    "from": 171983901
+  },
+  "minor": ""
+}

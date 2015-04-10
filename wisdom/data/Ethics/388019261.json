@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2010-10-01T00:57:55Z",
+  "revid": 388019261,
+  "anon": "",
+  "user": "98.117.79.156",
+  "parentid": 388019219,
+  "diff": {
+    "to": 388019261,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Major branches of ethics include:</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[<del class=\"diffchange diffchange-inline\">Metaphysics</del>]], about the theoretical meaning and reference of moral propositions and how their [[truth-value]]s (if any) may be determined;</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[<ins class=\"diffchange diffchange-inline\">Meta-ethics</ins>]], about the theoretical meaning and reference of moral propositions and how their [[truth-value]]s (if any) may be determined;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Normative ethics]], about the practical means of determining a moral course of action;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Normative ethics]], about the practical means of determining a moral course of action;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Applied ethics]], about how moral outcomes can be achieved in specific situations;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Applied ethics]], about how moral outcomes can be achieved in specific situations;</div></td>\n</tr>\n",
+    "from": 388019219
+  }
+}

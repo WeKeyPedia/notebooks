@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Revert to revision 77598230 dated 2006-09-24 20:59:59 by Musical Linguist using [[:en:Wikipedia:Tools/Navigation_popups|popups]]",
+  "timestamp": "2006-09-25T03:09:26Z",
+  "revid": 77653638,
+  "user": "Matt B.",
+  "parentid": 77653504,
+  "diff": {
+    "to": 77653638,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 103:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 103:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love-hate relationship]]s</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love-hate relationship]]s</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love letter]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love letter]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Rasheed &amp; Amanda]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love-shyness]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love-shyness]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love sickness]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Love sickness]]</div></td>\n</tr>\n",
+    "from": 77653504
+  }
+}

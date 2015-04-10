@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverting possible vandalism by [[Special:Contributions/121.1.53.22|121.1.53.22]] to version by Idioma-bot. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (1004938) (Bot)",
+  "timestamp": "2012-04-11T04:23:14Z",
+  "revid": 486753435,
+  "user": "ClueBot NG",
+  "parentid": 486753425,
+  "diff": {
+    "to": 486753435,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 26:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Theories which claim that morality is derived from reasoning about implied imperatives ([[universal prescriptivism]]), the edicts of a god ([[divine command theory]]), or the hypothetical decrees of a perfectly rational being ([[ideal observer theory]]), are considered anti-realist in the robust sense used here, but are considered realist in the sense synonymous with [[moral universalism]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Theories which claim that morality is derived from reasoning about implied imperatives ([[universal prescriptivism]]), the edicts of a god ([[divine command theory]]), or the hypothetical decrees of a perfectly rational being ([[ideal observer theory]]), are considered anti-realist in the robust sense used here, but are considered realist in the sense synonymous with [[moral universalism]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div> i love you mahal</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Anthropology==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Anthropology==</div></td>\n</tr>\n",
+    "from": 486753425
+  },
+  "minor": ""
+}

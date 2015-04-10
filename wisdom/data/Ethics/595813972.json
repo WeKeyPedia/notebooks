@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* The important of the awareness to ethics in the human society */",
+  "timestamp": "2014-02-17T02:00:22Z",
+  "revid": 595813972,
+  "user": "Itamarkalimi",
+  "parentid": 595813771,
+  "diff": {
+    "to": 595813972,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 29:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 29:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== The important of the awareness to ethics in the human society ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== The important of the awareness to ethics in the human society ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>The awareness to [[Ethics]] (and <del class=\"diffchange diffchange-inline\">[[[</del>morality<del class=\"diffchange diffchange-inline\">]]</del>) of the [[individual]] will help the individual to choose the right way how to live his life, do good and not bad.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The awareness to [[Ethics]] (and morality) of the [[individual]] will help the individual to choose the right way how to live his life, do good and not bad.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The awareness to  Ethics (and [[morality]]) of the individual will make the [[human]] [[society]] a better society ,a ethical society that do good and not bad.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The awareness to  Ethics (and [[morality]]) of the individual will make the [[human]] [[society]] a better society ,a ethical society that do good and not bad.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:595813771:newid:595813972 -->\n",
+    "from": 595813771
+  }
+}

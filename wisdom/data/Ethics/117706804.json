@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* External links */ dash",
+  "timestamp": "2007-03-25T07:14:51Z",
+  "revid": 117706804,
+  "user": "Anomalocaris",
+  "parentid": 117706731,
+  "diff": {
+    "to": 117706804,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 164:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 164:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://www.rsrevision.com/Alevel/ethics/situation_ethics/ Situation Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://www.rsrevision.com/Alevel/ethics/situation_ethics/ Situation Ethics]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/broad/ftet/ftet.html C. D. Broad, ''Five Types of Ethical Theory'' (New York: Harcourt, Brace and Co., 1930).]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/broad/ftet/ftet.html C. D. Broad, ''Five Types of Ethical Theory'' (New York: Harcourt, Brace and Co., 1930).]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://www.ditext.com/cornman/corn6.html James Cornman, \"Chapter Six: The Problem of Justifying an Ethical Standard,\"] in Philosophical Problems and Arguments <del class=\"diffchange diffchange-inline\">-</del> An Introduction, 3d ed., Indianapolis: Hackett, 1982.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.ditext.com/cornman/corn6.html James Cornman, \"Chapter Six: The Problem of Justifying an Ethical Standard,\"] in Philosophical Problems and Arguments <ins class=\"diffchange diffchange-inline\">—</ins> An Introduction, 3d ed., Indianapolis: Hackett, 1982.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/frankena/ethics.html William Frankena, ''Ethics'', 2d ed., 1973.]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/frankena/ethics.html William Frankena, ''Ethics'', 2d ed., 1973.]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/ross/right.html W. D. Ross, ''The Right and the Good'' (1930)]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.ditext.com/ross/right.html W. D. Ross, ''The Right and the Good'' (1930)]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:117706731:newid:117706804 -->\n",
+    "from": 117706731
+  },
+  "minor": ""
+}

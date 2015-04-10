@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Revert to revision 63171917 dated 2006-07-11 04:41:12 by Idont Havaname using [[:en:Wikipedia:Tools/Navigation_popups|popups]]",
+  "timestamp": "2006-07-11T09:26:34Z",
+  "revid": 63197305,
+  "user": "Netsnipe",
+  "parentid": 63196397,
+  "diff": {
+    "to": 63197305,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Overview==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Overview==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>paul luvz natalie and lorna 4lyf </div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love has several different meanings in the English language, from something that gives a little pleasure to something that one would die for.  And in contrast to the definition at the top, frequently people use the verb \"love\" to indicate want or desire for themselves as opposed to for another. For example: \"I love ice cream,\" does not refer to desiring wellness for ice cream, but rather to the desire for ice cream.  The word also frequently indicates elevated appreciation or admiration: \"I love that artist.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love has several different meanings in the English language, from something that gives a little pleasure to something that one would die for.  And in contrast to the definition at the top, frequently people use the verb \"love\" to indicate want or desire for themselves as opposed to for another. For example: \"I love ice cream,\" does not refer to desiring wellness for ice cream, but rather to the desire for ice cream.  The word also frequently indicates elevated appreciation or admiration: \"I love that artist.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:63196397:newid:63197305 -->\n",
+    "from": 63196397
+  }
+}

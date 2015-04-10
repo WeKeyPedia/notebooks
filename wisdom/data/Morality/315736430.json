@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Religion as a source of moral authority */",
+  "timestamp": "2009-09-23T16:34:44Z",
+  "revid": 315736430,
+  "anon": "",
+  "user": "64.201.233.246",
+  "parentid": 315572348,
+  "diff": {
+    "to": 315736430,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 120:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 120:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{See also|Argument from inconsistent revelations|Criticism of religion}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{See also|Argument from inconsistent revelations|Criticism of religion}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">Morality</del> <del class=\"diffchange diffchange-inline\">explains</del> <del class=\"diffchange diffchange-inline\">morals</del> <del class=\"diffchange diffchange-inline\">in</del> <del class=\"diffchange diffchange-inline\">a</del> <del class=\"diffchange diffchange-inline\">religious</del> <del class=\"diffchange diffchange-inline\">way</del>. They believe <del class=\"diffchange diffchange-inline\">it</del> <del class=\"diffchange diffchange-inline\">comes</del> <del class=\"diffchange diffchange-inline\">from</del> God.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">Many</ins> <ins class=\"diffchange diffchange-inline\">religions</ins> <ins class=\"diffchange diffchange-inline\">provide</ins> <ins class=\"diffchange diffchange-inline\">moral</ins> <ins class=\"diffchange diffchange-inline\">guidelines</ins> <ins class=\"diffchange diffchange-inline\">for</ins> <ins class=\"diffchange diffchange-inline\">their followers</ins>. They believe <ins class=\"diffchange diffchange-inline\">that God has instructed them with a way to live, and that following these \"rules\" will lead to</ins> <ins class=\"diffchange diffchange-inline\">oneness</ins> <ins class=\"diffchange diffchange-inline\">with</ins> God.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n",
+    "from": 315572348
+  }
+}

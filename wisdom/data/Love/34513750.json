@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/66.144.41.233|66.144.41.233]] ([[User talk:66.144.41.233|talk]]) to last version by Kirils",
+  "timestamp": "2006-01-09T18:05:29Z",
+  "revid": 34513750,
+  "user": "Tom harrison",
+  "parentid": 34513617,
+  "diff": {
+    "to": 34513750,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love might best be defined as acting intentionally, in sympathethic response to others, to promote overall well-being (Oord).</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love might best be defined as acting intentionally, in sympathethic response to others, to promote overall well-being (Oord).</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>RANDY COOPER LOVES KATE SUTPHIN!!!!!!</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is inherent in all human cultures. It is precisely these cultural differences that make any universal definition of love difficult, but not impossible, to establish. See the [[Sapir-Whorf hypothesis]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is inherent in all human cultures. It is precisely these cultural differences that make any universal definition of love difficult, but not impossible, to establish. See the [[Sapir-Whorf hypothesis]].</div></td>\n</tr>\n",
+    "from": 34513617
+  },
+  "minor": ""
+}

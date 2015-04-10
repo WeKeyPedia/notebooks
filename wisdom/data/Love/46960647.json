@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-04-04T18:27:12Z",
+  "revid": 46960647,
+  "anon": "",
+  "user": "168.169.134.203",
+  "parentid": 46882750,
+  "diff": {
+    "to": 46960647,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 11:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The concept of love, however, is subject to debate.  Some deny the existence of love, calling it a recently invented abstraction.  Moreover, approximately 13 percent of cultures reportedly have no word for love.&lt;ref&gt;{{cite book | author=Ackerman, Diane | title=A Natural History of Love | publisher=Vintage Books | year=1994 | id=ISBN 0679761837}}&lt;/ref&gt; Others maintain that love exists but is undefinable; being a quantity which is [[spiritual]], [[metaphysical]], or [[philosophical]] in nature, etc.  Perhaps due to its emotional primacy, love is one of the most common themes in art.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The concept of love, however, is subject to debate.  Some deny the existence of love, calling it a recently invented abstraction.  Moreover, approximately 13 percent of cultures reportedly have no word for love.&lt;ref&gt;{{cite book | author=Ackerman, Diane | title=A Natural History of Love | publisher=Vintage Books | year=1994 | id=ISBN 0679761837}}&lt;/ref&gt; Others maintain that love exists but is undefinable; being a quantity which is [[spiritual]], [[metaphysical]], or [[philosophical]] in nature, etc.  Perhaps due to its emotional primacy, love is one of the most common themes in art.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{emotion}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{emotion}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Alyssa Roberts loves Josh Parsons for ever....</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Overview ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Overview ==</div></td>\n</tr>\n",
+    "from": 46882750
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/24.185.45.84|24.185.45.84]] ([[User talk:24.185.45.84|talk]]) to last version by Nquinnathome1",
+  "timestamp": "2006-05-26T09:47:57Z",
+  "revid": 55226163,
+  "user": "Musical Linguist",
+  "parentid": 55226072,
+  "diff": {
+    "to": 55226163,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{otheruses}}<del class=\"diffchange diffchange-inline\">(I LOVE DANNY!!!!)</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|200px|thumb|right|A [[cartoonish]] version of the [[Heart (symbol)|heart]], a frequent modern symbol of love.]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|200px|thumb|right|A [[cartoonish]] version of the [[Heart (symbol)|heart]], a frequent modern symbol of love.]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' is a condition or phenomenon of emotional primacy, or absolute value. Love generally includes an emotion of intense attraction to either another person, a place, or thing; and may also include the aspect of caring for or finding identification with those objects, including [[self love]].  Love can describe an intense feeling of [[affection]], an [[emotion]] or an emotional state. In ordinary use, it usually refers to interpersonal love,  an experience usually felt by a person for another person. Love is commonly considered impossible to describe. &lt;br&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' is a condition or phenomenon of emotional primacy, or absolute value. Love generally includes an emotion of intense attraction to either another person, a place, or thing; and may also include the aspect of caring for or finding identification with those objects, including [[self love]].  Love can describe an intense feeling of [[affection]], an [[emotion]] or an emotional state. In ordinary use, it usually refers to interpersonal love,  an experience usually felt by a person for another person. Love is commonly considered impossible to describe. &lt;br&gt;</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:55226072:newid:55226163 -->\n",
+    "from": 55226072
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Psychological views */ link",
+  "timestamp": "2004-10-01T19:58:50Z",
+  "revid": 6277538,
+  "user": "Derek Ross",
+  "parentid": 6277502,
+  "diff": {
+    "to": 6277538,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 23:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 23:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Psychological views ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Psychological views ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>In an attempt to explain the commonalities and differences of the many types of love, Robert Sternberg has suggested a view of love involving three elements: ''[[intimacy]]'', ''[[passion]]'' and ''[[commitment]]''.   Different stages and types of love can be explained as different combinations of the three elements.  The combinations are listed in the table.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>In an attempt to explain the commonalities and differences of the many types of love, Robert Sternberg has suggested a view of love involving three elements: ''[[<ins class=\"diffchange diffchange-inline\">emotional intimacy|</ins>intimacy]]'', ''[[passion]]'' and ''[[commitment]]''.   Different stages and types of love can be explained as different combinations of the three elements.  The combinations are listed in the table.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{| border=1 cellpadding=3 cellspacing=0 style=\"float: right; margin-left: 0.5em;\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{| border=1 cellpadding=3 cellspacing=0 style=\"float: right; margin-left: 0.5em;\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|+Combinations of intimacy, passion, and commitment</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|+Combinations of intimacy, passion, and commitment</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:6277502:newid:6277538 -->\n",
+    "from": 6277502
+  },
+  "minor": ""
+}

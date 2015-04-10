@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Overview */",
+  "timestamp": "2006-11-20T18:47:10Z",
+  "revid": 89057094,
+  "anon": "",
+  "user": "165.155.128.133",
+  "parentid": 89056848,
+  "diff": {
+    "to": 89057094,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 6:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 6:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Overview==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Overview==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>love is.......it........SUCKS LIKE HELL!!!!!!!!!!!!!!! you think you have a best friend you don't just like i thought i had a friend her name is...................AMY she and this really hot guy named george are going out and stuff problem is i liked george so much. They both go to schoool at p.s.122.q</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>love is.......it........SUCKS LIKE HELL!!!!!!!!!!!!!!! you think you have a best friend you don't just like i thought i had a friend her name is...................AMY she and this really hot guy named george are going out and stuff problem is i liked george so much. They both go to schoool at p.s.122.q<ins class=\"diffchange diffchange-inline\"> same school as me jenny</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:89056848:newid:89057094 -->\n",
+    "from": 89056848
+  }
+}

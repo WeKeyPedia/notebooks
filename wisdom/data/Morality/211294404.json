@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2008-05-09T17:21:14Z",
+  "revid": 211294404,
+  "anon": "",
+  "user": "68.192.7.123",
+  "parentid": 211294211,
+  "diff": {
+    "to": 211294404,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>MEGAN is<del class=\"diffchange diffchange-inline\"> an</del> extremely <del class=\"diffchange diffchange-inline\">loserish personnn</del> =P</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>MEGAN is extremely <ins class=\"diffchange diffchange-inline\">cool</ins> =P</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>nobody compares so marc</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>should jusr give upppp</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Divine command theory}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Divine command theory}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:211294211:newid:211294404 -->\n",
+    "from": 211294211
+  }
+}

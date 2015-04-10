@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted 1 edit by [[Special:Contributions/70.90.109.244|70.90.109.244]] identified as [[WP:VAND|vandalism]] to last revision by [[User:69.156.3.17|69.156.3.17]]. using [[WP:TW|TW]]",
+  "timestamp": "2007-09-10T12:36:49Z",
+  "revid": 156911928,
+  "user": "Skomorokh",
+  "parentid": 156907655,
+  "diff": {
+    "to": 156911928,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 25:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 25:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Normative ethicists who follow the second approach are often called [[deontological ethics|deontological ethicists]]. [[Immanuel Kant]] set out a large framework for a deontological normative ethical theory.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Normative ethicists who follow the second approach are often called [[deontological ethics|deontological ethicists]]. [[Immanuel Kant]] set out a large framework for a deontological normative ethical theory.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Normative ethicists who follow the third approach are often called [[<del class=\"diffchange diffchange-inline\">Pakatany</del>|consequentialists]] or (specifically in regard to the theory of the greatest good for the greatest number) [[utilitarianism|utilitarian]]s; [[John Stuart Mill]] set out a large framework for a utilitarian normative ethics.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Normative ethicists who follow the third approach are often called [[<ins class=\"diffchange diffchange-inline\">consequentialism</ins>|consequentialists]] or (specifically in regard to the theory of the greatest good for the greatest number) [[utilitarianism|utilitarian]]s; [[John Stuart Mill]] set out a large framework for a utilitarian normative ethics.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Descriptive ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Descriptive ethics==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:156907655:newid:156911928 -->\n",
+    "from": 156907655
+  },
+  "minor": ""
+}

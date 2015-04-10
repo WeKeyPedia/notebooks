@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edit of [[User:202.81.171.56|202.81.171.56]] ([[User_talk:202.81.171.56|talk]]), changed back to last version by [[User:Mhking|Mhking]]",
+  "timestamp": "2006-05-17T16:16:10Z",
+  "revid": 53703279,
+  "user": "Buchanan-Hermit",
+  "parentid": 53694074,
+  "diff": {
+    "to": 53703279,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{otheruses}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|200px|thumb|right|A [[cartoonish]] version of the [[Heart (symbol)|heart]], a frequent modern symbol of love.]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love heart uidaodjsdsew.gif|200px|thumb|right|A [[cartoonish]] version of the [[Heart (symbol)|heart]], a frequent modern symbol of love.]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is an emotion of intense attraction to, care for, or identification with persons, place(s) or thing(s); a desire to be close to, move and construct its object. This can include love for one's self.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Love is an emotion of intense attraction to, care for, or identification with persons, place(s) or thing(s); a desire to be close to, move and construct its object. This can include love for one's self.</div></td>\n</tr>\n",
+    "from": 53694074
+  },
+  "minor": ""
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-01-25T08:42:13Z",
+  "revid": 36618881,
+  "user": "Davidstrauss",
+  "parentid": 36283589,
+  "diff": {
+    "to": 36618881,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:''For the book of the same name, see [[Ethics (book)]]''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:''For the book of the same name, see [[Ethics (book)]]''</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>:''For the component of [[Scientology]], see [[Ethics (Scientology)]]''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' (from Greek ''[[ethos|ethikos]]'') is the branch of [[axiology]] &amp;ndash; one of the four major branches of [[philosophy]], alongside [[metaphysics]],  [[epistemology]], and [[logic]] &amp;ndash; which attempts to understand the nature of [[morality]]; to define that which is [[right]] from that which is [[wrong]].  The [[Western philosophy|Western tradition]] of ethics is sometimes called '''moral philosophy'''.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Ethics''' (from Greek ''[[ethos|ethikos]]'') is the branch of [[axiology]] &amp;ndash; one of the four major branches of [[philosophy]], alongside [[metaphysics]],  [[epistemology]], and [[logic]] &amp;ndash; which attempts to understand the nature of [[morality]]; to define that which is [[right]] from that which is [[wrong]].  The [[Western philosophy|Western tradition]] of ethics is sometimes called '''moral philosophy'''.</div></td>\n</tr>\n",
+    "from": 36283589
+  }
+}

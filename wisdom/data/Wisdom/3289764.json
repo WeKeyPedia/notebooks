@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-04-06T23:41:57Z",
+  "revid": 3289764,
+  "user": "Andycjp",
+  "parentid": 3089740,
+  "diff": {
+    "to": 3289764,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 19:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 19:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>As with all decisions, a wise decision is made from incomplete [[information]].  But in a wise decision the chooser possesses a sense of the way that situations usually turn out and, in its deeper forms, a desire for the outcome to be broadly beneficial.  </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>As with all decisions, a wise decision is made from incomplete [[information]].  But in a wise decision the chooser possesses a sense of the way that situations usually turn out and, in its deeper forms, a desire for the outcome to be broadly beneficial.  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Classically, wisdom is considered to come with age. In some religions, wisdom is considered a gift granted by [[God]].The [[Jewish]] book of [[Proverbs]] in the [[<del class=\"diffchange diffchange-inline\">O.T.</del>]] states `Fear of God is the beginning of Wisdom`.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Classically, wisdom is considered to come with age. In some religions, wisdom is considered a gift granted by [[God]].The [[Jewish]] book of [[Proverbs]] in the [[<ins class=\"diffchange diffchange-inline\">Old Testament</ins>]] states `Fear of God is the beginning of Wisdom`.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A wise person is often called a \"sage.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A wise person is often called a \"sage.\"</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:3089740:newid:3289764 -->\n",
+    "from": 3089740
+  },
+  "minor": ""
+}

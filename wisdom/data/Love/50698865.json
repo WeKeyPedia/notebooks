@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Etymology */",
+  "timestamp": "2006-04-29T05:26:17Z",
+  "revid": 50698865,
+  "anon": "",
+  "user": "68.211.38.7",
+  "parentid": 50698027,
+  "diff": {
+    "to": 50698865,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 23:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 23:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>According to the [[Online Etymology Dictionary]], the following derivations exist: O.E. lufu \"love, affection, friendliness,\" from P.Gmc. *lubo (cf. O.Fris. liaf, Ger. lieb, Goth. liufs \"dear, beloved;\" not found elsewhere as a noun, except O.H.G. luba, Ger. Liebe), from PIE *leubh- \"to care, desire, love\" (cf. L. lubet, later libet \"pleases;\" Skt. lubhyati \"desires;\" O.C.S. l'ubu \"dear, beloved;\" Lith. liaupse \"song of praise\"). Meaning \"a beloved person\" is from c.1225.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>According to the [[Online Etymology Dictionary]], the following derivations exist: O.E. lufu \"love, affection, friendliness,\" from P.Gmc. *lubo (cf. O.Fris. liaf, Ger. lieb, Goth. liufs \"dear, beloved;\" not found elsewhere as a noun, except O.H.G. luba, Ger. Liebe), from PIE *leubh- \"to care, desire, love\" (cf. L. lubet, later libet \"pleases;\" Skt. lubhyati \"desires;\" O.C.S. l'ubu \"dear, beloved;\" Lith. liaupse \"song of praise\"). Meaning \"a beloved person\" is from c.1225.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>ksahdkahd</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Types ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Types ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:50698027:newid:50698865 -->\n",
+    "from": 50698027
+  }
+}

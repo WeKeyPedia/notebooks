@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Postmodern ethics */",
+  "timestamp": "2009-12-23T18:20:56Z",
+  "revid": 333598740,
+  "user": "George Richard Leeming",
+  "parentid": 333099510,
+  "diff": {
+    "to": 333598740,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 83:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 83:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Postmodern ethics===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Postmodern ethics===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Synthesis|date=July 2009}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Synthesis|date=July 2009}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Main|Postmodern ethics}}</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The 20th century saw a remarkable expansion of critical theory and its evolution. The earlier [[Marxism|Marxist Theory]] created a paradigm for understanding the individual, society and their interaction. The [[Polymath|Renaissance Enlightened Man]] had persisted up until the [[Industrial Revolution]] when the romantic vision of noble action began to fade. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The 20th century saw a remarkable expansion of critical theory and its evolution. The earlier [[Marxism|Marxist Theory]] created a paradigm for understanding the individual, society and their interaction. The [[Polymath|Renaissance Enlightened Man]] had persisted up until the [[Industrial Revolution]] when the romantic vision of noble action began to fade. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:333099510:newid:333598740 -->\n",
+    "from": 333099510
+  }
+}

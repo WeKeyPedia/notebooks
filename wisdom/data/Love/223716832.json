@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Persian */ formatted",
+  "timestamp": "2008-07-05T12:27:11Z",
+  "revid": 223716832,
+  "user": "Redheylin",
+  "parentid": 223716781,
+  "diff": {
+    "to": 223716832,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 67:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 67:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>::::''The other limbs cannot remain at rest.''   </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>::::''The other limbs cannot remain at rest.''   </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>::::''If you have no sympathy for the troubles of others''   </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>::::''If you have no sympathy for the troubles of others''   </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>::::<del class=\"diffchange diffchange-inline\">You</del> are not worthy to be called by the name of \"man\".</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>::::<ins class=\"diffchange diffchange-inline\">Y''ou</ins> are not worthy to be called by the name of \"man\".<ins class=\"diffchange diffchange-inline\">''</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Chinese and other Sinic cultures===   </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Chinese and other Sinic cultures===   </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:223716781:newid:223716832 -->\n",
+    "from": 223716781
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-01-02T08:03:16Z",
+  "revid": 97903752,
+  "anon": "",
+  "user": "210.84.9.161",
+  "parentid": 97898485,
+  "diff": {
+    "to": 97903752,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 12:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 12:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love-zh.png|215px|thumb|left|The traditional [[Chinese character]] for love (愛) consists of a [[heart]] (middle) inside of \"accept,\" \"feel\" or \"perceive,\" which shows a graceful emotion.]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Love-zh.png|215px|thumb|left|The traditional [[Chinese character]] for love (愛) consists of a [[heart]] (middle) inside of \"accept,\" \"feel\" or \"perceive,\" which shows a graceful emotion.]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In ordinary use, ''love'' usually refers to interpersonal love, an experience felt by a person for another person. Love often involves caring for or identifying with a person or thing, including oneself (cf. [[narcissism]]).</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In ordinary use, ''love'' usually refers to interpersonal love, an experience felt by a person for another person. Love often involves caring for or identifying with a person or thing, including oneself (cf. [[narcissism]]).</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:97898485:newid:97903752 -->\n",
+    "from": 97898485
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Specific questions */",
+  "timestamp": "2007-01-09T19:53:19Z",
+  "revid": 99604111,
+  "anon": "",
+  "user": "147.252.100.129",
+  "parentid": 99603986,
+  "diff": {
+    "to": 99604111,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 46:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 46:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Specific questions===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Specific questions===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">The ethical problems attacked by applied ethicists (of whatever sort) often bear </del>directly on public policy. For example, the following would be questions of applied ethics: \"Is getting an abortion ever moral?\" \"Is [[euthanasia]] ever moral?\" \"What are the ethical underpinnings of [[affirmative action]] policies?\" \"What are [[human rights]], and how do we determine them?\" and \"Do 'other animals' have rights as well?\"  </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>directly on public policy. For example, the following would be questions of applied ethics: \"Is getting an abortion ever moral?\" \"Is [[euthanasia]] ever moral?\" \"What are the ethical underpinnings of [[affirmative action]] policies?\" \"What are [[human rights]], and how do we determine them?\" and \"Do 'other animals' have rights as well?\"  </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A more specific question could be: \"If someone else can make better out of his/her life than I can, is it then moral to sacrifice myself for them if needed?\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>A more specific question could be: \"If someone else can make better out of his/her life than I can, is it then moral to sacrifice myself for them if needed?\"</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:99603986:newid:99604111 -->\n",
+    "from": 99603986
+  }
+}

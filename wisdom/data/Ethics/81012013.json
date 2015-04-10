@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Specific questions */",
+  "timestamp": "2006-10-12T14:11:29Z",
+  "revid": 81012013,
+  "anon": "",
+  "user": "70.41.69.50",
+  "parentid": 81011742,
+  "diff": {
+    "to": 81012013,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 85:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 85:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Without these questions there is no clear fulcrum on which to balance [[law]], [[politics]], and the practice of [[arbitration]]—in fact, no common assumptions of all participants—so the ability to formulate the questions are prior to rights balancing.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Without these questions there is no clear fulcrum on which to balance [[law]], [[politics]], and the practice of [[arbitration]]—in fact, no common assumptions of all participants—so the ability to formulate the questions are prior to rights balancing.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>But not all questions studied in applied ethics concern public policy.  For example, making ethical judgments regarding questions such as, \"Is [[lying]] always wrong?\" and, \"If not, when is it permissible?\" is prior to any etiquette</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>But not all questions studied in applied ethics concern public policy.  For example, making ethical judgments regarding questions such as, \"Is [[lying]] always wrong?\" and, \"If not, when is it permissible?\" is prior to any etiquette<ins class=\"diffchange diffchange-inline\">.</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ethics in politics and economics===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ethics in politics and economics===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:81011742:newid:81012013 -->\n",
+    "from": 81011742
+  }
+}

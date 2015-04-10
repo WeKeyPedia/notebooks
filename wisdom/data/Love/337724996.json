@@ -1,0 +1,12 @@
+﻿{
+  "comment": "add close relationships infobox",
+  "timestamp": "2010-01-14T02:45:57Z",
+  "revid": 337724996,
+  "user": "OnBeyondZebrax",
+  "parentid": 336781677,
+  "diff": {
+    "to": 337724996,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{About}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{About}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Close Relationships}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{pp-semi-indef|small=yes|expiry=December 21, 2008}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{pp-semi-indef|small=yes|expiry=December 21, 2008}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{| style=\"float:right; margin: 0 0 1em 1em; border: 1px solid #aaaaaa; clear:right\" cellpadding=0 cellspacing=0</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{| style=\"float:right; margin: 0 0 1em 1em; border: 1px solid #aaaaaa; clear:right\" cellpadding=0 cellspacing=0</div></td>\n</tr>\n",
+    "from": 336781677
+  }
+}

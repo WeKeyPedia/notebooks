@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Personal Code of Ethics */",
+  "timestamp": "2014-02-15T20:01:21Z",
+  "revid": 595628488,
+  "user": "Itamarkalimi",
+  "parentid": 595628289,
+  "diff": {
+    "to": 595628488,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 52:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 52:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Choose [[right]] and not [[wrong]] and take responsibility for your decision.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Choose [[right]] and not [[wrong]] and take responsibility for your decision.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/br&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/br&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Stand behind your agreements.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Stand behind your agreements.<ins class=\"diffchange diffchange-inline\"> (see also [[contract]])</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/br&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;/br&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Have a [[Work Ethics]] and [[Business Ethics]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Have a [[Work Ethics]] and [[Business Ethics]].</div></td>\n</tr>\n",
+    "from": 595628289
+  }
+}

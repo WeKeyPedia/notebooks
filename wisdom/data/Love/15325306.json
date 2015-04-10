@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Buddhist */ spelling",
+  "timestamp": "2005-06-14T23:15:25Z",
+  "revid": 15325306,
+  "user": "Eritain",
+  "parentid": 15200874,
+  "diff": {
+    "to": 15325306,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 156:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 156:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[Buddhism]], [[K&amp;#257;ma]] is sensous, sexual love. It is an obstacle on the path to [[enlightenment]], since it is selfish.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[Buddhism]], [[K&amp;#257;ma]] is sensous, sexual love. It is an obstacle on the path to [[enlightenment]], since it is selfish.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Karu&amp;#7751;&amp;#257;]] is compassion and mercy which reduces the suffering of others. It is <del class=\"diffchange diffchange-inline\">complimentary</del> to wisdom, and is necessary for enlightenment.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Karu&amp;#7751;&amp;#257;]] is compassion and mercy which reduces the suffering of others. It is <ins class=\"diffchange diffchange-inline\">complementary</ins> to wisdom, and is necessary for enlightenment.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Adve&amp;#7779;a]] and [[metta|maitr&amp;#299;]] are benevolent love. This love is unconditional and requires considerable self-acceptance. This is quite different from the ordinary love, which is usually about attachment and sex, which rarely occur without self-interest. Instead, in Buddhism it refers to detachment and unselfish interest in others' welfare.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Adve&amp;#7779;a]] and [[metta|maitr&amp;#299;]] are benevolent love. This love is unconditional and requires considerable self-acceptance. This is quite different from the ordinary love, which is usually about attachment and sex, which rarely occur without self-interest. Instead, in Buddhism it refers to detachment and unselfish interest in others' welfare.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:15200874:newid:15325306 -->\n",
+    "from": 15200874
+  },
+  "minor": ""
+}

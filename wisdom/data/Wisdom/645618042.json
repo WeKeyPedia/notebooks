@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contribs/Irene.emerita|Irene.emerita]] ([[User talk:Irene.emerita|talk]]) to last version by Vsmith",
+  "timestamp": "2015-02-04T16:07:36Z",
+  "revid": 645618042,
+  "user": "Editor2020",
+  "parentid": 645582325,
+  "diff": {
+    "to": 645618042,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 175:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 175:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.wisdomation.com Share Your Wisdom Here]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.wisdomation.com Share Your Wisdom Here]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.wisdomresearch.org The Defining Wisdom Project of the University of Chicago]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.wisdomresearch.org The Defining Wisdom Project of the University of Chicago]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [https://en.wikipedia.org/wiki/User:Irene.emerita Wisdom Ladder for the Community]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Use dmy dates|date=June 2011}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Use dmy dates|date=June 2011}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:645582325:newid:645618042 -->\n",
+    "from": 645582325
+  },
+  "minor": ""
+}

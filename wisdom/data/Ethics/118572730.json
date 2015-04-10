@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-03-28T18:24:06Z",
+  "revid": 118572730,
+  "anon": "",
+  "user": "68.228.111.2",
+  "parentid": 118356451,
+  "diff": {
+    "to": 118572730,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 181:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 181:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-virtue/ Virtue Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [http://plato.stanford.edu/entries/ethics-virtue/ Virtue Ethics]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.observacionesfilosoficas.net/etica.htm Ética y Filosofía Política | In Revista Observaciones Filosóficas | In spanish]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [http://www.observacionesfilosoficas.net/etica.htm Ética y Filosofía Política | In Revista Observaciones Filosóficas | In spanish]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://www.pinkyshow.org/archives/episodes/060422/ ''Students Against Rice Eaters''] — an online video about student ethics.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [http://www.pinkyshow.org/archives/episodes/060422/ ''Students Against Rice Eaters''] — an online video about student ethics.<ins class=\"diffchange diffchange-inline\"> holton jones is realy gay</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:118356451:newid:118572730 -->\n",
+    "from": 118356451
+  }
+}

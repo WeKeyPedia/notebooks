@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Cultural views */",
+  "timestamp": "2007-07-24T22:42:09Z",
+  "revid": 146862905,
+  "user": "Segregold",
+  "parentid": 146717382,
+  "diff": {
+    "to": 146862905,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 96:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 96:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Cultural views==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Love (cultural views)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{main|Love (cultural views)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Image:Love-zh.svg|180px|thumb|The traditional [[Chinese character]] for love (愛) consists of a [[heart]] (心, in the middle) inside of \"accept\", \"feel\", or \"perceive\", which shows a graceful emotion.]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Although there exist numerous cross-cultural unified similarities as to the nature and definition of love, as in there being a thread of commitment, tenderness, and passion common to all human existence, there are differences. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Although there exist numerous cross-cultural unified similarities as to the nature and definition of love, as in there being a thread of commitment, tenderness, and passion common to all human existence, there are differences. </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:146717382:newid:146862905 -->\n",
+    "from": 146717382
+  }
+}

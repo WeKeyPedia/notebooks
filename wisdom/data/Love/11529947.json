@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Triangular theory of ;ove */",
+  "timestamp": "2005-03-24T07:30:34Z",
+  "revid": 11529947,
+  "anon": "",
+  "user": "203.152.25.115",
+  "parentid": 11462070,
+  "diff": {
+    "to": 11529947,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 52:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 52:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The traditional psychological view sees love as being a combination of [[companionate love]] and [[passionate love]]. [[Passionate love]] is intense longing, and is often accompanied by [[physiological arousal]] (shortness of breath, rapid heart rate). [[Companionate love]] is affection and a feeling of intimacy not accompanied by physiological arousal.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The traditional psychological view sees love as being a combination of [[companionate love]] and [[passionate love]]. [[Passionate love]] is intense longing, and is often accompanied by [[physiological arousal]] (shortness of breath, rapid heart rate). [[Companionate love]] is affection and a feeling of intimacy not accompanied by physiological arousal.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>=== Triangular theory of <del class=\"diffchange diffchange-inline\">;ove</del> ===</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>=== Triangular theory of <ins class=\"diffchange diffchange-inline\">love</ins> ===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In the [[triangular theory of love]], love is characterized by three elements: [[intimacy]], passion and [[commitment]]. Each of these elements can be present in a relationship, producing the following combinations:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In the [[triangular theory of love]], love is characterized by three elements: [[intimacy]], passion and [[commitment]]. Each of these elements can be present in a relationship, producing the following combinations:</div></td>\n</tr>\n",
+    "from": 11462070
+  }
+}

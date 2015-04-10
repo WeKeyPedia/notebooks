@@ -1,0 +1,12 @@
+﻿{
+  "comment": "2otheruses",
+  "timestamp": "2007-08-13T23:49:34Z",
+  "revid": 151059625,
+  "user": "16@r",
+  "parentid": 150938649,
+  "diff": {
+    "to": 151059625,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Unreferenced|date=February 2007}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Unreferenced|date=February 2007}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{<del class=\"diffchange diffchange-inline\">For</del>|the 1986 American crime film|Wisdom (film)}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{<ins class=\"diffchange diffchange-inline\">two other uses|</ins>|the 1986 American crime film|Wisdom (film<ins class=\"diffchange diffchange-inline\">)|people named Wisdom|Wisdom (surname</ins>)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{For|people named Wisdom|Wisdom (surname)}}</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Efez Celsus Library 3 RB.jpg|thumb|200px|[[Personification]] of wisdom (in [[Greek Language|Greek]], \"''Σοφια''\" or \"''Sophia''\") at the [[Celsus Library]] in [[Ephesos]], [[Turkey]].]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:Efez Celsus Library 3 RB.jpg|thumb|200px|[[Personification]] of wisdom (in [[Greek Language|Greek]], \"''Σοφια''\" or \"''Sophia''\") at the [[Celsus Library]] in [[Ephesos]], [[Turkey]].]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:AllegoryWisdomStrength.PNG||thumb|200px|right|Detail from the ''Allegory of Wisdom and Strength'' by [[Paolo Veronese]] (c. 1580).]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Image:AllegoryWisdomStrength.PNG||thumb|200px|right|Detail from the ''Allegory of Wisdom and Strength'' by [[Paolo Veronese]] (c. 1580).]]</div></td>\n</tr>\n",
+    "from": 150938649
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-10-22T17:32:20Z",
+  "revid": 83033279,
+  "anon": "",
+  "user": "65.189.203.107",
+  "parentid": 83027898,
+  "diff": {
+    "to": 83033279,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 17:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 17:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Though love is considered a positive and desirable aspect of existence, love can cause a great deal of emotional harm. Consider [[Romeo and Juliet]], [[Othello]], [[Great Expectations]], and other classical and popular works that enumerate how love can lead to tragedy and emotional pain. In human interactions, love becomes a peril when love is not bilateral, known as [[Unrequited love]]. A futher peril for individuals that love, or can love others, is that love is not enduring and that many people have psychological [[defense mechanisms]] inhibit their ability to accept or reciprocate love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Though love is considered a positive and desirable aspect of existence, love can cause a great deal of emotional harm. Consider [[Romeo and Juliet]], [[Othello]], [[Great Expectations]], and other classical and popular works that enumerate how love can lead to tragedy and emotional pain. In human interactions, love becomes a peril when love is not bilateral, known as [[Unrequited love]]. A futher peril for individuals that love, or can love others, is that love is not enduring and that many people have psychological [[defense mechanisms]] inhibit their ability to accept or reciprocate love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">Love is also commonly taken to mean fixing one's partner's pukka pad.</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Types==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Types==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:83027898:newid:83033279 -->\n",
+    "from": 83027898
+  }
+}

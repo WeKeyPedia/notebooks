@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2006-09-26T17:38:37Z",
+  "revid": 77939044,
+  "anon": "",
+  "user": "84.69.82.66",
+  "parentid": 77938892,
+  "diff": {
+    "to": 77939044,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>.x.<del class=\"diffchange diffchange-inline\"> </del>I Love Ajitpal Dhaliwal :) .x.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div><ins class=\"diffchange diffchange-inline\">&lt;FONT face=\"Verdana, Geneva, Arial, Sans-serif\" color=#0000ff size=5&gt;&lt;STRONG&gt;</ins>.x.<ins class=\"diffchange diffchange-inline\">&amp;nbsp;</ins>I Love Ajitpal Dhaliwal<ins class=\"diffchange diffchange-inline\">...</ins> :) .x.<ins class=\"diffchange diffchange-inline\">&lt;/STRONG&gt;&lt;/FONT&gt;</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>&lt;FONT face=\"Verdana, Geneva, Arial, Sans-serif\" color=#ff00ff size=5&gt;&lt;STRONG&gt;.x.&amp;nbsp;I Love Ajitpal Dhaliwal... :) .x.&lt;/STRONG&gt;&lt;/FONT&gt;</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:77938892:newid:77939044 -->\n",
+    "from": 77938892
+  }
+}

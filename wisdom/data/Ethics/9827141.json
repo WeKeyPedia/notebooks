@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Major doctrines of ethics */",
+  "timestamp": "2005-01-31T07:39:18Z",
+  "revid": 9827141,
+  "user": "Joshdick",
+  "parentid": 9819283,
+  "diff": {
+    "to": 9827141,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 192:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 192:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*The Utilitarian Kantian Principle (Cornman, Lehrer)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*The Utilitarian Kantian Principle (Cornman, Lehrer)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Universal prescriptivism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Universal prescriptivism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*W.D.Ross's Prima Facie ethics</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*<ins class=\"diffchange diffchange-inline\">[[</ins>W.<ins class=\"diffchange diffchange-inline\"> </ins>D.<ins class=\"diffchange diffchange-inline\"> </ins>Ross<ins class=\"diffchange diffchange-inline\">]]</ins>'s <ins class=\"diffchange diffchange-inline\">[[</ins>Prima Facie ethics<ins class=\"diffchange diffchange-inline\">]]</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Related topics in philosophy==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Related topics in philosophy==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:9819283:newid:9827141 -->\n",
+    "from": 9819283
+  }
+}

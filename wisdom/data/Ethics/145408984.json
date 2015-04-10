@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Further reading */",
+  "timestamp": "2007-07-18T09:58:41Z",
+  "revid": 145408984,
+  "anon": "",
+  "user": "83.181.206.205",
+  "parentid": 145140647,
+  "diff": {
+    "to": 145408984,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 121:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 121:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Further reading==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Further reading==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* Luciano Luberti - ''To be a good man as me'', Gunther Edition - Rome 2002</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* The [http://www.ucl.ac.uk/philosophy/LPSG/ London Philosophy Study Guide] offers many suggestions on what to read, depending on the student's familiarity with the subject:  [http://www.ucl.ac.uk/philosophy/LPSG/Ethics.htm Ethics]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* The [http://www.ucl.ac.uk/philosophy/LPSG/ London Philosophy Study Guide] offers many suggestions on what to read, depending on the student's familiarity with the subject:  [http://www.ucl.ac.uk/philosophy/LPSG/Ethics.htm Ethics]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* {{cite web| authorlink = Stephen Perle | last = Perle| first = Stephen| url = http://www.chiroweb.com/archives/22/06/16.html | title = Morality and Ethics: An Introduction | date = [[March 11]] [[2004]] | accessdate = 2007-02-13}}, Butchvarov, Panayot. Skepticism in Ethics (1989).</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* {{cite web| authorlink = Stephen Perle | last = Perle| first = Stephen| url = http://www.chiroweb.com/archives/22/06/16.html | title = Morality and Ethics: An Introduction | date = [[March 11]] [[2004]] | accessdate = 2007-02-13}}, Butchvarov, Panayot. Skepticism in Ethics (1989).</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:145140647:newid:145408984 -->\n",
+    "from": 145140647
+  }
+}

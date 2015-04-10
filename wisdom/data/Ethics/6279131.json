@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Major doctrines of ethics */",
+  "timestamp": "2004-09-27T23:49:24Z",
+  "revid": 6279131,
+  "user": "Icut4you",
+  "parentid": 6199367,
+  "diff": {
+    "to": 6279131,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 184:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 184:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Immanuel Kant]]'s [[Deontology|Deontological ethics]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Immanuel Kant]]'s [[Deontology|Deontological ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*The Utilitarian Kantian Principle (Cornman, Lehrer)</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*The Utilitarian Kantian Principle (Cornman, Lehrer)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>*[[Universal <del class=\"diffchange diffchange-inline\">Prescriptivism</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>*[[Universal <ins class=\"diffchange diffchange-inline\">prescriptivism</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Related topics in philosophy==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Related topics in philosophy==</div></td>\n</tr>\n",
+    "from": 6199367
+  },
+  "minor": ""
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2007-06-05T17:30:46Z",
+  "revid": 136100501,
+  "anon": "",
+  "user": "71.35.238.160",
+  "parentid": 135646091,
+  "diff": {
+    "to": 136100501,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 241:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 241:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מידות]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מידות]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:伦理学]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div> alec tuttle is cool</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:135646091:newid:136100501 -->\n",
+    "from": 135646091
+  }
+}

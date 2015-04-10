@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* See also */ wikilinked in article",
+  "timestamp": "2014-03-01T04:16:37Z",
+  "revid": 597620834,
+  "user": "Editor2020",
+  "parentid": 597620739,
+  "diff": {
+    "to": 597620834,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 141:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 141:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Perspicacity]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Perspicacity]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Philosophy]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Philosophy]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Prudence]]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* ''[[Sapere aude]]''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* ''[[Sapere aude]]''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Sapiens (disambiguation)]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Sapiens (disambiguation)]]</div></td>\n</tr>\n",
+    "from": 597620739
+  }
+}

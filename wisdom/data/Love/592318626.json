@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Definitions */Fix [[Help:CS1_errors#deprecated_params|CS1 deprecated date parameter errors]]",
+  "timestamp": "2014-01-25T12:51:25Z",
+  "revid": 592318626,
+  "user": "Monkbot",
+  "parentid": 590876430,
+  "diff": {
+    "to": 592318626,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 21:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 21:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|volume=86</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|volume=86</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|issue=1</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|issue=1</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>|<del class=\"diffchange diffchange-inline\">month</del>=March</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>|<ins class=\"diffchange diffchange-inline\">date</ins>=March<ins class=\"diffchange diffchange-inline\"> 1984</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>|year=1984</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|pages=65–79</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|pages=65–79</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|doi=10.1525/aa.1984.86.1.02a00050</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|doi=10.1525/aa.1984.86.1.02a00050</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:590876430:newid:592318626 -->\n",
+    "from": 590876430
+  },
+  "minor": ""
+}

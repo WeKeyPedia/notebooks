@@ -1,0 +1,13 @@
+﻿{
+  "comment": "r2.7.2) (Robot: Adding [[km:ចរិយាមារយាទ]]",
+  "timestamp": "2012-07-31T14:55:22Z",
+  "revid": 505107427,
+  "user": "TjBot",
+  "parentid": 504919756,
+  "diff": {
+    "to": 505107427,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 297:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 297:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pnb:ایتھکس]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pnb:ایتھکس]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ps:اخلاق]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[ps:اخلاق]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[km:ចរិយាមារយាទ]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[nds:Ethik]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[nds:Ethik]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Etyka]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Etyka]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:504919756:newid:505107427 -->\n",
+    "from": 504919756
+  },
+  "minor": ""
+}

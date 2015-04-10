@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */  mask namespace on Broken heart",
+  "timestamp": "2006-08-10T05:47:44Z",
+  "revid": 68765610,
+  "user": "Booyabazooka",
+  "parentid": 68738367,
+  "diff": {
+    "to": 68765610,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 68:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 68:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Aspects of love</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Aspects of love</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [[wikt:Admiration|Admiration]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [[wikt:Admiration|Admiration]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>**[[wikt:Broken Heart]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>**<ins class=\"diffchange diffchange-inline\"> </ins>[[wikt:<ins class=\"diffchange diffchange-inline\">Broken Heart|</ins>Broken Heart]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [[wikt:Care|Care]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** [[wikt:Care|Care]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** Desire to [[Sexual reproduction|procreate]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>** Desire to [[Sexual reproduction|procreate]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:68738367:newid:68765610 -->\n",
+    "from": 68738367
+  },
+  "minor": ""
+}

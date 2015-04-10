@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Bioethics */",
+  "timestamp": "2012-08-30T07:35:49Z",
+  "revid": 509894718,
+  "anon": "",
+  "user": "178.94.1.60",
+  "parentid": 509191504,
+  "diff": {
+    "to": 509894718,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 127:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 127:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Bioethics====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Bioethics====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Bioethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Bioethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Bioethics is the  study of controversial ethics brought about by advances in [[biology]] and [[medicine]].  Bioethicists are concerned with the ethical questions that arise in the relationships among [[life sciences]], [[biotechnology]], [[medicine]], [[politics]], [[law]], and [[philosophy]]. It also includes the study of the more commonplace questions of values ([[primary care ethics|\"the ethics of the ordinary\"]]) which arise in primary care and other branches of medicine.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Bioethics is the  study of controversial ethics brought about by advances in [[biology]] and [[medicine]].  Bioethicists are concerned with the ethical questions that arise in the relationships among [[life sciences]], [[biotechnology]], [[medicine]], [[politics]], [[law]], and [[philosophy]]. It also includes the study of the more commonplace questions of values ([[primary care ethics|\"the ethics of the ordinary\"]]) which arise in primary care and other branches of medicine<ins class=\"diffchange diffchange-inline\">. This branch of ethics includes also [[vegetarianism]], [[nonviolence]] and [[ahimsa]] issues</ins>.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Business Ethics====</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>====Business Ethics====</div></td>\n</tr>\n",
+    "from": 509191504
+  }
+}

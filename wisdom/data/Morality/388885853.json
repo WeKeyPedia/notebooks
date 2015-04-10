@@ -1,0 +1,13 @@
+﻿{
+  "comment": "[[Help:Reverting|Reverted]] edits by [[Special:Contributions/141.228.106.148|141.228.106.148]] ([[User talk:141.228.106.148|talk]]) to last version by Crusio",
+  "timestamp": "2010-10-05T13:09:20Z",
+  "revid": 388885853,
+  "user": "Ohnoitsjamie",
+  "parentid": 388880575,
+  "diff": {
+    "to": 388885853,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 124:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 124:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Another related concept is the moral core which is assumed to be innate in each individual, to those who accept that differences between individuals are more important than posited Creators or their rules. This, in some religious systems and beliefs (e.g. [[Taoism]] and [[Gnosticism]]), is assumed to be the basis of all [[aesthetics]] and thus moral choice. Moral codes as such are therefore seen as coercive—part of human sex [[politics]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Another related concept is the moral core which is assumed to be innate in each individual, to those who accept that differences between individuals are more important than posited Creators or their rules. This, in some religious systems and beliefs (e.g. [[Taoism]] and [[Gnosticism]]), is assumed to be the basis of all [[aesthetics]] and thus moral choice. Moral codes as such are therefore seen as coercive—part of human sex [[politics]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>==Moralled==</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>to have morals for all except julie</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:388880575:newid:388885853 -->\n",
+    "from": 388880575
+  },
+  "minor": ""
+}

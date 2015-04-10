@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted 1 edit by [[Special:Contributions/222.127.154.11|222.127.154.11]] identified as test/vandalism using [[WP:STiki|STiki]]",
+  "timestamp": "2014-06-17T00:54:16Z",
+  "revid": 613216315,
+  "user": "Flyer22",
+  "parentid": 613214222,
+  "diff": {
+    "to": 613216315,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Definition==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Definition==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>A basic definition of wisdom is the judicious application of [[knowledge]].&lt;ref&gt;\"Wisdom is the right use of knowledge.\" – [[Charles Haddon Spurgeon]] (1834–1892)&lt;/ref&gt; The opposite of wisdom is [[Foolishness|folly]]. Synonyms include [[prudence]], [[wikt:sagacity|sagacity]], [[discernment]], or insight<del class=\"diffchange diffchange-inline\">.love love love</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>A basic definition of wisdom is the judicious application of [[knowledge]].&lt;ref&gt;\"Wisdom is the right use of knowledge.\" – [[Charles Haddon Spurgeon]] (1834–1892)&lt;/ref&gt; The opposite of wisdom is [[Foolishness|folly]]. Synonyms include [[prudence]], [[wikt:sagacity|sagacity]], [[discernment]], or insight.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Philosophical perspectives==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Philosophical perspectives==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:613214222:newid:613216315 -->\n",
+    "from": 613214222
+  },
+  "minor": ""
+}

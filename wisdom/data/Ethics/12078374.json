@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Ethics by cases */",
+  "timestamp": "2005-04-09T13:49:05Z",
+  "revid": 12078374,
+  "user": "RK",
+  "parentid": 12077973,
+  "diff": {
+    "to": 12078374,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 93:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 93:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ethics by cases===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ethics by cases===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>A common approach in applied ethics to deal with individual issues on a case-by-case basis.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>A common approach in applied ethics<ins class=\"diffchange diffchange-inline\"> is</ins> to deal with individual issues on a case-by-case basis.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''[[Casuistry]]'' is one such application of [[case-based reasoning]] to applied ethics.  Almost all American states have tried to discourage dishonest practices by their public employees and elected officials by establishing an Ethics Commission for their state.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''[[Casuistry]]'' is one such application of [[case-based reasoning]] to applied ethics.  Almost all American states have tried to discourage dishonest practices by their public employees and elected officials by establishing an Ethics Commission for their state.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:12077973:newid:12078374 -->\n",
+    "from": 12077973
+  },
+  "minor": ""
+}

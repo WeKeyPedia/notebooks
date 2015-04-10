@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/70.249.87.142|70.249.87.142]] to last revision by ClueBot ([[WP:HG|HG]])",
+  "timestamp": "2010-03-08T23:31:12Z",
+  "revid": 348631183,
+  "user": "J.delanoy",
+  "parentid": 348631095,
+  "diff": {
+    "to": 348631183,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 218:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 218:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מוסר]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[yi:מוסר]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:道德]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[zh:道德]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>this is bull shit</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:348631095:newid:348631183 -->\n",
+    "from": 348631095
+  },
+  "minor": ""
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Evolutionary ethics */ link",
+  "timestamp": "2008-10-19T02:03:15Z",
+  "revid": 246204970,
+  "user": "Shambalala",
+  "parentid": 246204540,
+  "diff": {
+    "to": 246204970,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 99:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 99:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Evolutionary ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Evolutionary ethics==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{see also|Evolutionary ethics|Evolution of morality}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{see also|Evolutionary ethics|Evolution of morality}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Evolutionary ethics concerns approaches to ethics (morality) based on the role of evolution in shaping human psychology and behavior. Such approaches may be based in scientific fields such as evolutionary psychology or sociobiology, with a focus on understanding and explaining observed ethical preferences and choices.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Evolutionary ethics concerns approaches to ethics (morality) based on the role of evolution in shaping human psychology and behavior. Such approaches may be based in scientific fields such as <ins class=\"diffchange diffchange-inline\">[[</ins>evolutionary psychology<ins class=\"diffchange diffchange-inline\">]]</ins> or <ins class=\"diffchange diffchange-inline\">[[</ins>sociobiology<ins class=\"diffchange diffchange-inline\">]]</ins>, with a focus on understanding and explaining observed ethical preferences and choices.<ins class=\"diffchange diffchange-inline\">&lt;ref&gt;[http://www.iep.utm.edu/e/evol-eth.htm Evolutionary ethics]&lt;/ref&gt;</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:246204540:newid:246204970 -->\n",
+    "from": 246204540
+  }
+}

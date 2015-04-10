@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-01-25T05:03:05Z",
+  "revid": 9679602,
+  "user": "Exquisitespring",
+  "parentid": 9634122,
+  "diff": {
+    "to": 9679602,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 2:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Emotion}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Image:<del class=\"diffchange diffchange-inline\">She</del> <del class=\"diffchange diffchange-inline\">loves me... she loves me not...</del>.jpg|200px|thumb|<del class=\"diffchange diffchange-inline\">She</del> <del class=\"diffchange diffchange-inline\">loves me... She loves me not...</del>]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Image: <ins class=\"diffchange diffchange-inline\">Arbor_Kiss_Crop</ins>.jpg|200px|thumb|<ins class=\"diffchange diffchange-inline\">True</ins> <ins class=\"diffchange diffchange-inline\">Love</ins>]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' has many meanings in [[English language|English]]. It can mean an intense feeling of [[affection]], an [[emotion]] or emotional state. In ordinary use, it usually refers to interpersonal love.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' has many meanings in [[English language|English]]. It can mean an intense feeling of [[affection]], an [[emotion]] or emotional state. In ordinary use, it usually refers to interpersonal love.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:9634122:newid:9679602 -->\n",
+    "from": 9634122
+  },
+  "minor": ""
+}

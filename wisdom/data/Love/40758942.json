@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Mythological */",
+  "timestamp": "2006-02-22T21:03:22Z",
+  "revid": 40758942,
+  "user": "Xinyu",
+  "parentid": 40655785,
+  "diff": {
+    "to": 40758942,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 246:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 246:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Venus (mythology)|Venus]] &amp;mdash; goddess of beauty and passionate love in Roman mythology</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Venus (mythology)|Venus]] &amp;mdash; goddess of beauty and passionate love in Roman mythology</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Xochipilli]] &amp;mdash; god in [[Aztec mythology]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Xochipilli]] &amp;mdash; god in [[Aztec mythology]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Antheia]] &amp;mdash; goddess in [[Crete mythology]] of love, flowers, gardens, and marshes</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Theological===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Theological===</div></td>\n</tr>\n",
+    "from": 40655785
+  }
+}

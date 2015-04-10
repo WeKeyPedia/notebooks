@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* See also */ History of ethics added",
+  "timestamp": "2011-03-18T01:15:53Z",
+  "revid": 419393117,
+  "user": "Jimmaths",
+  "parentid": 418848913,
+  "diff": {
+    "to": 419393117,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 163:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 163:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Fallibilism]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Fallibilism]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Foucault–Habermas debate]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Foucault–Habermas debate]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[History of ethics]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Index of ethics articles]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Index of ethics articles]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Interpretive science]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[Interpretive science]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:418848913:newid:419393117 -->\n",
+    "from": 418848913
+  }
+}

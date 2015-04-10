@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Definition */ wikilink",
+  "timestamp": "2014-03-01T04:15:33Z",
+  "revid": 597620739,
+  "user": "Editor2020",
+  "parentid": 597620525,
+  "diff": {
+    "to": 597620739,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Definition==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Definition==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>A basic definition of wisdom is the judicious application of [[knowledge]].&lt;ref&gt;\"Wisdom is the right use of knowledge.\" – [[Charles Haddon Spurgeon]] (1834–1892)&lt;/ref&gt; The opposite of wisdom is [[Foolishness|folly]]. Synonyms include [[prudence]], [[sagacity]], [[discernment]], or insight.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>A basic definition of wisdom is the judicious application of [[knowledge]].&lt;ref&gt;\"Wisdom is the right use of knowledge.\" – [[Charles Haddon Spurgeon]] (1834–1892)&lt;/ref&gt; The opposite of wisdom is [[Foolishness|folly]]. Synonyms include [[prudence]], [[<ins class=\"diffchange diffchange-inline\">wikt:sagacity|</ins>sagacity]], [[discernment]], or insight.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Philosophical perspectives==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Philosophical perspectives==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:597620525:newid:597620739 -->\n",
+    "from": 597620525
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/24.167.61.58|24.167.61.58]] ([[User talk:24.167.61.58|talk]]): [[WP:SANDBOX|editing tests]] ([[WP:HG|HG]])",
+  "timestamp": "2014-09-09T23:58:22Z",
+  "revid": 624874074,
+  "user": "Frosty",
+  "parentid": 624873995,
+  "diff": {
+    "to": 624874074,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{for|the 2009 novella by Stephen King|Morality (novella)}}<del class=\"diffchange diffchange-inline\"> fjijfmv</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{for|the 2009 novella by Stephen King|Morality (novella)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect2|Acceptable|unacceptable|the concept in psychology|Acceptance}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect2|Acceptable|unacceptable|the concept in psychology|Acceptance}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect|Inappropriate|content that has been deemed inappropriate for Wikipedia|WP:INAPPROPRIATE|the rating of activities and media according to age groups|age-appropriate|other uses|Appropriation (disambiguation)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{redirect|Inappropriate|content that has been deemed inappropriate for Wikipedia|WP:INAPPROPRIATE|the rating of activities and media according to age groups|age-appropriate|other uses|Appropriation (disambiguation)}}</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:624873995:newid:624874074 -->\n",
+    "from": 624873995
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/72.241.113.97|72.241.113.97]] ([[User talk:72.241.113.97|talk]]): addition of [[WP:CITE|unsourced content]] ([[WP:HG|HG]])",
+  "timestamp": "2014-12-09T22:10:00Z",
+  "revid": 637383818,
+  "user": "IronGargoyle",
+  "parentid": 637383679,
+  "diff": {
+    "to": 637383818,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 5:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Definition==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Definition==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>A basic definition of wisdom is the judicious application of [[knowledge]].&lt;ref&gt;\"Wisdom is the right use of knowledge.\" – [[Charles Haddon Spurgeon]] (1834–1892)&lt;/ref&gt; The opposite of wisdom is [[Foolishness|folly]]. Synonyms include [[prudence]], [[wikt:sagacity|sagacity]], [[discernment]], or insight<del class=\"diffchange diffchange-inline\">. Wisdom is also known as Philosophy. Philosophy was found in early Greece and also means \"love of wisdom\"</del>.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>A basic definition of wisdom is the judicious application of [[knowledge]].&lt;ref&gt;\"Wisdom is the right use of knowledge.\" – [[Charles Haddon Spurgeon]] (1834–1892)&lt;/ref&gt; The opposite of wisdom is [[Foolishness|folly]]. Synonyms include [[prudence]], [[wikt:sagacity|sagacity]], [[discernment]], or insight.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Philosophical perspectives==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Philosophical perspectives==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:637383679:newid:637383818 -->\n",
+    "from": 637383679
+  },
+  "minor": ""
+}

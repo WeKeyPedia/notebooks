@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Scientific perspectives */",
+  "timestamp": "2007-03-08T15:26:13Z",
+  "revid": 113586562,
+  "user": "Stevenson-Perez",
+  "parentid": 113586466,
+  "diff": {
+    "to": 113586562,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 39:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 39:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Scientically, ‘Knowledge’ lies along a continuum between ‘Information / Data’ and  ‘Wisdom’.    </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Scientically, ‘Knowledge’ lies along a continuum between ‘Information / Data’ and  ‘Wisdom’.    </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Collectively, these inter-related hierarchical elements are termed the [[DIKW]] scientific learning pathway.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Collectively, these inter-related hierarchical elements are termed the [[<ins class=\"diffchange diffchange-inline\">'''</ins>DIKW<ins class=\"diffchange diffchange-inline\">'''</ins>]] scientific learning pathway.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''K'''nowledge, from a scientific perspective, is generally viewed as ‘the ability to predict response-patterns, based upon evidence collected by the [[scientific method’]].  All scientific knowledge is derived from scientific ‘Information’:  Some experts define scientific ‘knowledge’ as ‘information in context’.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''K'''nowledge, from a scientific perspective, is generally viewed as ‘the ability to predict response-patterns, based upon evidence collected by the [[scientific method’]].  All scientific knowledge is derived from scientific ‘Information’:  Some experts define scientific ‘knowledge’ as ‘information in context’.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:113586466:newid:113586562 -->\n",
+    "from": 113586466
+  },
+  "minor": ""
+}

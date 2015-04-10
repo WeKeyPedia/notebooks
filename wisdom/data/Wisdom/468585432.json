@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Include in-depth book.  Undid revision 468217503 by [[Special:Contributions/Arthur Rubin|Arthur Rubin]] ([[User talk:Arthur Rubin|talk]])",
+  "timestamp": "2011-12-30T12:10:05Z",
+  "revid": 468585432,
+  "anon": "",
+  "user": "99.19.45.81",
+  "parentid": 468217503,
+  "diff": {
+    "to": 468585432,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 153:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 153:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[E. F. Schumacher]], \"Small is Beautiful\", [[Harper and Row]], New York, New York, 1989.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>*[[E. F. Schumacher]], \"Small is Beautiful\", [[Harper and Row]], New York, New York, 1989.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Sternberg, Robert J.]], ''Wisdom: Its Nature, Origins, and Development'' (1990). [[Cambridge University Press]]. ISBN 978-0521367189 {{importance-inline|date=December 2010}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Sternberg, Robert J.]], ''Wisdom: Its Nature, Origins, and Development'' (1990). [[Cambridge University Press]]. ISBN 978-0521367189 {{importance-inline|date=December 2010}}</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* Stephen S. Hall, ''Wisdom: From Philosophy to Neuroscience'', Knopf (2010) ISBN 978-0307269102</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== External links ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:468217503:newid:468585432 -->\n",
+    "from": 468217503
+  }
+}

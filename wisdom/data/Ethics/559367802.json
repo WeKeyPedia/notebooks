@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Undid revision 559364722 by [[Special:Contributions/62.24.99.143|62.24.99.143]] ([[User talk:62.24.99.143|talk]])",
+  "timestamp": "2013-06-11T10:22:49Z",
+  "revid": 559367802,
+  "user": "Frze",
+  "parentid": 559364722,
+  "diff": {
+    "to": 559367802,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 168:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 168:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In addition, the necessity of considering appropriate protocols, scientific integrity issues and a code of good practice - regarding the study of the abiotic world - is covered by this discipline. Studies on planetary geology (sensu lato) and astrobiology also require a geoethical approach.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In addition, the necessity of considering appropriate protocols, scientific integrity issues and a code of good practice - regarding the study of the abiotic world - is covered by this discipline. Studies on planetary geology (sensu lato) and astrobiology also require a geoethical approach.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">&lt;ref&gt;&lt;ref&gt;&lt;/ref&gt;&lt;/ref&gt;</del>====Business ethics====</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>====Business ethics====</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Business ethics}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Main|Business ethics}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 559364722
+  }
+}

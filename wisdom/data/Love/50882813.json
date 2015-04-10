@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/219.95.134.149|219.95.134.149]] ([[User talk:219.95.134.149|talk]]) to last version by 24.7.64.122",
+  "timestamp": "2006-04-30T12:46:41Z",
+  "revid": 50882813,
+  "user": "RexNL",
+  "parentid": 50882793,
+  "diff": {
+    "to": 50882813,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 51:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 51:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Within Christianity, however, love between spouses is defined as \"an emotional attachment and affection shared between two individuals (biblically: male and female); which a person saves for their specific significant other only, and for that emotion to remain for as long as both of their existences shall be.\"</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Within Christianity, however, love between spouses is defined as \"an emotional attachment and affection shared between two individuals (biblically: male and female); which a person saves for their specific significant other only, and for that emotion to remain for as long as both of their existences shall be.\"</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>You love a person, when you can't stop thinking about him/her, and when you think that he/she is really special to you.</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Human love===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Human love===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:50882793:newid:50882813 -->\n",
+    "from": 50882793
+  },
+  "minor": ""
+}

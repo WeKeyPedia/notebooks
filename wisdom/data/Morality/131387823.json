@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* References */  removed vandalism",
+  "timestamp": "2007-05-16T21:15:48Z",
+  "revid": 131387823,
+  "anon": "",
+  "user": "69.118.198.115",
+  "parentid": 131219386,
+  "diff": {
+    "to": 131387823,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 87:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 87:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==References==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{reflist|1}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{reflist|1}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>moral codes are the best thing in the world you must follow them</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== See also ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== See also ==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:131219386:newid:131387823 -->\n",
+    "from": 131219386
+  }
+}

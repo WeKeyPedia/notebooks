@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* See also */ parens",
+  "timestamp": "2011-07-09T19:25:41Z",
+  "revid": 438625621,
+  "user": "The Transhumanist",
+  "parentid": 438625266,
+  "diff": {
+    "to": 438625621,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 162:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 162:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- Please add related links to [[Outline of ethics]] and [[Index of ethics articles]] --&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>&lt;!-- Please add related links to [[Outline of ethics]] and [[Index of ethics articles]] --&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Outline of ethics]] (list of ethics-related articles, arranged by sub-topic)</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Outline of ethics]] <ins class=\"diffchange diffchange-inline\">''</ins>(list of ethics-related articles, arranged by sub-topic)<ins class=\"diffchange diffchange-inline\">''</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Index of ethics articles]] (alphabetical list of ethics-related articles)</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Index of ethics articles]] <ins class=\"diffchange diffchange-inline\">''</ins>(alphabetical list of ethics-related articles)<ins class=\"diffchange diffchange-inline\">''</ins></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Notes==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:438625266:newid:438625621 -->\n",
+    "from": 438625266
+  }
+}

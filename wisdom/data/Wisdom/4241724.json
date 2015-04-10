@@ -1,0 +1,12 @@
+﻿{
+  "comment": "",
+  "timestamp": "2004-06-23T18:01:46Z",
+  "revid": 4241724,
+  "user": "Shagmaestro",
+  "parentid": 4241557,
+  "diff": {
+    "to": 4241724,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">{{</del>#redirect [[Stephen R. Job]]<del class=\"diffchange diffchange-inline\">}}</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>#redirect [[Stephen R. Job]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:4241557:newid:4241724 -->\n",
+    "from": 4241557
+  }
+}

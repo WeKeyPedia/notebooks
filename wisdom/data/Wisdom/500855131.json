@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Philosophical perspectives of wisdom */",
+  "timestamp": "2012-07-05T21:08:26Z",
+  "revid": 500855131,
+  "anon": "",
+  "user": "173.70.181.178",
+  "parentid": 499251823,
+  "diff": {
+    "to": 500855131,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 7:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Philosophical perspectives of wisdom ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Philosophical perspectives of wisdom ==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>A basic definition of wisdom is <del class=\"diffchange diffchange-inline\">to make the best</del> use of [[knowledge]].&lt;ref&gt;\"Wisdom is the right use of knowledge.\" --[[Charles Haddon Spurgeon]] (1834-1892)&lt;/ref&gt; The opposite of wisdom is [[Foolishness|folly]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>A basic definition of wisdom is <ins class=\"diffchange diffchange-inline\">making</ins> use of [[knowledge]].&lt;ref&gt;\"Wisdom is the right use of knowledge.\" --[[Charles Haddon Spurgeon]] (1834-1892)&lt;/ref&gt; The opposite of wisdom is [[Foolishness|folly]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Dr. Kleinman suggests that by mentoring and caring for others, one comes closer to fulfilling the search for wisdom.&lt;ref&gt;Kleinman, A. (2011). A search for wisdom, Lancet. Retrieved from http://thelancet.com/journals/lancet/article/PIIS0140-6736(11)61688-7/fulltext&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Dr. Kleinman suggests that by mentoring and caring for others, one comes closer to fulfilling the search for wisdom.&lt;ref&gt;Kleinman, A. (2011). A search for wisdom, Lancet. Retrieved from http://thelancet.com/journals/lancet/article/PIIS0140-6736(11)61688-7/fulltext&lt;/ref&gt;</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:499251823:newid:500855131 -->\n",
+    "from": 499251823
+  }
+}

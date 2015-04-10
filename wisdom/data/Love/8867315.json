@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edits by [[Special:Contributions/68.10.119.51|68.10.119.51]] to last version by Lacrimosus",
+  "timestamp": "2004-12-27T00:56:48Z",
+  "revid": 8867315,
+  "user": "Jfdwolff",
+  "parentid": 8842318,
+  "diff": {
+    "to": 8867315,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 61:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 61:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|&amp;nbsp;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|&amp;nbsp;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|-</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|-</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>|[[Passion<del class=\"diffchange diffchange-inline\">]]</del> (emotion)|Passion]] ([[limerence]])</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>|[[Passion (emotion)|Passion]] ([[limerence]])</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|&amp;nbsp;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|&amp;nbsp;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|passion</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|passion</div></td>\n</tr>\n",
+    "from": 8842318
+  },
+  "minor": ""
+}

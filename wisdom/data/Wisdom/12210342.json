@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-04-09T04:51:49Z",
+  "revid": 12210342,
+  "user": "Andycjp",
+  "parentid": 12066770,
+  "diff": {
+    "to": 12210342,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 19:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 19:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some people say that the most universally and usefully-wise sages sense, work with and align themselves and others to [[life]].  In this view, sages help people appreciate the intrinsic [[wholeness]] and [[interconnectedness]] of life.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some people say that the most universally and usefully-wise sages sense, work with and align themselves and others to [[life]].  In this view, sages help people appreciate the intrinsic [[wholeness]] and [[interconnectedness]] of life.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Classically, wisdom is considered to come with age. Some [[religion]]s consider wisdom a gift granted by [[God]]. The [[Jew]]ish book of [[Proverbs]] in the [[Old Testament]] states `Fear of God is the beginning of Wisdom`.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Classically, wisdom is considered to come with <ins class=\"diffchange diffchange-inline\">[[</ins>age<ins class=\"diffchange diffchange-inline\">]]</ins>. Some [[religion]]s consider wisdom a gift granted by [[God]]. The [[Jew]]ish book of [[Proverbs]] in the [[Old Testament]] states `Fear of God is the beginning of Wisdom`.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==See also==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:12066770:newid:12210342 -->\n",
+    "from": 12066770
+  },
+  "minor": ""
+}

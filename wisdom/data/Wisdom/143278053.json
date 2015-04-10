@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Quotations about wisdom */ \"Wisdom feeds purity of thought and cannot ever be used for evil intent, for if it is attempted, it cease to be wisdom.\"_Michael Levy.",
+  "timestamp": "2007-07-08T11:25:06Z",
+  "revid": 143278053,
+  "anon": "",
+  "user": "24.127.199.143",
+  "parentid": 143151071,
+  "diff": {
+    "to": 143278053,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 79:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 79:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"Wise men talk because they have something to say; fools, because they have to say something.\" ― [[Plato]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"Wise men talk because they have something to say; fools, because they have to say something.\" ― [[Plato]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>\"Wisdom feeds purity of thought and cannot ever be used for evil intent, for if it is attempted, it cease to be wisdom.\"_Michael Levy.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"Knowledge comes, but wisdom lingers.\" ― [[Alfred Lord Tennyson]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"Knowledge comes, but wisdom lingers.\" ― [[Alfred Lord Tennyson]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:143151071:newid:143278053 -->\n",
+    "from": 143151071
+  }
+}

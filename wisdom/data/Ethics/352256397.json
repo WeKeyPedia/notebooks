@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2010-03-27T00:52:11Z",
+  "revid": 352256397,
+  "user": "Taymaz.azimy",
+  "parentid": 352160047,
+  "diff": {
+    "to": 352256397,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 244:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 244:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[eo:Etiko]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[eo:Etiko]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[eu:Etika]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[eu:Etika]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[fa:اخلاق]]</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[fa:<ins class=\"diffchange diffchange-inline\">فلسفه </ins>اخلاق]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fr:Éthique]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fr:Éthique]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fy:Etyk]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[fy:Etyk]]</div></td>\n</tr>\n",
+    "from": 352160047
+  },
+  "minor": ""
+}

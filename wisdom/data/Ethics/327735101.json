@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Quick-adding category [[:Category:Axiology|Axiology]] (using [[WP:HOTCAT|HotCat]])",
+  "timestamp": "2009-11-24T21:12:02Z",
+  "revid": 327735101,
+  "user": "Gregbard",
+  "parentid": 327675678,
+  "diff": {
+    "to": 327735101,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 186:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 186:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Branches of philosophy]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Branches of philosophy]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Greek loanwords]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Category:Greek loanwords]]</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Category:Axiology]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[af:Etiek]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[af:Etiek]]</div></td>\n</tr>\n",
+    "from": 327675678
+  },
+  "minor": ""
+}

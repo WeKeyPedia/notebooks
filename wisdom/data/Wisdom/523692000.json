@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Religious perspectives */",
+  "timestamp": "2012-11-18T16:55:00Z",
+  "revid": 523692000,
+  "user": "UltraRainbows",
+  "parentid": 521901761,
+  "diff": {
+    "to": 523692000,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 63:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 63:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Ancient Egypt ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Ancient Egypt ===</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Sia]] represents the personification of wisdom or the god of wisdom in Ancient Egyptian Mythology.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[<ins class=\"diffchange diffchange-inline\">Sia (god)|</ins>Sia]] represents the personification of wisdom or the god of wisdom in Ancient Egyptian Mythology.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Hebrew Bible &amp; Judaism ===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>=== Hebrew Bible &amp; Judaism ===</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:521901761:newid:523692000 -->\n",
+    "from": 521901761
+  }
+}

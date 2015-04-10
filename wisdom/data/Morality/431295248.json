@@ -1,0 +1,13 @@
+﻿{
+  "comment": "In-link [[",
+  "timestamp": "2011-05-28T05:54:05Z",
+  "revid": 431295248,
+  "user": "Presearch",
+  "parentid": 429979982,
+  "diff": {
+    "to": 431295248,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 153:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 153:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Brown, Paterson. [http://www.metalog.org/files/tpb/rel.m.html \"Religious Morality\"], ''Mind'', 1963.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Brown, Paterson. [http://www.metalog.org/files/tpb/rel.m.html \"Religious Morality\"], ''Mind'', 1963.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Brown, Paterson. [http://www.metalog.org/files/tpb/reply.html \"Religious Morality: a Reply to Flew and Campbell\"], ''Mind'', 1964.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Brown, Paterson. [http://www.metalog.org/files/tpb/reply.html \"Religious Morality: a Reply to Flew and Campbell\"], ''Mind'', 1964.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* Brown, Paterson. [http://www.metalog.org/files/tpb/god.g.html \"God and the Good\"], ''Religious Studies'', 1967.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* Brown, Paterson. [http://www.metalog.org/files/tpb/god.g.html \"God and the Good\"], ''<ins class=\"diffchange diffchange-inline\">[[</ins>Religious Studies<ins class=\"diffchange diffchange-inline\"> (journal)|Religious studies]]</ins>'', 1967.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:429979982:newid:431295248 -->\n",
+    "from": 429979982
+  },
+  "minor": ""
+}

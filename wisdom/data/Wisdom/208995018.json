@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* See also */",
+  "timestamp": "2008-04-29T13:59:06Z",
+  "revid": 208995018,
+  "anon": "",
+  "user": "79.131.181.204",
+  "parentid": 208994961,
+  "diff": {
+    "to": 208995018,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 117:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 117:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Knowledge]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Knowledge]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Philosophy]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Philosophy]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Prajñā]] (the [[<del class=\"diffchange diffchange-inline\">Buddhist|</del>Buddhism]] concept of wisdom)</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Prajñā]] (the [[Buddhism<ins class=\"diffchange diffchange-inline\">|Buddhist</ins>]] concept of wisdom)</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Regret]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Regret]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[School of Hard Knocks]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[School of Hard Knocks]]</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:208994961:newid:208995018 -->\n",
+    "from": 208994961
+  }
+}

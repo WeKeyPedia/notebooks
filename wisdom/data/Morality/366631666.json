@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Robot: Editing [[WP:INTDABLINK|intentional link to disambiguation page]] in hatnote",
+  "timestamp": "2010-06-07T19:55:18Z",
+  "revid": 366631666,
+  "user": "RussBot",
+  "parentid": 363489729,
+  "diff": {
+    "to": 366631666,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Redirect|Appropriate||Appropriation}}</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>{{Redirect|Appropriate||Appropriation<ins class=\"diffchange diffchange-inline\"> (disambiguation)</ins>}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Cleanup|date=March 2010}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Cleanup|date=March 2010}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n",
+    "from": 363489729
+  },
+  "minor": ""
+}

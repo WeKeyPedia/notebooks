@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Reverted 2 edits by [[Special:Contributions/SanamJungActress|SanamJungActress]] ([[User talk:SanamJungActress|talk]]): Remove link as per [[WP:ELNO]]. ([[WP:TW|TW]])",
+  "timestamp": "2013-09-13T12:56:24Z",
+  "revid": 572754019,
+  "user": "Ugog Nizdast",
+  "parentid": 572751402,
+  "diff": {
+    "to": 572754019,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 263:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 263:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==External links==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://quotationlovers.blogspot.com/ Love quotations ]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wiktionary|I love you}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wiktionary|I love you}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wikiquote}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{Wikiquote}}</div></td>\n</tr>\n",
+    "from": 572751402
+  }
+}

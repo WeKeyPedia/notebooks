@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Psychological perspectives */ test-retest r = .35-.67 isn't really \"low,\" it's \"low to moderate\" at least.",
+  "timestamp": "2012-02-28T10:14:23Z",
+  "revid": 479276348,
+  "anon": "",
+  "user": "71.84.222.137",
+  "parentid": 477449151,
+  "diff": {
+    "to": 479276348,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 35:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 35:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Others ask wise people for advice.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* Others ask wise people for advice.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* A wise person's actions are consistent with his/her ethical beliefs.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* A wise person's actions are consistent with his/her ethical beliefs.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Measurement instruments that use these criteria have acceptable to good [[internal consistency]] and low [[test-retest]] [[Reliability (statistics)|reliability]] (''[[Pearson product-moment correlation coefficient|r]]'' in the range of 0.35 to 0.67).&lt;ref name=\"CSVperspective\"&gt;{{cite book</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Measurement instruments that use these criteria have acceptable to good [[internal consistency]] and low<ins class=\"diffchange diffchange-inline\"> to moderate</ins> [[test-retest]] [[Reliability (statistics)|reliability]] (''[[Pearson product-moment correlation coefficient|r]]'' in the range of 0.35 to 0.67).&lt;ref name=\"CSVperspective\"&gt;{{cite book</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | last = Harter</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | last = Harter</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | first = Andrew C.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>  | first = Andrew C.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:477449151:newid:479276348 -->\n",
+    "from": 477449151
+  }
+}

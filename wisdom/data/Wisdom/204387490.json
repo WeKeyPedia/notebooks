@@ -1,0 +1,12 @@
+﻿{
+  "comment": "/* Religious perspectives */ moving Wikiquote",
+  "timestamp": "2008-04-09T04:56:55Z",
+  "revid": 204387490,
+  "user": "Dr.enh",
+  "parentid": 204385283,
+  "diff": {
+    "to": 204387490,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 61:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 61:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious perspectives==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious perspectives==</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{see|Sophia (wisdom)}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{see|Sophia (wisdom)}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{wikiquote}}</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some religions have specific teachings relating to wisdom. In [[Mesopotamian mythology|Mesopotamian religion and mythology]], [[Enki]], also known as Ea, was the God of wisdom and intelligence. Wisdom was achieved by restoring balance.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Some religions have specific teachings relating to wisdom. In [[Mesopotamian mythology|Mesopotamian religion and mythology]], [[Enki]], also known as Ea, was the God of wisdom and intelligence. Wisdom was achieved by restoring balance.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:204385283:newid:204387490 -->\n",
+    "from": 204385283
+  }
+}

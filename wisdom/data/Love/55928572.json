@@ -1,0 +1,12 @@
+﻿{
+  "comment": "Revert to revision 55913221 using [[:en:Wikipedia:Tools/Navigation_popups|popups]]",
+  "timestamp": "2006-05-30T13:53:22Z",
+  "revid": 55928572,
+  "user": "Shizane",
+  "parentid": 55928475,
+  "diff": {
+    "to": 55928572,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 21:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 21:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Bertrand Russell]] describes love as a condition of 'absolute value', as opposed to 'relative value'.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[Bertrand Russell]] describes love as a condition of 'absolute value', as opposed to 'relative value'.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>One Definition of Love is this: That in which is a chosen necessity in ones life to possess to have and to hold to cherish even to loosing of one's own life and health and wealth and even the denial of ones own will in all that does not go against Love.{{fact}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>One Definition of Love is this: That in which is a chosen necessity in ones life to possess to have and to hold to cherish even to loosing of one's own life and health and wealth and even the denial of ones own will in all that does not go against Love.{{fact}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>EDEN :]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Types ==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>== Types ==</div></td>\n</tr>\n",
+    "from": 55928475
+  }
+}

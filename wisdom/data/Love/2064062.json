@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2003-12-31T04:15:27Z",
+  "revid": 2064062,
+  "user": "Eloquence",
+  "parentid": 2055203,
+  "diff": {
+    "to": 2064062,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[da:Kærlighed]] [[de:Liebe]] [[es:Amor]] [[fr:Amour]] [[ja:&amp;#24859;]] [[nl:Liefde]] [[pl:Mi%C5%82o%C5%9B%C4%87]] [[he:&amp;#1488;&amp;#1492;&amp;#1489;&amp;#1492;]] [[sv:Kärlek]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[da:Kærlighed]] [[de:Liebe]] [[es:Amor]] [[fr:Amour]] [[ja:&amp;#24859;]] [[nl:Liefde]] [[pl:Mi%C5%82o%C5%9B%C4%87]] [[he:&amp;#1488;&amp;#1492;&amp;#1489;&amp;#1492;]] [[sv:Kärlek]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>: ''For the 1960s band, see [[Love (band)]].''</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>: ''For the 1960s band, see [[Love (band)<ins class=\"diffchange diffchange-inline\">]]. The term is also [[Tennis#History of tennis|used in tennis</ins>]].''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' is a special [[affection]] for someone or something, a [[feeling]] or [[emotion]]. Various different types of love  exist, which are more or less related:</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Love''' is a special [[affection]] for someone or something, a [[feeling]] or [[emotion]]. Various different types of love  exist, which are more or less related:</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:2055203:newid:2064062 -->\n",
+    "from": 2055203
+  },
+  "minor": ""
+}

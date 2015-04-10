@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Reverted edit of 138.130.140.190, changed back to last version by RJN",
+  "timestamp": "2006-03-27T05:56:23Z",
+  "revid": 45668177,
+  "user": "OrbitOne",
+  "parentid": 45668152,
+  "diff": {
+    "to": 45668177,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[family]]''' - people related via common ancestry, religion, or race, etc.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>#'''[[family]]''' - people related via common ancestry, religion, or race, etc.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">Phil Loves the wang!! </del>The concept of love, however, is a rather debatable one.  Some deny the existence of love, stating that it is a recently invented abstraction.  Moreover, approximately 13 percent of cultures, reportedly, have no terminology for the word love.{{ref|ackerman}} Others maintain that love exists but is un-definable; being a quantity which is more [[spiritual]], [[metaphysical]], or [[philosophical]] in nature, etc. </div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>The concept of love, however, is a rather debatable one.  Some deny the existence of love, stating that it is a recently invented abstraction.  Moreover, approximately 13 percent of cultures, reportedly, have no terminology for the word love.{{ref|ackerman}} Others maintain that love exists but is un-definable; being a quantity which is more [[spiritual]], [[metaphysical]], or [[philosophical]] in nature, etc. </div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{emotion}}</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>{{emotion}}</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:45668152:newid:45668177 -->\n",
+    "from": 45668152
+  },
+  "minor": ""
+}

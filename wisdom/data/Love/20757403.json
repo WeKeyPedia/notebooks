@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Japanese */ link",
+  "timestamp": "2005-08-11T07:18:25Z",
+  "revid": 20757403,
+  "user": "Andycjp",
+  "parentid": 20757331,
+  "diff": {
+    "to": 20757403,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 127:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 127:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[Japanese Buddhism]], [[ai]] (&amp;#24859;) is passionate caring love, and a fundamental desire. It can develop towards either selfishness or selflessness and enlightenment.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>In [[Japanese Buddhism]], [[ai]] (&amp;#24859;) is passionate caring love, and a fundamental desire. It can develop towards either selfishness or selflessness and enlightenment.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>[[Amae]] (&amp;#29976;&amp;#12360;), a Japanese word meaning \"indulgent dependence\" is part of the child rearing culture of Japan. Japanese mothers are expected to hug and indulge their children, and children are expected to reward their mothers by clinging and serving. <del class=\"diffchange diffchange-inline\">Sociologists</del> have suggested that Japanese social interactions in later life are modelled on the mother-child amae.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>[[Amae]] (&amp;#29976;&amp;#12360;), a Japanese word meaning \"indulgent dependence\" is part of the child rearing culture of Japan. Japanese mothers are expected to hug and indulge their children, and children are expected to reward their mothers by clinging and serving. <ins class=\"diffchange diffchange-inline\">Some [[Sociologist]]s</ins> have suggested that Japanese social interactions in later life are modelled on the mother-child amae.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ancient Greek===</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>===Ancient Greek===</div></td>\n</tr>\n",
+    "from": 20757331
+  },
+  "minor": ""
+}

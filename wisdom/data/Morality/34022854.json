@@ -1,0 +1,13 @@
+﻿{
+  "comment": "removed [[Template:Philosophy portal]] per [[WP:ASR]]",
+  "timestamp": "2006-01-05T21:36:11Z",
+  "revid": 34022854,
+  "user": "Ruud Koot",
+  "parentid": 33977096,
+  "diff": {
+    "to": 34022854,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 1:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>{{Philosophy portal}}</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:''See also [[Ethics]].''</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>:''See also [[Ethics]].''</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''', in the strictest sense of the word, deals with that which is innately regarded as right or wrong. The term is often used to refer to a system of principles and judgments shared by [[cultural]], [[religious]], and [[philosophical]] concepts and beliefs, by which humans subjectively determine whether given actions are [[Goodness_and_value_theory|right]] or [[evil|wrong]]. </div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>'''Morality''', in the strictest sense of the word, deals with that which is innately regarded as right or wrong. The term is often used to refer to a system of principles and judgments shared by [[cultural]], [[religious]], and [[philosophical]] concepts and beliefs, by which humans subjectively determine whether given actions are [[Goodness_and_value_theory|right]] or [[evil|wrong]]. </div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:33977096:newid:34022854 -->\n",
+    "from": 33977096
+  },
+  "minor": ""
+}

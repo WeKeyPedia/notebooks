@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Quotations about wisdom */ “Wisdom feeds purity of thought and cannot ever be used for evil intent, for if it is attempted, it cease to be wisdom.”_Michael Levy.",
+  "timestamp": "2007-07-07T18:41:52Z",
+  "revid": 143139053,
+  "anon": "",
+  "user": "24.127.199.143",
+  "parentid": 142598461,
+  "diff": {
+    "to": 143139053,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 70:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 70:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Quotations about wisdom==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Quotations about wisdom==</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>“Wisdom feeds purity of thought and cannot ever be used for evil intent, for if it is attempted, it cease to be wisdom.”_Michael Levy.</div></td>\n</tr>\n<tr>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"Wise men say nothing in dangerous times.\" ― [[Aesop]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>\"Wise men say nothing in dangerous times.\" ― [[Aesop]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:142598461:newid:143139053 -->\n",
+    "from": 142598461
+  }
+}

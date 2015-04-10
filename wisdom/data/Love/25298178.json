@@ -1,0 +1,13 @@
+﻿{
+  "comment": "",
+  "timestamp": "2005-10-11T19:42:22Z",
+  "revid": 25298178,
+  "anon": "",
+  "user": "65.247.243.23",
+  "parentid": 25274914,
+  "diff": {
+    "to": 25298178,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 169:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 169:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''[[Caritas]]'' is used in Latin translations of the Christian Bible to mean 'charitable love'.  This meaning, however, is not found in Classical pagan Roman literature.  As it arises from a conflation with a Greek word, there is no corresponding verb.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>''[[Caritas]]'' is used in Latin translations of the Christian Bible to mean 'charitable love'.  This meaning, however, is not found in Classical pagan Roman literature.  As it arises from a conflation with a Greek word, there is no corresponding verb.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div><del class=\"diffchange diffchange-inline\">===Post-classical Europe===</del></div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div></div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>(to be added)</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious views==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Religious views==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:25274914:newid:25298178 -->\n",
+    "from": 25274914
+  }
+}

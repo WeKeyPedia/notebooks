@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Meta-ethics */",
+  "timestamp": "2007-02-08T17:35:11Z",
+  "revid": 106617235,
+  "anon": "",
+  "user": "198.174.0.10",
+  "parentid": 106616917,
+  "diff": {
+    "to": 106617235,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 10:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Another group of 'realist' theories, by contrast, holds that moral value is somehow an intrinsic property of the world and that ethical principles are simply discovered or intuited. Under this view, ethical values held by people can at best reflect an independent Truth by which their validity must be judged. These theories may be derived from [[theology]] or [[naturalism]].</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>Another group of 'realist' theories, by contrast, holds that moral value is somehow an intrinsic property of the world and that ethical principles are simply discovered or intuited. Under this view, ethical values held by people can at best reflect an independent Truth by which their validity must be judged. These theories may be derived from [[theology]] or [[naturalism]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Sure whatever</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Normative ethics==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Normative ethics==</div></td>\n</tr>\n",
+    "from": 106616917
+  }
+}

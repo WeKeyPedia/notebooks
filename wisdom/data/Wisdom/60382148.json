@@ -1,0 +1,13 @@
+﻿{
+  "comment": "Delete duplicate word  using [[Wikipedia:AutoWikiBrowser|AWB]]",
+  "timestamp": "2006-06-24T20:14:21Z",
+  "revid": 60382148,
+  "user": "Gaius Cornelius",
+  "parentid": 59114164,
+  "diff": {
+    "to": 60382148,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 28:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Confucius]] stated that wisdom can be learned by three methods: Reflection (the noblest), imitation (the easiest) and experience (the bitterest).</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* [[Confucius]] stated that wisdom can be learned by three methods: Reflection (the noblest), imitation (the easiest) and experience (the bitterest).</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [[Buddha]] taught that a wise person is endowed with good bodily conduct, good verbal conduct &amp; good mental conduct (''AN3:2'') and a wise person does actions that are unpleasant to do but give good results and doesn’t do actions that are pleasant to do but give bad results (''AN4:115''). This is<del class=\"diffchange diffchange-inline\"> called</del> called [[karma]].</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>* [[Buddha]] taught that a wise person is endowed with good bodily conduct, good verbal conduct &amp; good mental conduct (''AN3:2'') and a wise person does actions that are unpleasant to do but give good results and doesn’t do actions that are pleasant to do but give bad results (''AN4:115''). This is called [[karma]].</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* PRACTICAL Wisdom may be described as: Knowing what to say and when to say it.--TAO</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>* PRACTICAL Wisdom may be described as: Knowing what to say and when to say it.--TAO</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:59114164:newid:60382148 -->\n",
+    "from": 59114164
+  },
+  "minor": ""
+}

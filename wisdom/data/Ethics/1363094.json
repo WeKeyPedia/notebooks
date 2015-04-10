@@ -1,0 +1,12 @@
+﻿{
+  "comment": "other half of the ethical duality is \"bad\" in the sense of \"evil\"",
+  "timestamp": "2003-08-29T17:52:06Z",
+  "revid": 1363094,
+  "user": "Mkmcconn",
+  "parentid": 1363088,
+  "diff": {
+    "to": 1363094,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 4:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Etyka]]</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>[[pl:Etyka]]</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>'''Ethics''' studies questions pertaining to [[rights|right]] and [[wrong]], [[goodness|good]] and [[bad]].  There is some tension between the notion of ethics as ''seeing'', and ethics as ''doing'' or solving disputes between those who are doing different things that aren't compatible.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>'''Ethics''' studies questions pertaining to [[rights|right]] and [[wrong]], [[goodness|good]] and [[<ins class=\"diffchange diffchange-inline\">evil|</ins>bad]].  There is some tension between the notion of ethics as ''seeing'', and ethics as ''doing'' or solving disputes between those who are doing different things that aren't compatible.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>This article will deal only with the most central and universal and practical questions, linking to more detailed discussions of categories and subtheories.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>This article will deal only with the most central and universal and practical questions, linking to more detailed discussions of categories and subtheories.</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:1363088:newid:1363094 -->\n",
+    "from": 1363088
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "comment": "/* Development of morality */ Removing redundant link",
+  "timestamp": "2006-08-09T09:49:08Z",
+  "revid": 68578404,
+  "user": "Misterstark",
+  "parentid": 68578348,
+  "diff": {
+    "to": 68578404,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 30:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 30:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The evolutionary critique points to the radical ways which morality differs across times and cultures among human beings. Very few activities are always morally wrong across all human societies. For example, some groups still practice forms of infanticide or incest, activities that would be condemned harshly in most Western societies. It has been argued that morality is simply whatever norms are present within a given society at a given time, while the other argument lies in the existence of morality.</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>The evolutionary critique points to the radical ways which morality differs across times and cultures among human beings. Very few activities are always morally wrong across all human societies. For example, some groups still practice forms of infanticide or incest, activities that would be condemned harshly in most Western societies. It has been argued that morality is simply whatever norms are present within a given society at a given time, while the other argument lies in the existence of morality.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>* [http://www.geeta-kavita.com/article.asp?article=biology_morals_dharma An article that focuses on the Biological basis of morality is available at Geeta-kavita.com]</div></td>\n  <td colspan=\"2\" class=\"diff-empty\">&#160;</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Morality in judicial systems==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Morality in judicial systems==</div></td>\n</tr>\n\n<!-- diff cache key enwiki:diff:version:1.11a:oldid:68578348:newid:68578404 -->\n",
+    "from": 68578348
+  },
+  "minor": ""
+}

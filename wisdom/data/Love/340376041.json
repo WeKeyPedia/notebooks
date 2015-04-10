@@ -1,0 +1,13 @@
+﻿{
+  "comment": "overriding",
+  "timestamp": "2010-01-27T18:33:20Z",
+  "revid": 340376041,
+  "user": "Pol098",
+  "parentid": 340211080,
+  "diff": {
+    "to": 340376041,
+    "*": "<tr>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 86:</td>\n  <td colspan=\"2\" class=\"diff-lineno\">Line 86:</td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|accessdate=Mar 25, 2009}}&lt;/ref&gt;</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>|accessdate=Mar 25, 2009}}&lt;/ref&gt;</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">−</td>\n  <td class=\"diff-deletedline\"><div>Love is sometimes referred to as being the \"international language\", <del class=\"diffchange diffchange-inline\">superceding</del> cultural and linguistic divisions.</div></td>\n  <td class=\"diff-marker\">+</td>\n  <td class=\"diff-addedline\"><div>Love is sometimes referred to as being the \"international language\", <ins class=\"diffchange diffchange-inline\">overriding</ins> cultural and linguistic divisions.</div></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"></td>\n</tr>\n<tr>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Impersonal love==</div></td>\n  <td class=\"diff-marker\">&#160;</td>\n  <td class=\"diff-context\"><div>==Impersonal love==</div></td>\n</tr>\n",
+    "from": 340211080
+  },
+  "minor": ""
+}
