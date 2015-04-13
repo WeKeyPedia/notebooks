@@ -1,11 +1,10 @@
-,count added,count deleted,added - deleted,abs(added - deleted)
+,added,deleted,added - deleted,abs(added - deleted)
 ethic,10236.0,10012.0,224.0,224.0
 moral,2874.0,2800.0,74.0,74.0
 be,3130.0,3066.0,64.0,64.0
 are,2791.0,2744.0,47.0,47.0
 on,1924.0,1877.0,47.0,47.0
 right,2024.0,1982.0,42.0,42.0
-'s,1644.0,1603.0,41.0,41.0
 philosophi,1356.0,1318.0,38.0,38.0
 not,1585.0,1548.0,37.0,37.0
 with,1681.0,1645.0,36.0,36.0

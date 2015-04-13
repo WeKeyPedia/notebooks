@@ -1,4 +1,4 @@
-,count added,count deleted,added - deleted,abs(added - deleted)
+,added,deleted,added - deleted,abs(added - deleted)
 moral,7595.0,7421.0,174.0,174.0
 cite,728.0,665.0,63.0,63.0
 journal,620.0,565.0,55.0,55.0
@@ -29,7 +29,6 @@ social,655.0,634.0,21.0,21.0
 book,225.0,204.0,21.0,21.0
 univers,483.0,463.0,20.0,20.0
 valu,412.0,392.0,20.0,20.0
-'s,805.0,786.0,19.0,19.0
 develop,497.0,478.0,19.0,19.0
 url,175.0,156.0,19.0,19.0
 volum,139.0,120.0,19.0,19.0
