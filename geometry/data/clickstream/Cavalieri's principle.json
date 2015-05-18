@@ -1,0 +1,40 @@
+﻿{
+  "in": {
+    "other-google": "1248",
+    "History of calculus": "37",
+    "Calculus": "79",
+    "other-other": "126",
+    "Method of exhaustion": "45",
+    "Visual calculus": "27",
+    "Cycloid": "11",
+    "The Method of Mechanical Theorems": "50",
+    "other-bing": "71",
+    "Bonaventura Cavalieri": "57",
+    "Hilbert's third problem": "32",
+    "other-yahoo": "54",
+    "Infinitesimal": "52",
+    "other-wikipedia": "137",
+    "other-empty": "202",
+    "Archimedes Palimpsest": "11",
+    "Cramer's rule": "14",
+    "Cross section (geometry)": "10",
+    "Gabriel's Horn": "90",
+    "Integral": "22",
+    "Stereology": "18",
+    "Sphere": "88",
+    "Napkin ring problem": "12",
+    "Cone": "75",
+    "Fubini's theorem": "99"
+  },
+  "out": {
+    "Napkin ring problem": "67",
+    "Cross section (geometry)": "13",
+    "Method of exhaustion": "48",
+    "Integral": "17",
+    "Bonaventura Cavalieri": "84",
+    "Hilbert's third problem": "16",
+    "Infinitesimal": "16",
+    "Cone": "11",
+    "Fubini's theorem": "152"
+  }
+}

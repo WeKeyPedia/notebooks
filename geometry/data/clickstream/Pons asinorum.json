@@ -1,0 +1,28 @@
+﻿{
+  "in": {
+    "Euclid's Elements": "55",
+    "other-other": "95",
+    "Triangle": "56",
+    "Isosceles triangle": "82",
+    "Euclidean geometry": "40",
+    "other-bing": "25",
+    "Main Page": "10",
+    "List of Latin phrases (full)": "13",
+    "other-yahoo": "24",
+    "Law of rent": "85",
+    "other-google": "838",
+    "other-wikipedia": "105",
+    "other-empty": "185",
+    "Shibboleth": "147",
+    "List of Latin phrases (P)": "13",
+    "Pythagorean theorem": "25"
+  },
+  "out": {
+    "Law of rent": "23",
+    "Congruence (geometry)": "24",
+    "Isosceles triangle": "17",
+    "Irish bull": "20",
+    "Euler's identity": "25",
+    "Syllogism": "11"
+  }
+}

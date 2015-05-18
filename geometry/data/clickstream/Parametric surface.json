@@ -1,0 +1,30 @@
+﻿{
+  "in": {
+    "Parameter space": "13",
+    "other-bing": "33",
+    "other-other": "33",
+    "other-empty": "111",
+    "Level set method": "18",
+    "other-wikipedia": "32",
+    "Curve": "22",
+    "Parametrization": "24",
+    "Bézier surface": "21",
+    "Vector-valued function": "15",
+    "Surface area": "19",
+    "other-yahoo": "14",
+    "Curvature": "77",
+    "other-google": "1054",
+    "Parametric equation": "21",
+    "Freeform surface modelling": "19",
+    "Parametric": "25"
+  },
+  "out": {
+    "Normal (geometry)": "35",
+    "Spline (mathematics)": "36",
+    "Implicit function": "27",
+    "First fundamental form": "10",
+    "Euclidean space": "14",
+    "Parametric equation": "40",
+    "Surface of revolution": "20"
+  }
+}

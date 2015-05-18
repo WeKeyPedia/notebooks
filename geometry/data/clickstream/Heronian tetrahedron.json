@@ -1,0 +1,10 @@
+﻿{
+  "in": {
+    "Heronian triangle": "15",
+    "117 (number)": "40"
+  },
+  "out": {
+    "Tetrahedron": "19",
+    "Euler brick": "12"
+  }
+}

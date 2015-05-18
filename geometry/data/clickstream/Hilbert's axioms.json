@@ -1,0 +1,34 @@
+﻿{
+  "in": {
+    "Foundations of geometry": "12",
+    "other-other": "32",
+    "Archimedean property": "15",
+    "Tarski's axioms": "11",
+    "David Hilbert": "214",
+    "Euclidean geometry": "76",
+    "other-bing": "13",
+    "Non-Euclidean geometry": "24",
+    "Compass-and-straightedge construction": "28",
+    "other-yahoo": "20",
+    "List of geometry topics": "16",
+    "other-google": "520",
+    "other-wikipedia": "66",
+    "List of axioms": "19",
+    "other-empty": "197",
+    "Taxicab geometry": "27"
+  },
+  "out": {
+    "Foundations of geometry": "47",
+    "Tarski's axioms": "72",
+    "Archimedean property": "15",
+    "David Hilbert": "27",
+    "Euclidean geometry": "15",
+    "Pasch's axiom": "15",
+    "Axiomatic system": "21",
+    "Birkhoff's axioms": "19",
+    "Euclidean space": "10",
+    "Primitive notion": "10",
+    "First-order logic": "10",
+    "Ternary relation": "11"
+  }
+}

@@ -1,0 +1,35 @@
+﻿{
+  "in": {
+    "Skew": "45",
+    "Special linear group": "21",
+    "other-google": "947",
+    "Shear": "60",
+    "other-other": "66",
+    "other-twitter": "26",
+    "Galilean transformation": "19",
+    "Transformation matrix": "307",
+    "Transvection": "22",
+    "Arnold's cat map": "15",
+    "Singular value decomposition": "35",
+    "other-bing": "13",
+    "Matrix (mathematics)": "42",
+    "Transformation (function)": "26",
+    "Poincaré group": "17",
+    "Square matrix": "24",
+    "Shear matrix": "124",
+    "other-wikipedia": "79",
+    "other-empty": "210",
+    "Squeeze mapping": "24",
+    "Elementary matrix": "20",
+    "Eigenvalues and eigenvectors": "236",
+    "SL2(R)": "11",
+    "Linear map": "54",
+    "Affine transformation": "201"
+  },
+  "out": {
+    "Scalable Vector Graphics": "14",
+    "Linear map": "27",
+    "Angle": "14",
+    "Rhombus": "13"
+  }
+}

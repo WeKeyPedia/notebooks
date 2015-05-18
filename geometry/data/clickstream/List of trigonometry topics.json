@@ -1,0 +1,26 @@
+﻿{
+  "in": {
+    "Lists of mathematics topics": "68",
+    "other-other": "19",
+    "other-bing": "16",
+    "other-google": "433",
+    "other-wikipedia": "39",
+    "other-empty": "24"
+  },
+  "out": {
+    "Altern base": "11",
+    "Euler's formula": "14",
+    "List of trigonometric identities": "14",
+    "Chebyshev polynomials": "12",
+    "Angular distance": "11",
+    "Thales' theorem": "10",
+    "Ptolemy's theorem": "12",
+    "Trigonometric tables": "10",
+    "Law of tangents": "11",
+    "Law of cosines": "10",
+    "Law of sines": "17",
+    "Angle": "17",
+    "Sine": "10",
+    "Trigonometric functions": "26"
+  }
+}

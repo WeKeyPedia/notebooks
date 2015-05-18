@@ -1,0 +1,27 @@
+﻿{
+  "in": {
+    "Ford circle": "14",
+    "Equal incircles theorem": "11",
+    "other-other": "30",
+    "Puzzle": "130",
+    "List of Japanese inventions": "20",
+    "other-yahoo": "12",
+    "Soddy's hexlet": "17",
+    "other-google": "283",
+    "other-wikipedia": "57",
+    "other-empty": "55",
+    "Seki Takakazu": "16",
+    "Japanese mathematics": "32",
+    "Japanese theorem for cyclic polygons": "23"
+  },
+  "out": {
+    "Recreational mathematics": "17",
+    "Ford circle": "28",
+    "Soddy's hexlet": "56",
+    "Japanese theorem for cyclic quadrilaterals": "11",
+    "Seki Takakazu": "16",
+    "Japanese mathematics": "21",
+    "Sarugaku": "10",
+    "Japanese theorem for cyclic polygons": "14"
+  }
+}

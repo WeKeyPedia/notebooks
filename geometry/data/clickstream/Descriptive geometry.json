@@ -1,0 +1,34 @@
+﻿{
+  "in": {
+    "Computational geometry": "12",
+    "other-bing": "31",
+    "other-other": "44",
+    "Graphical projection": "29",
+    "Cross section (geometry)": "50",
+    "Geometry": "41",
+    "Gaspard Monge": "76",
+    "Perspective (graphical)": "16",
+    "Marcel Grossmann": "13",
+    "Engineering drawing": "66",
+    "other-yahoo": "21",
+    "Solid geometry": "14",
+    "other-google": "740",
+    "other-wikipedia": "301",
+    "other-empty": "123",
+    "Pumapunku": "45",
+    "Projection plane": "10"
+  },
+  "out": {
+    "Axonometric projection": "41",
+    "Projective geometry": "47",
+    "Isometric projection": "13",
+    "Gaspard Monge": "39",
+    "Perspective (graphical)": "14",
+    "Engineering drawing": "17",
+    "Orthographic projection": "38",
+    "Graphical projection": "45",
+    "Technical drawing": "36",
+    "Projection (linear algebra)": "16",
+    "Predictive analytics": "14"
+  }
+}

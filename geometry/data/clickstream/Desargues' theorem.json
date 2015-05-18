@@ -1,0 +1,39 @@
+﻿{
+  "in": {
+    "Projective geometry": "46",
+    "Monge's theorem": "17",
+    "other-google": "366",
+    "other-empty": "101",
+    "Desargues configuration": "12",
+    "other-other": "43",
+    "other-twitter": "14",
+    "Duality (mathematics)": "53",
+    "Perspective (graphical)": "69",
+    "Pascal's theorem": "30",
+    "Pappus's hexagon theorem": "15",
+    "Homography": "10",
+    "Geometry": "162",
+    "Duality (projective geometry)": "10",
+    "other-wikipedia": "61",
+    "Triangle": "13",
+    "Projective space": "11",
+    "Projective harmonic conjugate": "12",
+    "Girard Desargues": "40",
+    "Projective plane": "66",
+    "Non-Desarguesian plane": "18",
+    "Moulton plane": "12"
+  },
+  "out": {
+    "Desargues configuration": "21",
+    "Girard Desargues": "37",
+    "Projective geometry": "15",
+    "Pappus's hexagon theorem": "54",
+    "Real projective plane": "10",
+    "Affine space": "12",
+    "Jean-Victor Poncelet": "12",
+    "Projective plane": "11",
+    "Two-dimensional space": "12",
+    "Non-Desarguesian plane": "32",
+    "Pascal's theorem": "35"
+  }
+}

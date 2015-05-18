@@ -1,0 +1,19 @@
+﻿{
+  "in": {
+    "Klann linkage": "46",
+    "other-other": "11",
+    "Kinematic chain": "12",
+    "Outline of machines": "11",
+    "Linkage (mechanical)": "76",
+    "Chebychev–Grübler–Kutzbach criterion": "10",
+    "other-google": "122",
+    "other-wikipedia": "38",
+    "other-empty": "26",
+    "Four-bar linkage": "57"
+  },
+  "out": {
+    "Linkage (mechanical)": "14",
+    "Klann linkage": "23",
+    "Four-bar linkage": "33"
+  }
+}

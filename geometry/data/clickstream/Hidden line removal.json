@@ -1,0 +1,19 @@
+﻿{
+  "out": {
+    "Hidden surface determination": "39",
+    "Pathology": "10",
+    "Wire-frame model": "10"
+  },
+  "in": {
+    "other-other": "24",
+    "Visibility (geometry)": "13",
+    "Wire-frame model": "37",
+    "other-google": "184",
+    "other-wikipedia": "21",
+    "Hidden surface determination": "26",
+    "other-empty": "51",
+    "David Braben": "58",
+    "Elite (video game)": "98",
+    "Back-face culling": "18"
+  }
+}

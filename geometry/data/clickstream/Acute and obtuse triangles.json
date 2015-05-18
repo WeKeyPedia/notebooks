@@ -1,0 +1,31 @@
+﻿{
+  "in": {
+    "other-other": "63",
+    "Triangle": "109",
+    "Acute and obtuse triangles": "22",
+    "Isosceles triangle": "56",
+    "Oblique": "125",
+    "other-bing": "210",
+    "List of two-dimensional geometric shapes": "35",
+    "Circumscribed circle": "12",
+    "List of triangle topics": "11",
+    "Shape": "12",
+    "other-yahoo": "131",
+    "other-google": "928",
+    "other-wikipedia": "70",
+    "Obtuse": "16",
+    "other-empty": "151",
+    "Angle": "15",
+    "Equilateral triangle": "11",
+    "Right triangle": "65",
+    "Main Page": "15"
+  },
+  "out": {
+    "Angle": "16",
+    "Isosceles triangle": "12",
+    "Acute and obtuse triangles": "22",
+    "Equilateral triangle": "16",
+    "Triangle": "33",
+    "Right triangle": "36"
+  }
+}

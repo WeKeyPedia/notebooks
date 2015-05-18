@@ -1,0 +1,23 @@
+﻿{
+  "in": {
+    "Projective geometry": "33",
+    "Collinearity": "10",
+    "other-other": "27",
+    "René Descartes": "55",
+    "other-wikipedia": "27",
+    "other-bing": "11",
+    "Pappus": "15",
+    "other-google": "243",
+    "other-empty": "48",
+    "Pappus of Alexandria": "82",
+    "Pascal's theorem": "14",
+    "Pappus's theorem": "33",
+    "Homography": "18",
+    "Desargues' theorem": "54"
+  },
+  "out": {
+    "Pappus of Alexandria": "26",
+    "Pascal's theorem": "21",
+    "Desargues' theorem": "15"
+  }
+}

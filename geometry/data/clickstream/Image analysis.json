@@ -1,0 +1,41 @@
+﻿{
+  "in": {
+    "other-other": "47",
+    "Froth flotation": "13",
+    "Computer vision": "48",
+    "Obia": "19",
+    "other-bing": "38",
+    "Cluster analysis": "48",
+    "Cell counting": "11",
+    "Pattern recognition": "26",
+    "Gabor filter": "10",
+    "other-yahoo": "24",
+    "other-google": "1765",
+    "other-wikipedia": "91",
+    "other-empty": "210",
+    "HSL and HSV": "36",
+    "Shape factor": "10",
+    "Hough transform": "11",
+    "Connected-component labeling": "19"
+  },
+  "out": {
+    "Video tracking": "26",
+    "Medical imaging": "47",
+    "Motion detection": "13",
+    "Digital image processing": "43",
+    "Image segmentation": "100",
+    "Machine vision": "15",
+    "Edge detection": "17",
+    "Remote sensing": "20",
+    "Artificial neural network": "20",
+    "Filter": "12",
+    "Facial recognition system": "13",
+    "Military": "10",
+    "3D pose estimation": "26",
+    "Optical flow": "30",
+    "Pattern recognition": "14",
+    "Automatic number plate recognition": "13",
+    "Outline of object recognition": "78",
+    "Microscope image processing": "22"
+  }
+}

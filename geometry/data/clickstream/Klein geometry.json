@@ -1,0 +1,16 @@
+﻿{
+  "in": {
+    "Symmetric space": "10",
+    "Erlangen program": "45",
+    "Conformal geometry": "16",
+    "Homogeneous space": "10",
+    "other-google": "111",
+    "other-empty": "35",
+    "List of geometry topics": "11",
+    "Moving frame": "16"
+  },
+  "out": {
+    "Erlangen program": "27",
+    "Homogeneous space": "13"
+  }
+}

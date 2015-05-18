@@ -1,0 +1,20 @@
+﻿{
+  "in": {
+    "other-other": "19",
+    "Jakob Steiner": "12",
+    "Pappus chain": "24",
+    "Porism": "17",
+    "Poncelet's closure theorem": "16",
+    "Soddy's hexlet": "23",
+    "other-google": "160",
+    "other-wikipedia": "18",
+    "other-empty": "59",
+    "Tangent circles": "12"
+  },
+  "out": {
+    "Poncelet's closure theorem": "24",
+    "Pappus chain": "13",
+    "Soddy's hexlet": "14",
+    "Jakob Steiner": "16"
+  }
+}

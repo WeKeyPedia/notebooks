@@ -1,0 +1,24 @@
+﻿{
+  "in": {
+    "Parabolic reflector": "19",
+    "United States invasion of Panama": "33",
+    "other-other": "86",
+    "Parabola": "49",
+    "other-bing": "34",
+    "Acoustic mirror": "95",
+    "other-yahoo": "34",
+    "other-google": "928",
+    "other-wikipedia": "31",
+    "other-empty": "94",
+    "Microphone": "176"
+  },
+  "out": {
+    "Angular resolution": "39",
+    "Parabolic reflector": "42",
+    "Acoustic mirror": "41",
+    "Eavesdropping": "26",
+    "Acoustic location": "32",
+    "Microphone": "247",
+    "Espionage": "10"
+  }
+}

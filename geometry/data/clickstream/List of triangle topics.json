@@ -1,0 +1,23 @@
+﻿{
+  "in": {
+    "Lists of shapes": "218",
+    "Triangle": "42",
+    "Encyclopedia of Triangle Centers": "22",
+    "Lists of mathematics topics": "33",
+    "List of two-dimensional geometric shapes": "21",
+    "Trigonometry": "61",
+    "other-google": "124",
+    "other-wikipedia": "27",
+    "other-empty": "22",
+    "Pythagorean theorem": "25"
+  },
+  "out": {
+    "Solution of triangles": "10",
+    "Triangle": "42",
+    "Black triangle": "13",
+    "Bermuda Triangle": "12",
+    "Bisection": "15",
+    "Acute and obtuse triangles": "11",
+    "Integer triangle": "11"
+  }
+}

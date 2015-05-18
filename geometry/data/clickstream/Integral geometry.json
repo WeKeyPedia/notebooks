@@ -1,0 +1,23 @@
+﻿{
+  "in": {
+    "other-other": "10",
+    "Geometric probability": "15",
+    "other-empty": "18",
+    "Buffon's needle": "36",
+    "List of geometry topics": "13",
+    "other-google": "155",
+    "other-wikipedia": "26",
+    "Differential geometry": "82",
+    "Radon transform": "22",
+    "Pompeiu problem": "15"
+  },
+  "out": {
+    "Stochastic geometry": "12",
+    "Crofton formula": "21",
+    "Hadwiger's theorem": "19",
+    "Buffon's needle": "13",
+    "Symmetry group": "11",
+    "Radon transform": "32",
+    "Erlangen program": "11"
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "in": {
+    "Bretschneider's formula": "11",
+    "other-other": "92",
+    "Heron's formula": "55",
+    "Area": "16",
+    "other-wikipedia": "102",
+    "other-bing": "72",
+    "List of two-dimensional geometric shapes": "29",
+    "Circumscribed circle": "52",
+    "Quadrilateral": "39",
+    "Brahmagupta's formula": "101",
+    "Isosceles trapezoid": "14",
+    "other-yahoo": "52",
+    "Inscribed angle": "13",
+    "Brahmagupta": "11",
+    "other-google": "1966",
+    "Ptolemy's theorem": "43",
+    "other-empty": "237",
+    "Circle": "23",
+    "Heronian triangle": "12"
+  },
+  "out": {
+    "Antiparallelogram": "45",
+    "Bretschneider's formula": "14",
+    "Semiperimeter": "10",
+    "Butterfly theorem": "40",
+    "Necessity and sufficiency": "16",
+    "Isosceles trapezoid": "12",
+    "Power of a point": "12",
+    "Concyclic points": "19",
+    "Ptolemy's theorem": "52",
+    "Robbins pentagon": "14",
+    "Quadrilateral": "30",
+    "Rhombus": "24",
+    "Bicentric quadrilateral": "10",
+    "Circumscribed circle": "42",
+    "Ptolemy's table of chords": "10",
+    "Concurrent lines": "20",
+    "Brahmagupta's formula": "45",
+    "Kite (geometry)": "15"
+  }
+}

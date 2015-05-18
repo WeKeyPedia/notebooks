@@ -1,0 +1,25 @@
+﻿{
+  "out": {
+    "Geometry": "14",
+    "Galois geometry": "50",
+    "Fano plane": "20"
+  },
+  "in": {
+    "Foundations of geometry": "11",
+    "Finite field": "12",
+    "Projective geometry": "16",
+    "other-other": "35",
+    "Geometry": "11",
+    "Algebraic combinatorics": "11",
+    "Combinatorics": "34",
+    "Projective plane": "16",
+    "List of geometry topics": "15",
+    "Fano plane": "17",
+    "other-google": "441",
+    "other-wikipedia": "30",
+    "other-empty": "99",
+    "Finite topological space": "11",
+    "Low-density parity-check code": "18",
+    "Discrete geometry": "12"
+  }
+}

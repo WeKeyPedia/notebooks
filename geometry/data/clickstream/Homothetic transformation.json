@@ -1,0 +1,31 @@
+﻿{
+  "in": {
+    "Scaling dimension": "11",
+    "other-other": "20",
+    "other-google": "811",
+    "Homothetic preferences": "590",
+    "Scaling (geometry)": "19",
+    "Möbius transformation": "46",
+    "Proportionality (mathematics)": "12",
+    "Conformal map": "17",
+    "Linear map": "30",
+    "Menelaus' theorem": "20",
+    "Diagonalizable matrix": "13",
+    "other-wikipedia": "249",
+    "other-empty": "123",
+    "Homothetic": "51",
+    "Conformal symmetry": "16",
+    "Space (mathematics)": "11",
+    "Dilation": "327",
+    "Affine transformation": "248"
+  },
+  "out": {
+    "Homothetic center": "30",
+    "Homothetic preferences": "59",
+    "Scaling (geometry)": "48",
+    "Affine space": "44",
+    "Transformation (function)": "17",
+    "Affine transformation": "18",
+    "Hadwiger conjecture (combinatorial geometry)": "13"
+  }
+}

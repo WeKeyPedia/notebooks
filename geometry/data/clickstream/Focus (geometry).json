@@ -1,0 +1,37 @@
+﻿{
+  "in": {
+    "Kepler's laws of planetary motion": "529",
+    "Focal point": "83",
+    "Bronchopneumonia": "35",
+    "other-google": "466",
+    "Parabola": "62",
+    "Semi-major axis": "62",
+    "Focus (optics)": "123",
+    "other-wikipedia": "63",
+    "other-bing": "19",
+    "Conic section": "67",
+    "Focus": "58",
+    "Confocal": "63",
+    "Locus (mathematics)": "12",
+    "Quadric": "20",
+    "Barycentric coordinates (astronomy)": "15",
+    "other-empty": "126",
+    "Circle": "36",
+    "Hyperbola": "23",
+    "Ellipse": "207",
+    "Orbit": "13"
+  },
+  "out": {
+    "Cassini oval": "29",
+    "Circles of Apollonius": "21",
+    "Parabola": "33",
+    "Barycentric coordinates (astronomy)": "10",
+    "Conic section": "43",
+    "Focus": "11",
+    "Cartesian oval": "22",
+    "Locus (mathematics)": "34",
+    "Circle": "11",
+    "Hyperbola": "26",
+    "Ellipse": "46"
+  }
+}

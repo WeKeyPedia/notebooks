@@ -1,0 +1,35 @@
+﻿{
+  "in": {
+    "Perimeter": "13",
+    "Circumference": "14",
+    "other-other": "103",
+    "Brunn–Minkowski theorem": "16",
+    "Sphericity": "18",
+    "other-twitter": "136",
+    "other-bing": "12",
+    "Indiana Pi Bill": "25",
+    "Main Page": "10",
+    "Sphere": "15",
+    "other-yahoo": "13",
+    "Calculus of variations": "48",
+    "other-google": "649",
+    "other-wikipedia": "103",
+    "Gaussian isoperimetric inequality": "14",
+    "other-empty": "175",
+    "Circle": "45",
+    "Dido (Queen of Carthage)": "105",
+    "Compactness measure of a shape": "38",
+    "Isoperimetric problem": "91"
+  },
+  "out": {
+    "Blaschke–Lebesgue theorem": "12",
+    "Minkowski content": "12",
+    "Brunn–Minkowski theorem": "16",
+    "Expander graph": "31",
+    "Chaplygin problem": "23",
+    "Gaussian isoperimetric inequality": "29",
+    "Isoperimetric dimension": "16",
+    "Dido (Queen of Carthage)": "17",
+    "Sobolev inequality": "12"
+  }
+}

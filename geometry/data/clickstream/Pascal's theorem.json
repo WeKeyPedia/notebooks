@@ -1,0 +1,34 @@
+﻿{
+  "in": {
+    "Projective geometry": "20",
+    "other-bing": "19",
+    "other-other": "56",
+    "Unicursal hexagram": "271",
+    "Braikenridge–Maclaurin theorem": "10",
+    "Pappus's hexagon theorem": "21",
+    "Conic section": "19",
+    "other-facebook": "15",
+    "Brianchon's theorem": "23",
+    "Blaise Pascal": "329",
+    "Pascal": "19",
+    "Thelema": "218",
+    "Hexagram": "56",
+    "other-google": "573",
+    "other-wikipedia": "70",
+    "other-empty": "190",
+    "Hexagon": "15",
+    "Pascal's law": "20",
+    "Desargues' theorem": "35"
+  },
+  "out": {
+    "Projective geometry": "14",
+    "Cayley–Bacharach theorem": "24",
+    "Pappus's hexagon theorem": "14",
+    "Conic section": "22",
+    "Brianchon's theorem": "48",
+    "Desargues' theorem": "30",
+    "Two-dimensional space": "17",
+    "Hexagon": "11",
+    "Menelaus' theorem": "13"
+  }
+}

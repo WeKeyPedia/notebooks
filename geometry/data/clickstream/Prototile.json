@@ -1,0 +1,17 @@
+﻿{
+  "in": {
+    "Conway criterion": "10",
+    "Tessellation": "11",
+    "Einstein problem": "36",
+    "List of unsolved problems in mathematics": "40",
+    "Penrose tiling": "74",
+    "other-google": "26",
+    "other-empty": "12"
+  },
+  "out": {
+    "Socolar–Taylor tile": "12",
+    "Einstein problem": "14",
+    "Aperiodic tiling": "12",
+    "Tessellation": "16"
+  }
+}

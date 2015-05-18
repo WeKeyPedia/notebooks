@@ -1,0 +1,16 @@
+﻿{
+  "in": {
+    "Steiner point (triangle)": "15",
+    "Encyclopedia of Triangle Centers": "22",
+    "Triangle center": "31",
+    "other-google": "97",
+    "other-wikipedia": "18",
+    "other-empty": "18",
+    "Circle": "13"
+  },
+  "out": {
+    "Ross Honsberger": "10",
+    "Incircle and excircles of a triangle": "11",
+    "Encyclopedia of Triangle Centers": "16"
+  }
+}

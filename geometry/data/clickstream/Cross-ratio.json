@@ -1,0 +1,24 @@
+﻿{
+  "in": {
+    "Projective geometry": "26",
+    "other-other": "71",
+    "other-bing": "16",
+    "Möbius transformation": "25",
+    "other-yahoo": "14",
+    "other-google": "1024",
+    "other-wikipedia": "73",
+    "other-empty": "281",
+    "Riemann sphere": "13",
+    "Homography": "16"
+  },
+  "out": {
+    "Collinearity": "10",
+    "Projective line": "10",
+    "Möbius transformation": "31",
+    "Linear fractional transformation": "16",
+    "Projective line over a ring": "11",
+    "Beltrami–Klein model": "10",
+    "Pappus of Alexandria": "10",
+    "Homography": "37"
+  }
+}

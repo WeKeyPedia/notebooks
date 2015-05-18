@@ -1,0 +1,31 @@
+﻿{
+  "in": {
+    "Hilbert's second problem": "20",
+    "other-other": "22",
+    "Wallace–Bolyai–Gerwien theorem": "15",
+    "Flexible polyhedron": "10",
+    "Cavalieri's principle": "16",
+    "Hilbert's twenty-fourth problem": "12",
+    "other-wikipedia": "34",
+    "Cone": "15",
+    "other-google": "186",
+    "Max Dehn": "20",
+    "other-empty": "99",
+    "Hilbert's problems": "1595"
+  },
+  "out": {
+    "Polyhedron": "54",
+    "Cavalieri's principle": "32",
+    "Hill tetrahedron": "55",
+    "Method of exhaustion": "15",
+    "Tetrahedron": "16",
+    "Hilbert's fourth problem": "15",
+    "Angle trisection": "23",
+    "Doubling the cube": "47",
+    "Wallace–Bolyai–Gerwien theorem": "94",
+    "Max Dehn": "41",
+    "Pyramid (geometry)": "10",
+    "Carl Friedrich Gauss": "10",
+    "Hilbert's problems": "20"
+  }
+}

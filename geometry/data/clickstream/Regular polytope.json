@@ -1,0 +1,36 @@
+﻿{
+  "in": {
+    "Regular 4-polytope": "25",
+    "Polytope": "50",
+    "other-google": "263",
+    "other-other": "42",
+    "Regular polyhedron": "19",
+    "List of regular polytopes and compounds": "18",
+    "Five-dimensional space": "18",
+    "Simplex": "81",
+    "Harold Scott MacDonald Coxeter": "18",
+    "other-wikipedia": "41",
+    "Coxeter group": "14",
+    "other-empty": "116",
+    "Tesseract": "73",
+    "Hypercube": "31",
+    "Platonic solid": "43"
+  },
+  "out": {
+    "Schläfli symbol": "10",
+    "Abstract polytope": "11",
+    "Polytope": "72",
+    "Petrie polygon": "15",
+    "120-cell": "16",
+    "5-cell": "15",
+    "List of regular polytopes and compounds": "61",
+    "8-cube": "19",
+    "Group action": "23",
+    "Cross-polytope": "15",
+    "Flag (geometry)": "32",
+    "Regular polyhedron": "13",
+    "Cubic honeycomb": "13",
+    "Hypercube": "16",
+    "Simplex": "18"
+  }
+}

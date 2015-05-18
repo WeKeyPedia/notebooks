@@ -1,0 +1,24 @@
+﻿{
+  "in": {
+    "Linear space (geometry)": "43",
+    "Incidence": "11",
+    "other-other": "14",
+    "Block design": "15",
+    "Euclidean geometry": "14",
+    "other-bing": "13",
+    "Synthetic geometry": "17",
+    "Line (geometry)": "17",
+    "other-yahoo": "10",
+    "Affine plane (incidence geometry)": "12",
+    "other-google": "255",
+    "other-wikipedia": "14",
+    "other-empty": "39"
+  },
+  "out": {
+    "Near polygon": "11",
+    "Incidence structure": "69",
+    "Möbius transformation": "14",
+    "Projective geometry": "10",
+    "Incidence (geometry)": "19"
+  }
+}

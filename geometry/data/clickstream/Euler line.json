@@ -1,0 +1,35 @@
+﻿{
+  "in": {
+    "Collinearity": "11",
+    "Triangle": "29",
+    "other-other": "41",
+    "Isosceles triangle": "15",
+    "other-bing": "40",
+    "Line (geometry)": "20",
+    "Altitude (triangle)": "16",
+    "other-yahoo": "35",
+    "Centroid": "60",
+    "other-google": "1154",
+    "other-wikipedia": "150",
+    "other-empty": "159",
+    "Incenter": "25"
+  },
+  "out": {
+    "Leonhard Euler": "31",
+    "Quadrilateral": "17",
+    "Central line (geometry)": "12",
+    "Altitude (triangle)": "74",
+    "Schiffler point": "17",
+    "Tetrahedron": "17",
+    "Circumscribed circle": "75",
+    "Gossard perspector": "14",
+    "Exeter point": "130",
+    "Centroid": "62",
+    "Nine-point center": "31",
+    "Equilateral triangle": "14",
+    "De Longchamps point": "28",
+    "Nine-point circle": "87",
+    "Trilinear coordinates": "14",
+    "Incenter": "14"
+  }
+}

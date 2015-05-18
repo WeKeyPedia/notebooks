@@ -1,0 +1,17 @@
+﻿{
+  "out": {
+    "Spherical trigonometry": "18",
+    "Hyperbolic triangle": "11"
+  },
+  "in": {
+    "Polyhedron": "11",
+    "other-other": "13",
+    "Hyperbolic geometry": "17",
+    "Gauss–Bonnet theorem": "29",
+    "Curvature": "13",
+    "other-google": "249",
+    "other-wikipedia": "16",
+    "other-empty": "53",
+    "Platonic solid": "11"
+  }
+}

@@ -1,0 +1,16 @@
+﻿{
+  "in": {
+    "other-other": "12",
+    "Quantum field theory in curved spacetime": "22",
+    "List of geometry topics": "14",
+    "other-google": "167",
+    "other-wikipedia": "19",
+    "other-empty": "35",
+    "Spin foam": "24",
+    "Quantum spacetime": "22"
+  },
+  "out": {
+    "Causal dynamical triangulation": "18",
+    "Noncommutative geometry": "26"
+  }
+}

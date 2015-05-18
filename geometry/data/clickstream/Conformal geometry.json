@@ -1,0 +1,33 @@
+﻿{
+  "in": {
+    "Conformal symmetry": "10",
+    "other-other": "16",
+    "Conformal equivalence": "11",
+    "General relativity": "24",
+    "Möbius transformation": "31",
+    "Conformal map": "64",
+    "N-sphere": "14",
+    "other-yahoo": "10",
+    "Conformal group": "21",
+    "Riemann surface": "39",
+    "other-google": "513",
+    "other-wikipedia": "32",
+    "other-empty": "82",
+    "Riemann sphere": "52",
+    "Conformal": "62",
+    "Weyl transformation": "18",
+    "Conformal cyclic cosmology": "27"
+  },
+  "out": {
+    "Conformal geometric algebra": "21",
+    "Conformal equivalence": "49",
+    "Möbius transformation": "13",
+    "Conformal map": "16",
+    "Klein geometry": "16",
+    "Riemann surface": "27",
+    "Conformal gravity": "29",
+    "Erlangen program": "16",
+    "Cotton tensor": "10",
+    "Conformal connection": "10"
+  }
+}

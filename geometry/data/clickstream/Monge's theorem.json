@@ -1,0 +1,17 @@
+﻿{
+  "in": {
+    "Tangent lines to circles": "17",
+    "other-other": "40",
+    "Gaspard Monge": "30",
+    "other-google": "159",
+    "other-wikipedia": "14",
+    "other-empty": "21"
+  },
+  "out": {
+    "Homothetic center": "11",
+    "Gaspard Monge": "17",
+    "Desargues' theorem": "17",
+    "Menelaus' theorem": "15",
+    "Problem of Apollonius": "14"
+  }
+}

@@ -1,0 +1,35 @@
+﻿{
+  "in": {
+    "Polyhedron": "60",
+    "Drop City": "29",
+    "Cube": "15",
+    "other-other": "17",
+    "Rhombic triacontahedron": "33",
+    "Rhombic dodecahedron": "37",
+    "Zome": "30",
+    "Truncated octahedron": "11",
+    "Truncated icosidodecahedron": "14",
+    "Minkowski addition": "14",
+    "Vector measure": "11",
+    "other-google": "120",
+    "other-wikipedia": "26",
+    "Truncated cuboctahedron": "24",
+    "other-empty": "87",
+    "Parallelepiped": "34",
+    "Hypercube": "37"
+  },
+  "out": {
+    "Point reflection": "18",
+    "Polytope": "10",
+    "Rhombic dodecahedron": "15",
+    "Chamfer (geometry)": "17",
+    "Truncated octahedron": "11",
+    "Runcinated 5-cell": "11",
+    "Truncated icosidodecahedron": "10",
+    "Minkowski addition": "20",
+    "Rhombic triacontahedron": "13",
+    "Permutohedron": "13",
+    "Hypercube": "13",
+    "Elongated dodecahedron": "26"
+  }
+}

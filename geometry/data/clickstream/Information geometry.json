@@ -1,0 +1,28 @@
+﻿{
+  "in": {
+    "Information": "10",
+    "Information theory": "20",
+    "other-other": "52",
+    "Partition function (mathematics)": "14",
+    "Fisher information": "71",
+    "Expectation–maximization algorithm": "24",
+    "Statistical manifold": "15",
+    "other-google": "597",
+    "other-wikipedia": "22",
+    "Differential geometry": "26",
+    "other-empty": "109",
+    "Entropy (information theory)": "34",
+    "CMA-ES": "13",
+    "Fisher information metric": "27",
+    "Damiano Brigo": "14"
+  },
+  "out": {
+    "Ruppeiner geometry": "36",
+    "Riemannian manifold": "27",
+    "Statistical manifold": "31",
+    "Shun'ichi Amari": "54",
+    "Differential geometry": "22",
+    "Statistical model": "11",
+    "Fisher information metric": "48"
+  }
+}

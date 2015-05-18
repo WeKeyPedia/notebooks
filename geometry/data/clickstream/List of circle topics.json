@@ -1,0 +1,19 @@
+﻿{
+  "in": {
+    "List of topics related to π": "15",
+    "Lists of shapes": "226",
+    "Lists of mathematics topics": "26",
+    "List of two-dimensional geometric shapes": "16",
+    "other-google": "78",
+    "other-wikipedia": "17",
+    "other-empty": "96",
+    "Circle": "100"
+  },
+  "out": {
+    "Circle": "13",
+    "Lune (mathematics)": "40",
+    "Ford circle": "16",
+    "Apollonian circles": "16",
+    "Pizza theorem": "11"
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "in": {
+    "Computational geometry": "25",
+    "Even–odd rule": "35",
+    "other-other": "1641",
+    "Polygon": "20",
+    "other-twitter": "23",
+    "List of algorithms": "15",
+    "other-wikipedia": "69",
+    "other-bing": "70",
+    "other-facebook": "10",
+    "other-yahoo": "24",
+    "other-google": "3303",
+    "Inside Outside": "16",
+    "other-empty": "547",
+    "Geo-fence": "41",
+    "Point location": "13",
+    "Simple polygon": "24",
+    "Hit-testing": "30"
+  },
+  "out": {
+    "Computational geometry": "15",
+    "Complex polygon": "56",
+    "Floating point": "21",
+    "Triangle": "23",
+    "Point location": "71",
+    "Even–odd rule": "205",
+    "Jordan curve theorem": "72",
+    "Parity (mathematics)": "13",
+    "Inverse trigonometric functions": "10",
+    "Winding number": "275",
+    "Line (geometry)": "16",
+    "Convex and concave polygons": "92",
+    "JTS Topology Suite": "50",
+    "Parametric equation": "11",
+    "Barycentric coordinate system": "43",
+    "Dot product": "47",
+    "Geometric query": "16",
+    "Star-shaped polygon": "24",
+    "Simple polygon": "75",
+    "Monotone polygon": "87"
+  }
+}

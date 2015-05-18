@@ -1,0 +1,32 @@
+﻿{
+  "in": {
+    "other-other": "174",
+    "137 (number)": "22",
+    "Fermat's spiral": "32",
+    "Patterns in nature": "13",
+    "other-bing": "32",
+    "other-yahoo": "18",
+    "Fibonacci number": "54",
+    "Phyllotaxis": "17",
+    "Golden ratio": "518",
+    "Golden spiral": "437",
+    "other-google": "858",
+    "other-wikipedia": "63",
+    "Helianthus annuus": "10",
+    "other-empty": "217",
+    "Main Page": "10"
+  },
+  "out": {
+    "Glossary of botanical terms": "15",
+    "Golden ratio base": "14",
+    "Metallic mean": "10",
+    "Caprona ransonnettii": "38",
+    "Golden triangle (mathematics)": "14",
+    "Phyllotaxis": "187",
+    "Fibonacci number": "17",
+    "Kepler triangle": "20",
+    "Golden ratio": "155",
+    "Helianthus": "26",
+    "Silver ratio": "11"
+  }
+}

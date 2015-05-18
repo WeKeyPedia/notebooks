@@ -1,0 +1,30 @@
+﻿{
+  "in": {
+    "Cyclic quadrilateral": "52",
+    "other-bing": "25",
+    "other-other": "98",
+    "Exact trigonometric constants": "14",
+    "Ptolemy": "124",
+    "List of trigonometric identities": "40",
+    "other-yahoo": "20",
+    "List of theorems": "18",
+    "Main Page": "29",
+    "Isosceles trapezoid": "30",
+    "Golden ratio": "115",
+    "List of trigonometry topics": "12",
+    "Quadrilateral": "11",
+    "other-google": "1871",
+    "other-wikipedia": "98",
+    "other-empty": "231",
+    "Pentagram": "31",
+    "Pythagorean theorem": "51"
+  },
+  "out": {
+    "Cyclic quadrilateral": "43",
+    "Ptolemy": "39",
+    "Casey's theorem": "86",
+    "Euclidean geometry": "14",
+    "Golden ratio": "37",
+    "Ptolemy's table of chords": "23"
+  }
+}

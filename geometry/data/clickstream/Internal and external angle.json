@@ -1,0 +1,27 @@
+﻿{
+  "in": {
+    "Regular polygon": "21",
+    "other-other": "45",
+    "Angle": "31",
+    "Polygon": "38",
+    "Transversal (geometry)": "15",
+    "other-bing": "53",
+    "other-wikipedia": "93",
+    "Exterior angle theorem": "14",
+    "Quadrilateral": "18",
+    "Convex and concave polygons": "21",
+    "other-yahoo": "36",
+    "other-google": "1040",
+    "other-empty": "141",
+    "Triangle": "34",
+    "Inner angle": "10",
+    "Pentagon": "19",
+    "Main Page": "10"
+  },
+  "out": {
+    "Interior (topology)": "31",
+    "Angle": "20",
+    "Polygon": "19",
+    "Mathematical induction": "12"
+  }
+}

@@ -1,0 +1,29 @@
+﻿{
+  "in": {
+    "Great-circle distance": "138",
+    "other-bing": "37",
+    "Angle": "22",
+    "other-other": "45",
+    "Haversine formula": "64",
+    "Tetrahedron": "10",
+    "Geographical distance": "14",
+    "other-yahoo": "30",
+    "Inscribed angle": "10",
+    "Circular sector": "19",
+    "Great-circle navigation": "10",
+    "other-google": "772",
+    "other-wikipedia": "64",
+    "other-empty": "64",
+    "Circle": "11",
+    "Subtended angle": "55",
+    "Arc (geometry)": "29"
+  },
+  "out": {
+    "Angle": "12",
+    "Inscribed angle": "58",
+    "Radian": "10",
+    "Arc (geometry)": "11",
+    "Subtended angle": "10",
+    "Great-circle navigation": "20"
+  }
+}

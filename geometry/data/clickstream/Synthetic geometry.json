@@ -1,0 +1,36 @@
+﻿{
+  "in": {
+    "Projective geometry": "18",
+    "other-other": "17",
+    "Jakob Steiner": "12",
+    "Polygon": "26",
+    "Coordinate-free": "15",
+    "other-empty": "50",
+    "Non-Euclidean geometry": "18",
+    "Thales' theorem": "57",
+    "List of geometry topics": "14",
+    "other-google": "210",
+    "other-wikipedia": "47",
+    "Homography": "14",
+    "Nine-point circle": "24",
+    "Euclidean geometry": "87",
+    "Analytic geometry": "396",
+    "Differential geometry of curves": "24"
+  },
+  "out": {
+    "Foundations of geometry": "61",
+    "British flag theorem": "19",
+    "Projective geometry": "31",
+    "Butterfly theorem": "21",
+    "Algebraic geometry": "15",
+    "Mathematical analysis": "12",
+    "Lambert quadrilateral": "16",
+    "Axiomatic system": "42",
+    "Euclidean geometry": "25",
+    "Incidence geometry": "17",
+    "Erlangen program": "10",
+    "Coordinate-free": "35",
+    "Analytic geometry": "11",
+    "Synthetic differential geometry": "27"
+  }
+}

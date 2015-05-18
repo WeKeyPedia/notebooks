@@ -1,0 +1,19 @@
+﻿{
+  "in": {
+    "Reeve tetrahedron": "10",
+    "other-other": "40",
+    "Square pyramidal number": "14",
+    "Eugène Ehrhart": "21",
+    "other-google": "163",
+    "other-wikipedia": "22",
+    "other-empty": "34",
+    "Pick's theorem": "42",
+    "Integer points in convex polyhedra": "15"
+  },
+  "out": {
+    "Eugène Ehrhart": "10",
+    "Pick's theorem": "26",
+    "Polytope": "12",
+    "Linear programming": "13"
+  }
+}

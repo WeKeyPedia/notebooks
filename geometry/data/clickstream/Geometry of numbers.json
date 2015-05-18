@@ -1,0 +1,24 @@
+﻿{
+  "in": {
+    "other-other": "25",
+    "Deformation theory": "10",
+    "Hermann Minkowski": "135",
+    "Number theory": "15",
+    "Additive number theory": "13",
+    "List of geometry topics": "13",
+    "Minkowski's theorem": "36",
+    "other-google": "182",
+    "other-wikipedia": "27",
+    "other-empty": "48",
+    "Discrete geometry": "12"
+  },
+  "out": {
+    "Diophantine approximation": "16",
+    "Convex body": "31",
+    "Subspace theorem": "13",
+    "Hermann Minkowski": "17",
+    "Minkowski's second theorem": "11",
+    "Minkowski's theorem": "27",
+    "Lattice (group)": "10"
+  }
+}

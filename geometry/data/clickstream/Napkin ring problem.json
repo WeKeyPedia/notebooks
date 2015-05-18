@@ -1,0 +1,15 @@
+﻿{
+  "in": {
+    "other-other": "42",
+    "Cavalieri's principle": "67",
+    "Sphere": "55",
+    "Seki Takakazu": "17",
+    "other-google": "320",
+    "other-wikipedia": "21",
+    "other-empty": "52"
+  },
+  "out": {
+    "Napkin ring": "10",
+    "Cavalieri's principle": "12"
+  }
+}

@@ -1,0 +1,31 @@
+﻿{
+  "in": {
+    "Homogeneous coordinates": "63",
+    "Projective geometry": "38",
+    "other-other": "11",
+    "Elliptic curve": "30",
+    "Division by zero": "13",
+    "other-empty": "68",
+    "Pole (complex analysis)": "21",
+    "Real projective line": "19",
+    "Complex plane": "15",
+    "Line at infinity": "29",
+    "Elliptic curve cryptography": "51",
+    "Directed infinity": "15",
+    "other-google": "312",
+    "other-wikipedia": "43",
+    "Infinity": "31",
+    "Riemann sphere": "48",
+    "Trigonometric functions": "15",
+    "Algebraic geometry": "11"
+  },
+  "out": {
+    "Division by zero": "48",
+    "Real projective line": "41",
+    "Affine plane (incidence geometry)": "11",
+    "Line at infinity": "23",
+    "Riemann sphere": "34",
+    "Projective space": "22",
+    "Extended real number line": "34"
+  }
+}

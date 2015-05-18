@@ -1,0 +1,22 @@
+﻿{
+  "in": {
+    "Special right triangles": "22",
+    "other-other": "15",
+    "Heron's formula": "38",
+    "Hero of Alexandria": "56",
+    "other-empty": "50",
+    "other-wikipedia": "28",
+    "other-google": "241",
+    "Equilateral triangle": "62",
+    "Triangle": "34",
+    "Integer triangle": "35",
+    "Pythagorean triple": "44"
+  },
+  "out": {
+    "Cyclic quadrilateral": "12",
+    "Integer triangle": "30",
+    "Hero of Alexandria": "13",
+    "Robbins pentagon": "10",
+    "Heronian tetrahedron": "15"
+  }
+}

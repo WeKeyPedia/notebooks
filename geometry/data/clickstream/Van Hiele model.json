@@ -1,0 +1,13 @@
+﻿{
+  "in": {
+    "other-other": "44",
+    "other-bing": "40",
+    "other-yahoo": "42",
+    "other-google": "958",
+    "other-wikipedia": "24",
+    "other-empty": "131"
+  },
+  "out": {
+    "Non-Euclidean geometry": "11"
+  }
+}

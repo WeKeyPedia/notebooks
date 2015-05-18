@@ -1,0 +1,23 @@
+﻿{
+  "in": {
+    "Legendre transformation": "22",
+    "Homogeneous coordinates": "16",
+    "Projective geometry": "26",
+    "Duality principle": "49",
+    "other-other": "24",
+    "Duality": "41",
+    "Inversive geometry": "18",
+    "other-google": "367",
+    "other-wikipedia": "21",
+    "other-empty": "54",
+    "Dual curve": "26",
+    "Dual space": "15"
+  },
+  "out": {
+    "Projective plane": "19",
+    "Incidence structure": "14",
+    "Desargues' theorem": "10",
+    "Menelaus' theorem": "10",
+    "Ceva's theorem": "11"
+  }
+}

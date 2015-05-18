@@ -1,0 +1,22 @@
+﻿{
+  "in": {
+    "Triangular prismatic honeycomb": "17",
+    "Honeycomb (geometry)": "19",
+    "Bitruncated cubic honeycomb": "25",
+    "Tessellation": "76",
+    "Face (geometry)": "12",
+    "other-other": "24",
+    "other-google": "46",
+    "other-wikipedia": "10",
+    "other-empty": "118",
+    "List of convex uniform tilings": "50",
+    "Truss": "68",
+    "28 (number)": "30"
+  },
+  "out": {
+    "Tetrahedral-octahedral honeycomb": "61",
+    "Cubic honeycomb": "61",
+    "Bitruncated cubic honeycomb": "18",
+    "Tessellation": "10"
+  }
+}

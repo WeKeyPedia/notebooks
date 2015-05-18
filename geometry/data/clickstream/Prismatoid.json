@@ -1,0 +1,31 @@
+﻿{
+  "in": {
+    "other-other": "26",
+    "Frustum": "29",
+    "Prism (geometry)": "85",
+    "Hexahedron": "16",
+    "Wedge (geometry)": "10",
+    "Antiprism": "66",
+    "Pyramid (geometry)": "90",
+    "Parallelepiped": "37",
+    "other-yahoo": "10",
+    "other-google": "285",
+    "other-wikipedia": "15",
+    "other-empty": "53"
+  },
+  "out": {
+    "Polyhedron": "26",
+    "Frustum": "32",
+    "Prism (geometry)": "33",
+    "Wedge (geometry)": "32",
+    "Antiprism": "22",
+    "Pyramid (geometry)": "11",
+    "Parallelepiped": "18",
+    "Prismatic uniform polyhedron": "32",
+    "Rhombohedron": "13",
+    "Trapezoid": "12",
+    "Trigonal trapezohedron": "15",
+    "Cupola (geometry)": "28",
+    "Simpson's rule": "10"
+  }
+}

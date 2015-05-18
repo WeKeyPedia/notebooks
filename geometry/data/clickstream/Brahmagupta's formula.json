@@ -1,0 +1,24 @@
+﻿{
+  "in": {
+    "Bretschneider's formula": "33",
+    "Cyclic quadrilateral": "45",
+    "other-other": "36",
+    "Heron's formula": "71",
+    "other-bing": "10",
+    "Quadrilateral": "12",
+    "Isosceles trapezoid": "11",
+    "other-yahoo": "22",
+    "Brahmagupta": "59",
+    "other-google": "737",
+    "other-wikipedia": "37",
+    "other-empty": "140",
+    "Brahmagupta theorem": "17"
+  },
+  "out": {
+    "Bretschneider's formula": "24",
+    "Cyclic quadrilateral": "101",
+    "Brahmagupta": "50",
+    "Law of cosines": "12",
+    "Heron's formula": "45"
+  }
+}

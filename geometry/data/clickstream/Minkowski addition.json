@@ -1,0 +1,33 @@
+﻿{
+  "in": {
+    "Mathematical morphology": "12",
+    "Motion planning": "26",
+    "Zonohedron": "20",
+    "other-other": "269",
+    "Sumset": "34",
+    "OpenSCAD": "38",
+    "Hermann Minkowski": "12",
+    "Convex set": "32",
+    "other-google": "1018",
+    "other-wikipedia": "83",
+    "other-empty": "192",
+    "Gilbert–Johnson–Keerthi distance algorithm": "51",
+    "Hypercube": "41",
+    "Convex hull": "38",
+    "Simple polygon": "12"
+  },
+  "out": {
+    "Mathematical morphology": "14",
+    "Motion planning": "10",
+    "Configuration space": "10",
+    "Convolution": "13",
+    "Metafont": "13",
+    "Hermann Minkowski": "46",
+    "Erosion (morphology)": "15",
+    "Convex hull": "29",
+    "Zonohedron": "14",
+    "Dilation (morphology)": "52",
+    "Mixed volume": "16",
+    "Solid sweep": "25"
+  }
+}

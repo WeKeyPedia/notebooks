@@ -1,0 +1,17 @@
+﻿{
+  "in": {
+    "Reflection (mathematics)": "100",
+    "Dihedral group": "19",
+    "Orthogonal group": "28",
+    "other-google": "604",
+    "other-empty": "44",
+    "Rotation (mathematics)": "94"
+  },
+  "out": {
+    "Rotation group SO(3)": "32",
+    "Reflection (mathematics)": "27",
+    "Orthogonal matrix": "10",
+    "Euclidean plane isometry": "24",
+    "Rotation (mathematics)": "11"
+  }
+}

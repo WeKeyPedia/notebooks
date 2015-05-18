@@ -1,0 +1,18 @@
+﻿{
+  "in": {
+    "other-other": "41",
+    "Quadratic function": "36",
+    "Conic section": "105",
+    "other-facebook": "23",
+    "Degenerate conic": "15",
+    "other-google": "346",
+    "other-wikipedia": "11",
+    "other-empty": "76",
+    "Ellipse": "25"
+  },
+  "out": {
+    "Homogeneous coordinates": "12",
+    "Conic section": "55",
+    "Ellipse": "11"
+  }
+}

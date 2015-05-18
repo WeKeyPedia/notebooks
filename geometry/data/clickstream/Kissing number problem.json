@@ -1,0 +1,36 @@
+﻿{
+  "in": {
+    "Power number": "37",
+    "6 (number)": "18",
+    "Geometric combinatorics": "11",
+    "Packing problems": "84",
+    "Combinatorics": "69",
+    "24 (number)": "34",
+    "other-wikipedia": "46",
+    "Tammes problem": "11",
+    "Newton number": "14",
+    "Linking number": "25",
+    "12 (number)": "20",
+    "Geometry": "12",
+    "Günter M. Ziegler": "10",
+    "Leech lattice": "45",
+    "other-google": "302",
+    "other-empty": "97",
+    "Eight-dimensional space": "79",
+    "other-other": "36",
+    "Sphere packing": "138",
+    "Close-packing of equal spheres": "13"
+  },
+  "out": {
+    "Spherical code": "27",
+    "Icosahedron": "13",
+    "Sphere packing": "40",
+    "Soddy's hexlet": "38",
+    "E8 lattice": "31",
+    "Equilateral dimension": "18",
+    "Lattice (group)": "15",
+    "Leech lattice": "50",
+    "16-cell honeycomb": "21",
+    "5-demicubic honeycomb": "10"
+  }
+}

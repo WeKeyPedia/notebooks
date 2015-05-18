@@ -1,0 +1,24 @@
+﻿{
+  "out": {
+    "Foundations of geometry": "11",
+    "Parallel postulate": "17",
+    "Hyperbolic geometry": "19",
+    "Saccheri–Legendre theorem": "14",
+    "Non-Euclidean geometry": "11",
+    "Ordered geometry": "18",
+    "Affine geometry": "18",
+    "János Bolyai": "16",
+    "Elliptic geometry": "19"
+  },
+  "in": {
+    "other-other": "12",
+    "Parallel postulate": "115",
+    "Saccheri–Legendre theorem": "11",
+    "Non-Euclidean geometry": "38",
+    "Exterior angle theorem": "15",
+    "List of geometry topics": "65",
+    "other-google": "202",
+    "other-wikipedia": "80",
+    "other-empty": "58"
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "in": {
+    "List of mathematical shapes": "17",
+    "other-other": "30",
+    "List of surfaces": "10",
+    "Cross-cap": "63",
+    "Real projective plane": "45",
+    "Surface": "33",
+    "Boy's surface": "86",
+    "Jakob Steiner": "23",
+    "other-wikipedia": "21",
+    "other-empty": "35",
+    "List of complex and algebraic surfaces": "13",
+    "Tetrahemihexahedron": "12",
+    "Orientability": "188",
+    "other-google": "89"
+  },
+  "out": {
+    "Real projective plane": "27",
+    "Veronese surface": "21",
+    "Immersion (mathematics)": "11",
+    "Boy's surface": "46",
+    "Jakob Steiner": "17",
+    "Tetrahemihexahedron": "38"
+  }
+}

@@ -1,0 +1,39 @@
+﻿{
+  "in": {
+    "Cross product": "14",
+    "other-bing": "18",
+    "other-other": "121",
+    "Epipole": "77",
+    "Poseidon drowning detection system": "10",
+    "3D reconstruction from multiple images": "19",
+    "other-wikipedia": "116",
+    "Computer stereo vision": "43",
+    "Triangulation (computer vision)": "22",
+    "Stereopsis": "10",
+    "Photogrammetry": "19",
+    "Structure from motion": "46",
+    "Image rectification": "43",
+    "other-google": "1455",
+    "Binocular disparity": "24",
+    "other-empty": "338",
+    "3D scanner": "10",
+    "Homography (computer vision)": "51",
+    "List of geometry topics": "15",
+    "Main Page": "10",
+    "Fundamental matrix (computer vision)": "188"
+  },
+  "out": {
+    "Stereopsis": "60",
+    "3D reconstruction from multiple images": "95",
+    "Perspective (graphical)": "26",
+    "3D scanner": "15",
+    "Image rectification": "40",
+    "Essential matrix": "40",
+    "Photogrammetry": "19",
+    "Triangulation (computer vision)": "29",
+    "3D reconstruction": "83",
+    "Binocular disparity": "29",
+    "Pinhole camera model": "73",
+    "Fundamental matrix (computer vision)": "52"
+  }
+}

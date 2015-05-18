@@ -1,0 +1,16 @@
+﻿{
+  "in": {
+    "Tessellation": "18",
+    "Mathematics and art": "35",
+    "Units of textile measurement": "15",
+    "other-google": "175",
+    "other-wikipedia": "18",
+    "Fiber art": "18",
+    "other-empty": "41"
+  },
+  "out": {
+    "Boy's surface": "11",
+    "Short draw": "10",
+    "Bargello (needlework)": "14"
+  }
+}

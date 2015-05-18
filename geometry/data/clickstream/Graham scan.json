@@ -1,0 +1,24 @@
+﻿{
+  "in": {
+    "other-other": "373",
+    "Convex hull algorithms": "525",
+    "other-twitter": "104",
+    "Gift wrapping algorithm": "64",
+    "other-facebook": "11",
+    "Ronald Graham": "20",
+    "other-google": "1161",
+    "other-wikipedia": "102",
+    "other-empty": "291",
+    "Graham": "10"
+  },
+  "out": {
+    "All nearest smaller values": "17",
+    "Ronald Graham": "44",
+    "Heapsort": "36",
+    "Cross product": "38",
+    "Robert Sedgewick (computer scientist)": "32",
+    "Sorting algorithm": "10",
+    "Convex hull": "108",
+    "Big O notation": "13"
+  }
+}

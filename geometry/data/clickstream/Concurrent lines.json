@@ -1,0 +1,19 @@
+﻿{
+  "in": {
+    "Cyclic quadrilateral": "20",
+    "other-other": "18",
+    "other-google": "875",
+    "Hough transform": "20",
+    "Ceva's theorem": "21",
+    "other-bing": "11",
+    "other-yahoo": "21",
+    "Concurrency": "20",
+    "other-wikipedia": "17",
+    "other-empty": "47",
+    "Lami's theorem": "17"
+  },
+  "out": {
+    "Altitude (triangle)": "16",
+    "Bisection": "18"
+  }
+}

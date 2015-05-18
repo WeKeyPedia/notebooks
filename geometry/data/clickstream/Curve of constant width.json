@@ -1,0 +1,31 @@
+﻿{
+  "in": {
+    "other-other": "63",
+    "Fifty pence (British coin)": "28",
+    "Manhole cover": "27",
+    "Franz Reuleaux": "12",
+    "other-twitter": "1556",
+    "Loonie": "27",
+    "Susan B. Anthony dollar": "12",
+    "Barbier's theorem": "13",
+    "Reuleaux triangle": "154",
+    "other-google": "496",
+    "other-wikipedia": "58",
+    "other-empty": "601",
+    "Circle": "12",
+    "Coins of the pound sterling": "11"
+  },
+  "out": {
+    "Bearing (mechanical)": "14",
+    "Fifty pence (British coin)": "145",
+    "Manhole cover": "27",
+    "Loonie": "91",
+    "Twenty pence (British coin)": "130",
+    "Barbier's theorem": "23",
+    "Brain teaser": "14",
+    "Surface of constant width": "12",
+    "Reuleaux triangle": "108",
+    "Reuleaux tetrahedron": "44",
+    "Mean width": "10"
+  }
+}

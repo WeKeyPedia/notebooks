@@ -1,0 +1,22 @@
+﻿{
+  "out": {
+    "Sophus Lie": "10",
+    "Taylor's theorem": "12",
+    "Jacobi identity": "14",
+    "Skew-symmetric matrix": "14",
+    "Rotation matrix": "21",
+    "Lie group": "22"
+  },
+  "in": {
+    "One-parameter group": "10",
+    "Axis–angle representation": "14",
+    "Partial differential equation": "10",
+    "Lie algebra": "142",
+    "Infinitesimal": "16",
+    "other-google": "134",
+    "other-wikipedia": "18",
+    "other-empty": "30",
+    "Transformation": "13",
+    "Continuous symmetry": "15"
+  }
+}

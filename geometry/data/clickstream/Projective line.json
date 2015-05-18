@@ -1,0 +1,21 @@
+﻿{
+  "out": {
+    "Homogeneous coordinates": "12",
+    "Riemann sphere": "25",
+    "Real projective line": "42",
+    "Projective space": "34"
+  },
+  "in": {
+    "Projective geometry": "45",
+    "Projective line over a ring": "10",
+    "other-other": "13",
+    "other-wikipedia": "58",
+    "Real projective line": "32",
+    "Cross-ratio": "10",
+    "other-google": "308",
+    "Line at infinity": "15",
+    "other-empty": "73",
+    "Riemann sphere": "31",
+    "Projective space": "32"
+  }
+}

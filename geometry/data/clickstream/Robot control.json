@@ -1,0 +1,26 @@
+﻿{
+  "in": {
+    "other-other": "13",
+    "Applications of artificial intelligence": "44",
+    "Forward kinematics": "27",
+    "Reinforcement learning": "11",
+    "Industrial robot": "22",
+    "Robot software": "26",
+    "Obstacle avoidance": "15",
+    "other-google": "317",
+    "other-wikipedia": "20",
+    "other-empty": "73",
+    "Cartesian coordinate robot": "10"
+  },
+  "out": {
+    "Motion planning": "40",
+    "Mobile robot navigation": "26",
+    "Robot": "20",
+    "Control theory": "114",
+    "Simultaneous localization and mapping": "17",
+    "Robot kinematics": "56",
+    "Robot learning": "22",
+    "Robot locomotion": "24",
+    "Visual servoing": "30"
+  }
+}

@@ -1,0 +1,36 @@
+﻿{
+  "in": {
+    "Computational geometry": "26",
+    "Digital geometry": "20",
+    "other-other": "15",
+    "Areas of mathematics": "23",
+    "Combinatorics": "35",
+    "other-wikipedia": "71",
+    "Discrete mathematics": "42",
+    "Guillotine problem": "13",
+    "List of unsolved problems in mathematics": "17",
+    "Geometry": "19",
+    "List of geometry topics": "25",
+    "other-google": "243",
+    "Mathematics": "14",
+    "other-empty": "135",
+    "Analytic geometry": "20"
+  },
+  "out": {
+    "Computational geometry": "10",
+    "Digital geometry": "12",
+    "Paul Erdős": "11",
+    "Finite geometry": "12",
+    "Topological combinatorics": "13",
+    "Toric variety": "10",
+    "Convex geometry": "10",
+    "Polyhedral combinatorics": "21",
+    "Geometric graph theory": "17",
+    "Discrete differential geometry": "27",
+    "Circle packing": "10",
+    "Geometry of numbers": "12",
+    "Discrete mathematics": "16",
+    "Discrete and Computational Geometry": "17",
+    "Pick's theorem": "10"
+  }
+}

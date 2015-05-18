@@ -1,0 +1,43 @@
+﻿{
+  "in": {
+    "Crystallographic point group": "92",
+    "Point groups in two dimensions": "15",
+    "Schoenflies notation": "20",
+    "Reflection symmetry": "18",
+    "Hermann–Mauguin notation": "14",
+    "Molecular symmetry": "63",
+    "other-other": "16",
+    "Sulfur dioxide": "25",
+    "Dihedral group": "28",
+    "Dicyclic group": "11",
+    "Quaternions and spatial rotation": "10",
+    "Propene": "10",
+    "Quaternion": "24",
+    "Symmetry group": "78",
+    "Rotational symmetry": "47",
+    "other-wikipedia": "54",
+    "Dihedral symmetry in three dimensions": "35",
+    "other-empty": "96",
+    "Point group": "162",
+    "ADE classification": "10",
+    "other-google": "475"
+  },
+  "out": {
+    "List of character tables for chemically important 3D point groups": "37",
+    "Point groups in two dimensions": "11",
+    "Icosahedral symmetry": "12",
+    "Dihedral symmetry in three dimensions": "13",
+    "Symmetry": "11",
+    "Euclidean group": "16",
+    "Point group": "27",
+    "Dihedral group": "11",
+    "Dicyclic group": "11",
+    "Improper rotation": "10",
+    "Schoenflies notation": "13",
+    "List of spherical symmetry groups": "34",
+    "Rotational symmetry": "10",
+    "Isometry group": "17",
+    "Octahedral symmetry": "13",
+    "Tetrahedral symmetry": "19"
+  }
+}

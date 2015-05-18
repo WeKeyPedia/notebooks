@@ -1,0 +1,42 @@
+﻿{
+  "in": {
+    "Polyhedron": "19",
+    "List of mathematical shapes": "26",
+    "other-other": "30",
+    "Close-packing of equal spheres": "28",
+    "Tessellation": "101",
+    "Cuboid": "11",
+    "Honeycomb (disambiguation)": "50",
+    "Rhombic dodecahedral honeycomb": "10",
+    "Tetrahedron": "12",
+    "Rhombohedron": "11",
+    "Tetrahedral-octahedral honeycomb": "14",
+    "other-google": "301",
+    "other-wikipedia": "78",
+    "Hexagonal lattice": "35",
+    "other-empty": "170",
+    "Cubic honeycomb": "31",
+    "Koenigsegg Agera": "11"
+  },
+  "out": {
+    "Triakis truncated tetrahedral honeycomb": "30",
+    "Tetrahedral-octahedral honeycomb": "12",
+    "Yoshimoto Cube": "16",
+    "Convex uniform honeycomb": "19",
+    "Bitruncated cubic honeycomb": "58",
+    "Close-packing of equal spheres": "12",
+    "Rhombic dodecahedral honeycomb": "73",
+    "Hill tetrahedron": "11",
+    "Hexahedron": "12",
+    "Hyperbolic space": "15",
+    "Weaire–Phelan structure": "31",
+    "List of regular polytopes and compounds": "64",
+    "Parallelepiped": "10",
+    "Tessellation": "23",
+    "Triangular prismatic honeycomb": "60",
+    "Honeycomb (disambiguation)": "14",
+    "List of convex uniform tilings": "45",
+    "Cubic honeycomb": "22",
+    "Elongated dodecahedron": "42"
+  }
+}

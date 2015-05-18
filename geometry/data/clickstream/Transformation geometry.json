@@ -1,0 +1,21 @@
+﻿{
+  "in": {
+    "other-other": "27",
+    "other-bing": "16",
+    "Transformation (function)": "26",
+    "other-yahoo": "10",
+    "List of geometry topics": "13",
+    "other-google": "634",
+    "other-wikipedia": "25",
+    "New Math": "17",
+    "other-empty": "42",
+    "Erlangen program": "10"
+  },
+  "out": {
+    "Geometric transformation": "22",
+    "Transformation matrix": "41",
+    "Chirality (mathematics)": "11",
+    "Motion (geometry)": "13",
+    "Euler's rotation theorem": "19"
+  }
+}

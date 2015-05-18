@@ -1,0 +1,18 @@
+﻿{
+  "in": {
+    "other-other": "20",
+    "Polygon": "11",
+    "Hilbert's third problem": "94",
+    "Banach–Tarski paradox": "14",
+    "Tarski's circle-squaring problem": "16",
+    "other-wikipedia": "23",
+    "other-empty": "42",
+    "other-google": "49",
+    "Farkas Bolyai": "10"
+  },
+  "out": {
+    "Hilbert's third problem": "15",
+    "Tarski's circle-squaring problem": "16",
+    "William Wallace (mathematician)": "12"
+  }
+}

@@ -1,0 +1,17 @@
+﻿{
+  "out": {
+    "Stellated octahedron": "12",
+    "Chirality (mathematics)": "11"
+  },
+  "in": {
+    "Polyhedron": "15",
+    "other-other": "10",
+    "other-google": "64",
+    "List of regular polytopes and compounds": "15",
+    "Compound of five cubes": "19",
+    "Stellated octahedron": "38",
+    "Compound of cube and octahedron": "10",
+    "other-wikipedia": "16",
+    "other-empty": "53"
+  }
+}

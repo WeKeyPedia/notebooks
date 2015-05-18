@@ -1,0 +1,26 @@
+﻿{
+  "in": {
+    "Central angle": "58",
+    "other-other": "69",
+    "Angle": "12",
+    "other-bing": "58",
+    "Thales' theorem": "136",
+    "other-yahoo": "43",
+    "other-google": "1293",
+    "other-wikipedia": "186",
+    "other-empty": "249",
+    "Circle": "57",
+    "Subtended angle": "39",
+    "Trigonometry": "14"
+  },
+  "out": {
+    "Cyclic quadrilateral": "13",
+    "Central angle": "10",
+    "Power of a point": "14",
+    "Tangent lines to circles": "21",
+    "Thales' theorem": "17",
+    "Chord (geometry)": "14",
+    "Secant line": "28",
+    "Subtended angle": "13"
+  }
+}

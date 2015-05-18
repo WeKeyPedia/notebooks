@@ -1,0 +1,18 @@
+﻿{
+  "in": {
+    "Vector space": "18",
+    "Tensor": "55",
+    "Coordinate system": "38",
+    "Background independence": "12",
+    "Synthetic geometry": "35",
+    "Tensor (intrinsic definition)": "22",
+    "other-google": "43",
+    "other-wikipedia": "11",
+    "other-empty": "23"
+  },
+  "out": {
+    "Tensor (intrinsic definition)": "14",
+    "General covariance": "25",
+    "Synthetic geometry": "15"
+  }
+}

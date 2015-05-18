@@ -1,0 +1,10 @@
+﻿{
+  "in": {
+    "other-empty": "12",
+    "other-google": "62",
+    "other-wikipedia": "16"
+  },
+  "out": {
+    "Dissection puzzle": "12"
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "in": {
+    "other-empty": "42",
+    "Altitude (triangle)": "53",
+    "Incircle and excircles of a triangle": "16",
+    "other-google": "87",
+    "other-wikipedia": "10"
+  },
+  "out": {
+    "Altitude (triangle)": "11"
+  }
+}

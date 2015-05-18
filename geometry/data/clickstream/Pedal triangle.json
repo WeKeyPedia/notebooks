@@ -1,0 +1,13 @@
+﻿{
+  "in": {
+    "other-other": "26",
+    "Altitude (triangle)": "12",
+    "other-google": "98",
+    "other-wikipedia": "11",
+    "other-empty": "16",
+    "Triangle": "33"
+  },
+  "out": {
+    "Altitude (triangle)": "11"
+  }
+}

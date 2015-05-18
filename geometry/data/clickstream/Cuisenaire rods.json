@@ -1,0 +1,27 @@
+﻿{
+  "in": {
+    "Fraction (mathematics)": "19",
+    "other-other": "137",
+    "other-google": "1841",
+    "Circle of fifths": "46",
+    "Lists of shapes": "44",
+    "other-twitter": "12",
+    "other-bing": "95",
+    "other-facebook": "26",
+    "other-yahoo": "65",
+    "Educational technology": "11",
+    "Cuisenaire rods": "29",
+    "Manipulative (mathematics)": "58",
+    "other-wikipedia": "72",
+    "other-empty": "208",
+    "Silent Way": "80",
+    "Divisor": "62"
+  },
+  "out": {
+    "Georges Cuisenaire": "28",
+    "Maria Montessori": "17",
+    "Silent Way": "70",
+    "Caleb Gattegno": "16",
+    "Cuisenaire rods": "29"
+  }
+}

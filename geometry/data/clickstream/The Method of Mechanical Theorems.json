@@ -1,0 +1,29 @@
+﻿{
+  "in": {
+    "Calculus": "47",
+    "Archimedes": "253",
+    "other-other": "45",
+    "other-google": "419",
+    "Non-standard calculus": "11",
+    "Mathematical analysis": "22",
+    "Infinitesimal": "31",
+    "List of geometry topics": "18",
+    "The Method": "17",
+    "other-wikipedia": "58",
+    "other-empty": "91",
+    "History of calculus": "35",
+    "Archimedes Palimpsest": "113",
+    "Method of exhaustion": "44",
+    "On the Sphere and Cylinder": "23"
+  },
+  "out": {
+    "Archimedes": "51",
+    "Cavalieri's principle": "50",
+    "Method of exhaustion": "25",
+    "Integral": "11",
+    "Infinitesimal": "18",
+    "Library of Alexandria": "14",
+    "Lever": "28",
+    "Archimedes Palimpsest": "49"
+  }
+}

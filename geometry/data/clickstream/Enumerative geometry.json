@@ -1,0 +1,20 @@
+﻿{
+  "in": {
+    "Mirror symmetry (string theory)": "24",
+    "T-duality": "11",
+    "Tropical geometry": "50",
+    "other-wikipedia": "10",
+    "Schubert calculus": "11",
+    "List of geometry topics": "10",
+    "other-google": "74",
+    "String theory": "18",
+    "other-empty": "23"
+  },
+  "out": {
+    "Intersection theory": "22",
+    "Bézout's theorem": "12",
+    "Schubert calculus": "14",
+    "Codimension": "10",
+    "Problem of Apollonius": "25"
+  }
+}

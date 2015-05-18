@@ -1,0 +1,33 @@
+﻿{
+  "in": {
+    "Acceleration": "107",
+    "Statics": "30",
+    "other-other": "87",
+    "other-google": "2491",
+    "Triangle inequality": "10",
+    "Polarization identity": "30",
+    "other-bing": "65",
+    "Parallelogram": "48",
+    "Quadrilateral": "15",
+    "Rhombus": "21",
+    "Hilbert space": "47",
+    "other-yahoo": "56",
+    "Directional statistics": "11",
+    "Apollonius' theorem": "31",
+    "other-wikipedia": "124",
+    "other-empty": "230",
+    "Resultant": "19",
+    "Inner product space": "142",
+    "Pythagorean theorem": "32"
+  },
+  "out": {
+    "Polarization identity": "76",
+    "Euclidean geometry": "12",
+    "Parallelogram": "19",
+    "Quadrilateral": "18",
+    "Pythagorean theorem": "26",
+    "Normed vector space": "29",
+    "Inner product space": "45",
+    "Commutative property": "18"
+  }
+}

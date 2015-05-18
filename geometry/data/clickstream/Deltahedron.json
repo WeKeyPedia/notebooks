@@ -1,0 +1,27 @@
+﻿{
+  "out": {
+    "Simplicial polytope": "10",
+    "Icosahedron": "20",
+    "Pentagonal bipyramid": "15",
+    "Triaugmented triangular prism": "11",
+    "Excavated dodecahedron": "11",
+    "Gyroelongated square bipyramid": "17",
+    "Snub disphenoid": "28",
+    "Toroidal polyhedron": "22",
+    "Trapezohedron": "19",
+    "Triangular bipyramid": "17"
+  },
+  "in": {
+    "Polyhedron": "39",
+    "other-google": "325",
+    "Polyhedral skeletal electron pair theory": "12",
+    "Trapezohedron": "20",
+    "Tetrahedron": "10",
+    "8 (number)": "19",
+    "Snub disphenoid": "13",
+    "other-wikipedia": "40",
+    "other-empty": "76",
+    "Toroidal polyhedron": "17",
+    "Platonic solid": "67"
+  }
+}

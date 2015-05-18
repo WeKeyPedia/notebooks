@@ -1,0 +1,26 @@
+﻿{
+  "in": {
+    "Special right triangles": "55",
+    "Triangle": "13",
+    "Lattice graph": "22",
+    "other-other": "31",
+    "other-bing": "16",
+    "Parametric equation": "16",
+    "List of two-dimensional geometric shapes": "18",
+    "Arithmetic progression": "22",
+    "List of triangle topics": "11",
+    "other-yahoo": "13",
+    "Heronian triangle": "30",
+    "Bisection": "10",
+    "other-google": "1193",
+    "other-wikipedia": "22",
+    "other-empty": "119",
+    "Pythagorean triple": "29"
+  },
+  "out": {
+    "Eisenstein triple": "10",
+    "Coprime integers": "12",
+    "Heronian triangle": "35",
+    "Pythagorean triple": "35"
+  }
+}

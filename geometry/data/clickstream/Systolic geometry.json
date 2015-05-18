@@ -1,0 +1,18 @@
+﻿{
+  "in": {
+    "other-other": "20",
+    "Girth (graph theory)": "17",
+    "W. T. Tutte": "11",
+    "Hyperbolic geometry": "24",
+    "Riemannian geometry": "16",
+    "Differential form": "10",
+    "other-google": "60",
+    "other-wikipedia": "13",
+    "other-empty": "29",
+    "Systole": "22",
+    "Eisenstein integer": "14"
+  },
+  "out": {
+    "Introduction to systolic geometry": "37"
+  }
+}

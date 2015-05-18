@@ -1,0 +1,27 @@
+﻿{
+  "in": {
+    "Map": "92",
+    "other-other": "20",
+    "List of computer graphics and descriptive geometry topics": "11",
+    "Molecule": "18",
+    "2D": "81",
+    "Trilateration": "14",
+    "Diagram": "82",
+    "Rendering (computer graphics)": "24",
+    "other-google": "285",
+    "other-wikipedia": "16",
+    "2D computer graphics": "40",
+    "other-empty": "51"
+  },
+  "out": {
+    "Computational geometry": "10",
+    "2D computer graphics": "14",
+    "Geometry": "38",
+    "Boundary representation": "14",
+    "Geometric modeling": "63",
+    "Digital image": "14",
+    "Two-dimensional graph": "10",
+    "Cartesian coordinate system": "10",
+    "Two-dimensional space": "43"
+  }
+}

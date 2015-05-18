@@ -1,0 +1,17 @@
+﻿{
+  "in": {
+    "Homogeneous coordinates": "15",
+    "Point at infinity": "23",
+    "Conic section": "23",
+    "Hyperplane at infinity": "10",
+    "other-google": "382",
+    "other-wikipedia": "11",
+    "other-empty": "179"
+  },
+  "out": {
+    "Real projective plane": "10",
+    "Point at infinity": "29",
+    "Projective line": "15",
+    "Plane at infinity": "12"
+  }
+}

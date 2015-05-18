@@ -1,0 +1,33 @@
+﻿{
+  "in": {
+    "Cyclic quadrilateral": "12",
+    "other-bing": "119",
+    "other-other": "160",
+    "Multiplexer": "26",
+    "other-wikipedia": "81",
+    "List of two-dimensional geometric shapes": "27",
+    "Circumscribed circle": "17",
+    "Quadrilateral": "88",
+    "other-yahoo": "106",
+    "Sir Eustace Tennyson d'Eyncourt, 1st Baronet": "14",
+    "other-google": "3307",
+    "other-empty": "245",
+    "Trapezoid": "192",
+    "List of polygons, polyhedra and polytopes": "21",
+    "Kite (geometry)": "29"
+  },
+  "out": {
+    "Antiparallelogram": "12",
+    "Cyclic quadrilateral": "14",
+    "Angle": "10",
+    "Rhombus": "11",
+    "Parallelogram": "23",
+    "Quadrilateral": "14",
+    "Brahmagupta's formula": "11",
+    "Convex and concave polygons": "12",
+    "Ptolemy's theorem": "30",
+    "Trapezoid": "103",
+    "Tangential trapezoid": "43",
+    "Kite (geometry)": "16"
+  }
+}

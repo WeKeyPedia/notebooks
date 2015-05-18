@@ -1,0 +1,28 @@
+﻿{
+  "in": {
+    "Frieze group": "26",
+    "Polyomino": "13",
+    "other-other": "20",
+    "Euclidean plane isometry": "24",
+    "Euclidean group": "15",
+    "other-bing": "23",
+    "Symmetry": "59",
+    "Zigzag": "17",
+    "other-yahoo": "26",
+    "Cartesian coordinate system": "11",
+    "Affine transformation": "15",
+    "other-google": "788",
+    "other-wikipedia": "33",
+    "Wallpaper group": "26",
+    "other-empty": "69",
+    "Glide plane": "39",
+    "Spriggina": "13",
+    "Screw axis": "10",
+    "Symmetry group": "15"
+  },
+  "out": {
+    "Isometry": "10",
+    "Glide plane": "14",
+    "Improper rotation": "13"
+  }
+}

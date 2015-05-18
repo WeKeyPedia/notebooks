@@ -1,0 +1,37 @@
+﻿{
+  "out": {
+    "Tessellation": "20",
+    "Aperiodic set of prototiles": "11",
+    "Nicolaas Govert de Bruijn": "12",
+    "Penrose tiling": "91",
+    "Girih tiles": "32",
+    "List of aperiodic sets of tiles": "96",
+    "Quasicrystal": "49",
+    "Tiling by regular polygons": "16",
+    "Translational symmetry": "27",
+    "Zellige": "27"
+  },
+  "in": {
+    "Anathem": "25",
+    "other-other": "50",
+    "other-google": "394",
+    "Archimedean solid": "22",
+    "Pinwheel tiling": "11",
+    "other-wikipedia": "23",
+    "Tessellation": "74",
+    "Aperiodic set of prototiles": "14",
+    "Wang tile": "45",
+    "List of unsolved problems in mathematics": "39",
+    "other-yahoo": "11",
+    "Penrose tiling": "35",
+    "Girih tiles": "52",
+    "Pentagon tiling": "40",
+    "List of aperiodic sets of tiles": "18",
+    "Wallpaper group": "22",
+    "other-empty": "119",
+    "Prototile": "12",
+    "Robert Berger (mathematician)": "10",
+    "Quasiperiodic tiling": "12",
+    "Quasicrystal": "55"
+  }
+}

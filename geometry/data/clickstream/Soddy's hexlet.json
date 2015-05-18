@@ -1,0 +1,18 @@
+﻿{
+  "in": {
+    "Sangaku": "56",
+    "Kissing number problem": "38",
+    "Inversive geometry": "32",
+    "Descartes' theorem": "36",
+    "other-google": "152",
+    "other-wikipedia": "22",
+    "other-empty": "25",
+    "Steiner chain": "14"
+  },
+  "out": {
+    "Sangaku": "17",
+    "Inversive geometry": "18",
+    "Steiner chain": "23",
+    "Descartes' theorem": "18"
+  }
+}

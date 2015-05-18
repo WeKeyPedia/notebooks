@@ -1,0 +1,15 @@
+﻿{
+  "in": {
+    "Elliptic curve": "33",
+    "Complex projective space": "46",
+    "Real projective line": "18",
+    "Complex affine space": "20",
+    "Projective plane": "37",
+    "other-google": "104",
+    "other-empty": "27"
+  },
+  "out": {
+    "Complex projective space": "35",
+    "Betti number": "11"
+  }
+}

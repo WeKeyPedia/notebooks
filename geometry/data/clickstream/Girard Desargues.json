@@ -1,0 +1,20 @@
+﻿{
+  "in": {
+    "Projective geometry": "22",
+    "other-other": "16",
+    "Architectural theory": "15",
+    "Perspective (graphical)": "24",
+    "Blaise Pascal": "29",
+    "Cycloid gear": "11",
+    "other-google": "178",
+    "other-wikipedia": "47",
+    "other-empty": "60",
+    "Desargues' theorem": "37",
+    "List of geometers": "10"
+  },
+  "out": {
+    "Projective geometry": "20",
+    "Desargues' theorem": "40",
+    "Desargues graph": "20"
+  }
+}

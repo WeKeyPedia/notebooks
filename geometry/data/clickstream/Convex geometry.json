@@ -1,0 +1,19 @@
+﻿{
+  "in": {
+    "other-other": "14",
+    "other-google": "163",
+    "Geometry": "11",
+    "other-wikipedia": "44",
+    "List of geometry topics": "19",
+    "Discrete geometry": "10",
+    "Convex combination": "25",
+    "Convex": "128",
+    "other-empty": "101",
+    "Carathéodory's theorem (convex hull)": "12"
+  },
+  "out": {
+    "List of convexity topics": "23",
+    "Convex analysis": "11",
+    "Convex set": "47"
+  }
+}

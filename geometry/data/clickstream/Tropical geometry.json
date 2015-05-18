@@ -1,0 +1,29 @@
+﻿{
+  "in": {
+    "other-other": "97",
+    "System of linear equations": "28",
+    "other-twitter": "113",
+    "Max-plus algebra": "34",
+    "Imre Simon": "22",
+    "Petersen graph": "35",
+    "other-yahoo": "11",
+    "List of geometry topics": "13",
+    "other-google": "761",
+    "other-wikipedia": "52",
+    "other-empty": "151",
+    "Piecewise linear function": "23",
+    "Semiring": "24",
+    "Main Page": "10"
+  },
+  "out": {
+    "Paul Klemperer": "20",
+    "Enumerative geometry": "50",
+    "Tropics": "10",
+    "Algebraic geometry": "22",
+    "Imre Simon": "49",
+    "Abel–Jacobi map": "21",
+    "Amoeba (mathematics)": "37",
+    "Max-plus algebra": "86",
+    "Semiring": "33"
+  }
+}

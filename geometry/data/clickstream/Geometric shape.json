@@ -1,0 +1,43 @@
+﻿{
+  "in": {
+    "Lists of shapes": "557",
+    "other-other": "175",
+    "Polygon": "41",
+    "other-bing": "40",
+    "Geometric Shapes": "57",
+    "List of two-dimensional geometric shapes": "15",
+    "other-yahoo": "36",
+    "Plane symmetry": "10",
+    "Shape": "12",
+    "List of geometry topics": "14",
+    "Cone": "44",
+    "other-google": "4349",
+    "other-wikipedia": "219",
+    "other-empty": "327",
+    "Main Page": "13",
+    "Euclidean space": "15"
+  },
+  "out": {
+    "Polyhedron": "54",
+    "Lists of shapes": "984",
+    "Triangle": "26",
+    "Polygon": "62",
+    "Ellipsoid": "25",
+    "Congruence (geometry)": "11",
+    "Convex polytope": "13",
+    "Mathematical object": "87",
+    "Tetrahedron": "46",
+    "Shape": "76",
+    "Pyramid (geometry)": "15",
+    "Square": "19",
+    "Geometry": "65",
+    "Vertex (geometry)": "11",
+    "Cube": "17",
+    "Sphere": "18",
+    "Geometric Shapes": "135",
+    "Main Page": "11",
+    "Circle": "13",
+    "Pentagon": "39",
+    "Ellipse": "30"
+  }
+}

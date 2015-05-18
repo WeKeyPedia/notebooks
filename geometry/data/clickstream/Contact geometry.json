@@ -1,0 +1,24 @@
+﻿{
+  "in": {
+    "Legendrian knot": "12",
+    "other-other": "53",
+    "Symplectic geometry": "33",
+    "Symplectic manifold": "21",
+    "Ordinary differential equation": "14",
+    "Knot theory": "23",
+    "other-wikipedia": "46",
+    "Canonical coordinates": "22",
+    "Reeb vector field": "14",
+    "other-google": "394",
+    "Change of variables": "11",
+    "Differential geometry": "21",
+    "other-empty": "149"
+  },
+  "out": {
+    "Floer homology": "14",
+    "Foliation": "10",
+    "Symplectic geometry": "14",
+    "Differential form": "10",
+    "Frobenius theorem (differential topology)": "23"
+  }
+}

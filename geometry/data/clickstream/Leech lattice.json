@@ -1,0 +1,33 @@
+﻿{
+  "in": {
+    "Unimodular lattice": "13",
+    "other-other": "14",
+    "Kissing number problem": "50",
+    "Packing problems": "15",
+    "Conway group": "22",
+    "John Horton Conway": "22",
+    "Binary Golay code": "47",
+    "N-sphere": "141",
+    "other-wikipedia": "32",
+    "other-google": "180",
+    "E8 lattice": "16",
+    "other-empty": "60",
+    "Sphere packing": "49",
+    "Main Page": "15",
+    "other-twitter": "35"
+  },
+  "out": {
+    "Unimodular lattice": "80",
+    "II25,1": "10",
+    "Kissing number problem": "45",
+    "Niemeier lattice": "12",
+    "Binary Golay code": "19",
+    "John Leech (mathematician)": "18",
+    "Euclidean space": "10",
+    "Monster vertex algebra": "18",
+    "E8 lattice": "34",
+    "Ernst Witt": "10",
+    "Sphere packing": "19",
+    "Monstrous moonshine": "15"
+  }
+}

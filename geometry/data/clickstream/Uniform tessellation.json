@@ -1,0 +1,13 @@
+﻿{
+  "in": {
+    "other-empty": "15",
+    "Uniform tiling": "27",
+    "other-google": "144",
+    "Tessellation": "51"
+  },
+  "out": {
+    "Uniform polyhedron": "12",
+    "List of convex uniform tilings": "11",
+    "Uniform tiling": "21"
+  }
+}

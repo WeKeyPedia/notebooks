@@ -1,0 +1,12 @@
+﻿{
+  "in": {
+    "other-empty": "19",
+    "Projective space": "10",
+    "Cross-ratio": "11",
+    "other-google": "28",
+    "other-wikipedia": "21"
+  },
+  "out": {
+    "Projective line": "10"
+  }
+}

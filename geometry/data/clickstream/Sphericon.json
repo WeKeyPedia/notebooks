@@ -1,0 +1,19 @@
+﻿{
+  "in": {
+    "Bicone": "21",
+    "Klein bottle": "141",
+    "List of mathematical shapes": "41",
+    "other-other": "18",
+    "Oloid": "35",
+    "other-twitter": "37",
+    "other-google": "60",
+    "other-wikipedia": "10",
+    "other-empty": "39"
+  },
+  "out": {
+    "Bicone": "13",
+    "Developable surface": "14",
+    "Oloid": "35",
+    "Maze": "12"
+  }
+}

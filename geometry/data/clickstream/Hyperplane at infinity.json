@@ -1,0 +1,10 @@
+﻿{
+  "out": {
+    "Line at infinity": "10"
+  },
+  "in": {
+    "other-empty": "16",
+    "Homography": "10",
+    "other-google": "34"
+  }
+}

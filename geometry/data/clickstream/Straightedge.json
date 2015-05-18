@@ -1,0 +1,32 @@
+﻿{
+  "in": {
+    "Set square": "13",
+    "Horseshoes": "14",
+    "Straight edge": "186",
+    "other-other": "42",
+    "Ruler": "33",
+    "other-bing": "32",
+    "other-empty": "107",
+    "Stonemasonry": "19",
+    "Compass-and-straightedge construction": "60",
+    "Chalk line": "11",
+    "other-yahoo": "23",
+    "Tim's Vermeer": "12",
+    "other-google": "728",
+    "other-wikipedia": "119",
+    "Surface plate": "18",
+    "Yardstick": "19",
+    "Technical drawing tools": "17",
+    "Angle trisection": "34"
+  },
+  "out": {
+    "Architect's scale": "19",
+    "Straight edge": "54",
+    "Ruler": "26",
+    "Geometrography": "15",
+    "Compass-and-straightedge construction": "46",
+    "Chalk line": "19",
+    "Laser line level": "20",
+    "Navigation": "11"
+  }
+}

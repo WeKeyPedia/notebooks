@@ -1,0 +1,14 @@
+﻿{
+  "in": {
+    "other-empty": "17",
+    "other-other": "17",
+    "other-google": "141",
+    "other-wikipedia": "30"
+  },
+  "out": {
+    "Hermite polynomials": "64",
+    "Hermite interpolation": "31",
+    "Cubic Hermite spline": "85",
+    "Spline (mathematics)": "15"
+  }
+}

@@ -1,0 +1,30 @@
+﻿{
+  "out": {
+    "Reeve tetrahedron": "58",
+    "Schwarz lemma": "42",
+    "Jordan curve theorem": "18",
+    "Ehrhart polynomial": "42",
+    "Integer points in convex polyhedra": "114",
+    "Simple polygon": "37",
+    "Georg Alexander Pick": "68"
+  },
+  "in": {
+    "Pick": "12",
+    "other-bing": "72",
+    "other-other": "244",
+    "Polygon": "12",
+    "other-empty": "294",
+    "other-wikipedia": "120",
+    "Main Page": "15",
+    "other-yahoo": "38",
+    "List of victims of Nazism": "12",
+    "Minkowski's theorem": "14",
+    "other-google": "1671",
+    "Lattice graph": "32",
+    "Triangle": "19",
+    "Ehrhart polynomial": "26",
+    "Integer points in convex polyhedra": "20",
+    "Discrete geometry": "10",
+    "Georg Alexander Pick": "20"
+  }
+}

@@ -1,0 +1,38 @@
+﻿{
+  "out": {
+    "Projective geometry": "20",
+    "Parallel postulate": "18",
+    "Affine group": "14",
+    "Playfair's axiom": "116",
+    "Affine space": "56",
+    "Non-Euclidean geometry": "22",
+    "Affine transformation": "45",
+    "Erlangen program": "23",
+    "Parallel (geometry)": "15"
+  },
+  "in": {
+    "Projective geometry": "28",
+    "Vector space": "58",
+    "Affine": "102",
+    "Line (geometry)": "24",
+    "other-google": "577",
+    "Affine hull": "84",
+    "other-other": "52",
+    "Absolute geometry": "18",
+    "Parallelepiped": "13",
+    "Erlangen program": "22",
+    "Parallel (geometry)": "13",
+    "Affine combination": "12",
+    "other-bing": "11",
+    "other-yahoo": "10",
+    "List of geometry topics": "29",
+    "Euclidean space": "20",
+    "other-wikipedia": "121",
+    "other-empty": "124",
+    "Playfair's axiom": "16",
+    "Affine space": "114",
+    "Non-Euclidean geometry": "180",
+    "Affine transformation": "155",
+    "Main Page": "12"
+  }
+}

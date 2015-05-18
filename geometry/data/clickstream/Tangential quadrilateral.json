@@ -1,0 +1,20 @@
+﻿{
+  "in": {
+    "other-other": "122",
+    "Incircle and excircles of a triangle": "28",
+    "Trapezoid": "23",
+    "other-bing": "10",
+    "List of two-dimensional geometric shapes": "40",
+    "Quadrilateral": "24",
+    "other-google": "403",
+    "other-wikipedia": "23",
+    "other-empty": "52",
+    "Circle": "15"
+  },
+  "out": {
+    "Bicentric quadrilateral": "10",
+    "Pitot theorem": "19",
+    "Circumscribed circle": "11",
+    "Ex-tangential quadrilateral": "14"
+  }
+}

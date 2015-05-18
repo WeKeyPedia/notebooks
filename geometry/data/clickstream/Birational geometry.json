@@ -1,0 +1,30 @@
+﻿{
+  "out": {
+    "Rational mapping": "24",
+    "Minimal model program": "13",
+    "Nef line bundle": "13",
+    "Algebraic variety": "15",
+    "Kodaira dimension": "20",
+    "Rational function": "17",
+    "Rational variety": "14",
+    "Blowing up": "24",
+    "Chow's lemma": "12",
+    "Algebraic geometry": "13"
+  },
+  "in": {
+    "Edwards curve": "16",
+    "Algebraic curve": "32",
+    "Minimal model program": "17",
+    "Cremona group": "10",
+    "Blowing up": "18",
+    "Twisted Edwards curve": "12",
+    "Rational variety": "13",
+    "EdDSA": "54",
+    "Resolution of singularities": "18",
+    "List of geometry topics": "19",
+    "Birational invariant": "10",
+    "other-google": "242",
+    "other-wikipedia": "27",
+    "other-empty": "63"
+  }
+}

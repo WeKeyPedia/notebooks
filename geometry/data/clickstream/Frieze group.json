@@ -1,0 +1,28 @@
+﻿{
+  "in": {
+    "Line group": "11",
+    "Frieze": "48",
+    "other-other": "29",
+    "Cyclic group": "38",
+    "other-bing": "13",
+    "Frieze (disambiguation)": "12",
+    "other-yahoo": "16",
+    "Symmetry group": "41",
+    "other-google": "442",
+    "other-wikipedia": "30",
+    "Wallpaper group": "102",
+    "other-empty": "143",
+    "Space group": "12",
+    "List of planar symmetry groups": "16"
+  },
+  "out": {
+    "Line group": "26",
+    "Infinite dihedral group": "14",
+    "Rod group": "17",
+    "International Union of Crystallography": "12",
+    "Wallpaper group": "38",
+    "Glide reflection": "26",
+    "Space group": "11",
+    "One-dimensional symmetry group": "22"
+  }
+}

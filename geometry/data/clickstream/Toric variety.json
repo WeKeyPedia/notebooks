@@ -1,0 +1,16 @@
+﻿{
+  "in": {
+    "other-other": "18",
+    "Toric manifold": "11",
+    "Torus": "14",
+    "other-google": "340",
+    "other-wikipedia": "10",
+    "Algebraic torus": "23",
+    "other-empty": "26",
+    "Discrete geometry": "10"
+  },
+  "out": {
+    "Algebraic torus": "41",
+    "Mirror symmetry (string theory)": "15"
+  }
+}

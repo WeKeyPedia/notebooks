@@ -1,0 +1,41 @@
+﻿{
+  "in": {
+    "Semicircle": "11",
+    "Tangent lines to circles": "26",
+    "Intercept theorem": "120",
+    "Inscribed angle": "17",
+    "other-google": "2968",
+    "Circle": "14",
+    "Right triangle": "24",
+    "other-other": "153",
+    "other-twitter": "11",
+    "History of mathematics": "13",
+    "Circumscribed circle": "18",
+    "Right angle": "21",
+    "Euclid's Elements": "36",
+    "Mathematician": "65",
+    "Thales": "584",
+    "Euclidean geometry": "96",
+    "other-bing": "63",
+    "other-yahoo": "47",
+    "other-wikipedia": "208",
+    "other-empty": "335",
+    "Divine Comedy": "16",
+    "Greek mathematics": "51",
+    "List of trigonometry topics": "10",
+    "Main Page": "10"
+  },
+  "out": {
+    "Euclid's Elements": "14",
+    "Intercept theorem": "88",
+    "Pythagoras": "25",
+    "Isosceles triangle": "40",
+    "Thales": "78",
+    "Q.E.D.": "41",
+    "Synthetic geometry": "57",
+    "Inscribed angle": "136",
+    "Right angle": "18",
+    "Euclid": "21",
+    "Pythagorean trigonometric identity": "10"
+  }
+}

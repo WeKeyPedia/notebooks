@@ -1,0 +1,39 @@
+﻿{
+  "in": {
+    "other-other": "71",
+    "Triangle": "38",
+    "Incircle and excircles of a triangle": "19",
+    "Encyclopedia of Triangle Centers": "15",
+    "Triangle center": "24",
+    "Euler line": "87",
+    "Euclidean geometry": "49",
+    "other-bing": "17",
+    "List of two-dimensional geometric shapes": "28",
+    "Circumscribed circle": "18",
+    "Main Page": "13",
+    "Altitude (triangle)": "12",
+    "other-yahoo": "19",
+    "Euler circle": "26",
+    "other-google": "857",
+    "other-wikipedia": "134",
+    "other-empty": "213",
+    "Circle": "24",
+    "Euler diagram": "34",
+    "Nine-point center": "10"
+  },
+  "out": {
+    "Poncelet point": "19",
+    "Altitude (triangle)": "40",
+    "Synthetic geometry": "24",
+    "Incircle and excircles of a triangle": "22",
+    "Triangle center": "12",
+    "Concyclic points": "14",
+    "Perpendicular": "10",
+    "Circumscribed circle": "15",
+    "Nine-point conic": "15",
+    "Karl Wilhelm Feuerbach": "18",
+    "Nine-point center": "27",
+    "Lester's theorem": "26",
+    "Feuerbach point": "10"
+  }
+}

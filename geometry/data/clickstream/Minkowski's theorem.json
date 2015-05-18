@@ -1,0 +1,26 @@
+﻿{
+  "in": {
+    "other-other": "25",
+    "Minkowski's bound": "24",
+    "Geometry of numbers": "27",
+    "Proofs of Fermat's theorem on sums of two squares": "14",
+    "other-google": "318",
+    "other-wikipedia": "33",
+    "Dirichlet's approximation theorem": "29",
+    "other-empty": "35",
+    "Fermat's theorem on sums of two squares": "15",
+    "Lattice (group)": "13",
+    "Integer points in convex polyhedra": "24"
+  },
+  "out": {
+    "Determinant": "12",
+    "Lattice (group)": "28",
+    "Hermann Minkowski": "12",
+    "Minkowski's bound": "15",
+    "Minkowski's second theorem": "71",
+    "Geometry of numbers": "36",
+    "Dirichlet's unit theorem": "18",
+    "Pick's theorem": "14",
+    "Lagrange's four-square theorem": "22"
+  }
+}

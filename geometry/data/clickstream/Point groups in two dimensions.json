@@ -1,0 +1,18 @@
+﻿{
+  "in": {
+    "Isometry group": "11",
+    "Point groups in three dimensions": "11",
+    "List of spherical symmetry groups": "14",
+    "other-google": "175",
+    "other-wikipedia": "16",
+    "other-empty": "24",
+    "Point group": "59"
+  },
+  "out": {
+    "Crystallographic restriction theorem": "13",
+    "Dihedral group": "14",
+    "Point group": "18",
+    "Symmetry group": "12",
+    "Point groups in three dimensions": "15"
+  }
+}

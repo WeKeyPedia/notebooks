@@ -1,0 +1,17 @@
+﻿{
+  "in": {
+    "Computational geometry": "40",
+    "other-other": "10",
+    "Shortest path problem": "65",
+    "Dijkstra's algorithm": "221",
+    "other-google": "159",
+    "other-wikipedia": "18",
+    "Visibility graph": "15",
+    "other-empty": "28"
+  },
+  "out": {
+    "Visibility graph": "10",
+    "Dijkstra's algorithm": "16",
+    "Shortest path problem": "37"
+  }
+}

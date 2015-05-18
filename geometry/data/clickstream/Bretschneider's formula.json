@@ -1,0 +1,20 @@
+﻿{
+  "in": {
+    "Cyclic quadrilateral": "14",
+    "other-other": "65",
+    "Heron's formula": "106",
+    "Carl Anton Bretschneider": "11",
+    "Quadrilateral": "45",
+    "Brahmagupta's formula": "24",
+    "other-google": "208",
+    "other-wikipedia": "14",
+    "other-empty": "28"
+  },
+  "out": {
+    "Karl Georg Christian von Staudt": "11",
+    "Cyclic quadrilateral": "11",
+    "Carl Anton Bretschneider": "21",
+    "Semiperimeter": "18",
+    "Brahmagupta's formula": "33"
+  }
+}

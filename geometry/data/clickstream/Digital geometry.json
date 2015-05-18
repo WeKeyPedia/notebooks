@@ -1,0 +1,22 @@
+﻿{
+  "in": {
+    "Computational geometry": "23",
+    "Geometric design": "19",
+    "3D modeling": "28",
+    "other-wikipedia": "21",
+    "Geometric modeling": "18",
+    "Outline of discrete mathematics": "12",
+    "Digital image": "15",
+    "3D computer graphics": "20",
+    "List of geometry topics": "11",
+    "other-google": "108",
+    "Digital topology": "15",
+    "other-empty": "26",
+    "Discrete geometry": "12"
+  },
+  "out": {
+    "Computational geometry": "11",
+    "Discrete geometry": "20",
+    "Digital topology": "15"
+  }
+}

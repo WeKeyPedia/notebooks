@@ -1,0 +1,42 @@
+﻿{
+  "in": {
+    "List of surfaces": "14",
+    "Hyperbolic geometry": "311",
+    "other-wikipedia": "50",
+    "List of mathematical shapes": "25",
+    "other-google": "273",
+    "other-other": "21",
+    "Shape of the universe": "20",
+    "Crochet": "28",
+    "Gaussian curvature": "25",
+    "Solid of revolution": "64",
+    "Hyperbolic space": "48",
+    "Dini's surface": "66",
+    "Sine-Gordon equation": "14",
+    "other-empty": "74",
+    "Metric expansion of space": "22",
+    "Gabriel's Horn": "184",
+    "Non-Euclidean geometry": "134",
+    "Sphere": "57",
+    "Eugenio Beltrami": "11",
+    "Mathematica: A World of Numbers... and Beyond": "12",
+    "Hyperbolic manifold": "15",
+    "Picard horn": "24",
+    "Poincaré disk model": "23",
+    "Tractrix": "35"
+  },
+  "out": {
+    "Surface of revolution": "15",
+    "Hyperboloid model": "26",
+    "Hyperbolic geometry": "11",
+    "Gabriel's Horn": "76",
+    "Minkowski space": "16",
+    "Dini's surface": "66",
+    "Sphere": "20",
+    "Hyperboloid structure": "14",
+    "Sine-Gordon equation": "29",
+    "Hyperboloid": "90",
+    "Gaussian curvature": "131",
+    "Tractrix": "82"
+  }
+}

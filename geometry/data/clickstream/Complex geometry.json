@@ -1,0 +1,23 @@
+﻿{
+  "in": {
+    "other-other": "10",
+    "Complex number": "102",
+    "Algebraic geometry": "11",
+    "Complex affine space": "13",
+    "List of geometry topics": "36",
+    "other-google": "191",
+    "other-wikipedia": "33",
+    "other-empty": "36",
+    "Several complex variables": "39",
+    "International Mathematical Olympiad": "92"
+  },
+  "out": {
+    "Bivector (complex)": "10",
+    "Complex analysis": "17",
+    "Complex manifold": "32",
+    "Complex analytic space": "11",
+    "List of complex and algebraic surfaces": "10",
+    "Several complex variables": "11",
+    "Bochner's formula": "11"
+  }
+}

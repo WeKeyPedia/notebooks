@@ -1,0 +1,17 @@
+﻿{
+  "in": {
+    "other-other": "29",
+    "Triangle": "19",
+    "Triangle inequality": "152",
+    "Inequality (mathematics)": "23",
+    "other-bing": "11",
+    "other-yahoo": "16",
+    "other-google": "128",
+    "other-wikipedia": "25",
+    "other-empty": "39"
+  },
+  "out": {
+    "List of inequalities": "12",
+    "Triangle inequality": "18"
+  }
+}
